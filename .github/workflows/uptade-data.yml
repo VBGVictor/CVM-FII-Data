@@ -29,7 +29,7 @@ jobs:
 
     - name: Rodar script
       run: |
-        python main.py
+        python app.py
 
     - name: Commit e push dos dados atualizados
       run: |
