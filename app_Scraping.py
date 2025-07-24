@@ -1,29 +1,25 @@
-import tkinter as tk
-from tkinter import filedialog
 from pathlib import Path
 import sys
 
-# Importa as funções principais dos outros scripts.
-# É crucial que os arquivos FII_Explorer.py e FII_Investing.py
-# estejam na mesma pasta e sejam ajustados para exportar estas funções.
+# Importações dos seus módulos
 from FII_Explorer import executar_scraping_fii_explorer
 from FII_Investing import executar_scraping_fii_investing
 from IPCAxCDI import executar_coleta_indicadores
 
-def selecionar_pasta_destino():
+
+def selecionar_pasta_destino(caminho_manual=None) -> Path:
     """
-    Abre uma janela para o usuário selecionar a pasta de destino
-    onde os arquivos de scraping serão salvos.
+    Retorna o caminho da pasta de destino.
+    Se um caminho for passado como argumento, usa ele. Caso contrário,
+    define uma pasta padrão (output/dados_scraping).
     """
-    root = tk.Tk()
-    root.withdraw()  # Oculta a janela principal do tkinter
-    caminho = filedialog.askdirectory(
-        title="Selecione a Pasta para Salvar os Arquivos de Scraping"
-    )
-    if not caminho:
-        print("❌ Nenhuma pasta selecionada. O programa será encerrado.")
-        sys.exit()
-    return Path(caminho)
+    if caminho_manual:
+        return Path(caminho_manual)
+    else:
+        caminho_padrao = Path("output/dados_scraping")
+        caminho_padrao.mkdir(parents=True, exist_ok=True)
+        return caminho_padrao
+
 
 def executar_web_scraping(pasta_destino: Path):
     """
@@ -58,11 +54,20 @@ def executar_web_scraping(pasta_destino: Path):
 
     print("--- Módulo 5 Concluído! ---\n")
 
+
 def main_standalone():
-    """Função para executar este script de forma autônoma para testes."""
+    """
+    Função para execução autônoma. Usa argumento de linha de comando
+    ou cria uma pasta padrão automaticamente.
+    """
     print("🚀 Iniciando o processo de Web Scraping (Execução Autônoma).")
-    pasta = selecionar_pasta_destino()
-    executar_web_scraping(pasta)
+
+    # Usa argumento de linha de comando ou caminho padrão
+    caminho = sys.argv[1] if len(sys.argv) > 1 else None
+    pasta_destino = selecionar_pasta_destino(caminho)
+
+    executar_web_scraping(pasta_destino)
+
 
 if __name__ == "__main__":
     main_standalone()

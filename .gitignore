@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Editor e sistema
+.DS_Store
+*.swp
+*.swo
+*.log
+
+# Virtualenv
+venv/
+.env/
+
+# Dados gerados (mantemos os .csv se quiser versionar, mas ignoramos temporários)
+output/**/*.tmp
+output/**/*.bak
+
+# Comentário: NÃO ignorar .csv se quiser que os dados fiquem no repositório
+# output/*.csv   ← remova o comentário se quiser ignorar os dados
