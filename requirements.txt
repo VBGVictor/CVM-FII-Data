@@ -1,0 +1,17 @@
+pandas
+requests
+beautifulsoup4
+lxml
+openpyxl
+tqdm
+datetime
+tkinter
+pathlib
+sync_playwright
+io
+sys
+os
+requests
+urljoin
+zipfile
+selenium
