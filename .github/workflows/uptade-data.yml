@@ -2,8 +2,8 @@ name: Atualizar dados FIIs
 
 on:
   schedule:
-    - cron: '0 3 * * *'    # Executa todos os dias às 03:00 UTC (00:00 Brasil)
-  workflow_dispatch:        # Permite executar manualmente também
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -20,19 +20,23 @@ jobs:
 
     - name: Instalar dependências
       run: |
-        pip install --upgrade pip
         pip install -r requirements.txt
+
+    - name: Instalar Playwright e baixar browsers
+      run: |
         pip install playwright
         playwright install --with-deps
 
-    - name: Executar script principal com pasta padrão
+    - name: Rodar script
       run: |
-        python app.py output/dados_projeto
+        python main.py
 
-    - name: Versionar e subir dados atualizados
+    - name: Commit e push dos dados atualizados
       run: |
         git config --global user.name 'github-actions'
         git config --global user.email 'github-actions@github.com'
         git add output/*.csv
-        git commit -m '📊 Atualização automática dos dados [GitHub Actions]'
+        git commit -m 'Atualização automática dos dados'
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
