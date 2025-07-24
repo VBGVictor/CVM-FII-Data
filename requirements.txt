@@ -4,8 +4,6 @@ beautifulsoup4
 lxml
 openpyxl
 tqdm
-datetime
-tkinter
 pathlib
 sync_playwright
 io
