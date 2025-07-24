@@ -4,12 +4,5 @@ beautifulsoup4
 lxml
 openpyxl
 tqdm
-pathlib
-sync_playwright
-io
-sys
-os
-requests
-urljoin
-zipfile
+playwright
 selenium

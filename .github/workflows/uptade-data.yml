@@ -2,8 +2,8 @@ name: Atualizar dados FIIs
 
 on:
   schedule:
-    - cron: '0 3 * * *'     # roda todos os dias às 03:00 UTC (00:00 no Brasil)
-  workflow_dispatch:         
+    - cron: '0 3 * * *'     # roda todos os dias às 03:00 UTC
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -22,9 +22,13 @@ jobs:
       run: |
         pip install -r requirements.txt
 
+    - name: Instalar navegadores do Playwright
+      run: |
+        playwright install --with-deps
+
     - name: Rodar script
       run: |
-        python app.py     
+        python app.py
 
     - name: Commit e push dos dados
       run: |
