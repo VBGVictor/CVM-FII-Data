@@ -6,3 +6,4 @@ openpyxl
 tqdm
 playwright
 selenium
+webdriver-manager
