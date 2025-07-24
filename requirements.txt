@@ -7,3 +7,4 @@ tqdm
 playwright
 selenium
 webdriver-manager
+yfinance
