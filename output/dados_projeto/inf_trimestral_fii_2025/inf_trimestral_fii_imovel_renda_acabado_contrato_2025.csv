@@ -219,7 +219,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 11.274.415/0001-70;2025-03-31;1;Imovel de Taguatinga;Não possui caracteristicas que destoem dos demais
 11.274.415/0001-70;2025-03-31;1;Imovel de Vitoria;Não possui caracteristicas que destoem dos demais
 11.274.415/0001-70;2025-03-31;1;Imovel de Joao Pessoa;Não possui caracteristicas que destoem dos demais
-11.281.322/0001-72;2025-03-31;1;-;-
+11.281.322/0001-72;2025-03-31;2;-;-
 11.326.746/0001-06;2025-03-31;1;Imóvel Sumaré  -  Rod. Anhanguera, Km 106, sentido Campinas / Interior - Sumaré - SP;Contrato de locação para fins não residenciais - correção anual por IGPM
 11.326.746/0001-06;2025-03-31;1;Imóvel Aricanduva - Rua Comendador Gil Pinheiro, 463 - Tatuapé - São Paulo - SP;Contrato de locação para fins não residenciais - correção anual por IGPM
 11.326.746/0001-06;2025-03-31;1;Imóvel SJC - Rod. Presidente Dutra, esquina com a Avenida Cassiano Ricardo - Sâo Jose dos Campos - SP;Contrato de locação para fins não residenciais - correção anual por IGPM
@@ -383,6 +383,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 16.671.412/0001-93;2025-03-31;1;Galpão Contagem;Contrato atípico, corrigido por IPCA.
 16.671.412/0001-93;2025-03-31;1;Galpão Guarulhos 2;Contratos típicos  (Correção IPCA e IGPM).
 16.671.412/0001-93;2025-03-31;1;Galpão Feira de Santana;Contrato atípico, corrigido por IPCA.
+16.671.412/0001-93;2025-06-30;1;One Park;Os contratos são típicos de 5 anos, atualizados anualmente pela variação positiva do IGP-M.
+16.671.412/0001-93;2025-06-30;1;Galpão Guarulhos;Contratos típicos e atípicos (Correção IPCA).
+16.671.412/0001-93;2025-06-30;1;Galpão Contagem;Contrato atípico, corrigido por IPCA.
+16.671.412/0001-93;2025-06-30;1;Galpão Guarulhos 2;Contratos típicos  (Correção IPCA e IGPM).
+16.671.412/0001-93;2025-06-30;1;Galpão Feira de Santana;Contrato atípico, corrigido por IPCA.
 16.685.929/0001-31;2025-03-31;1;IMOVEL I FAZENDA N. SR SOCORRO;Contrato de compra e venda
 16.685.929/0001-31;2025-03-31;1;IMOVEL II;Imovel adquirido em leilão
 16.802.320/0001-03;2025-03-31;1;Ed. The Corporate Macaé - 3.041,75 m²;Reajuste por IPCA, vencimento 31/08/2027, contrato típico.
@@ -707,6 +712,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 25.032.881/0001-53;2025-03-31;1;GARAVELO CENTER;Reajuste anual atrelado ao IPCA e prazo de duração de 60 meses contados a partir da entrega do imóvel (fev/2020).
 26.191.053/0001-20;2025-03-31;1;Não possui informação apresentada;Não possui informação apresentada
 26.452.053/0001-37;2025-03-31;1;.;.
+26.452.053/0001-37;2025-06-30;1;.;.
 26.499.833/0001-32;2025-03-31;1;Maceió Shopping;N/A
 26.499.833/0001-32;2025-03-31;1;Shopping Tacaruna;N/A
 26.499.833/0001-32;2025-03-31;1;Shopping Suzano;N/A
@@ -1732,6 +1738,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 53.391.653/0001-05;2025-03-31;1;JHA Corporate Boutique;Não possui caracteristicas que destoem dos demais.
 53.466.467/0001-98;2025-03-31;1;-;-
 53.654.501/0001-58;2025-03-31;1;.;.
+53.654.501/0001-58;2025-06-30;1;*;*
 53.656.482/0001-07;2025-03-31;2;BURITY;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 53.656.482/0001-07;2025-03-31;2;CID JARDIM;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 53.656.482/0001-07;2025-03-31;2;PAULISTA;Reajuste anual por indexador de inflação (IGPM ou IPC-A), aviso prévio e multa promocional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
@@ -1782,6 +1789,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 55.985.307/0001-80;2025-03-31;1;RESID HELBOR;Sem informação apresentada
 55.987.139/0001-62;2025-03-31;1;n/a;n/a
 56.008.757/0001-86;2025-03-31;1;.;.
+56.008.757/0001-86;2025-06-30;1;.;.
 56.028.598/0001-81;2025-03-31;1;SHOPPING ALEGRIA;Avenida Duque de Caxias 2225, Várzea Paulista/SP
 56.073.063/0001-22;2025-03-31;1;.;.
 56.303.820/0001-07;2025-03-31;1;ILHEUS;Sem informação apresentada - Validar gestor
@@ -1828,6 +1836,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 57.593.613/0001-05;2025-03-31;1;Fazenda Santa Paula - Bataguassu MS;Não possui caracteristicas que destoem dos demais
 57.593.613/0001-05;2025-03-31;1;Sao Jose dos Pinhais;Não possui caracteristicas que destoem dos demais
 57.811.221/0001-67;2025-03-31;1;.;.
+57.811.221/0001-67;2025-06-30;1;.;.
 58.054.129/0001-62;2025-03-31;1;.;.
 58.197.921/0001-76;2025-03-31;1;Shopping Alegria;CEP-13223-025
 58.263.012/0001-99;2025-03-31;1;NA;NA

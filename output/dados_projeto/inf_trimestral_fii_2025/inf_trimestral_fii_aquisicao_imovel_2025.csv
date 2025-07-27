@@ -1,4 +1,5 @@
 CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Categoria
+01.356.517/0001-80;2025-06-30;1;Prédio com terreno;Rua Latife Luvizaro, 133 (parte = 1/3);414;1;prédio com área de estacionamento na frente;0.005324;Renda
 08.706.065/0001-69;2025-03-31;1;Ibis São Paulo Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;6862.5;227;28/03/2025;0.072245;Renda
 08.706.065/0001-69;2025-03-31;1;Novotel Morumbi;Rua Ministro Nelson Hungria, 577, Morumbi, São Paulo/SP, Brasil, 05690-050;2005.37;2;28/03/2025;0.01384;Renda
 08.706.065/0001-69;2025-03-31;1;Ibis Budget Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;1491.2;31;28/03/2025;0.077402;Renda
@@ -6,6 +7,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 18.259.637/0001-62;2025-03-31;1;Condominio Edificio Summit Pinheiros;Rua Eugenio De Medeiros, 288, Sem Complemento, Pinheiros, São Paulo/SP, Brasil, 05425-000;1774.51;23;Direito de propriedade;0.41304757156934;Renda
 18.259.637/0001-62;2025-03-31;1;Centro Empresarial Mario Garnero;Avenida Brigadeiro Faria Lima, 1485, 8º Andar - Torre Sul, Pinheiros, São Paulo/SP, Brasil, 05426-100;1251.44;5;Direito de propriedade;0.35103359274276;Renda
 18.950.957/0001-64;2025-03-31;1;URUGUAIA;Av. Ministro Assis Brasil, 1053 - Joquei Clube, Uruguaiana - RS;22500;1;Nenhuma característica relevante;0.002727;Renda
+26.452.053/0001-37;2025-06-30;1;IMOVEL SÃO JOSÉ CAMPOS;RUA CORONEL JOSÉ MONTEIRO, 287- CENTRO- SÃO JOSÉ DOS CAMPOS - SP;1218;1;NA;0.0091;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_ARACAJU - GRUPO MATHEUS;Av. João Rodrigues, 592 - Industrial - Aracaju/SE;31524;1;n/a;0;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_ANANINDEUA- GRUPO MATHEUS;Av. Cláudio Saunders, Coqueiro, Ananindeua/PA;7601.92;1;n/a;0;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_CARUARU - GRUPO MATHEUS;Av. Portugal - Bairro Universitário - Caruaru/PE;32604;1;n/a;0;Renda
