@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Planilhas disponíveis</title>
+</head>
+<body>
+    <h1>Planilhas disponíveis</h1>
+    <ul>
+        {% for arquivo in arquivos %}
+        <li>
+            {{ arquivo }}
+            [<a href="{{ url_for('fii.visualizar_arquivo', nome_arquivo=arquivo) }}">Ver</a>] 
+            [<a href="{{ url_for('fii.baixar_arquivo', nome_arquivo=arquivo) }}">Download</a>]
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ nome_arquivo }}</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1>Planilha: {{ nome_arquivo }}</h1>
+    <p><a href="/dados?arquivo={{ nome_arquivo }}" target="_blank">🔗 Ver como JSON</a> |
+       <a href="/download/{{ nome_arquivo }}">⬇️ Baixar CSV</a></p>
+    <hr>
+    {{ tabela | safe }}
+    <hr>
+    <a href="/ver-dados">🔙 Voltar</a>
+</body>
+</html>

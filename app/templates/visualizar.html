@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <title>Planilhas disponíveis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 2rem;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        .arquivo {
+            margin-bottom: 1rem;
+            padding: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+        }
+        .arquivo h3 {
+            margin: 0;
+        }
+        .botoes {
+            margin-top: 0.5rem;
+        }
+        .botoes a {
+            margin-right: 1rem;
+            text-decoration: none;
+            background-color: #3498db;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 4px;
+        }
+        .botoes a:hover {
+            background-color: #2980b9;
+        }
+        .download-todos {
+            margin-top: 2rem;
+            padding: 1rem;
+            background-color: #2ecc71;
+            color: white;
+            text-align: center;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+        .download-todos:hover {
+            background-color: #27ae60;
+        }
+    </style>
+</head>
+<body>
+    <h1>Planilhas disponíveis</h1>
+
+    {% for nome in arquivos %}
+        <div class="arquivo">
+            <h3>{{ nome }}</h3>
+            <div class="botoes">
+                <a href="{{ url_for('fii.dados_dinamicos') }}?arquivo={{ nome }}" target="_blank">Ver JSON</a>
+            </div>
+        </div>
+    {% endfor %}
+
+    <div class="download-todos">
+        <a href="{{ url_for('fii.download_todos_csvs') }}" style="color: white;">📦 Baixar Todos (.zip)</a>
+    </div>
+</body>
+</html>

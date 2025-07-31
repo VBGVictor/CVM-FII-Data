@@ -1,6 +1,10 @@
 name: Atualizar dados FIIs
 
 on:
+  push:
+    paths:
+      - 'scriptsActions/**'
+      - 'output/*.csv'
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
