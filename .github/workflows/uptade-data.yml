@@ -33,7 +33,7 @@ jobs:
 
     - name: Rodar script
       run: |
-        python app.py
+        python scriptsActions/app.py
 
     - name: Commit e push dos dados atualizados
       run: |
