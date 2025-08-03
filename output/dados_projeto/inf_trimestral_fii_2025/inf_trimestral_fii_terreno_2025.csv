@@ -26,6 +26,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 01.235.622/0001-61;2025-03-31;1;R. Prudente de Morais, 589 - Ipanema - RJ;Prudente De Morais, 589;5266;0;0
 01.235.622/0001-61;2025-03-31;1;R. Tonelero, 61 - Copacabana - RJ;Rua Tonelero, 61;441.78;0;0
 01.633.741/0001-72;2025-03-31;1;Rua Julio Gonzales,  132;Fundo legítmo proprietário do imóvel conforme matrícula e contrato de compra e venda. Os imóveis não possuem ônus reais bem como qualquer garantia. Os imóveis não foram adquiridos em regime de condomínio. Não há prazo para construção de empreendimento, pois, as construções estão concluídas.;3490;1;0
+01.633.741/0001-72;2025-06-30;1;Rua Julio Gonzales,  132;Fundo legítmo proprietário do imóvel conforme matrícula e contrato de compra e venda. Os imóveis não possuem ônus reais bem como qualquer garantia. Os imóveis não foram adquiridos em regime de condomínio. Não há prazo para construção de empreendimento, pois, as construções estão concluídas.;3490;1;0
 05.437.916/0001-27;2025-03-31;1;Rodovia Anhanguera, s/n km 17,5;Fundo legítmo proprietário do imóvel conforme matrícula e contrato de compra e venda. Os imóveis não possuem ônus reais bem como qualquer garantia e não foram adquiridos em regime de condomínio. Todas as construções estão concluídas.;61543.5;0.717347;0
 05.437.916/0001-27;2025-03-31;1;Rua Sargento Aquino, 136;Fundo legítmo proprietário do imóvel conforme matrícula e contrato de compra e venda. Os imóveis não possuem ônus reais bem como qualquer garantia e não foram adquiridos em regime de condomínio. Todas as construções estão concluídas.;6172.5;0.078725;0
 05.437.916/0001-27;2025-03-31;1;Rua Comandante Vergueiro da Cruz, 206;Fundo legítmo proprietário do imóvel conforme matrícula e contrato de compra e venda. Os imóveis não possuem ônus reais bem como qualquer garantia e não foram adquiridos em regime de condomínio. Todas as construções estão concluídas.;6172.5;0.095311;0
@@ -74,6 +75,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 13.320.290/0001-00;2025-03-31;1;Avenida Francisco Roveri, S/n°, Sem Complemento, Parque Almerinda Pereira Chaves, Jundiaí/SP, Brasil, 13212-541;Direito de Propriedade;108556.75;0.5455725469372;0
 13.555.918/0001-49;2025-03-31;1;Rodovia Presidente Dutra, Km 192 - Queimados - RJ.;Possui acesso pela estrada Olegório maciel conectando-se a área urbana da cidade a 3 km do centro da cidade, assim como estação de trem da Supervia e toda a rede de comércio (bancos, supermercados e shoppings).;109619.53;0.76;0
 13.555.918/0001-49;2025-03-31;1;Rodovia Presidente Dutra, Km 189 e 190 - Queimados - RJ.;Queimados - RJ.Situado entre os municípios de nova iguaçu - RJ e Queimados próximo a entrada da cidade de Queimados;116446.84;0.24;1
+13.555.918/0001-49;2025-06-30;1;Rodovia Presidente Dutra, Km 192 - Queimados - RJ.;Possui acesso pela estrada Olegório maciel conectando-se a área urbana da cidade a 3 km do centro da cidade, assim como estação de trem da Supervia e toda a rede de comércio (bancos, supermercados e shoppings).;109619.53;0.76;0
+13.555.918/0001-49;2025-06-30;1;Rodovia Presidente Dutra, Km 189 e 190 - Queimados - RJ.;Queimados - RJ.Situado entre os municípios de nova iguaçu - RJ e Queimados próximo a entrada da cidade de Queimados;116446.84;0.24;1
 13.598.226/0001-88;2025-03-31;1;RODOVIA WALDOMIRO CORREA CAMARGO KM 63 - ITU - SP;ID 164 RODOVIA WALDOMIRO CORREA CAMARGO KM 63 - ITU - SP;164996.69;0.096826;0
 13.598.226/0001-88;2025-03-31;1;RODOVIA WALDOMIRO CORREA CAMARGO KM 63 - ITU - SP;ID 165 RODOVIA WALDOMIRO CORREA CAMARGO KM 63 - ITU - SP;810291.35;0.198556;0
 13.598.226/0001-88;2025-03-31;1;LUCAS N GARCEZ, 320;ID 197 MATRICULA 52.114;255.15;0.006011;0
@@ -98,6 +101,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 13.598.226/0001-88;2025-03-31;1;RUA BENTO QUIRINO, 727;ID 42 MATRICULA 13616;1280;0.014166;0
 13.598.226/0001-88;2025-03-31;1;RUA MANDU, 382;ID 86 MATRICULA 47492;720;0.013469;0
 14.074.706/0001-02;2025-03-31;1;Moutain View Residencial;Próximo a Rua dos Industriários, Cidade Nova Lima - MG;500000;0.686;0.686
+14.074.706/0001-02;2025-06-30;1;Moutain View Residencial;Próximo a Rua dos Industriários, Cidade Nova Lima - MG;500000;0.686;0.686
 14.217.108/0001-45;2025-03-31;1;R. D. Francisca, 8300 - Dist. Indl - Joinville -SC;Matricula;277714.5;0.194537;0
 14.217.108/0001-45;2025-03-31;1;R. Alemanha, nº 0 - Bairro Gloria Joinville - SC;Matricula;10635.13;0.058188;0
 14.217.108/0001-45;2025-03-31;1;R. Silva Jardim, nº 0 - Bairro Gloria-Joinville-SC;Matricula;33650;0.18411;0
@@ -134,6 +138,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 24.976.492/0001-13;2025-03-31;1;Av Ulysses reis de Mattos, Av Duquesa de Goias e Av Magalhães de Castro;Terrenos para construção de Shopping;160000;1;1
 24.976.492/0001-13;2025-06-30;1;Av Ulysses reis de Mattos, Av Duquesa de Goias e Av Magalhães de Castro;Terrenos para construção de Shopping;160000;1;1
 26.269.251/0001-60;2025-03-31;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
+26.269.251/0001-60;2025-06-30;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
 26.452.053/0001-37;2025-03-31;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
 26.452.053/0001-37;2025-06-30;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
 27.368.617/0001-10;2025-03-31;1;Coordenadas UTM N=7.803.827,02 - E=598.794,65, localizado junto à margem esquerda da Av. das Comtendas, CEP 32184-010 - Contagem-MG;Matrícula nº 155.707. Fazendo Boa Vista. Fundo é proprietário de 100% do terreno, sem ônus.;210442.43;0.995217;0
@@ -329,6 +334,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.585.121/0001-18;2025-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;matrícula de n.º 162578 - terreno;1871.58;0.3608;0
 44.585.121/0001-18;2025-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;matrícula de n.º 162579 - predio;954.07;0.3165;0
 44.585.121/0001-18;2025-03-31;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.3226;0
+44.585.121/0001-18;2025-06-30;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.5125;0
 44.669.674/0001-59;2025-03-31;1;118984_237 - Avenida Henrique Gonçalves Batista, 237 - Jardim Belval;Matrícula: 118.984 . Oficial de Registro de Imóveis de Barueri/SP;2444.75;0.0414904879509462;0
 44.669.674/0001-59;2025-03-31;1;CAJAMAR (SP), Rodovia Anhanguera - BR - 050 - Guatorinho - Cajamar-SP - 07750-000;Matrícula 110.584;305132.63;0.373343651189475;0
 44.669.674/0001-59;2025-03-31;1;CASTELO_BRAN, Rua do Córrego, S/N - Cururuquara - Santana de Parnaíba-SP - 06524-110;Matrícula 2.058;121000;0.16702215974266;0
@@ -382,6 +388,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 45.718.511/0001-81;2025-03-31;1;Palmeirante - TO;Bloco 36 - Bonanza;1793.04;1;-0.0088
 45.718.511/0001-81;2025-03-31;1;Barra do Ouro - TO;Bloco 42 - Lote 33;279.94;1;-0.0109
 47.102.860/0001-08;2025-03-31;1;Rodovia Norte Sul, N 243 (Serra - ES);PROJETO HOSPITAL (Matricula 104.848) - Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;0
+47.669.336/0001-05;2025-06-30;1;FAZENDA BARRA DO RIBEIRO;MATRICULA 4837;2666.66;0.2227;0
 48.904.259/0001-93;2025-03-31;1;Rua José Sarraceni, 88;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.389;910;0.0726;0
 48.904.259/0001-93;2025-03-31;1;Rua José Sarraceni, 46;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.390;1232;0.0983;0
 48.904.259/0001-93;2025-03-31;1;Av. C.F. Endres, S/N;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.079;99.06;0.0079;0
@@ -413,6 +420,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 51.303.221/0001-70;2025-03-31;1;Rodovia Estadual MT-240, Zona Rural, Água Boa/MT, CEP: 78635-000;matrícula do RGI 7.060 do Ofício de Água Boa MT  - AGUA BOA;1120.4;0.5379;0
 51.303.221/0001-70;2025-03-31;1;Av. Gisele, s/n, Lote 52 - Aleixo, Distrito II, Manaus/AM, CEP: 69075-793;matrícula do RGI 47.322 do 4º Ofício de Manaus/AM - MANAUS;5850;0.2512;0
 51.303.221/0001-70;2025-03-31;1;R. Green 05, S/N Lote 08, Quadra 06  - Green Park Condomínio Residencial, Rio Verde/GO, CEP: 75909-620;matrícula do RGI 80.249 do Ofício de Rio Verde/GO - RIO VERDE;482.7;0.2109;0
+51.303.221/0001-70;2025-06-30;1;Rodovia Estadual MT-240, Zona Rural, Água Boa/MT, CEP: 78635-000;matrícula do RGI 7.060 do Ofício de Água Boa MT  - AGUA BOA;1120.4;0.5379;0
+51.303.221/0001-70;2025-06-30;1;Av. Gisele, s/n, Lote 52 - Aleixo, Distrito II, Manaus/AM, CEP: 69075-793;matrícula do RGI 47.322 do 4º Ofício de Manaus/AM - MANAUS;5850;0.2512;0
+51.303.221/0001-70;2025-06-30;1;R. Green 05, S/N Lote 08, Quadra 06  - Green Park Condomínio Residencial, Rio Verde/GO, CEP: 75909-620;matrícula do RGI 80.249 do Ofício de Rio Verde/GO - RIO VERDE;482.7;0.2109;0
 51.407.683/0001-37;2025-03-31;1;Area de terras situada em Ribeirão Preto, denominada (Área de Preservação Permanente APP -6);.;0;0.0644;0.064117
 51.407.683/0001-37;2025-03-31;1;Area de terras situada em Ribeirão Preto, com frente para Via José Luiz Galvão, lado par, distante 879,22 metros da cerca da Rodovia Alexandre Balbo no trevo do Km 329;.;0;0.90431;0.90111
 51.472.985/0001-99;2025-03-31;1;R. Sete de Setembro, n° 1213 , Centro - 89010-911, Blumenau - SC,;Neumarkt Shopping;30436.24;0.062;0.130326
@@ -469,6 +479,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 54.417.489/0001-20;2025-03-31;1;FAZENDA ISABELA;Matrícula n. 16.191;429462;1;0
 54.417.489/0001-20;2025-03-31;1;FAZENDA BONANZA;Matrícula n. 7.381;484000;1;0
 54.417.489/0001-20;2025-03-31;1;FAZENDA SERVPLAN;Matrícula nº n°20.495;9962.64;1;0
+54.419.040/0001-00;2025-06-30;1;BENTO ABREU;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;1226.49;0.102;0
 54.675.539/0001-70;2025-03-31;1;Bairro Chave do Barão, Município e Comarca do Rio das Pedras, 2ª Circunscrição Imobiliária de Piracicaba/SP;Gleba de Terras, que faz  parte da Fazenda Estrela;79892.56;0;0
 55.034.258/0001-09;2025-03-31;1;MARCHIONI - Avenida São Gabriel, 201 - Cj 101;Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;1609;0.300083;1
 55.089.373/0001-72;2025-03-31;1;Rua 1128, 827, - Itajuba. CEP: 88390000. Barra Velha - Santa Cat;Registro de Imóveis da Comarca de Barra Velha - SC - Matricula 40446;12829.51;1;0
@@ -483,6 +494,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 57.965.466/0001-49;2025-03-31;1;Al. dos Maracatins, 857 - São Paulo, SP 04089-012;N/A;1665;0.760593;0
 57.965.466/0001-49;2025-03-31;1;Al. dos Maracatins, 847 - São Paulo, SP 04089-012;N/A;300;0.173258;0
 58.019.792/0001-26;2025-03-31;1;Av. José Pereira Liberato -;Av. José Pereira Liberato - MATRÍCULA 31.579;0;0;0
+58.019.792/0001-26;2025-06-30;1;Av. José Pereira Liberato;MATRÍCULA 31.579;0;0;0
 59.890.241/0001-04;2025-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;0;1
 59.891.323/0001-65;2025-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;0;1
 59.891.409/0001-98;2025-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;0;1
