@@ -1,28 +1,47 @@
-# Scrapping_FII_CVM - Análise de Dados
+# CVM-FII-Data - Análise de Dados
 
 ## 📝 Descrição do Projeto
 
-Este repositório contém a análise de dados desenvolvida para o a extração, modelagem e geração de csv's com o objetivo de atingir as demandas exigidas da melhor forma possível e objetivamente para uma montagem de Dashboards interativos para insinghts dos dados publicos disponíveis na CVM sobre informações fundamentalistas de fundos de investimento. Além disso, esta aplicação esta conectada ao GitActions, onde a atualização é feita automaticamente todos os dias as 00:00 executando o programa, apenas com exeção da aplicação FFI_Investing.py que exige atuação manual. 
+Este projeto automatiza a extração, tratamento e disponibilização de dados de Fundos Imobiliários (FIIs) da CVM e de portais financeiros como Investing.com e FundsExplorer. A aplicação inclui rotinas de ETL via GitActions, integração uma API Flask para acesso local dos dados já processados para disponibilidades para analises de dados, verificações por outras API's e futuro desenvolvimento proprio de analises de ML. 
 
 ## 📂 Estrutura de Arquivos
 
 O projeto está organizado da seguinte forma, facilitando a navegação e o entendimento:
 
 ```
-Scrapping_FII_CVM/
+CVM-FII-Data/
 │
-├── 📄 app.py         # Notebook principal para execução de todos os notebooks e salva todos na pasta output do projeto.
-├── output/         # Pasta onde estaram todas as planilhas atualizadas até o momento.
-├── 📄 app_Scrapping.py         # Notebook que executa as aplicações de extração FII_Explorer.py e FII_Investing.py.
-├── 📄 ETL_Inicial.py         # Notebook para extração, modelagem dos arquivos CVM.
-├── 📄 Dados_Financeiros.py         # Notebook que extrai das planilhas um csv unificado com dados financeiros já coletados pela fase inicial.
-├── 📄 Dados_Qualitativos.py         # Notebook que extrai das planilhas um csv unificado com dados qualitativos já coletados pela fase inicial.
-├── 📄 Dados_Portifolio.py         # Notebook que extrai das planilhas um csv unificado com dados portifólio já coletados pela fase inicial.
-├── 📄 FII_Explorer.py         # Notebook que extrai e organiza 10 FII's de acordo com a liquidez e dividend yield do ranking localizado no site explorer.com.br. Inicialmente desenvolvido para extraidados para uso posterior em dashboards.
-├── 📄 FII_Investing.py         # Notebook que extrai e organiza 3 FII's de acordo com as datas de pagamento dos dividendos do site investing.com. Inicialmente desenvolvido para extraidados para uso posterior em dashboards.
-├── 📄 IPCAxCDI.py         # Notebook que extrai e organiza os dados de IPCA e CDI para um csv de uso para acompanhamento ou uso posterior em dashboards.
+├── app/                              # Aplicação Flask para disponibilização local dos dados
+│   ├── __init__.py
+│   ├── routes/
+│   │   └── fii.py                    # Rotas para visualização e listagem de arquivos
+│   ├── servicer/
+│   │   └── fii_data.py              # Serviço para leitura dos arquivos e organização dos dados
+│   └── templates/                   # Templates HTML
+│       ├── index.html
+│       ├── table.html
+│       ├── ver_arquivo.html
+│       └── visualizar.html
+│
+├── scriptActions/                   # Notebooks para extração e tratamento dos dados
+│   ├── app.py                       # Executa todos os notebooks da pipeline
+│   ├── app_Scrapping.py            # Integra FII_Explorer e FII_Investing
+│   ├── ETL_Inicial.py              # Coleta e trata arquivos da CVM
+│   ├── Dados_Financeiros.py        # Extrai e organiza dados financeiros dos FIIs
+│   ├── Dados_Qualitativos.py       # Extrai e organiza dados qualitativos
+│   ├── Dados_Portifolio.py         # Extrai e organiza dados de portfólio
+│   ├── FII_Explorer.py             # Ranking de FIIs do site FundsExplorer
+│   ├── FII_Investing.py            # Datas de pagamento de dividendos via Investing.com
+│   ├── IPCAxCDI.py                 # Dados históricos de inflação e taxa CDI
+│   └── requirements.txt            # Requisitos para GitHub Actions
+│
+├── output/dados_projeto             # Arquivos CSV prontos para análise
+│   └── ...                          # Todos os arquivos tratados (e originais) da pipeline
 
-└── 📖 README.md                  # Este arquivo de documentação.
+├── requirements.txt                 # Dependências para rodar a API Flask
+├── run.py                           # Arquivo principal para iniciar a API Flask
+└── README.md                        # Documentação do projeto
+
 ```
 
 ## 🚀 Como Executar o Projeto
@@ -42,7 +61,16 @@ python -m venv venv
 source venv/Scripts/activate #Windowns
 source venv/bin/activate #Linux
 ```
+3. **Instalar dependências da API Flask**
 
+```bash
+pip install -r requirements.txt
+```
+4. **Rodar a API local**
+
+```bash
+python run.py
+```
 
 ## ✍️ Autor
 
