@@ -64,6 +64,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 31.161.410/0001-48;2025-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;36.48;1;STUDIO-405/4ºPAV;0.019336;Venda
 36.885.948/0001-19;2025-03-31;1;IMÓVEL IGUATEMI;Rua Viradouro nº 120, Jd Paulista;387.637;1;imovel;1;Renda
 38.293.897/0001-61;2025-03-31;1;Jardim Petrella Brooklin;Rua Pascoal Pais, 494/498, Vila Cordeiro, São Paulo/SP, Brasil, 04581-060;7580.61;1;Direito de Propriedade;0.01435315608519;Venda
+42.517.145/0001-04;2025-06-30;1;IMOVEL PURA GESTÃO PARTICIPAÇÕES;-;0;1;-;0.36863;Venda
 44.669.674/0001-59;2025-03-31;1;119344_44669;Av Manoel de Abreu,790- Náutica  G4 -São Vicente/SP - CEP:11355-400;445.3;1;Matricula 60691;1;Renda
 47.669.336/0001-05;2025-03-31;1;Villa Cora;Villa CoraBalneário Camboriú/SC, na Av. Atlântica, nº 4294, Edifício ResidencialBalneário Camboriú/SC;217.23;1;matrícula nº 27.153;1;Renda
 47.669.336/0001-05;2025-06-30;1;ALPHAVILLE G;Condomínio Alphaville Paraná, Unidade 02, Quadra MB1;0;1;matrícula nº 63.538;0.3695;Renda
@@ -73,6 +74,16 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 47.669.336/0001-05;2025-06-30;1;AP NEO SUPER;RUA DA GLORIA 251 CURITIBA - PR;49;1;MATRICULA 72442;0.0407;Renda
 47.669.336/0001-05;2025-06-30;1;VAGA GARAGEM;RUA DA GLORIA 251 CURITIBA - PR;27;1;MATRICULA 56527;0.0026;Renda
 49.592.781/0001-40;2025-03-31;1;BLOG Garuva;Rodovia SC - 417, 11915, Bairro Mina Velha, Garuva/SC;22790;1;Galpão de uso logístico industrial com 22.789 m² de área bruta locável entregue, localizado em Garuva, Santa Catarina, dentro de um terreno com área total de 61.737 m². O ativo, configurado como condomínio logístico classe AAA, possui 100% de sua área entregue atualmente ocupada, consolidando-se como uma oportunidade estratégica para operações de alta performance na Região Sul do Brasil.O empreendimento conta com pátio de manobras, vagas de espera para caminhões e estacionamento para motos, além de vias internas em ótimas condições operacionais. Inaugurado em 2020, com habite-se emitido e pronto para ocupação, o imóvel é certificado como green building e oferece infraestrutura moderna para operadores logísticos. Todos os módulos possuem sistema de sprinklers, niveladores de doca e pé-direito de 12 metros, com piso industrial de alta resistência, com capacidade para 5 t/m². A distância entre pilares é de 22,50 x 22,50 metros, favorecendo layout flexível de armazenagem.O Módulo 1 dispõe de 17 docas, enquanto os módulos 1-A, 2 e 3 contam com 4, 4 e 5 docas, respectivamente. O imóvel conta ainda com cobertura metálica, iluminação zenital, isolamento termoacústico e ventilação forçada, garantindo eficiência energética e conforto operacional. O controle de acesso para veículos leves, pesados e pedestres reforça os padrões de segurança, posicionando o Braspark Garuva como um polo logístico de referência na região.;1;Renda
+50.275.622/0001-09;2025-06-30;1;AVGENTIL_SP;SÃO PAULO;0;1;NA;0.1537676150032;Renda
+50.275.622/0001-09;2025-06-30;1;CAMPOBELO_SP;SÃO PAULO;0;1;NA;0.0481;Renda
+50.275.622/0001-09;2025-06-30;1;CONSOLAÇÃO_SP;SÃO PAULO;0;1;NA;0.0543;Renda
+50.275.622/0001-09;2025-06-30;1;TUCURUVI_SP;SÃO PAULO;0;1;NA;0.1133;Renda
+50.275.622/0001-09;2025-06-30;1;STOAMARO_SP;SÃO PAULO;0;1;NA;0.0467;Renda
+50.275.622/0001-09;2025-06-30;1;VLPROSPERIDADE_SP;SÃO PAULO;0;1;NA;0.02;Renda
+50.275.622/0001-09;2025-06-30;1;VLCAIÇARA_PG;SÃO PAULO;0;1;NA;5E-05;Renda
+50.275.622/0001-09;2025-06-30;1;VILLAGECAPRICCIO_LO;SÃO PAULO;0;1;NA;0.0002;Renda
+50.275.622/0001-09;2025-06-30;1;TUCURUVI_SP;SÃO PAULO;0;1;NA;4E-05;Renda
+50.275.622/0001-09;2025-06-30;1;SANTANA_SP;SÃO PAULO;0;1;NA;0.00013;Renda
 50.375.550/0001-63;2025-03-31;1;AP PADRE JOAO;AP PADRE JOAO;0;1;Apartamento;0;Renda
 51.786.271/0001-55;2025-03-31;1;Galpao Estrada Ladeira Grande;Estrada Ladeira Grande, S/n, Parque Industrial, Parque Industrial, Viana/ES, Brasil, 29136-537;121702.5;16;Direito de Propriedade;0.70002328245892;Renda
 51.870.412/0001-13;2025-03-31;1;Icon Residence Club;Rua Odete Jones Gigo, 380 - Sumaré - SP;2363.5;57;N/A;0.4572;Venda
