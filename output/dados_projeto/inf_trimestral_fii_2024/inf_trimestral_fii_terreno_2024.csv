@@ -209,7 +209,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 10.456.799/0001-89;2024-12-31;1;Av. Manoel Elias, 891 e 901, Passo das Pedras, Porto Alegre-RS;Nenhuma;23157.42;0;0
 10.456.799/0001-89;2024-12-31;1;Rua Dietrich Hilbk, Bairro Morro do Espelho, São Leopoldo-RS;Nenhuma;1302.12;0;0
 10.456.799/0001-89;2024-12-31;1;Av. Maua, 3164, São Leopoldo-RS (8 lotes lindeiros);Nenhuma;19210.31;0;0
-11.044.355/0001-07;2024-06-30;1;Avenida Pastor Anselmo Silvestre, 1495. Dom Joaquim. Belo Horizonte - MG.;N/A;36237.45;0;0
+11.044.355/0001-07;2024-06-30;1;Avenida Pastor Anselmo Silvestre, 1495. Dom Joaquim. Belo Horizonte - MG.;N/A;36237.45;;
 11.044.355/0001-07;2024-12-31;2;Avenida Pastor Anselmo Silvestre, 1495. Dom Joaquim. Belo Horizonte - MG.;n/a;49809.37;0;0
 11.268.335/0001-01;2024-03-28;1;Fazenda Indaiatuba, Alameda Porteira de Ferro;Nenhuma característica relevante;37303;1;0.00239
 11.268.335/0001-01;2024-06-28;1;Fazenda Indaiatuba, Alameda Porteira de Ferro;Nenhuma característica relevante;37303;0.5;0.4
@@ -468,20 +468,20 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 22.340.978/0001-35;2024-12-31;1;Rua Antonio F. Ozanan, 11070 - Jundiaí;Matricula 61.468;15629;0.419683;0.00904860685386726
 22.340.978/0001-35;2024-12-31;1;Lote 04 quadra 2 - "Loteamento Sítio Taguaiba" - Guarujá;Matricula 65.154;1860;0.193782;0
 22.340.978/0001-35;2024-12-31;1;Av Senador Teotônio Villela, 26 (antiga Estrada de Rodagem Santo Amaro) - Parelheiros - SP;Matricula 297.603;6299;0.386535;0
-24.514.406/0001-50;2024-03-31;1;Área Sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia.;Área de terra denominada PR-01.1, PR-02.1, PR-03 e AS-04 resultante do amenbramento  de área de terras situada na área sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia - Matrícula nº 27.444.;1232845.51;0;0
-24.514.406/0001-50;2024-03-31;1;TUCURUÍ EMP - TERRENO URBANO, situado no lugar denominado "Taípe", às margens do córrego do Pitinga, na Estrada Arraial/Trancoso, em Arraial d'Ajuda, no Município de Porto Seguro, Bahia,;Medidas e confrontações constantes na matrícula 33.535 devidamente registrada no Registro Geral, do Ofício do Registro de Imóveis da Comarca de Porto Seguro, Bahia.;3767900;0;0
-24.514.406/0001-50;2024-03-31;1;Terreno urbano - Conjunto Beija Floro e Nova Esperança. situada no Córrego Braço Direito do Rio do Norte, no município de PortoSeguro/BA,;Área total de 399.483,00 m² (trezentos e noventa e nove mil, quatrocentos e oitenta e três metros quadrados) e um perímetro de 3.000,808 em terras próprias, conforme descrição e caracterização da matrícula de n. 44.569 registrada junto ao Cartório de Registro de Imóveis da comarca de Porto Seguro/BA.;399483;0;0
-24.514.406/0001-50;2024-06-30;1;Área Sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia.;Área de terra denominada PR-01.1, PR-02.1, PR-03 e AS-04 resultante do amenbramento  de área de terras situada na área sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia - Matrícula nº 27.444.;1232845.51;0;0
-24.514.406/0001-50;2024-06-30;1;TUCURUÍ EMP - TERRENO URBANO, situado no lugar denominado "Taípe", às margens do córrego do Pitinga, na Estrada Arraial/Trancoso, em Arraial d'Ajuda, no Município de Porto Seguro, Bahia,;Medidas e confrontações constantes na matrícula 33.535 devidamente registrada no Registro Geral, do Ofício do Registro de Imóveis da Comarca de Porto Seguro, Bahia.;3767900;0;0
-24.514.406/0001-50;2024-06-30;1;Terreno urbano - Conjunto Beija Floro e Nova Esperança. situada no Córrego Braço Direito do Rio do Norte, no município de PortoSeguro/BA,;Área total de 399.483,00 m² (trezentos e noventa e nove mil, quatrocentos e oitenta e três metros quadrados) e um perímetro de 3.000,808 em terras próprias, conforme descrição e caracterização da matrícula de n. 44.569 registrada junto ao Cartório de Registro de Imóveis da comarca de Porto Seguro/BA.;399483;0;0
-24.514.406/0001-50;2024-09-30;1;Área Sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia.;Área de terra denominada PR-01.1, PR-02.1, PR-03 e AS-04 resultante do amenbramento  de área de terras situada na área sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia - Matrícula nº 27.444.;1232845.51;0;0
-24.514.406/0001-50;2024-09-30;1;TUCURUÍ EMP - TERRENO URBANO, situado no lugar denominado "Taípe", às margens do córrego do Pitinga, na Estrada Arraial/Trancoso, em Arraial d'Ajuda, no Município de Porto Seguro, Bahia,;Medidas e confrontações constantes na matrícula 33.535 devidamente registrada no Registro Geral, do Ofício do Registro de Imóveis da Comarca de Porto Seguro, Bahia.;3767900;0;0
-24.514.406/0001-50;2024-09-30;1;Terreno urbano - Conjunto Beija Floro e Nova Esperança. situada no Córrego Braço Direito do Rio do Norte, no município de PortoSeguro/BA,;Área total de 399.483,00 m² (trezentos e noventa e nove mil, quatrocentos e oitenta e três metros quadrados) e um perímetro de 3.000,808 em terras próprias, conforme descrição e caracterização da matrícula de n. 44.569 registrada junto ao Cartório de Registro de Imóveis da comarca de Porto Seguro/BA.;399483;0;0
-24.514.406/0001-50;2024-12-31;1;Área Sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia.;Área de terra denominada PR-01.1, PR-02.1, PR-03 e AS-04 resultante do amenbramento  de área de terras situada na área sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia - Matrícula nº 27.444.;1232845.51;0;0
-24.514.406/0001-50;2024-12-31;1;TUCURUÍ EMP - TERRENO URBANO, situado no lugar denominado "Taípe", às margens do córrego do Pitinga, na Estrada Arraial/Trancoso, em Arraial d'Ajuda, no Município de Porto Seguro, Bahia,;Medidas e confrontações constantes na matrícula 33.535 devidamente registrada no Registro Geral, do Ofício do Registro de Imóveis da Comarca de Porto Seguro, Bahia.;3767900;0;0
-24.514.406/0001-50;2024-12-31;1;Terreno urbano - Conjunto Beija Floro e Nova Esperança. situada no Córrego Braço Direito do Rio do Norte, no município de PortoSeguro/BA,;Área total de 399.483,00 m² (trezentos e noventa e nove mil, quatrocentos e oitenta e três metros quadrados) e um perímetro de 3.000,808 em terras próprias, conforme descrição e caracterização da matrícula de n. 44.569 registrada junto ao Cartório de Registro de Imóveis da comarca de Porto Seguro/BA.;399483;0;0
-24.976.492/0001-13;2024-03-28;1;Av Ulysses reis de Mattos, Av Duquesa de Goias e Av Magalhães de Castro;Terrenos para construção de Shopping;160000;0;0
-24.976.492/0001-13;2024-06-28;1;Av Ulysses reis de Mattos, Av Duquesa de Goias e Av Magalhães de Castro;Terrenos para construção de Shopping;160000;0;0
+24.514.406/0001-50;2024-03-31;1;Área Sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia.;Área de terra denominada PR-01.1, PR-02.1, PR-03 e AS-04 resultante do amenbramento  de área de terras situada na área sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia - Matrícula nº 27.444.;1232845.51;;
+24.514.406/0001-50;2024-03-31;1;TUCURUÍ EMP - TERRENO URBANO, situado no lugar denominado "Taípe", às margens do córrego do Pitinga, na Estrada Arraial/Trancoso, em Arraial d'Ajuda, no Município de Porto Seguro, Bahia,;Medidas e confrontações constantes na matrícula 33.535 devidamente registrada no Registro Geral, do Ofício do Registro de Imóveis da Comarca de Porto Seguro, Bahia.;3767900;;
+24.514.406/0001-50;2024-03-31;1;Terreno urbano - Conjunto Beija Floro e Nova Esperança. situada no Córrego Braço Direito do Rio do Norte, no município de PortoSeguro/BA,;Área total de 399.483,00 m² (trezentos e noventa e nove mil, quatrocentos e oitenta e três metros quadrados) e um perímetro de 3.000,808 em terras próprias, conforme descrição e caracterização da matrícula de n. 44.569 registrada junto ao Cartório de Registro de Imóveis da comarca de Porto Seguro/BA.;399483;;
+24.514.406/0001-50;2024-06-30;1;Área Sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia.;Área de terra denominada PR-01.1, PR-02.1, PR-03 e AS-04 resultante do amenbramento  de área de terras situada na área sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia - Matrícula nº 27.444.;1232845.51;;
+24.514.406/0001-50;2024-06-30;1;TUCURUÍ EMP - TERRENO URBANO, situado no lugar denominado "Taípe", às margens do córrego do Pitinga, na Estrada Arraial/Trancoso, em Arraial d'Ajuda, no Município de Porto Seguro, Bahia,;Medidas e confrontações constantes na matrícula 33.535 devidamente registrada no Registro Geral, do Ofício do Registro de Imóveis da Comarca de Porto Seguro, Bahia.;3767900;;
+24.514.406/0001-50;2024-06-30;1;Terreno urbano - Conjunto Beija Floro e Nova Esperança. situada no Córrego Braço Direito do Rio do Norte, no município de PortoSeguro/BA,;Área total de 399.483,00 m² (trezentos e noventa e nove mil, quatrocentos e oitenta e três metros quadrados) e um perímetro de 3.000,808 em terras próprias, conforme descrição e caracterização da matrícula de n. 44.569 registrada junto ao Cartório de Registro de Imóveis da comarca de Porto Seguro/BA.;399483;;
+24.514.406/0001-50;2024-09-30;1;Área Sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia.;Área de terra denominada PR-01.1, PR-02.1, PR-03 e AS-04 resultante do amenbramento  de área de terras situada na área sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia - Matrícula nº 27.444.;1232845.51;;
+24.514.406/0001-50;2024-09-30;1;TUCURUÍ EMP - TERRENO URBANO, situado no lugar denominado "Taípe", às margens do córrego do Pitinga, na Estrada Arraial/Trancoso, em Arraial d'Ajuda, no Município de Porto Seguro, Bahia,;Medidas e confrontações constantes na matrícula 33.535 devidamente registrada no Registro Geral, do Ofício do Registro de Imóveis da Comarca de Porto Seguro, Bahia.;3767900;;
+24.514.406/0001-50;2024-09-30;1;Terreno urbano - Conjunto Beija Floro e Nova Esperança. situada no Córrego Braço Direito do Rio do Norte, no município de PortoSeguro/BA,;Área total de 399.483,00 m² (trezentos e noventa e nove mil, quatrocentos e oitenta e três metros quadrados) e um perímetro de 3.000,808 em terras próprias, conforme descrição e caracterização da matrícula de n. 44.569 registrada junto ao Cartório de Registro de Imóveis da comarca de Porto Seguro/BA.;399483;;
+24.514.406/0001-50;2024-12-31;1;Área Sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia.;Área de terra denominada PR-01.1, PR-02.1, PR-03 e AS-04 resultante do amenbramento  de área de terras situada na área sul da Fazenda Praia do Forte, Município de Mata de São João, Bahia - Matrícula nº 27.444.;1232845.51;;
+24.514.406/0001-50;2024-12-31;1;TUCURUÍ EMP - TERRENO URBANO, situado no lugar denominado "Taípe", às margens do córrego do Pitinga, na Estrada Arraial/Trancoso, em Arraial d'Ajuda, no Município de Porto Seguro, Bahia,;Medidas e confrontações constantes na matrícula 33.535 devidamente registrada no Registro Geral, do Ofício do Registro de Imóveis da Comarca de Porto Seguro, Bahia.;3767900;;
+24.514.406/0001-50;2024-12-31;1;Terreno urbano - Conjunto Beija Floro e Nova Esperança. situada no Córrego Braço Direito do Rio do Norte, no município de PortoSeguro/BA,;Área total de 399.483,00 m² (trezentos e noventa e nove mil, quatrocentos e oitenta e três metros quadrados) e um perímetro de 3.000,808 em terras próprias, conforme descrição e caracterização da matrícula de n. 44.569 registrada junto ao Cartório de Registro de Imóveis da comarca de Porto Seguro/BA.;399483;;
+24.976.492/0001-13;2024-03-28;1;Av Ulysses reis de Mattos, Av Duquesa de Goias e Av Magalhães de Castro;Terrenos para construção de Shopping;160000;;
+24.976.492/0001-13;2024-06-28;1;Av Ulysses reis de Mattos, Av Duquesa de Goias e Av Magalhães de Castro;Terrenos para construção de Shopping;160000;;
 24.976.492/0001-13;2024-09-30;1;Av Ulysses reis de Mattos, Av Duquesa de Goias e Av Magalhães de Castro;Terrenos para construção de Shopping;160000;1;1
 24.976.492/0001-13;2024-12-31;1;Av Ulysses reis de Mattos, Av Duquesa de Goias e Av Magalhães de Castro;Terrenos para construção de Shopping;160000;1;1
 26.269.251/0001-60;2024-03-28;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
@@ -511,23 +511,23 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 27.538.477/0001-81;2024-06-30;1;R. Prof. Newton Sérvulo do Nascimento - Parque das oliveiras, Ribeirão Preto - SP, 14065-755;Lote nº 08 (um) da quadra nº 04 (quatro), matrícula nº 102558;382.52;0.0972275745881891;0
 27.538.477/0001-81;2024-06-30;1;Rua das Acácias - Cond. Fazenda Santa Maria - Cravinhos , SP;Matrícula 14.272;1500;0.810572909199067;0
 27.538.477/0001-81;2024-09-30;1;Rua das Acácias - Cond. Fazenda Santa Maria - Cravinhos , SP;14272_27538;1500;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L01Q01;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L01Q03;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L02Q01;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L02Q03;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L03Q03;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L04Q02;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L04Q03;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L05Q01;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L05Q02;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L05Q03;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L06Q01;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L06Q02;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L06Q03;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L07Q02;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L08Q02;0;0;0
-27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L09Q02;0;0;0
-27.538.477/0001-81;2024-09-30;1;Rua Pastor Napoleão Pereira Lins,8;PQ OL L08Q04;382.52;0;0
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L01Q01;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L01Q03;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L02Q01;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L02Q03;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L03Q03;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L04Q02;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L04Q03;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L05Q01;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L05Q02;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L05Q03;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L06Q01;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L06Q02;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L06Q03;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L07Q02;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L08Q02;;;
+27.538.477/0001-81;2024-09-30;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L09Q02;;;
+27.538.477/0001-81;2024-09-30;1;Rua Pastor Napoleão Pereira Lins,8;PQ OL L08Q04;382.52;;
 27.538.477/0001-81;2024-12-31;1;Rua das Acácias - Cond. Fazenda Santa Maria - Cravinhos , SP;14272_27538;1500;0;0
 27.538.477/0001-81;2024-12-31;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L01Q01;0;0;0
 27.538.477/0001-81;2024-12-31;1;Alameda Arthur Furquim, 620 - Ribeirão Preto - SP;MONT L01Q03;0;0;0
@@ -560,10 +560,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 28.152.777/0001-90;2024-12-31;1;Rodovia MT-130/ Primavera do Leste - MT;TER PRIMAVERA 1 - MATRICULA 38310;253046;0.2082;0.0624
 28.152.777/0001-90;2024-12-31;1;Rodovia MT-130/ Primavera do Leste - MT;TER PRIMAVERA 2 - MATRICULA 3855;40004;0.0329;0.0099
 28.152.777/0001-90;2024-12-31;1;Rodovia BR-163/ Sorriso - MT;Centro de Distribuição (CD);90000;0.7589;0.0508
-28.267.530/0001-10;2024-03-28;1;Rua Cel. Mursa, 160  - Brás;.;991.75;0;0
-28.267.530/0001-10;2024-06-28;2;Rua Cel. Mursa, 160  - Brás;TERR 01;991.75;0;0
-28.267.530/0001-10;2024-09-30;1;Rua Cel. Mursa, 160  - Brás;TERR 01;991.75;0;0
-28.267.530/0001-10;2024-12-31;1;Rua Cel. Mursa, 160  - Brás;TERR 01;991.75;0;0
+28.267.530/0001-10;2024-03-28;1;Rua Cel. Mursa, 160  - Brás;.;991.75;;0
+28.267.530/0001-10;2024-06-28;2;Rua Cel. Mursa, 160  - Brás;TERR 01;991.75;;0
+28.267.530/0001-10;2024-09-30;1;Rua Cel. Mursa, 160  - Brás;TERR 01;991.75;;0
+28.267.530/0001-10;2024-12-31;1;Rua Cel. Mursa, 160  - Brás;TERR 01;991.75;;0
 28.267.696/0001-36;2024-03-31;1;Distrito, S/n, Sem Complemento, Dois Corregos, Dois Corregos/SP, Brasil, 17300-000;Não possui caracteristicas que destoem dos demais;30350;0.46181583337818;0
 28.267.696/0001-36;2024-03-31;1;Setor 17, Quadra 0416, S/n, Distrito, Dois Corregos, Dois Corregos/SP, Brasil, 17300-000;Não possui caracteristicas que destoem dos demais;5016.3;0.53818416662182;0
 28.267.696/0001-36;2024-06-30;1;Distrito, S/n, Sem Complemento, Dois Corregos, Dois Corregos/SP, Brasil, 17300-000;Direito de propriedade;30350;0.46181583337818;0
@@ -753,14 +753,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 36.200.654/0001-06;2024-06-30;1;Estrada Municipal Vargem do João Pinto - Bairro Ponte Nova - MG;Terreno localizado no município de Extrema - MG.;270128.8;0;0
 36.200.654/0001-06;2024-09-30;1;Estrada Municipal Vargem do João Pinto - Bairro Ponte Nova - MG;Terreno localizado no município de Extrema - MG.;270128.8;0;0
 36.200.654/0001-06;2024-12-31;1;Estrada Municipal Vargem do João Pinto - Bairro Ponte Nova - MG;Terreno localizado no município de Extrema - MG.;270128.8;0;0
-36.258.924/0001-30;2024-03-28;1;Matricula n° 56.262/ DF;IMÓVEL URBANO LBV;0;1;1
-36.258.924/0001-30;2024-06-28;1;Matricula n° 56.262/ DF;IMÓVEL URBANO LBV;0;1;1
-36.258.924/0001-30;2024-09-30;1;Matricula n° 56.262/ DF;IMÓVEL URBANO LBV;0;1;1
-36.258.924/0001-30;2024-09-30;1;Matricula nº 72533/DF;IMÓVEL URBANO LBV;0;1;1
-36.258.924/0001-30;2024-12-31;3;Matricula n° 56.262/ DF;IMÓVEL URBANO LBV;0;0.3885;1
-36.258.924/0001-30;2024-12-31;3;Matricula nº 72533/DF;IMÓVEL URBANO LBV;0;0.4537;1
-36.258.924/0001-30;2024-12-31;3;IMOVEL -TERRENO BELEM;TERRENO BELEM;0;0.1272;1
-36.258.924/0001-30;2024-12-31;3;IMOVEL BENFEITORIAS;Benfeitorias - TERRENO;0;0.0306;1
+36.258.924/0001-30;2024-03-28;1;Matricula n° 56.262/ DF;IMÓVEL URBANO LBV;;1;1
+36.258.924/0001-30;2024-06-28;1;Matricula n° 56.262/ DF;IMÓVEL URBANO LBV;;1;1
+36.258.924/0001-30;2024-09-30;1;Matricula n° 56.262/ DF;IMÓVEL URBANO LBV;;1;1
+36.258.924/0001-30;2024-09-30;1;Matricula nº 72533/DF;IMÓVEL URBANO LBV;;1;1
+36.258.924/0001-30;2024-12-31;3;Matricula n° 56.262/ DF;IMÓVEL URBANO LBV;;0.3885;1
+36.258.924/0001-30;2024-12-31;3;Matricula nº 72533/DF;IMÓVEL URBANO LBV;;0.4537;1
+36.258.924/0001-30;2024-12-31;3;IMOVEL -TERRENO BELEM;TERRENO BELEM;;0.1272;1
+36.258.924/0001-30;2024-12-31;3;IMOVEL BENFEITORIAS;Benfeitorias - TERRENO;;0.0306;1
 36.312.025/0001-78;2024-03-31;1;Rua Visconde de Pirajá, n.º 616 - Ipanema - Rio de Janeiro - RJ.;VISCONDE DE PIRAJÁ;895.65;0;0
 36.312.025/0001-78;2024-03-31;1;Rua Batista de Oliveira esquina com a Rua Sampaio;Matrícula nº 42.746 - Cartório Do 2º Ofício De Registro De Imóveis da  Comarca de Juiz de Fora -MG;1082.75;0;0
 36.312.025/0001-78;2024-03-31;1;Rua Barão de São João Nepomuceno, nº 232 -  Centro - Juiz de Fora MG;LOJA COMERCIAL - SÃO JOÃO;319.3;0;0
@@ -796,27 +796,27 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 36.731.458/0001-68;2024-09-30;1;Alameda Flor de Lotus e Jandira;0,00;0;0.6227;0
 36.731.458/0001-68;2024-09-30;1;Urblan Desenvolvimento Urbano;0;0;0.0983;0
 36.731.458/0001-68;2024-09-30;1;Outros imoveis;0;0;0.2791;0
-36.885.948/0001-19;2024-03-28;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;0;0
-36.885.948/0001-19;2024-03-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;0;0
-36.885.948/0001-19;2024-03-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;0;0
-36.885.948/0001-19;2024-03-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 11, da Quadra 04(ZM-BD);319.57;0;0
-36.885.948/0001-19;2024-06-28;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;0;0
-36.885.948/0001-19;2024-06-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;0;0
-36.885.948/0001-19;2024-06-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;0;0
-36.885.948/0001-19;2024-06-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 11, da Quadra 04(ZM-BD);319.57;0;0
-36.885.948/0001-19;2024-09-30;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;0;0
-36.885.948/0001-19;2024-09-30;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;0;0
-36.885.948/0001-19;2024-09-30;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;0;0
-36.885.948/0001-19;2024-09-30;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 11, da Quadra 04(ZM-BD);319.57;0;0
-36.885.948/0001-19;2024-12-31;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;0;0
-36.885.948/0001-19;2024-12-31;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;0;0
-36.885.948/0001-19;2024-12-31;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;0;0
-36.885.948/0001-19;2024-12-31;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 11, da Quadra 04(ZM-BD);319.57;0;0
-36.885.989/0001-05;2024-03-28;2;Avenida Alphaville Flamboyant;fração ideal de 1,9250% do lote de terras de nº 01, da quadra "A4;9876.24;0;0
-36.885.989/0001-05;2024-03-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 34;matrícula nº 155.412.;720;0;0
-36.885.989/0001-05;2024-03-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 11;matrícula nº 155.412.;720;0;0
-36.885.989/0001-05;2024-03-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 33;matrícula nº 155.412.;720;0;0
-36.885.989/0001-05;2024-03-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 12;matrícula nº 155.412.;720;0;0
+36.885.948/0001-19;2024-03-28;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;;
+36.885.948/0001-19;2024-03-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;;
+36.885.948/0001-19;2024-03-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;;
+36.885.948/0001-19;2024-03-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 11, da Quadra 04(ZM-BD);319.57;;
+36.885.948/0001-19;2024-06-28;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;;
+36.885.948/0001-19;2024-06-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;;
+36.885.948/0001-19;2024-06-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;;
+36.885.948/0001-19;2024-06-28;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 11, da Quadra 04(ZM-BD);319.57;;
+36.885.948/0001-19;2024-09-30;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;;
+36.885.948/0001-19;2024-09-30;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;;
+36.885.948/0001-19;2024-09-30;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;;
+36.885.948/0001-19;2024-09-30;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 11, da Quadra 04(ZM-BD);319.57;;
+36.885.948/0001-19;2024-12-31;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;;
+36.885.948/0001-19;2024-12-31;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;;
+36.885.948/0001-19;2024-12-31;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;;
+36.885.948/0001-19;2024-12-31;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 11, da Quadra 04(ZM-BD);319.57;;
+36.885.989/0001-05;2024-03-28;2;Avenida Alphaville Flamboyant;fração ideal de 1,9250% do lote de terras de nº 01, da quadra "A4;9876.24;;
+36.885.989/0001-05;2024-03-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 34;matrícula nº 155.412.;720;;
+36.885.989/0001-05;2024-03-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 11;matrícula nº 155.412.;720;;
+36.885.989/0001-05;2024-03-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 33;matrícula nº 155.412.;720;;
+36.885.989/0001-05;2024-03-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 12;matrícula nº 155.412.;720;;
 36.885.989/0001-05;2024-06-28;2;Avenida Alphaville Flamboyant;fração ideal de 1,9250% do lote de terras de nº 01, da quadra "A4;9876.24;0;0
 36.885.989/0001-05;2024-06-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 34;matrícula nº 155.412.;720;0;0
 36.885.989/0001-05;2024-06-28;2;Avenida das Palmeiras, s/n, em Brasília-DF lote 11;matrícula nº 155.412.;720;0;0
@@ -829,12 +829,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 36.885.989/0001-05;2024-09-30;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 33;matrícula nº 155.412;720;0;0
 36.885.989/0001-05;2024-09-30;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 12;matrícula nº 155.412.;720;0;0
 36.885.989/0001-05;2024-09-30;1;Rua Ana Jungmann, QD 33, LT 6 - JD França - Goiânia-GO;matricula 56070;0;0;0
-36.885.989/0001-05;2024-12-31;1;Avenida Alphaville Flamboyant;fração ideal de 1,9250% do lote de terras de nº 01, da quadra "A4;9876.24;0;0
-36.885.989/0001-05;2024-12-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 34;matrícula nº 155.412.;720;0;0
-36.885.989/0001-05;2024-12-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 11;matrícula nº 155.412.;720;0;0
-36.885.989/0001-05;2024-12-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 33;matrícula nº 155.412.;720;0;0
-36.885.989/0001-05;2024-12-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 12;matrícula nº 155.412.;720;0;0
-36.885.989/0001-05;2024-12-31;1;Rua Ana Jungmann, QD 33, LT 6 - JD França - Goiânia-GO;matricula 56070;0;0;0
+36.885.989/0001-05;2024-12-31;1;Avenida Alphaville Flamboyant;fração ideal de 1,9250% do lote de terras de nº 01, da quadra "A4;9876.24;;
+36.885.989/0001-05;2024-12-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 34;matrícula nº 155.412.;720;;
+36.885.989/0001-05;2024-12-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 11;matrícula nº 155.412.;720;;
+36.885.989/0001-05;2024-12-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 33;matrícula nº 155.412.;720;;
+36.885.989/0001-05;2024-12-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 12;matrícula nº 155.412.;720;;
+36.885.989/0001-05;2024-12-31;1;Rua Ana Jungmann, QD 33, LT 6 - JD França - Goiânia-GO;matricula 56070;0;;
 36.930.464/0001-44;2024-06-30;1;Rodovia Adauto Campo Dall'Orto, distrito de Nova Veneza, no Município de Sumaré/SP;78,1198% do imóvel designado pela Gleba A-5-A3 Remanescente, objeto da matrícula 210.352 do Livro n° 2 do Oficial de Registro de Imóveis, Títulos e Documentos e Civil de Pessoa Jurídica de Sumaré/SP, ("Imóvel"), sendo certo que 100% (cem por cento) do terreno será destinado à implementação do empreendimento imobiliário projetado e que o BTSP II FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII deterá 78,1198% do Imóvel acima caracterizado, de titularidade da Companhia.;152475.99;1;0
 36.930.464/0001-44;2024-12-31;1;Avenida Eugênio Coneglian, N.º 3.550, Distrito Industrial, Marília/SP, CEP: 17.521-460;Imóvel de matrícula N.º 74.376 do 2º Oficial de Registro de Imóveis da Comarca de Marília, Estado de São Paulo, sendo a FAZENDA MARIALVA DE CIMA - ÁREA DESMEMBRADA 01 - DESDOBRO 2, situada em Marília-SP.;30202;0.246;0
 36.930.464/0001-44;2024-12-31;1;Avenida Eugênio Coneglian, N.º 3.550, Distrito Industrial, Marília/SP, CEP: 17.521-460;Imóvel de matrícula N.º 38.516 do 2º Oficial de Registro de Imóveis da Comarca de Marília, Estado de São Paulo, sendo a FAZENDA MARIALVA DE CIMA - ÁREA REMANESCENTE "C4", situada em Marília-SP.;106800;0.754;0
@@ -906,18 +906,18 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 40.346.049/0001-15;2024-06-30;1;Terreno em conjunto com o imóvel - Cabreuva - SP, localizado na Rodovia Don Gabriel Paulino Couto, Km 83 - Cidade de Cabreuva/SP;Terreno em conjunto com o imóvel - Cabreuva - SP, localizado na Rodovia Don Gabriel Paulino Couto, Km 83 - Cidade de Cabreuva/SP;64992.82;0.03;0
 40.346.049/0001-15;2024-09-30;1;Terreno em conjunto com o imóvel - Cabreuva - SP, localizado na Rodovia Don Gabriel Paulino Couto, Km 83 - Cidade de Cabreuva/SP;Terreno em conjunto com o imóvel - Cabreuva - SP, localizado na Rodovia Don Gabriel Paulino Couto, Km 83 - Cidade de Cabreuva/SP;64992.82;0.03;0
 40.346.049/0001-15;2024-12-31;2;Terreno em conjunto com o imóvel - Cabreuva - SP, localizado na Rodovia Don Gabriel Paulino Couto, Km 83 - Cidade de Cabreuva/SP;Terreno em conjunto com o imóvel - Cabreuva - SP, localizado na Rodovia Don Gabriel Paulino Couto, Km 83 - Cidade de Cabreuva/SP;64992.82;0.03;0
-40.837.664/0001-24;2024-03-28;1;LOTE DE TERRENO nº 12. QUADRA D "Parque Florença";MAT 37427;0;1;0
-40.837.664/0001-24;2024-03-28;1;LOTE DE TERRENO nº 13, 14 E 15. QUADRA D "Parque Florença";MAT 98519;0;1;0
-40.837.664/0001-24;2024-03-28;1;TERRENO - UNIFICAÇÃO A2 + A3;MAT 98714;0;1;0
-40.837.664/0001-24;2024-06-28;2;LOTE DE TERRENO nº 12. QUADRA D "Parque Florença";MAT 37427;0;1;0
-40.837.664/0001-24;2024-06-28;2;LOTE DE TERRENO nº 13, 14 E 15. QUADRA D "Parque Florença";MAT 98519;0;1;0
-40.837.664/0001-24;2024-06-28;2;TERRENO - UNIFICAÇÃO A2 + A3;MAT 98714;0;1;0
-40.837.664/0001-24;2024-09-30;1;LOTE DE TERRENO nº 12. QUADRA D "Parque Florença";MAT 37427;0;1;0
-40.837.664/0001-24;2024-09-30;1;LOTE DE TERRENO nº 13, 14 E 15. QUADRA D "Parque Florença";MAT 98519;0;1;0
-40.837.664/0001-24;2024-09-30;1;TERRENO - UNIFICAÇÃO A2 + A3;MAT 98714;0;1;0
-40.837.664/0001-24;2024-12-31;1;LOTE DE TERRENO nº 12. QUADRA D "Parque Florença";MAT 37427;0;1;0
-40.837.664/0001-24;2024-12-31;1;LOTE DE TERRENO nº 13, 14 E 15. QUADRA D "Parque Florença";MAT 98519;0;1;0
-40.837.664/0001-24;2024-12-31;1;TERRENO - UNIFICAÇÃO A2 + A3;MAT 98714;0;1;0
+40.837.664/0001-24;2024-03-28;1;LOTE DE TERRENO nº 12. QUADRA D "Parque Florença";MAT 37427;;1;0
+40.837.664/0001-24;2024-03-28;1;LOTE DE TERRENO nº 13, 14 E 15. QUADRA D "Parque Florença";MAT 98519;;1;0
+40.837.664/0001-24;2024-03-28;1;TERRENO - UNIFICAÇÃO A2 + A3;MAT 98714;;1;0
+40.837.664/0001-24;2024-06-28;2;LOTE DE TERRENO nº 12. QUADRA D "Parque Florença";MAT 37427;;1;0
+40.837.664/0001-24;2024-06-28;2;LOTE DE TERRENO nº 13, 14 E 15. QUADRA D "Parque Florença";MAT 98519;;1;0
+40.837.664/0001-24;2024-06-28;2;TERRENO - UNIFICAÇÃO A2 + A3;MAT 98714;;1;0
+40.837.664/0001-24;2024-09-30;1;LOTE DE TERRENO nº 12. QUADRA D "Parque Florença";MAT 37427;;1;0
+40.837.664/0001-24;2024-09-30;1;LOTE DE TERRENO nº 13, 14 E 15. QUADRA D "Parque Florença";MAT 98519;;1;0
+40.837.664/0001-24;2024-09-30;1;TERRENO - UNIFICAÇÃO A2 + A3;MAT 98714;;1;0
+40.837.664/0001-24;2024-12-31;1;LOTE DE TERRENO nº 12. QUADRA D "Parque Florença";MAT 37427;;1;0
+40.837.664/0001-24;2024-12-31;1;LOTE DE TERRENO nº 13, 14 E 15. QUADRA D "Parque Florença";MAT 98519;;1;0
+40.837.664/0001-24;2024-12-31;1;TERRENO - UNIFICAÇÃO A2 + A3;MAT 98714;;1;0
 41.081.336/0001-03;2024-06-30;1;Avenida do Taboão, nº 899, São Bernardo do Campo - SP;FORD;35200;1;0
 41.081.336/0001-03;2024-09-30;1;Avenida do Taboão, nº 899, São Bernardo do Campo - SP;FORD;35200;1;0
 41.081.336/0001-03;2024-12-31;1;Avenida do Taboão, nº 899, São Bernardo do Campo - SP;FORD;35200;1;0
@@ -925,25 +925,25 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 41.114.606/0001-35;2024-06-30;1;Avenida Josepha Holanda de Mello, s/n Terreno 06 - Bairro Cruz das Almas;Terreno adquirido conforme escritura pública de compra e venda.;14202.23;1;0
 41.114.606/0001-35;2024-09-30;1;Avenida Josepha Holanda de Mello, s/n Terreno 06 - Bairro Cruz das Almas;Terreno adquirido conforme escritura pública de compra e venda.;14202.23;1;0
 41.114.606/0001-35;2024-12-31;1;Avenida Josepha Holanda de Mello, s/n Terreno 06 - Bairro Cruz das Almas;Terreno adquirido conforme escritura pública de compra e venda.;14202.23;1;0
-41.219.454/0001-35;2024-06-28;1;Quadra 050 - Lote 06 - Jardim Inápolis - Campo grande MS;Matrícula 1943;0;0;0
-41.219.454/0001-35;2024-09-30;1;Quadra 050 - Lote 06 - Jardim Inápolis - Campo grande MS;Matrícula 1943;0;0;0
-41.219.454/0001-35;2024-12-31;1;Quadra 050 - Lote 06 - Jardim Inápolis - Campo grande MS;Matrícula 1943;0;0;0
+41.219.454/0001-35;2024-06-28;1;Quadra 050 - Lote 06 - Jardim Inápolis - Campo grande MS;Matrícula 1943;;;
+41.219.454/0001-35;2024-09-30;1;Quadra 050 - Lote 06 - Jardim Inápolis - Campo grande MS;Matrícula 1943;;;
+41.219.454/0001-35;2024-12-31;1;Quadra 050 - Lote 06 - Jardim Inápolis - Campo grande MS;Matrícula 1943;;;
 41.251.337/0001-59;2024-03-31;1;Av. Francisco Loup,1815 - São Sebastião - SP;Terreno e suas edificações localizado na Avenida Francisco Loup, 1815, Praia de Maresias, São Sebastião/SP, bem como o terreno de marinha, contíguo e alodial ao anterior, totalizando a área de 14.083,00m² e área construída de 1.924,34m², objeto da matrícula nº. 34.459;14083;1;0
 41.251.337/0001-59;2024-06-30;1;Av. Francisco Loup,1815 - São Sebastião - SP;Terreno e suas edificações localizado na Avenida Francisco Loup, 1815, Praia de Maresias, São Sebastião/SP, bem como o terreno de marinha, contíguo e alodial ao anterior, totalizando a área de 14.083,00m² e área construída de 1.924,34m², objeto da matrícula nº. 34.459;14083;1;0
 41.251.337/0001-59;2024-09-30;1;Av. Francisco Loup,1815 - São Sebastião - SP;Terreno e suas edificações localizado na Avenida Francisco Loup, 1815, Praia de Maresias, São Sebastião/SP, bem como o terreno de marinha, contíguo e alodial ao anterior, totalizando a área de 14.083,00m² e área construída de 1.924,34m², objeto da matrícula nº. 34.459;14083;1;0
 41.251.337/0001-59;2024-12-31;1;Av. Francisco Loup,1815 - São Sebastião - SP;Terreno e suas edificações localizado na Avenida Francisco Loup, 1815, Praia de Maresias, São Sebastião/SP, bem como o terreno de marinha, contíguo e alodial ao anterior, totalizando a área de 14.083,00m² e área construída de 1.924,34m², objeto da matrícula nº. 34.459;14083;1;0
-41.650.310/0001-39;2024-06-28;1;Rua Amparo do Itororó, bairro Alvorada,Manaus, Amazonas.;MAT. 12.657;16550.4;1;0
-41.650.310/0001-39;2024-06-28;1;Avenida Francisco Queiroz, nº 1.025, Colônia Santo Antônio, Manaus, Amazonas.;MAT. 50.893;6184.99;1;0
-41.650.310/0001-39;2024-06-28;1;Estrada da Compensa, bairro São Raimundo, Manaus, Amazonas.;MAT. 57.618;9000;1;0
-41.650.310/0001-39;2024-06-28;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;MAT. 64.777;1000;1;0
-41.650.310/0001-39;2024-09-30;1;Rua Amparo do Itororó, bairro Alvorada,Manaus, Amazonas.;MAT. 64.777;16550.4;1;0
-41.650.310/0001-39;2024-09-30;1;Avenida Francisco Queiroz, nº 1.025, Colônia Santo Antônio, Manaus, Amazonas.;MAT. 50.893;6184.99;1;0
-41.650.310/0001-39;2024-09-30;1;Estrada da Compensa, bairro São Raimundo, Manaus, Amazonas.;MAT. 57.618;9000;1;0
-41.650.310/0001-39;2024-09-30;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;MAT. 64.777;1000;1;0
-41.650.310/0001-39;2024-12-31;1;Rua Amparo do Itororó, bairro Alvorada,Manaus, Amazonas.;MAT. 12.657;16550.4;1;0
-41.650.310/0001-39;2024-12-31;1;Avenida Francisco Queiroz, nº 1.025, Colônia Santo Antônio, Manaus, Amazonas.;MAT. 50.893;6184.99;1;0
-41.650.310/0001-39;2024-12-31;1;Estrada da Compensa, bairro São Raimundo, Manaus, Amazonas.;MAT. 57.618;9000;1;0
-41.650.310/0001-39;2024-12-31;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;MAT. 64.777;1000;1;0
+41.650.310/0001-39;2024-06-28;1;Rua Amparo do Itororó, bairro Alvorada,Manaus, Amazonas.;MAT. 12.657;16550.4;1;
+41.650.310/0001-39;2024-06-28;1;Avenida Francisco Queiroz, nº 1.025, Colônia Santo Antônio, Manaus, Amazonas.;MAT. 50.893;6184.99;1;
+41.650.310/0001-39;2024-06-28;1;Estrada da Compensa, bairro São Raimundo, Manaus, Amazonas.;MAT. 57.618;9000;1;
+41.650.310/0001-39;2024-06-28;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;MAT. 64.777;1000;1;
+41.650.310/0001-39;2024-09-30;1;Rua Amparo do Itororó, bairro Alvorada,Manaus, Amazonas.;MAT. 64.777;16550.4;1;
+41.650.310/0001-39;2024-09-30;1;Avenida Francisco Queiroz, nº 1.025, Colônia Santo Antônio, Manaus, Amazonas.;MAT. 50.893;6184.99;1;
+41.650.310/0001-39;2024-09-30;1;Estrada da Compensa, bairro São Raimundo, Manaus, Amazonas.;MAT. 57.618;9000;1;
+41.650.310/0001-39;2024-09-30;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;MAT. 64.777;1000;1;
+41.650.310/0001-39;2024-12-31;1;Rua Amparo do Itororó, bairro Alvorada,Manaus, Amazonas.;MAT. 12.657;16550.4;1;
+41.650.310/0001-39;2024-12-31;1;Avenida Francisco Queiroz, nº 1.025, Colônia Santo Antônio, Manaus, Amazonas.;MAT. 50.893;6184.99;1;
+41.650.310/0001-39;2024-12-31;1;Estrada da Compensa, bairro São Raimundo, Manaus, Amazonas.;MAT. 57.618;9000;1;
+41.650.310/0001-39;2024-12-31;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;MAT. 64.777;1000;1;
 41.778.415/0001-78;2024-03-31;1;Lote 11, da Quadra QR-58 Alam das Espatódias, Res Aldeia do Vale;Matrícula 31768;4555.35;1;0
 41.778.415/0001-78;2024-06-30;1;Lote 11, da Quadra QR-58 Alam das Espatódias, Res Aldeia do Vale;Matrícula 31768;4555.35;1;0
 41.833.876/0001-04;2024-03-28;1;Fazenda Uanalua, estrada Trancoso - Arraial D'Ajuda, s/n, Trancoso, Porto Seguro/BA;Direito de propriedade;326698.31;1;1
@@ -1085,16 +1085,16 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 42.537.540/0001-59;2024-09-30;1;avenida do pepê 1124;Lote 10;781;0.124304;0.1025
 42.537.540/0001-59;2024-12-31;1;Avenida Pepe, 1124, Sem Complemento, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22620-171;Direito de Propriedade;781;0.73700813548066;0
 42.537.540/0001-59;2024-12-31;1;Avenida Dos Bandeirantes, S/n°, Sem Complemento, Costazul, Rio Das Ostras/RJ, Brasil, 28895-314;Direito de Propriedade;990;0.26299186451934;0
-42.592.916/0001-28;2024-03-28;1;Município de Altos, PA - matrícula nº 8.571;"Macacas";4489.79;1;0
-42.592.916/0001-28;2024-03-28;1;Município de Altos, PA - matrícula nº 20.081;"Macacos";102781;1;0
-42.592.916/0001-28;2024-03-28;1;Município de Altos, PA - matrícula nº 19.281;"Surubim";3977.5;1;0
-42.592.916/0001-28;2024-06-28;1;Município de Altos, PA - matrícula nº 8.571;"Macacas";4489.79;1;0
-42.592.916/0001-28;2024-06-28;1;Município de Altos, PA - matrícula nº 20.081;"Macacos";102781;1;0
-42.592.916/0001-28;2024-06-28;1;Município de Altos, PA - matrícula nº 19.281;"Surubim";3977.5;1;0
-43.565.147/0001-31;2024-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;0;1
-43.565.147/0001-31;2024-06-30;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;0;1
-43.565.147/0001-31;2024-09-30;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;0;1
-43.565.147/0001-31;2024-12-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;0;1
+42.592.916/0001-28;2024-03-28;1;Município de Altos, PA - matrícula nº 8.571;"Macacas";4489.79;1;
+42.592.916/0001-28;2024-03-28;1;Município de Altos, PA - matrícula nº 20.081;"Macacos";102781;1;
+42.592.916/0001-28;2024-03-28;1;Município de Altos, PA - matrícula nº 19.281;"Surubim";3977.5;1;
+42.592.916/0001-28;2024-06-28;1;Município de Altos, PA - matrícula nº 8.571;"Macacas";4489.79;1;
+42.592.916/0001-28;2024-06-28;1;Município de Altos, PA - matrícula nº 20.081;"Macacos";102781;1;
+42.592.916/0001-28;2024-06-28;1;Município de Altos, PA - matrícula nº 19.281;"Surubim";3977.5;1;
+43.565.147/0001-31;2024-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
+43.565.147/0001-31;2024-06-30;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
+43.565.147/0001-31;2024-09-30;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
+43.565.147/0001-31;2024-12-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 43.671.250/0001-66;2024-06-30;1;Av. Rotary, 710 - S/Nº (Industriais);O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 33.993;3068.05;0.0889;0
 43.671.250/0001-66;2024-06-30;1;Rua Eng. C. Oliveita (Lote 2);O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 33.994;1705.25;0.0404;0
 43.671.250/0001-66;2024-06-30;1;Rua Eng. C. Oliveita (Lote 3);O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 33.995;1660.25;0.0394;0
@@ -1179,7 +1179,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.584.965/0001-44;2024-09-30;1;Rua Pe. Bernardino Pessoa nº 595 - Boa Viagem;NUMEROS 16,32, 46,  - AYME;12313.55;0.2787;0
 44.584.965/0001-44;2024-09-30;1;R. Cônego Amaral Mello, 116 - apartamento 62, Bloco D - Casa Verde, São Paulo/SP, CEP: 02513-030;MATRICULA RGI 173.743 - BIARRITZ;452.7;0.3381;0
 44.584.965/0001-44;2024-09-30;1;Rua Jose Nobre s/n Vila Maria;MATRICULA 54799 - CANDELARIA;215.75;0.342410555636946;0
-44.584.965/0001-44;2024-09-30;1;Caranguatatu;Av. Miramar n840 Jardim Brasil, Caraguatatuba, São Pauloo-SP;500;0.0407631613853507;0
+44.584.965/0001-44;2024-09-30;1;Caranguatatu;Av. Miramar n840 Jardim Brasil, Caraguatatuba, São Pauloo-SP;500;0.0407631613853507;
 44.584.965/0001-44;2024-12-31;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracilia matricula 11.529;0;0.0638072806194535;0
 44.584.965/0001-44;2024-12-31;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 58.931;0;0.0321032886822588;0
 44.584.965/0001-44;2024-12-31;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 101.52;0;0.0321032886822588;0
@@ -1291,14 +1291,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 45.718.511/0001-81;2024-12-31;1;Goiatins - TO;Bloco 35 - Tauá;8124.58;1;0.0106
 45.718.511/0001-81;2024-12-31;1;Palmeirante - TO;Bloco 36 - Bonanza;1793.04;1;-0.0088
 45.718.511/0001-81;2024-12-31;1;Barra do Ouro - TO;Bloco 42 - Lote 33;279.94;1;-0.0109
-47.102.860/0001-08;2024-03-31;1;Rodovia Norte Sul, N 243 (Serra - ES);Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;0
-47.102.860/0001-08;2024-03-31;1;PROJETO HOSPITAL - TERRENO;-;0;1;0
-47.102.860/0001-08;2024-06-30;1;Rodovia Norte Sul, N 243 (Serra - ES);Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;0
-47.102.860/0001-08;2024-06-30;1;PROJETO HOSPITAL - TERRENO;-;0;1;0
-47.102.860/0001-08;2024-09-30;1;Rodovia Norte Sul, N 243 (Serra - ES);Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;0
-47.102.860/0001-08;2024-09-30;1;PROJETO HOSPITAL - TERRENO;-;0;1;0
-47.102.860/0001-08;2024-09-30;1;PROJETO HOSPITAL - N° 104.848;-;0;1;0
-47.102.860/0001-08;2024-12-31;2;Rodovia Norte Sul, N 243 (Serra - ES);PROJETO HOSPITAL (Matricula 104.848) - Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;0
+47.102.860/0001-08;2024-03-31;1;Rodovia Norte Sul, N 243 (Serra - ES);Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
+47.102.860/0001-08;2024-03-31;1;PROJETO HOSPITAL - TERRENO;-;0;1;
+47.102.860/0001-08;2024-06-30;1;Rodovia Norte Sul, N 243 (Serra - ES);Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
+47.102.860/0001-08;2024-06-30;1;PROJETO HOSPITAL - TERRENO;-;0;1;
+47.102.860/0001-08;2024-09-30;1;Rodovia Norte Sul, N 243 (Serra - ES);Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
+47.102.860/0001-08;2024-09-30;1;PROJETO HOSPITAL - TERRENO;-;;1;
+47.102.860/0001-08;2024-09-30;1;PROJETO HOSPITAL - N° 104.848;-;;1;
+47.102.860/0001-08;2024-12-31;2;Rodovia Norte Sul, N 243 (Serra - ES);PROJETO HOSPITAL (Matricula 104.848) - Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
 48.904.259/0001-93;2024-03-31;1;Rua José Sarraceni, 88;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.389;910;0.0726;0
 48.904.259/0001-93;2024-03-31;1;Rua José Sarraceni, 46;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.390;1232;0.0983;0
 48.904.259/0001-93;2024-03-31;1;Av. C.F. Endres, S/N;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.079;99.06;0.0079;0
@@ -1327,22 +1327,22 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 48.904.259/0001-93;2024-12-31;1;Av. C.F. Endres, 93,95,97;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 9.459;340.47;0.0272;0
 48.904.259/0001-93;2024-12-31;1;Rua José Sarraceni, 162;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 34.008;5153.05;0.4111;0
 48.904.259/0001-93;2024-12-31;1;Rua José Sarraceni, 202,204,228;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 34.009;4158.36;0.3317;0
-48.955.582/0001-96;2024-03-31;1;KM 52 da Rodovia Fernão Dias, Bairro do Portão, Área Urbana 1.;Um terreno situado na área urbuna 1do município;23252.8;0.04;0
-48.955.582/0001-96;2024-03-31;1;Margem direira da Rodovia Cuiabá, Rondonópolis, Cuiabá/MT.;São terrenos dividido em 02 áreas sendo a primeira de 1889,4 metros quadrados e a segunda 6750,60 metros quadrados;8640;0.16;0
-48.955.582/0001-96;2024-03-31;1;Estrada Martin Felix Berta, Porto Alegre - RS;É terreno de forma irregular situado na Estrada Martin Felix Berta;209286.4908;0.63;0
-48.955.582/0001-96;2024-03-31;1;Distrito Industrial e Comercial, Cuiabá/ MT.;É uma area de terrasde 25200,00 metros quadrados no Distritro industrial e comercial;25200;0.17;0
-48.955.582/0001-96;2024-06-30;1;KM 52 da Rodovia Fernão Dias, Bairro do Portão, Área Urbana 1.;Um terreno situado na área urbuna do município;23252.8;0.04;0
-48.955.582/0001-96;2024-06-30;1;Margem direira da Rodovia Cuiabá, Rondonópolis, Cuiabá/MT.;São terrenos dividido em 02 áreas sendo a primeira de 1889,4 metros quadrados e a segunda 6750,60 metros quadrados;8640;0.16;0
-48.955.582/0001-96;2024-06-30;1;Estrada Martin Felix Berta, Porto Alegre - RS;É terreno de forma irregular situado na Estrada Martin Felix Berta;209286.4908;0.63;0
-48.955.582/0001-96;2024-06-30;1;Distrito Industrial e Comercial, Cuiabá/ MT.;É uma area de terras de 25.200,00 metros quadrados no Distritro industrial e comercial.;25200;0.17;0
-48.955.582/0001-96;2024-09-30;1;KM 52 da Rodovia Fernão Dias, Bairro do Portão, Área Urbana 1.;Um terreno situado na área urbuna do município;23252.8;0.04;0
-48.955.582/0001-96;2024-09-30;1;Margem direira da Rodovia Cuiabá, Rondonópolis, Cuiabá/MT.;São terrenos dividido em 02 áreas sendo a primeira de 1889,4 metros quadrados e a segunda 6750,60 metros quadrados;8640;0.16;0
-48.955.582/0001-96;2024-09-30;1;Estrada Martin Felix Berta, Porto Alegre - RS;É terreno de forma irregular situado na Estrada Martin Felix Berta;209286.4908;0.63;0
-48.955.582/0001-96;2024-09-30;1;Distrito Industrial e Comercial, Cuiabá/ MT.;É uma area de terras de 25.200,00 metros quadrados no Distritro industrial e comercial.;25200;0.17;0
-48.955.582/0001-96;2024-12-31;1;KM 52 da Rodovia Fernão Dias, Bairro do Portão, Área Urbana 1.;Um terreno situado na área urbuna do município;23252.8;0.04;0
-48.955.582/0001-96;2024-12-31;1;Margem direira da Rodovia Cuiabá, Rondonópolis, Cuiabá/MT.;São terrenos dividido em 02 áreas sendo a primeira de 1889,4 metros quadrados e a segunda 6750,60 metros quadrados;8640;0.16;0
-48.955.582/0001-96;2024-12-31;1;Estrada Martin Felix Berta, Porto Alegre - RS;É terreno de forma irregular situado na Estrada Martin Felix Berta;209286.4908;0.63;0
-48.955.582/0001-96;2024-12-31;1;Distrito Industrial e Comercial, Cuiabá/ MT.;É uma area de terras de 25.200,00 metros quadrados no Distritro industrial e comercial.;25200;0.17;0
+48.955.582/0001-96;2024-03-31;1;KM 52 da Rodovia Fernão Dias, Bairro do Portão, Área Urbana 1.;Um terreno situado na área urbuna 1do município;23252.8;0.04;
+48.955.582/0001-96;2024-03-31;1;Margem direira da Rodovia Cuiabá, Rondonópolis, Cuiabá/MT.;São terrenos dividido em 02 áreas sendo a primeira de 1889,4 metros quadrados e a segunda 6750,60 metros quadrados;8640;0.16;
+48.955.582/0001-96;2024-03-31;1;Estrada Martin Felix Berta, Porto Alegre - RS;É terreno de forma irregular situado na Estrada Martin Felix Berta;209286.4908;0.63;
+48.955.582/0001-96;2024-03-31;1;Distrito Industrial e Comercial, Cuiabá/ MT.;É uma area de terrasde 25200,00 metros quadrados no Distritro industrial e comercial;25200;0.17;
+48.955.582/0001-96;2024-06-30;1;KM 52 da Rodovia Fernão Dias, Bairro do Portão, Área Urbana 1.;Um terreno situado na área urbuna do município;23252.8;0.04;
+48.955.582/0001-96;2024-06-30;1;Margem direira da Rodovia Cuiabá, Rondonópolis, Cuiabá/MT.;São terrenos dividido em 02 áreas sendo a primeira de 1889,4 metros quadrados e a segunda 6750,60 metros quadrados;8640;0.16;
+48.955.582/0001-96;2024-06-30;1;Estrada Martin Felix Berta, Porto Alegre - RS;É terreno de forma irregular situado na Estrada Martin Felix Berta;209286.4908;0.63;
+48.955.582/0001-96;2024-06-30;1;Distrito Industrial e Comercial, Cuiabá/ MT.;É uma area de terras de 25.200,00 metros quadrados no Distritro industrial e comercial.;25200;0.17;
+48.955.582/0001-96;2024-09-30;1;KM 52 da Rodovia Fernão Dias, Bairro do Portão, Área Urbana 1.;Um terreno situado na área urbuna do município;23252.8;0.04;
+48.955.582/0001-96;2024-09-30;1;Margem direira da Rodovia Cuiabá, Rondonópolis, Cuiabá/MT.;São terrenos dividido em 02 áreas sendo a primeira de 1889,4 metros quadrados e a segunda 6750,60 metros quadrados;8640;0.16;
+48.955.582/0001-96;2024-09-30;1;Estrada Martin Felix Berta, Porto Alegre - RS;É terreno de forma irregular situado na Estrada Martin Felix Berta;209286.4908;0.63;
+48.955.582/0001-96;2024-09-30;1;Distrito Industrial e Comercial, Cuiabá/ MT.;É uma area de terras de 25.200,00 metros quadrados no Distritro industrial e comercial.;25200;0.17;
+48.955.582/0001-96;2024-12-31;1;KM 52 da Rodovia Fernão Dias, Bairro do Portão, Área Urbana 1.;Um terreno situado na área urbuna do município;23252.8;0.04;
+48.955.582/0001-96;2024-12-31;1;Margem direira da Rodovia Cuiabá, Rondonópolis, Cuiabá/MT.;São terrenos dividido em 02 áreas sendo a primeira de 1889,4 metros quadrados e a segunda 6750,60 metros quadrados;8640;0.16;
+48.955.582/0001-96;2024-12-31;1;Estrada Martin Felix Berta, Porto Alegre - RS;É terreno de forma irregular situado na Estrada Martin Felix Berta;209286.4908;0.63;
+48.955.582/0001-96;2024-12-31;1;Distrito Industrial e Comercial, Cuiabá/ MT.;É uma area de terras de 25.200,00 metros quadrados no Distritro industrial e comercial.;25200;0.17;
 48.984.698/0001-53;2024-03-31;1;Rodovia Tancredo de Almeida Neves, Km 53.5, Jardim Santa Gertrudes, Município de Jundiaí, Estado de São Paulo.;Matrícula nº 75.634;32612.08;0.96471;1
 48.984.698/0001-53;2024-06-30;1;Rodovia Tancredo de Almeida Neves, Km 53.5, Jardim Santa Gertrudes, Município de Jundiaí, Estado de São Paulo.;Matrícula nº 75.634;32612.08;0.96471;1
 48.984.698/0001-53;2024-09-30;1;Rodovia Tancredo de Almeida Neves, Km 53.5, Jardim Santa Gertrudes, Município de Jundiaí, Estado de São Paulo.;Matrícula nº 75.634;32612.08;0.96471;1
@@ -1439,9 +1439,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 51.889.479/0001-08;2024-12-31;2;LAGES - mat. 36.632;Rua Hirto Luiz Melegari, 465 - Sagrado Coração de Jesus, Lages/SC;9310.7;0.1911;0.1926
 51.889.479/0001-08;2024-12-31;2;SANTA MARIA - mat.107.647;Avenida Maestro Roberto Barbosa Ribas, Bairro Juscelino Kubitschek - Santa Maria;29713.42;0.0753;0.0759
 51.889.479/0001-08;2024-12-31;2;SÃO GABRIEL - Mat.4.42;Av. Francisco Chagas, 1540 - São Gabriel - RS;16348;0.0273;0.0275
-52.321.885/0001-24;2024-03-28;2;Luziânia/GO-Loteamento com 344 lotes;BRASÍLIA 664;1283.52;1;0
-52.321.885/0001-24;2024-03-28;2;Fazenda Coroa Grande 01 - 146 há -Pará de Minas - MG;FAZENDA DA COROA GRANDE -Matricula 5241;146;1;0
-52.321.885/0001-24;2024-03-28;2;Luziânia/GO-Loteamento;BRASÍLIA 802 - 306;334;1;0
+52.321.885/0001-24;2024-03-28;2;Luziânia/GO-Loteamento com 344 lotes;BRASÍLIA 664;1283.52;1;
+52.321.885/0001-24;2024-03-28;2;Fazenda Coroa Grande 01 - 146 há -Pará de Minas - MG;FAZENDA DA COROA GRANDE -Matricula 5241;146;1;
+52.321.885/0001-24;2024-03-28;2;Luziânia/GO-Loteamento;BRASÍLIA 802 - 306;334;1;
 52.371.756/0001-40;2024-09-30;2;ARAUCÁRIA - Rodovia PR-423, 3301, Bairro Boqueirão;Matrícula 63.339;358507.08;1;0
 52.371.756/0001-40;2024-12-31;2;ARAUCÁRIA - Rodovia PR-423, 3301, Bairro Boqueirão;Matrícula 63.339;358507.08;1;0
 52.551.605/0001-74;2024-06-30;1;EDIF.A MESSI-Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. A - Messier Unid. 01 a 04;Matrícula 133478;28703.84;0.13994004376385;0
@@ -1474,8 +1474,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 52.551.605/0001-74;2024-12-31;1;EDIF.F JACAR-Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. F - Jacarandá Unid. 39 a 41;Matrícula 101100;4953.25;0.0211533682539073;0
 52.551.605/0001-74;2024-12-31;1;EDIF.G JEQUI-Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. G - Jequitibá Unid. 42 a 44;Matrícula 101100;8656.07;0.0369023223074755;0
 52.551.605/0001-74;2024-12-31;1;EDIF.H MOGNO-Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. H - Mogno Unid. 45 e 46;Matrícula 101100;5790.16;0.0246841098787605;0
-52.589.406/0001-55;2024-09-30;1;GALPÃO LOGÍSTICO - MT. 119.123 119.124 119.125;GALPÃO LOGÍSTICO - MT. 119.123 119.124 119.125;0;0;0
-52.589.406/0001-55;2024-12-31;1;GALPÃO LOGÍSTICO - MT. 119.123 119.124 119.125;GALPÃO LOGÍSTICO - MT. 119.123 119.124 119.125;0;0;0
+52.589.406/0001-55;2024-09-30;1;GALPÃO LOGÍSTICO - MT. 119.123 119.124 119.125;GALPÃO LOGÍSTICO - MT. 119.123 119.124 119.125;0;0;
+52.589.406/0001-55;2024-12-31;1;GALPÃO LOGÍSTICO - MT. 119.123 119.124 119.125;GALPÃO LOGÍSTICO - MT. 119.123 119.124 119.125;0;0;
 52.635.194/0001-03;2024-09-30;1;Rua josé Maria Lisboa, 42;Projeto JML;137;0.154268;0
 52.635.194/0001-03;2024-09-30;1;Rua josé Maria Lisboa, 46;Projeto JML;143;0.160912;0
 52.635.194/0001-03;2024-09-30;1;Rua josé Maria Lisboa, 54;Projeto JML;108;0.162442;0
@@ -1487,8 +1487,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 52.635.194/0001-03;2024-12-31;1;Rua josé Maria Lisboa, 54;Projeto JML;108;0.10756;0
 52.635.194/0001-03;2024-12-31;1;Rua josé Maria Lisboa, 56;Projeto JML;115;0.081839;0
 52.635.194/0001-03;2024-12-31;1;Rua Saint Hilaire, 51;Projeto JML;171;0.145168;0
-52.984.403/0001-16;2024-12-31;1;Com limites na rodovia MT-130 , margem esquerda do rio jatoba, zona rural, cidade de paranatinga, estado do mato grosso;imóvel rural - Matricula 10384 / 21.364;7144.2;0;0
-52.984.403/0001-16;2024-12-31;1;Com limtes a Rodovia MS-337 a 152km, Pantanal de Nhecolandia, Cidade de Aquidauana, Estado do Mato Grosso do Sul;imóvel rural sS- Matricula 20.241;22996.05;0;0
+52.984.403/0001-16;2024-12-31;1;Com limites na rodovia MT-130 , margem esquerda do rio jatoba, zona rural, cidade de paranatinga, estado do mato grosso;imóvel rural - Matricula 10384 / 21.364;7144.2;;
+52.984.403/0001-16;2024-12-31;1;Com limtes a Rodovia MS-337 a 152km, Pantanal de Nhecolandia, Cidade de Aquidauana, Estado do Mato Grosso do Sul;imóvel rural sS- Matricula 20.241;22996.05;;
 53.072.782/0001-30;2024-03-31;1;Alameda Jaú, nº 1.208 e 1.200;-;1010.25;0;0
 53.072.782/0001-30;2024-09-30;2;Alameda Jaú, números 1.200 e 1.208 - Jardins, São Paulo/SP;-;443;1;0
 53.087.126/0001-01;2024-06-28;1;Estr. de Acesso Ao Cetur - Tarumã, Manaus - AM, 69022-155;Há o contrato de compra e venda do loteamento com a cessão de direitos ao fundo.;6112;0.433791079549273;0
@@ -1497,10 +1497,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 53.087.126/0001-01;2024-09-30;1;Estr. Palmeira - Três Barras, Garuva - SC, 89248-000;Há o contrato de compra e venda do loteamento com a transferência da escritura para o fundo;17705.46;0.643965484413706;0
 53.087.126/0001-01;2024-12-31;1;Estr. de Acesso Ao Cetur - Tarumã, Manaus - AM, 69022-155;Há o contrato de compra e venda do loteamento com a cessão de direitos ao fundo.;6112;0.356034515586294;0
 53.087.126/0001-01;2024-12-31;1;Estr. Palmeira - Três Barras, Garuva - SC, 89248-000;Há o contrato de compra e venda do loteamento com a transferência da escritura para o fundo;17705.46;0.643965484413706;0
-53.127.942/0001-00;2024-03-31;1;Rua Alameda Gabriel Monteiro, 1193;Um prédio que recebeu o n° 1193, na Rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno,  no 20° Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caracterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;0
-53.127.942/0001-00;2024-06-30;1;Rua Alameda Gabriel Monteiro, 1193;Um prédio que recebeu o n° 1193, na Rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno,  no 20° Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caracterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;0
-53.127.942/0001-00;2024-09-30;1;Rua Alameda Gabriel Monteiro,1193;Um prédio que recebeu o nº 1193, na rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno, no 20º Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da Cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caraterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;0
-53.127.942/0001-00;2024-12-31;1;Rua Alameda Gabriel Monteiro,1193;Um prédio que recebeu o nº 1193, na rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno, no 20º Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da Cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caraterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;0
+53.127.942/0001-00;2024-03-31;1;Rua Alameda Gabriel Monteiro, 1193;Um prédio que recebeu o n° 1193, na Rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno,  no 20° Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caracterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;
+53.127.942/0001-00;2024-06-30;1;Rua Alameda Gabriel Monteiro, 1193;Um prédio que recebeu o n° 1193, na Rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno,  no 20° Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caracterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;
+53.127.942/0001-00;2024-09-30;1;Rua Alameda Gabriel Monteiro,1193;Um prédio que recebeu o nº 1193, na rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno, no 20º Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da Cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caraterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;
+53.127.942/0001-00;2024-12-31;1;Rua Alameda Gabriel Monteiro,1193;Um prédio que recebeu o nº 1193, na rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno, no 20º Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da Cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caraterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;
 53.191.611/0001-20;2024-12-31;1;TERRENO BR364;TERRENO BR364;0;0;0
 53.313.475/0001-02;2024-06-30;1;FAZENDA RIO BONITO1;MATRICULA 14830;354.0515;1;0
 53.313.475/0001-02;2024-06-30;1;FAZENDA COLISEU;MATRICULA 14831;445.9622;1;0
@@ -1508,12 +1508,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 53.313.475/0001-02;2024-09-30;1;FAZENDA COLISEU;MATRICULA 14831;445.9622;0.5574;0.5
 53.313.475/0001-02;2024-12-31;1;FAZENDA RIO BONITO1;MATRICULA 14830;354.0515;0.4428;0.5
 53.313.475/0001-02;2024-12-31;1;FAZENDA COLISEU;MATRICULA 14831;445.9622;0.5572;0.5
-54.064.962/0001-33;2024-03-31;1;CANITAR;MATRÍCULA 08;0;0;0.13546
-54.064.962/0001-33;2024-03-31;1;CANITAR;MATRÍCULA 09;0;0;0.13546
-54.064.962/0001-33;2024-03-31;1;CANITAR;MATRÍCULA 12;0;0;0.13546
-54.064.962/0001-33;2024-03-31;1;GLEBA-B, CANITAR-SP;MATRÍCULA 1941;683451.3937;0;0.22163
-54.064.962/0001-33;2024-03-31;1;GLEBA-A, CANITAR-SP;MATRÍCULA 2856;490764.7691;0;0.15915
-54.064.962/0001-33;2024-03-31;1;GLEBA-C, CANITAR-SP;MATRÍCULA 2858;118047.2311;0;0.0383
+54.064.962/0001-33;2024-03-31;1;CANITAR;MATRÍCULA 08;;;0.13546
+54.064.962/0001-33;2024-03-31;1;CANITAR;MATRÍCULA 09;;;0.13546
+54.064.962/0001-33;2024-03-31;1;CANITAR;MATRÍCULA 12;;;0.13546
+54.064.962/0001-33;2024-03-31;1;GLEBA-B, CANITAR-SP;MATRÍCULA 1941;683451.3937;;0.22163
+54.064.962/0001-33;2024-03-31;1;GLEBA-A, CANITAR-SP;MATRÍCULA 2856;490764.7691;;0.15915
+54.064.962/0001-33;2024-03-31;1;GLEBA-C, CANITAR-SP;MATRÍCULA 2858;118047.2311;;0.0383
 54.064.962/0001-33;2024-06-30;1;MAT 08-SÍTIO, CANITAR-SP;MATRÍCULA 08;774400;0.43036;0.16019
 54.064.962/0001-33;2024-06-30;1;MAT 09-PROP AGRIC, CANITAR-SP;MATRÍCULA 09;786500;0.43036;0.16019
 54.064.962/0001-33;2024-06-30;1;MAT 12-IMOVEL RURAL, CANITAR-SP;MATRÍCULA 12;807796;0.43036;0.16019
@@ -1535,21 +1535,21 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 54.089.614/0001-10;2024-06-30;1;PARK JANDIRA;MATR 137280;18047.51;1;0
 54.089.614/0001-10;2024-09-30;1;Jandira, SP;PARK JANDIRA;18047.51;1;0
 54.089.614/0001-10;2024-12-31;1;Jandira, SP;PARK JANDIRA;18047.51;1;0
-54.275.309/0001-13;2024-03-31;1;TERRENO GUARUJÁ;MATRÍCULA 71.186;1131;0;0.24395
-54.275.309/0001-13;2024-03-31;1;TERRENO IGUAPE;MATRÍCULA 151.749;921.77;0;0.06818
-54.275.309/0001-13;2024-03-31;1;TERRENO MARGINAL TIETÊ;MATRÍCULA 125.792;600;0;0.30168
+54.275.309/0001-13;2024-03-31;1;TERRENO GUARUJÁ;MATRÍCULA 71.186;1131;;0.24395
+54.275.309/0001-13;2024-03-31;1;TERRENO IGUAPE;MATRÍCULA 151.749;921.77;;0.06818
+54.275.309/0001-13;2024-03-31;1;TERRENO MARGINAL TIETÊ;MATRÍCULA 125.792;600;;0.30168
 54.275.309/0001-13;2024-06-30;1;Terreno composto dos lotes nº 01,02,03 e 04, da quadra nº 08, no loteamento Jardim Conceiçãozinha, situado no distrito de Vicente de Carvalho, município e comarca de Guarujá-SP;MATRÍCULA 71.186;1131;0.3243;0.32419
 54.275.309/0001-13;2024-06-30;1;PARTE A, do Lote 2 da Quadra A, situado no Parque Industrial-Catanduva;MATRÍCULA 26.103;1999.2;0.15269;0.15264
 54.275.309/0001-13;2024-09-30;1;Terreno composto dos lotes nº 01,02,03 e 04, da quadra nº 08, no loteamento Jardim Conceiçãozinha, situado no distrito de Vicente de Carvalho, município e comarca de Guarujá-SP;MATRÍCULA 71.186;1131;0.3243;0.32419
 54.275.309/0001-13;2024-09-30;1;PARTE A, do Lote 2 da Quadra A, situado no Parque Industrial-Catanduva;MATRÍCULA 26.103;1999.2;0.15269;0.15264
 54.275.309/0001-13;2024-12-31;1;Terreno composto dos lotes nº 01,02,03 e 04, da quadra nº 08, no loteamento Jardim Conceiçãozinha, situado no distrito de Vicente de Carvalho, município e comarca de Guarujá-SP;MATRÍCULA 71.186;1131;0.3243;0.32419
 54.275.309/0001-13;2024-12-31;1;PARTE A, do Lote 2 da Quadra A, situado no Parque Industrial-Catanduva;MATRÍCULA 26.103;1999.2;0.15269;0.15264
-54.417.489/0001-20;2024-06-28;3;FAZENDA NOSSA SENHORA APARECIDA;MATRICULA 16.434;510578;1;0
-54.417.489/0001-20;2024-06-28;3;FAZENDA ISABELA;MATRICULA 16.191;429462;1;0
-54.417.489/0001-20;2024-06-28;3;FAZENDA BONANZA;MATRICULA 7.381;484000;1;0
-54.417.489/0001-20;2024-09-30;1;FAZENDA NOSSA SENHORA APARECIDA;MATRICULA 16.434;510578;1;0
-54.417.489/0001-20;2024-09-30;1;FAZENDA ISABELA;MATRICULA 16.191;429462;1;0
-54.417.489/0001-20;2024-09-30;1;FAZENDA BONANZA;MATRICULA 7.381;484000;1;0
+54.417.489/0001-20;2024-06-28;3;FAZENDA NOSSA SENHORA APARECIDA;MATRICULA 16.434;510578;1;
+54.417.489/0001-20;2024-06-28;3;FAZENDA ISABELA;MATRICULA 16.191;429462;1;
+54.417.489/0001-20;2024-06-28;3;FAZENDA BONANZA;MATRICULA 7.381;484000;1;
+54.417.489/0001-20;2024-09-30;1;FAZENDA NOSSA SENHORA APARECIDA;MATRICULA 16.434;510578;1;
+54.417.489/0001-20;2024-09-30;1;FAZENDA ISABELA;MATRICULA 16.191;429462;1;
+54.417.489/0001-20;2024-09-30;1;FAZENDA BONANZA;MATRICULA 7.381;484000;1;
 54.417.489/0001-20;2024-12-31;1;FAZENDA NOSSA SENHORA APARECIDA;MATRICULA 16.434;510578;1;0
 54.417.489/0001-20;2024-12-31;1;FAZENDA ISABELA;MATRICULA 16.191;429462;1;0
 54.417.489/0001-20;2024-12-31;1;FAZENDA BONANZA;MATRICULA 7.381;484000;1;0
@@ -1559,18 +1559,18 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 55.089.373/0001-72;2024-06-28;1;Rua 1128, nº 827;não há;12829.51;1;0
 55.089.373/0001-72;2024-09-30;1;Rua 1128, 827, - Itajuba. CEP: 88390000. Barra Velha - Santa Cat;Registro de Imóveis da Comarca de Barra Velha - SC;12829.51;1;0
 55.089.373/0001-72;2024-12-31;1;Rua 1128, 827, - Itajuba. CEP: 88390000. Barra Velha - Santa Cat;Registro de Imóveis da Comarca de Barra Velha - SC - Matricula 40446;12829.51;1;0
-56.028.598/0001-81;2024-09-30;1;Município de Altos, PA - matrícula nº 8.571;"Macacas";4489.79;1;0
-56.028.598/0001-81;2024-09-30;1;Município de Altos, PA - matrícula nº 20.081;"Macacos";102781;1;0
-56.028.598/0001-81;2024-09-30;1;Município de Altos, PA - matrícula nº 19.281;"Surubim";3977.5;1;0
-56.028.598/0001-81;2024-12-31;1;Município de Altos, PA - matrícula nº 8.571;"Macacas";4489.79;1;0
-56.028.598/0001-81;2024-12-31;1;Município de Altos, PA - matrícula nº 20.081;"Macacos";102781;1;0
-56.028.598/0001-81;2024-12-31;1;Município de Altos, PA - matrícula nº 19.281;"Surubim";3977.5;1;0
-57.077.139/0001-50;2024-12-31;1;Rua Alameda Gabriel Monteiro, 1193;Um prédio que recebeu o n° 1193, na Rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno,  no 20° Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caracterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;0
-57.961.321/0001-70;2024-12-31;1;AVENIDA DOUTOR MARTIN LUTHER KING, S/N - LOTE 2 QD 1 - Umuarama - Osasco - SP;Loteamento Jardim Santo Antoninho;5288.62;0.25;0
-57.961.321/0001-70;2024-12-31;1;AVENIDA DOUTOR MARTIN LUTHER KING, S/N - LOTE 3 QD 1 - Umuarama - Osasco - SP;Loteamento Jardim Santo Antoninho;5767.73;0.27;0
-57.961.321/0001-70;2024-12-31;1;ALAMEDA PAINEIRA VERMELHA, 168 - LOTE 4 QD 11 - Adalgisa - Osasco - SP;Loteamento Jardim Lorian;4902.69;0.23;0
-57.961.321/0001-70;2024-12-31;1;AVENIDA MANOEL DE NÓBREGA - RADIALISTA, S/N - L 11 Q H - Adalgisa - Osasco - SP;Loteamento Jardim Adalgiza II;435;0.02;0
-57.961.321/0001-70;2024-12-31;1;ALAMEDA PAINEIRA VERMELHA, 146 - LOTE 3 QD 11 - Adalgisa - Osasco - SP;Loteamento Jardim Lorian;5004.19;0.23;0
+56.028.598/0001-81;2024-09-30;1;Município de Altos, PA - matrícula nº 8.571;"Macacas";4489.79;1;
+56.028.598/0001-81;2024-09-30;1;Município de Altos, PA - matrícula nº 20.081;"Macacos";102781;1;
+56.028.598/0001-81;2024-09-30;1;Município de Altos, PA - matrícula nº 19.281;"Surubim";3977.5;1;
+56.028.598/0001-81;2024-12-31;1;Município de Altos, PA - matrícula nº 8.571;"Macacas";4489.79;1;
+56.028.598/0001-81;2024-12-31;1;Município de Altos, PA - matrícula nº 20.081;"Macacos";102781;1;
+56.028.598/0001-81;2024-12-31;1;Município de Altos, PA - matrícula nº 19.281;"Surubim";3977.5;1;
+57.077.139/0001-50;2024-12-31;1;Rua Alameda Gabriel Monteiro, 1193;Um prédio que recebeu o n° 1193, na Rua Alameda Gabriel Monteiro da Silva e seu respectivo terreno,  no 20° Subdistrito, Jardim América, no 13º Oficial Registro de Imóveis Comarca e Circunscrição Imobiliária da cidade de São Paulo, Capital, com a área de terreno de 1.032,00m², perfeitamente descrito e caracterizado na matrícula nº 90.334, do 13º Oficial Registro de Imóveis da Comarca de São Paulo/SP.;1032;0.955368;
+57.961.321/0001-70;2024-12-31;1;AVENIDA DOUTOR MARTIN LUTHER KING, S/N - LOTE 2 QD 1 - Umuarama - Osasco - SP;Loteamento Jardim Santo Antoninho;5288.62;0.25;
+57.961.321/0001-70;2024-12-31;1;AVENIDA DOUTOR MARTIN LUTHER KING, S/N - LOTE 3 QD 1 - Umuarama - Osasco - SP;Loteamento Jardim Santo Antoninho;5767.73;0.27;
+57.961.321/0001-70;2024-12-31;1;ALAMEDA PAINEIRA VERMELHA, 168 - LOTE 4 QD 11 - Adalgisa - Osasco - SP;Loteamento Jardim Lorian;4902.69;0.23;
+57.961.321/0001-70;2024-12-31;1;AVENIDA MANOEL DE NÓBREGA - RADIALISTA, S/N - L 11 Q H - Adalgisa - Osasco - SP;Loteamento Jardim Adalgiza II;435;0.02;
+57.961.321/0001-70;2024-12-31;1;ALAMEDA PAINEIRA VERMELHA, 146 - LOTE 3 QD 11 - Adalgisa - Osasco - SP;Loteamento Jardim Lorian;5004.19;0.23;
 57.965.466/0001-49;2024-09-30;1;Av. Jandira, 374 - São Paulo, SP 04080-002;N/A;186;0.013624;0
 57.965.466/0001-49;2024-09-30;1;Al. dos Maracatins, 887 - São Paulo, SP 04089-012;N/A;340;0.052525;0
 57.965.466/0001-49;2024-09-30;1;Al. dos Maracatins, 857 - São Paulo, SP 04089-012;N/A;1665;0.760593;0

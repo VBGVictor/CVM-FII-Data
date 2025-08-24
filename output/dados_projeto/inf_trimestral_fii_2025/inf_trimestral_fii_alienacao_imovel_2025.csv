@@ -129,7 +129,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 41.325.993/0001-59;2025-06-30;1;IVC Jh Palhano;Rua João Huss,520, Cidade de Londrina, no Estado do Paraná;2025-05-27;201.82;4;matrícula 60.110 do 1º Ofício de Registro de Imóveis - unidades 503, 1403, 1803, 1902;0.0071;0.0051
 42.592.868/0001-78;2025-06-30;1;Edifício Panamerica Green Park;Av. Guido Caloi 1000, São Paulo, SP, 05802-140;2025-04-15;4843.86;4;Foram emitidos Certificados de Recebíveis Imobiliários ("CRI"), Série 1ª, 2ª,3ª e 4ª  da 8ª ,13ª,14ª,39ª e 40ª Emissão da OPEA Securitizadora SA, adquiridos em sua totalidade Itaú. Em garantia dos pagamentos destes CRIs, foi outorgado alienação fiduciária sobre a totalidade das cotas de emissão, do imóvel do FII e a cessão de recebíbeis.;1;0.7878
 43.008.884/0001-33;2025-03-31;1;Edificio Edson;Rua Edson, 1400, Sem Complemento, Campo Belo, São Paulo/SP, Brasil, 04618-035;2025-02-10;2343.45;1;Direito de propriedade.;0.14669544815811;0.14710012232282
-43.010.844/0001-26;2025-06-30;1;Hotel Selina;Avenida Vieira De Carvalho, 99, Sem Complemento, Republica, Sao Paulo/SP, Brasil, 01210-010;2025-05-18;5394;1;Direito de propriedade;0.02601135891742;0.02622441870469
+43.010.844/0001-26;2025-06-30;2;Hotel Selina;Avenida Vieira De Carvalho, 99, Sem Complemento, Republica, Sao Paulo/SP, Brasil, 01210-010;2025-05-18;5394;1;Direito de propriedade;0.02601135891742;0.02622441870469
 47.154.849/0001-83;2025-03-31;1;SKY_1211;R. da Paz, 1601;2025-02-20;75.5;1;Nenhuma característica relevante;0.003014;0.001677
 47.154.849/0001-83;2025-03-31;1;SKY_1401;R. da Paz, 1601;2025-02-03;76.9;1;Nenhuma característica relevante;0.003298;0.001835
 47.154.849/0001-83;2025-03-31;1;SKY_1418;R. da Paz, 1601;2025-02-03;76.9;1;Nenhuma característica relevante;0.003298;0.001835
@@ -218,7 +218,6 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 47.154.849/0001-83;2025-03-31;1;GOGH2606;R. Bancário Francisco M Sobreira, 51;2025-01-07;192.8;1;Nenhuma característica relevante;0.006552;0.003645
 47.154.849/0001-83;2025-03-31;1;GOGH2608;R. Bancário Francisco M Sobreira, 51;2025-03-21;134.9;1;Nenhuma característica relevante;0.004744;0.00264
 48.916.699/0001-60;2025-03-31;1;Condominio Faria Lima Plaza - FLP;Avenida Brigadeiro Faria Lima, 929, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05426-100;2025-01-07;69342112;191;Direito de Propriedade;0.31196238502451;42.6442433138565
-49.489.928/0001-70;2025-06-30;1;N/A;;;;;N/A;;
 51.472.985/0001-99;2025-06-30;1;N/A;;;;;N/A;;
 51.870.412/0001-13;2025-03-31;1;Coral Gables - Vetter;Av. Antônio Joaquim Tavares, nº 824, Bairro Centro, Penha, Estado de Santa Catarina, CEP 88.838-000.;2025-01-17;132.13;1;N/A;0.1569;0.001951
 51.870.412/0001-13;2025-03-31;1;Alpha Houses I - Modena;Estrada Lula Chaves, 386 - Santana do Parnaíba;2025-01-24;514.44;2;N/A;0.2862;0.00294
@@ -241,4 +240,3 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 58.561.306/0001-05;2025-06-30;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;2025-06-03;384.81;1;Cj 82 - localizado no 8º andar, com área privativa de 384,81m², objeto da matrícula nº 52084 do 4° registro de imóveis.;0.34362;0.341951
 58.561.306/0001-05;2025-06-30;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;2025-06-03;140.1;6;Vagas de garagem nº 93 a 98, localizadas no 1º subsolo, sendo cada vaga objeto de matrícula distinta (nº respectivos 52.223 a 52.228), com área construída de 23,35m² cada. As 6 vagas somam 140,10m².;0.125104;0.124496
 58.561.306/0001-05;2025-06-30;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;2025-06-03;46.7;2;Vagas de garagem nº 33 a 34, localizadas no 2º subsolo, sendo cada vaga objeto de matrícula distinta (nº respectivos 52.378 a 52.379), com área construída de 23,35m² cada. As 2 vagas somam 46,70m².;0.041701;0.041499
-59.680.687/0001-04;2025-06-30;1;N/A;;;;;N/A;;

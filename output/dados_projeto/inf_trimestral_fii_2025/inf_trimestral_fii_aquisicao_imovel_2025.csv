@@ -110,7 +110,6 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 47.669.336/0001-05;2025-06-30;1;AP NEO SUPER;AV CANDIDO DE ABREU 470 - CURITIBA - PR;27;1;Matrícula nº 269394;0.0317;Renda
 47.669.336/0001-05;2025-06-30;1;AP NEO SUPER;RUA DA GLORIA 251 CURITIBA - PR;49;1;MATRICULA 72442;0.0407;Renda
 47.669.336/0001-05;2025-06-30;1;VAGA GARAGEM;RUA DA GLORIA 251 CURITIBA - PR;27;1;MATRICULA 56527;0.0026;Renda
-49.489.928/0001-70;2025-06-30;1;N/A;;;;N/A;;
 49.592.781/0001-40;2025-03-31;1;BLOG Garuva;Rodovia SC - 417, 11915, Bairro Mina Velha, Garuva/SC;22790;1;Galpão de uso logístico industrial com 22.789 m² de área bruta locável entregue, localizado em Garuva, Santa Catarina, dentro de um terreno com área total de 61.737 m². O ativo, configurado como condomínio logístico classe AAA, possui 100% de sua área entregue atualmente ocupada, consolidando-se como uma oportunidade estratégica para operações de alta performance na Região Sul do Brasil.O empreendimento conta com pátio de manobras, vagas de espera para caminhões e estacionamento para motos, além de vias internas em ótimas condições operacionais. Inaugurado em 2020, com habite-se emitido e pronto para ocupação, o imóvel é certificado como green building e oferece infraestrutura moderna para operadores logísticos. Todos os módulos possuem sistema de sprinklers, niveladores de doca e pé-direito de 12 metros, com piso industrial de alta resistência, com capacidade para 5 t/m². A distância entre pilares é de 22,50 x 22,50 metros, favorecendo layout flexível de armazenagem.O Módulo 1 dispõe de 17 docas, enquanto os módulos 1-A, 2 e 3 contam com 4, 4 e 5 docas, respectivamente. O imóvel conta ainda com cobertura metálica, iluminação zenital, isolamento termoacústico e ventilação forçada, garantindo eficiência energética e conforto operacional. O controle de acesso para veículos leves, pesados e pedestres reforça os padrões de segurança, posicionando o Braspark Garuva como um polo logístico de referência na região.;1;Renda
 50.275.622/0001-09;2025-06-30;1;AVGENTIL_SP;SÃO PAULO;0;1;NA;0.1537676150032;Renda
 50.275.622/0001-09;2025-06-30;1;CAMPOBELO_SP;SÃO PAULO;0;1;NA;0.0481;Renda
@@ -182,6 +181,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 58.561.054/0001-06;2025-03-31;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;384.81;1;Cj 42, localizado no 4º andar, com área privativa de 384,81m², objeto da matrícula nº 52076 do 4° registro de imóveis.;0.203788;Renda
 58.561.054/0001-06;2025-03-31;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;350.25;15;Vagas de garagem nº 63 a 77, localizadas no 1º sub-solo, sedo cada vaga objeto de matrícula distinta (nº respectivos 52.193 a 52.207), com área construída de 23,35m² cada. As 15 vagas soma 350,25m². Serão disponibilizadas entre 3 e 4 vagas para cada subconjunto.;0.18507;Renda
 58.580.017/0001-45;2025-03-31;1;Edifício The Spot One;Balneário Camboriú - SC;20000;1;Conectado ao Balneário Shopping;0;Renda
+58.863.998/0001-38;2025-06-30;3;Distribution Park Cajamar;Av. Ribeirão dos Cristais, 800, Cajamar - São Paulo;88676;1;Compra de Portfólio - Detalhes da aquisição no Fato Relevante publicado na CVM no dia 02/04/2025.;0.2704;Renda
+58.863.998/0001-38;2025-06-30;3;Distribution Park Manaus I;Av. Torquato Tapajós, 7.503, Tarumã - Manaus, Amazonas.;105153;1;Compra de Portfólio - Detalhes da aquisição no Fato Relevante publicado na CVM no dia 02/04/2025.;0.3267;Renda
+58.863.998/0001-38;2025-06-30;3;Distribution Park Manaus II;Av. do Turismo, 13.520, Tarumã - Manaus, Amazonas.;69055;1;Compra de Portfólio - Detalhes da aquisição no Fato Relevante publicado na CVM no dia 02/04/2025.;0.2158;Renda
+58.863.998/0001-38;2025-06-30;3;Distribution Park Rio de Janeiro;Av. Coronel Phídias Távora, 360, Pavuna - Rio de Janeiro.;65625;1;Compra de Portfólio - Detalhes da aquisição no Fato Relevante publicado na CVM no dia 02/04/2025.;0.1871;Renda
 59.658.166/0001-42;2025-06-30;1;BTG LOG AAA CAJAMAR;Rodovia dos Bandeirantes, Km 38, no Município de Franco da Rocha, Estado de São Paulo;227771;1;Direito de Propriedade;1;Renda
 59.680.687/0001-04;2025-03-31;1;Matrícula 21405 - Cartório de Reg. de Imóveis de Curvelo MG;Zona Rural do Município de Felixlândia;48;1;Direito de posse - Matrículas serão transferidas após processo de consolidação e regularização por parte do vendedor (parte do pagamento vinculado a concretização do processo de regularização);0.00925929450948132;Renda
 59.680.687/0001-04;2025-03-31;1;Matrícula 7878 - Cartório de Reg. de Imóveis de Curvelo MG;Zona Rural do Município de Felixlândia;12;1;Direito de posse - Matrículas serão transferidas após processo de consolidação e regularização por parte do vendedor (parte do pagamento vinculado a concretização do processo de regularização);0.00229569285359041;Renda
@@ -228,23 +231,22 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 59.680.687/0001-04;2025-03-31;1;Matrícula 43645 - Cartório de Reg. de Imóveis de Curvelo MG;Zona Rural do Município de Felixlândia;127;1;Direito de posse - Matrículas em processo de transferência;0.0243928652850511;Renda
 59.680.687/0001-04;2025-03-31;1;Matrícula 42621 - Cartório de Reg. de Imóveis de Curvelo MG;Zona Rural do Município de Felixlândia;321;1;Direito de posse - Matrículas em processo de transferência;0.0613521428121446;Renda
 59.680.687/0001-04;2025-03-31;1;Matrícula 12814 - Cartório de Registro de  Três Maria / MG;Zona Rural do Município de Três Marias;354;1;Direito de posse - Matrículas em processo de transferência;0.0677345132990539;Renda
-59.680.687/0001-04;2025-06-30;1;N/A;;;;N/A;;
-60.551.924/0001-08;2025-06-30;1;Atibaia - Lago;Rua Prefeito Takao Ono, 380, Atibaia, São Paulo;1237;12;-;0.0290844371558499;Renda
-60.551.924/0001-08;2025-06-30;1;Bragança Paulista - Lago Sul;Rua Alpheu Grimello, 1.020, Bragança Paulista, São Paulo;2147;12;-;0.0561697697734438;Renda
-60.551.924/0001-08;2025-06-30;1;Campinas - Chácara Primavera;Rua Jasmim, 215, Campinas, São Paulo;1843;14;-;0.0812323019955193;Renda
-60.551.924/0001-08;2025-06-30;1;Campinas - Parque Prado;Avenida Baden Powell, 1.929, Campinas, São Paulo;1634;14;-;0.0699214751471786;Renda
-60.551.924/0001-08;2025-06-30;1;Cotia - Pátio Cotia;Avenida Antônio Mathias de Camargo, 512, Cotia, São Paulo;5801;43;-;0.0835852203111188;Renda
-60.551.924/0001-08;2025-06-30;1;Embu das Artes - Elias Yazbek;Avenida Elias Yazbek, 708, Embu das Artes, São Paulo;1672;17;-;0.0426564472176456;Renda
-60.551.924/0001-08;2025-06-30;1;Indaiatuba - Parque Ecológico;Avenida Engenheiro Fábio Roberto Barnabé, 2.685, Indaiatuba, São Paulo;6069;17;-;0.124122056655491;Renda
-60.551.924/0001-08;2025-06-30;1;Jacareí - Centro;Rua Barão de Jacarteí, 591, Jacareí, São Paulo;2325;28;-;0.0351028329823217;Renda
-60.551.924/0001-08;2025-06-30;1;Jacareí - Villa Branca;Avenida das Letras, 15, Jacareí, São Paulo;1480;14;-;0.0276051404922604;Renda
-60.551.924/0001-08;2025-06-30;1;Paulínia - Jardim América;Avenida José Paulino, 2.279, Paulínia, São Paulo;3120;15;-;0.0892120542021484;Renda
-60.551.924/0001-08;2025-06-30;1;Santo André - Pirelli;Rua Giovanni Battista Pirelli, 1.600, Santo André, São Paulo;2258;18;-;0.0551034448154521;Renda
-60.551.924/0001-08;2025-06-30;1;São José dos Campos - Urbanova;Rua Ironman Victor Garrido com Rua Conrado Cruz, São José dos Campos, São Paulo;1493;12;-;0.03782926660297;Renda
-60.551.924/0001-08;2025-06-30;1;São Paulo - Ellis Maas;Avenida Ellis Maas, 641, São Paulo, São Paulo;1867;17;-;0.0721388490899648;Renda
-60.551.924/0001-08;2025-06-30;1;São Paulo - Jardim das Perdizes;Avenida Marquês de São Vicente, 2.219, São Paulo, São Paulo;2615;20;-;0.0911821822136083;Renda
-60.551.924/0001-08;2025-06-30;1;Pernambucanas - Araçatuba;Rua Marechal Deodoro, 45/47, Araçatuba, São Paulo;1103;1;-;0.0178613790006025;Renda
-60.551.924/0001-08;2025-06-30;1;Pernambucanas - Cubatão;Avenida Nove de Abril, 2.041, Cubatão, São Paulo;1671;1;-;0.0263620547373985;Renda
-60.551.924/0001-08;2025-06-30;1;Pernambucanas - Goiânia;Avenida Anhanguera, 5.332, Goiânia, Goiás;2696;1;-;0.021706162167627;Renda
-60.551.924/0001-08;2025-06-30;1;Pernambucanas - São Leopoldo;Rua Independência, 525, São Leopoldo, Rio Grande do Sul;1041;1;-;0.0391249254393993;Renda
+60.551.924/0001-08;2025-06-30;2;Atibaia - Lago;Rua Prefeito Takao Ono, 380, Atibaia, São Paulo;1237;12;-;0.0290844371558499;Renda
+60.551.924/0001-08;2025-06-30;2;Bragança Paulista - Lago Sul;Rua Alpheu Grimello, 1.020, Bragança Paulista, São Paulo;2147;12;-;0.0561697697734438;Renda
+60.551.924/0001-08;2025-06-30;2;Campinas - Chácara Primavera;Rua Jasmim, 215, Campinas, São Paulo;1843;14;-;0.0812323019955193;Renda
+60.551.924/0001-08;2025-06-30;2;Campinas - Parque Prado;Avenida Baden Powell, 1.929, Campinas, São Paulo;1634;14;-;0.0699214751471786;Renda
+60.551.924/0001-08;2025-06-30;2;Cotia - Pátio Cotia;Avenida Antônio Mathias de Camargo, 512, Cotia, São Paulo;5801;43;-;0.0835852203111188;Renda
+60.551.924/0001-08;2025-06-30;2;Embu das Artes - Elias Yazbek;Avenida Elias Yazbek, 708, Embu das Artes, São Paulo;1672;17;-;0.0426564472176456;Renda
+60.551.924/0001-08;2025-06-30;2;Indaiatuba - Parque Ecológico;Avenida Engenheiro Fábio Roberto Barnabé, 2.685, Indaiatuba, São Paulo;6069;17;-;0.124122056655491;Renda
+60.551.924/0001-08;2025-06-30;2;Jacareí - Centro;Rua Barão de Jacarteí, 591, Jacareí, São Paulo;2325;28;-;0.0351028329823217;Renda
+60.551.924/0001-08;2025-06-30;2;Jacareí - Villa Branca;Avenida das Letras, 15, Jacareí, São Paulo;1480;14;-;0.0276051404922604;Renda
+60.551.924/0001-08;2025-06-30;2;Paulínia - Jardim América;Avenida José Paulino, 2.279, Paulínia, São Paulo;3120;15;-;0.0892120542021484;Renda
+60.551.924/0001-08;2025-06-30;2;Santo André - Pirelli;Rua Giovanni Battista Pirelli, 1.600, Santo André, São Paulo;2258;18;-;0.0551034448154521;Renda
+60.551.924/0001-08;2025-06-30;2;São José dos Campos - Urbanova;Rua Ironman Victor Garrido com Rua Conrado Cruz, São José dos Campos, São Paulo;1493;12;-;0.03782926660297;Renda
+60.551.924/0001-08;2025-06-30;2;São Paulo - Ellis Maas;Avenida Ellis Maas, 641, São Paulo, São Paulo;1867;17;-;0.0721388490899648;Renda
+60.551.924/0001-08;2025-06-30;2;São Paulo - Jardim das Perdizes;Avenida Marquês de São Vicente, 2.219, São Paulo, São Paulo;2615;20;-;0.0911821822136083;Renda
+60.551.924/0001-08;2025-06-30;2;Pernambucanas - Araçatuba;Rua Marechal Deodoro, 45/47, Araçatuba, São Paulo;1103;1;-;0.0178613790006025;Renda
+60.551.924/0001-08;2025-06-30;2;Pernambucanas - Cubatão;Avenida Nove de Abril, 2.041, Cubatão, São Paulo;1671;1;-;0.0263620547373985;Renda
+60.551.924/0001-08;2025-06-30;2;Pernambucanas - Goiânia;Avenida Anhanguera, 5.332, Goiânia, Goiás;2696;1;-;0.021706162167627;Renda
+60.551.924/0001-08;2025-06-30;2;Pernambucanas - São Leopoldo;Rua Independência, 525, São Leopoldo, Rio Grande do Sul;1041;1;-;0.0391249254393993;Renda
 60.868.732/0001-20;2025-06-30;1;Imóvel de Fortaleza;Avenida Jose Saboia, 905, Sem Complemento, Cais Do Porto, Fortaleza/CE, Brasil, 60180-480;13977.17;1;Direito de Propriedade;0.757804;Renda

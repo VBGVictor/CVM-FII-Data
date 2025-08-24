@@ -237,12 +237,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 18.950.957/0001-64;2025-03-31;1;Rua Anfiloquio Nunes Pires, 49, Bela Vista - Gaspar - SC;Terreno;15824.21;0.002279;0
 18.950.957/0001-64;2025-03-31;1;Rodovia BR 116, lateral com a Rua Wilson Feijó - Parolin - Curitiba - PR;Terreno;14771.1;0.010521;0.015716
 18.950.957/0001-64;2025-03-31;1;Avenida Parigot de Souza, n° 1561, Jardim Porto Alegre - Toledo - PR;Terreno;25013;0.011483;0
-18.950.957/0001-64;2025-06-30;1;Rodovia MT - 208, Alta Floresta/MT;Terreno;29153.15;0.00395;0.012664
-18.950.957/0001-64;2025-06-30;1;Rua Francisco Cervi - Brusque - SC;Terreno;52362.7;0.00044;0
-18.950.957/0001-64;2025-06-30;1;Rua Anfiloquio Nunes Pires, 49, Bela Vista - Gaspar - SC;Terreno;15824.21;0.00223;0
-18.950.957/0001-64;2025-06-30;1;Rodovia BR 116, lateral com a Rua Wilson Feijó - Parolin - Curitiba - PR;Terreno;14771.1;0.01033;0.021129
-18.950.957/0001-64;2025-06-30;1;Avenida Parigot de Souza, n° 1561, Jardim Porto Alegre - Toledo - PR;Terreno;25013;0.01601;0.000713
-18.950.957/0001-64;2025-06-30;1;Avenida Joao Bettega - Curitiba/PR;Terreno;24112.4;0.01247;0
+18.950.957/0001-64;2025-06-30;2;Rodovia MT - 208, Alta Floresta/MT;Terreno;29153.15;0.00395;0.0126639984784092
+18.950.957/0001-64;2025-06-30;2;Rua Francisco Cervi - Brusque - SC;Terreno;52362.7;0.00044;0
+18.950.957/0001-64;2025-06-30;2;Rua Anfiloquio Nunes Pires, 49, Bela Vista - Gaspar - SC;Terreno;15824.21;0.00223;0
+18.950.957/0001-64;2025-06-30;2;Rodovia BR 116, lateral com a Rua Wilson Feijó - Parolin - Curitiba - PR;Terreno;14771.1;0.01033;0.0211289996491523
+18.950.957/0001-64;2025-06-30;2;Avenida Parigot de Souza, n° 1561, Jardim Porto Alegre - Toledo - PR;Terreno;25013;0.01601;0.000712956528055582
+18.950.957/0001-64;2025-06-30;2;Avenida Joao Bettega - Curitiba/PR;Terreno;24112.4;0.01247;0
 21.862.783/0001-92;2025-03-31;1;Avenida Projetada,Povoado Mosqueiro - Aracaju - Sergipe;Empreendimento Residencial Morada do Lago;87948.51;1;0
 21.862.783/0001-92;2025-06-30;1;Avenida Projetada,Povoado Mosqueiro - Aracaju - Sergipe;Empreendimento Residencial Morada do Lago;87948.51;1;0
 22.340.978/0001-35;2025-03-31;1;Rua Antonio F. Ozanan, 11070 - Jundiaí;Matricula 61.468;15629;0.419683;0.00904860685386726
@@ -580,7 +580,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 42.537.540/0001-59;2025-06-30;1;Avenida Pepe, 1124, Sem Complemento, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22620-171;Direito de Propriedade;781;0.73700813548066;0
 42.537.540/0001-59;2025-06-30;1;Avenida Dos Bandeirantes, S/n°, Sem Complemento, Costazul, Rio Das Ostras/RJ, Brasil, 28895-314;Direito de Propriedade;990;0.26299186451934;0
 43.565.147/0001-31;2025-03-31;2;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
-43.565.147/0001-31;2025-06-30;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
+43.565.147/0001-31;2025-06-30;2;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 43.671.250/0001-66;2025-03-31;1;Av. Rotary, 710 - S/Nº (Industriais);O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 33.993;3068.05;0.0889;0
 43.671.250/0001-66;2025-03-31;1;Rua Eng. C. Oliveita (Lote 2);O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 33.994;1705.25;0.0404;0
 43.671.250/0001-66;2025-03-31;1;Rua Eng. C. Oliveita (Lote 3);O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 33.995;1660.25;0.0394;0
@@ -632,6 +632,22 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.585.121/0001-18;2025-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;matrícula de n.º 162579 - predio;954.07;0.3165;0
 44.585.121/0001-18;2025-03-31;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.3226;0
 44.585.121/0001-18;2025-06-30;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.5125;0
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
+44.625.694/0001-28;2025-06-30;2;;;;;
 44.669.674/0001-59;2025-03-31;1;118984_237 - Avenida Henrique Gonçalves Batista, 237 - Jardim Belval;Matrícula: 118.984 . Oficial de Registro de Imóveis de Barueri/SP;2444.75;0.0414904879509462;0
 44.669.674/0001-59;2025-03-31;1;CAJAMAR (SP), Rodovia Anhanguera - BR - 050 - Guatorinho - Cajamar-SP - 07750-000;Matrícula 110.584;305132.63;0.373343651189475;0
 44.669.674/0001-59;2025-03-31;1;CASTELO_BRAN, Rua do Córrego, S/N - Cururuquara - Santana de Parnaíba-SP - 06524-110;Matrícula 2.058;121000;0.16702215974266;0
@@ -703,7 +719,22 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 47.102.860/0001-08;2025-03-31;1;Rodovia Norte Sul, N 243 (Serra - ES);PROJETO HOSPITAL (Matricula 104.848) - Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
 47.102.860/0001-08;2025-06-30;1;Rodovia Norte Sul, N 243 (Serra - ES);PROJETO HOSPITAL (Matricula 104.848) - Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
 47.669.336/0001-05;2025-06-30;1;FAZENDA BARRA DO RIBEIRO;MATRICULA 4837;2666.66;0.2227;0
-48.565.175/0001-72;2025-06-30;1;;N/A;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
+48.565.175/0001-72;2025-06-30;2;;;;;
 48.904.259/0001-93;2025-03-31;1;Rua José Sarraceni, 88;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.389;910;0.0726;0
 48.904.259/0001-93;2025-03-31;1;Rua José Sarraceni, 46;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.390;1232;0.0983;0
 48.904.259/0001-93;2025-03-31;1;Av. C.F. Endres, S/N;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.079;99.06;0.0079;0
@@ -724,7 +755,24 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 48.955.582/0001-96;2025-03-31;1;Distrito Industrial e Comercial, Cuiabá/ MT.;É uma area de terras de 25.200,00 metros quadrados no Distritro industrial e comercial.;25200;0.17;
 48.984.698/0001-53;2025-03-31;1;Rodovia Tancredo de Almeida Neves, Km 53.5, Jardim Santa Gertrudes, Município de Jundiaí, Estado de São Paulo.;Matrícula nº 75.634;32612.08;0.96471;1
 48.984.698/0001-53;2025-06-30;1;Rodovia Tancredo de Almeida Neves, Km 53.5, Jardim Santa Gertrudes, Município de Jundiaí, Estado de São Paulo.;Matrícula nº 75.634;32612.08;0.96471;1
-49.489.928/0001-70;2025-06-30;1;;N/A;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
+49.489.928/0001-70;2025-06-30;2;;;;;
 49.893.516/0001-00;2025-03-31;1;Área 07 - Campina, Bairro de São Miguel - Guarulhos, São Paulo;Matrícula 146.645 - Ativo adquirido via Escritura de Permuta - O Fundo assinou a Escritura de Permuta no dia 05 de fevereiro de 2024, sendo a Bekaa a proprietária do terreno situado em Guarulhos, Estado de São Paulo, devidamente identificado na matrícula nº 146.645, no qual o Fundo adquiriu, a título de permuta, a parte ideal de 64,2857%, em troca das construções, benfeitorias e acessões, que correspondem a 35,7143% da área total do Empreendimento.;63806.64296;0.642857;0
 49.893.516/0001-00;2025-06-30;1;Área 07 - Campina, Bairro de São Miguel - Guarulhos, São Paulo;Matrícula 146.645 - Ativo adquirido via Escritura de Permuta - O Fundo assinou a Escritura de Permuta no dia 05 de fevereiro de 2024, sendo a Bekaa a proprietária do terreno situado em Guarulhos, Estado de São Paulo, devidamente identificado na matrícula nº 146.645, no qual o Fundo adquiriu, a título de permuta, a parte ideal de 64,2857%, em troca das construções, benfeitorias e acessões, que correspondem a 35,7143% da área total do Empreendimento.;63806.64296;0.642857;0
 49.996.755/0001-87;2025-06-30;1;Lote rural de n.° 13, da Gleba Mato Escuro, situado em Barra de Macaé, 2° distrito deste Município, não foreira e fora do perímetro urbano.;Uma área de terras, desmembrada de maior porção do loterural de n.° 13, da Gleba Mato Escuro, situado em Barra de Macaé, 2° distrito desteMunicípio, não foreira e fora do perímetro urbano;90000;1;0
@@ -912,18 +960,32 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 58.544.087/0001-48;2025-06-30;1;Endereço;Outras Características Relevantes¹;;;
 58.549.748/0001-28;2025-06-30;1;Fazenda Fortaleza - Parte B -Município de Paranatinga, Mato Grosso;Certificação do INCRA: 131102000009-04 de 08/12/2011;5293.9014;0.5;0.49
 58.549.748/0001-28;2025-06-30;1;Fazenda Fortaleza - Parte B1 -Município de Paranatinga, Mato Grosso;Certificação do INCRA: Certificação do INCRA: 131102000009-04 de 08/12/2011;1766.2076;0.5;0.49
-58.863.998/0001-38;2025-06-30;2;Av. Jandira, 374 - São Paulo, SP 04080-002;N/A;186;0.013624017261197;0
-58.863.998/0001-38;2025-06-30;2;Al. dos Maracatins, 887 - São Paulo, SP 04089-012;N/A;340;0.0525250186423103;0
-58.863.998/0001-38;2025-06-30;2;Al. dos Maracatins, 857 - São Paulo, SP 04089-012;N/A;1665;0.760592618322939;0
-58.863.998/0001-38;2025-06-30;2;Al. dos Maracatins, 847 - São Paulo, SP 04089-012;N/A;300;0.173258345773554;0
+58.863.998/0001-38;2025-06-30;3;;N/A;;;
 59.658.166/0001-42;2025-06-30;1;Rodovia dos Bandeirantes, Km 38, no Município de Franco da Rocha, Estado de São Paulo;Direito de Propriedade;227771;1;1
-59.680.687/0001-04;2025-06-30;1;;N/A;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
+59.680.687/0001-04;2025-06-30;2;;;;;
 59.693.395/0001-06;2025-06-30;1;Água Branca matricula 5.620;-;683100;0;0
 59.693.395/0001-06;2025-06-30;1;Água Branca matricula 5.622;-;741700;0;0
 59.693.395/0001-06;2025-06-30;1;Água Branca matricula 5.625;-;2044000;0;0
 59.693.395/0001-06;2025-06-30;1;Água Branca matricula 9.727;-;1065400;0;0
 59.890.241/0001-04;2025-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
-59.890.241/0001-04;2025-06-30;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
+59.890.241/0001-04;2025-06-30;2;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 59.891.323/0001-65;2025-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 59.891.323/0001-65;2025-06-30;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 59.891.409/0001-98;2025-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
