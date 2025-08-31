@@ -1828,7 +1828,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 28.851.767/0001-43;2025-03-31;1;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
 28.851.767/0001-43;2025-06-30;2;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
 28.899.178/0001-35;2025-03-31;1;Terreno;Contrato de locação
-28.899.178/0001-35;2025-06-30;1;PREDIO_64345;De acordo com o contrato de locação
+28.899.178/0001-35;2025-06-30;2;PREDIO_64345;De acordo com o contrato de locação
 29.242.844/0001-20;2025-03-31;1;Não se aplica;Não se aplica
 29.242.844/0001-20;2025-06-30;1;Não se aplica;Não se aplica
 29.641.226/0001-53;2025-03-31;1;-;
@@ -3538,6 +3538,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 56.978.773/0001-00;2025-06-30;1;N/A;
 57.054.672/0001-05;2025-03-31;1;Avenida Getúlio Vargas nº 291, Belo Horizonte - BH;Encontra-se registrado sob o nº de matrículas 63.972, 63.973, 63.974, 63.975, 63.976, 63.977, 63.978, 63.979, 63.980, 63.981, 63.982, 63.983, 63.984, 63.985, 63.986, 63.987, 63.988, 63.989, 63.990, 63.991, 63.992, 63.993, 63.994, 63.995, 63.996, 63.997, 63.998, 63.999, 64.000, 64.001, 64.002, 64.003, 64.004, 64.005, 64.006, 64.007, 64.008, 64.009, 64.010, 64.011, 64.012, 64.013.
 57.216.258/0001-47;2025-03-31;1;N/A;N/A
+57.216.258/0001-47;2025-06-30;1;N/A;N/A
 57.231.494/0001-32;2025-06-30;1;Edifício Da Vinci;Item acima
 57.231.494/0001-32;2025-06-30;1;Edifício Ametista;Item acima
 57.231.494/0001-32;2025-06-30;1;Edifício Bach;Item acima
