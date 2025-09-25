@@ -1,11 +1,11 @@
 codigo_fii;setor;liquidez_diaria;P/VP;dy_12m;Variação Preço;Patrimônio Líquido;Num. Cotistas;data_coleta;qtd_pagamentos_12m;primeira_data_pagamento_12m;primeiro_valor_pagamento_12m;ultima_data_pagamento_12m;ultimo_valor_pagamento_12m
-SNLG11;Imóveis Industriais e Logísticos;268253,41;683,0;8400,0;-96,77 %;1.033.450,75;14.012;2025-09-24;0;;;;
-HGPO11;Lajes Corporativas;153535,5;96,0;48,22;5,05 %;251.380.456,77;10.008;2025-09-24;0;;;;
-BBFI11B;Lajes Corporativas;182918,19;41,0;47,51;4,22 %;111.645.834,19;6.989;2025-09-24;0;;;;
-PNPR11;Fundo de Desenvolvimento;4999984,5;134,0;25,23;0,00 %;32.747.884,33;16;2025-09-24;0;;;;
-HBCR11;Indefinido;1750047,0;104,0;6,23;0,00 %;199.495.622,37;35;2025-09-24;0;;;;
-VGII11;Tecidos. Vestuário e Calçados;2000008,0;103,0;5,33;0,00 %;50.888.763,67;7;2025-09-24;0;;;;
-PPEI11;Indefinido;190833,55;;5,0;13,57 %;;0;2025-09-24;0;;;;
-KOPA11;Indefinido;308067,86;87,0;4,75;-3,52 %;323.480.062,62;3.460;2025-09-24;0;;;;
-BDIV11;Indefinido;294109,05;;4,13;9,19 %;;0;2025-09-24;0;;;;
-KNOX11;Indefinido;466624,58;;2,68;6,21 %;;0;2025-09-24;0;;;;
+SNLG11;Imóveis Industriais e Logísticos;261546,65;651,0;8400,0;-96,77 %;1.033.450,75;14.012;2025-09-25;0;;;;
+HGPO11;Lajes Corporativas;161121,52;95,0;48,22;5,05 %;251.380.456,77;10.008;2025-09-25;0;;;;
+BBFI11B;Lajes Corporativas;182918,19;41,0;47,51;4,22 %;111.645.834,19;6.989;2025-09-25;0;;;;
+PNPR11;Fundo de Desenvolvimento;4999984,5;134,0;25,23;0,00 %;32.747.884,33;16;2025-09-25;0;;;;
+HBCR11;Indefinido;1750047,0;111,0;6,23;0,00 %;199.495.622,37;35;2025-09-25;0;;;;
+VGII11;Tecidos. Vestuário e Calçados;2000008,0;103,0;5,33;0,00 %;50.888.763,67;7;2025-09-25;0;;;;
+PPEI11;Indefinido;234819,26;;5,0;13,57 %;;0;2025-09-25;0;;;;
+KOPA11;Indefinido;326031,65;87,0;4,75;-3,52 %;323.480.062,62;3.460;2025-09-25;0;;;;
+BDIV11;Indefinido;302096,78;;4,13;9,19 %;;0;2025-09-25;0;;;;
+KNOX11;Indefinido;449653,35;;2,68;6,21 %;;0;2025-09-25;0;;;;
