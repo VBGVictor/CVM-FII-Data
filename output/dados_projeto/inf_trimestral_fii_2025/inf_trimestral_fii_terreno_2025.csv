@@ -327,7 +327,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 30.492.505/0001-81;2025-06-30;2;Rua Vitorino Fernandes, s/n - Barra da Tijuca, perfeitamente descrito e caracterizado na matrícula 428076 do 9° Ofício de Registro de Imóveis da Comarca do Rio de Janeiro - RJ;Área situada à Rua Vitorino Fernandes, lado ímpar, na freguesia de Jacarepaguá, esquina com a Av. Alfredo Baltazar da Silveira;1916;0.145166;0
 30.578.275/0001-78;2025-03-31;1;Avenida Silvio Bastos Tavares, s/n, Campos dos Goytacazes, CEP 28051-250, Campos dos Goytacazes - RJ;Matrícula nº 4.442.GOYCATAZES;7777.95;1;0
 30.629.603/0001-18;2025-03-31;1;Estrada Do Rio Pequeno, S/n, Sem Complemento, Loteamento Fazenda Rio Pequeno, Santo Andre/SP, Brasil, 09161-100;Não possuem caracterísitcas que destoem dos demais.;16150;1;0
-30.629.603/0001-18;2025-06-30;1;Estrada Do Rio Pequeno, S/n, Sem Complemento, Loteamento Fazenda Rio Pequeno, Santo Andre/SP, Brasil, 09161-100;Não possuem caracterísitcas que destoem dos demais.;16150;1;0
+30.629.603/0001-18;2025-06-30;2;Estrada Do Rio Pequeno, S/n, Sem Complemento, Loteamento Fazenda Rio Pequeno, Santo Andre/SP, Brasil, 09161-100;Não possui caracterísitcas que destoem dos demais;16150;1;0
 30.846.692/0001-54;2025-06-30;1;AV JOSÉ BENTO RIBEIRO DANTAS,LT.3;N/A;390;0.096;0
 30.846.692/0001-54;2025-06-30;1;AV JOSÉ BENTO RIBEIRO DANTAS,LT.4;N/A;390;0.0043;0
 30.846.692/0001-54;2025-06-30;1;AV. MARECHAL HENRIQUE LOTT - BARRA DA TIJUCA - RJ;N/A;2762.71;0.0075;0
@@ -632,6 +632,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.585.121/0001-18;2025-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;matrícula de n.º 162579 - predio;954.07;0.3165;0
 44.585.121/0001-18;2025-03-31;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.3226;0
 44.585.121/0001-18;2025-06-30;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.5125;0
+44.585.121/0001-18;2025-09-30;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;1;0
 44.625.694/0001-28;2025-06-30;2;;;;;
 44.625.694/0001-28;2025-06-30;2;;;;;
 44.625.694/0001-28;2025-06-30;2;;;;;
@@ -925,6 +926,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 54.417.489/0001-20;2025-03-31;1;FAZENDA BONANZA;Matrícula n. 7.381;484000;1;0
 54.417.489/0001-20;2025-03-31;1;FAZENDA SERVPLAN;Matrícula nº n°20.495;9962.64;1;0
 54.419.040/0001-00;2025-06-30;1;BENTO ABREU;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;1226.49;0.102;0
+54.419.040/0001-00;2025-09-30;1;BENTO ABREU;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;0;0.1061;0
 54.505.336/0001-35;2025-06-30;1;Rodovia Armando Salles - SP 228, Estrada do Campestre, na Cidade de Itapecerica da Serra, Estado de São Paulo;Matrícula 125435;129801.08;1;0
 54.675.539/0001-70;2025-03-31;1;Bairro Chave do Barão, Município e Comarca do Rio das Pedras, 2ª Circunscrição Imobiliária de Piracicaba/SP;Gleba de Terras, que faz  parte da Fazenda Estrela;79892.56;0;0
 54.675.539/0001-70;2025-06-30;1;Bairro Chave do Barão, Município e Comarca do Rio das Pedras, 2ª Circunscrição Imobiliária de Piracicaba/SP;Gleba de Terras, que faz  parte da Fazenda Estrela;79892.56;0;0

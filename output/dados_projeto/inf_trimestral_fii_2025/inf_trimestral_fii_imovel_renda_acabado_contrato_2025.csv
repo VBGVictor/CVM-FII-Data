@@ -1879,13 +1879,13 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 30.629.603/0001-18;2025-03-31;1;Galpao Pirituba;Não possui caracteristicas que destoem dos demais
 30.629.603/0001-18;2025-03-31;1;Galpao Jandira;Não possui caracteristicas que destoem dos demais
 30.629.603/0001-18;2025-03-31;1;Galpao Betim;Não possui caracteristicas que destoem dos demais
-30.629.603/0001-18;2025-06-30;1;Galpao Extrema;Não possui caracteristicas que destoem dos demais
-30.629.603/0001-18;2025-06-30;1;Galpao Maua;Não possui caracteristicas que destoem dos demais
-30.629.603/0001-18;2025-06-30;1;Galpao Araucaria;Não possui caracteristicas que destoem dos demais
-30.629.603/0001-18;2025-06-30;1;Itapevi - Galpao A e B;Não possui caracteristicas que destoem dos demais
-30.629.603/0001-18;2025-06-30;1;Galpao Pirituba;Não possui caracteristicas que destoem dos demais
-30.629.603/0001-18;2025-06-30;1;Galpao Jandira;Não possui caracteristicas que destoem dos demais
-30.629.603/0001-18;2025-06-30;1;Galpao Betim;Não possui caracteristicas que destoem dos demais
+30.629.603/0001-18;2025-06-30;2;Galpao Extrema;Não possui caracteristicas que destoem dos demais
+30.629.603/0001-18;2025-06-30;2;Galpao Maua;Não possui caracteristicas que destoem dos demais
+30.629.603/0001-18;2025-06-30;2;Galpao Araucaria;Não possui caracteristicas que destoem dos demais
+30.629.603/0001-18;2025-06-30;2;Itapevi - Galpao A e B;Não possui caracteristicas que destoem dos demais
+30.629.603/0001-18;2025-06-30;2;Galpao Pirituba;Não possui caracteristicas que destoem dos demais
+30.629.603/0001-18;2025-06-30;2;Galpao Jandira;Não possui caracteristicas que destoem dos demais
+30.629.603/0001-18;2025-06-30;2;Galpao Betim;Não possui caracteristicas que destoem dos demais
 30.642.032/0001-51;2025-03-31;1;CTR Empresarial - Galpão;Possui 6 locatários
 30.642.032/0001-51;2025-03-31;1;Bom Jardim;Fazenda Bom Jardim - Matrículas 31649 37424 e 58425
 30.642.032/0001-51;2025-06-30;1;CTR Empresarial - Galpão;Possui 6 locatários
@@ -2784,6 +2784,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 41.820.693/0001-46;2025-06-30;1;-;-
 41.833.763/0001-09;2025-03-31;1;N/A;N/A
 41.833.763/0001-09;2025-06-30;1;N/A;N/A
+41.833.763/0001-09;2025-09-30;1;N/A;N/A
 41.969.521/0001-39;2025-03-31;1;Não se aplica;Nenhum contrato destoa sensivelmente do padrão do fundo.
 41.969.521/0001-39;2025-06-30;1;NA;NA
 42.031.201/0001-04;2025-03-31;1;Terreno Butantã;MATRICULA 177.900 ( lotes 14, 15 e 16 da quadra 14)
@@ -2912,13 +2913,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 43.951.970/0001-85;2025-03-31;1;N/A;N/A
 43.951.970/0001-85;2025-06-30;1;N/A;N/A
 44.002.561/0001-03;2025-03-31;1;Informação não apresentada;Informação não apresentada
-44.002.561/0001-03;2025-06-30;1;Informação não apresentada;Informação não apresentada
+44.002.561/0001-03;2025-06-30;2;Informação não apresentada;Informação não apresentada
 44.514.162/0001-13;2025-03-31;1;-;-
 44.514.162/0001-13;2025-06-30;1;-;-
 44.527.494/0001-32;2025-03-31;1;-;-
 44.527.494/0001-32;2025-06-30;1;-;-
 44.584.965/0001-44;2025-03-31;1;NA;NA
 44.584.965/0001-44;2025-06-30;1;NA;NA
+44.585.121/0001-18;2025-09-30;1;3.918 PRÉDIO INDL;N/A
 44.625.694/0001-28;2025-03-31;1;Fazenda Xingu (Matrícula 22.874);Não possui características que destoem dos demais
 44.625.694/0001-28;2025-03-31;1;Fazenda Xingu I (Matrícula 22.875);Não possui características que destoem dos demais
 44.625.694/0001-28;2025-03-31;1;Fazenda Xingu II (Matrícula 14.782);Não possui características que destoem dos demais
@@ -3245,8 +3247,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 50.479.122/0001-80;2025-06-30;1;LOG VIANA II;Não possui caracteristicas que destoem dos demais
 50.492.450/0001-17;2025-03-31;1;N/A;N/A
 50.492.450/0001-17;2025-06-30;1;N/A;N/A
+50.492.450/0001-17;2025-09-30;1;N/A;N/A
 50.659.134/0001-97;2025-03-31;1;N/A;N/A
 50.659.134/0001-97;2025-06-30;1;N/A;N/A
+50.659.134/0001-97;2025-09-30;1;N/A;N/A
 50.808.042/0001-21;2025-03-31;1;Não possui informação apresentada.;Não possui informação apresentada.
 50.808.042/0001-21;2025-06-30;1;Não possui informação apresentada.;Não possui informação apresentada.
 50.918.320/0001-01;2025-03-31;1;PIEMONTESE;Informação não apresentada
@@ -3440,6 +3444,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 54.417.489/0001-20;2025-06-30;1;FAZENDA SERVPLAN;Matrícula nº n°20.495
 54.419.040/0001-00;2025-03-31;1;n/a;
 54.419.040/0001-00;2025-06-30;1;n/a;
+54.419.040/0001-00;2025-09-30;1;n/a;n/a
 54.422.883/0001-57;2025-03-31;1;BOA VISTA;Sem informação apresentada
 54.422.883/0001-57;2025-03-31;1;FZ BOA VISTA;Sem informação apresentada
 54.422.883/0001-57;2025-03-31;1;SAINT BART;Sem informação apresentada
