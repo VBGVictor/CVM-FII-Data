@@ -89,6 +89,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 04.141.645/0001-03;2025-06-30;1;Empreendimento Continental Square Faria Lima - conjuntos 22, 23 e 24;vigência de 90 meses multa atípica no caso de rescisão antecipada obrigação de aviso prévio de 120 dias em caso de rescisão antecipada.
 04.644.612/0001-78;2025-03-31;1;NA;NA
 04.644.612/0001-78;2025-06-30;1;NA;NA
+04.644.612/0001-78;2025-09-30;1;NA;NA
 04.722.883/0001-02;2025-03-31;1;Torre Norte - Centro Empresarial Nacoes Unidas - CENU;Não possui caracteristicas que destoem dos demais
 04.722.883/0001-02;2025-06-30;1;Torre Norte - Centro Empresarial Nacoes Unidas - CENU;Não possui caracteristicas que destoem dos demais
 05.437.916/0001-27;2025-03-31;1;Av. Interlagos, 4455;Indexador de reajuste IPC-FIPE
@@ -116,6 +117,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 07.583.627/0001-61;2025-03-31;1;n/A;n/A
 07.583.627/0001-61;2025-06-30;1;n/A;n/A
 07.583.627/0001-61;2025-06-30;1;28 Lojas Assai;
+07.583.627/0001-61;2025-09-30;1;N/A;N/A
 07.789.135/0001-27;2025-03-31;1;BPS - BOTAFOGO PRAIA SHOPPING;N/A
 07.789.135/0001-27;2025-03-31;1;CNB - CONJUNTO NACIONAL BRASILIA;N/A
 07.789.135/0001-27;2025-03-31;1;CVS - CENTER VALE SHOPPING;N/A
@@ -443,6 +445,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 11.769.604/0001-13;2025-06-30;1;Outlet Premium Itaquaquecetuba Grande SP;Não possui caracteristicas que destoem dos demais
 11.827.568/0001-05;2025-03-31;1;NA;NA
 11.827.568/0001-05;2025-06-30;1;NA;NA
+11.827.568/0001-05;2025-09-30;1;NA;NA
 11.839.593/0001-09;2025-03-31;1;BTLG - Navegantes;Não possui caracteristicas que destoem dos demais
 11.839.593/0001-09;2025-03-31;1;BTLG - Caieiras;Não possui caracteristicas que destoem dos demais
 11.839.593/0001-09;2025-03-31;1;BTLG - Fortaleza;Não possui caracteristicas que destoem dos demais
@@ -631,6 +634,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 13.551.286/0001-45;2025-06-30;1;Edificio Cenesp;Não possui caracteristicas que destoem dos demais
 13.555.918/0001-49;2025-03-31;1;NA;NA
 13.555.918/0001-49;2025-06-30;1;NA;NA
+13.555.918/0001-49;2025-09-30;1;NA;NA
 13.703.596/0001-38;2025-03-31;1;Informação não apresentada.;
 13.703.596/0001-38;2025-06-30;1;Informação não apresentada.;
 13.726.079/0001-84;2025-03-31;1;Informação não apresentada;Informação não apresentada
@@ -639,6 +643,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 13.920.018/0001-53;2025-06-30;1;Imóvel 1;Referente à matrícula nº 83.672  Área do Terreno : 96.482,55 m2
 13.974.819/0001-00;2025-03-31;1;N/A;N/A
 13.974.819/0001-00;2025-06-30;1;N/A;N/A
+13.974.819/0001-00;2025-09-30;1;N/A;N/A
 14.088.246/0001-71;2025-03-31;1;-;-
 14.088.246/0001-71;2025-06-30;1;-;-
 14.149.745/0001-21;2025-03-31;1;ARENA CORINTHIANS;Terreno de 197.095,14 m²
@@ -657,6 +662,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 14.609.653/0001-87;2025-06-30;1;JHSF Aeroporto;-
 14.631.148/0001-39;2025-03-31;1;NA;NA
 14.631.148/0001-39;2025-06-30;1;NA;NA
+14.631.148/0001-39;2025-09-30;1;NA;NA
 14.721.889/0001-00;2025-03-31;1;n/a;n/a
 14.721.889/0001-00;2025-06-30;1;n/a;n/a
 14.788.492/0001-36;2025-03-31;1;Edificio Condominio Victor Malzoni;Não possui caracteristicas que destoem dos demais
@@ -1755,6 +1761,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 28.548.288/0001-52;2025-06-30;1;DELBONI RICARDO JAFET;ÁTIPICO
 28.693.595/0001-27;2025-03-31;1;N/A;N/A
 28.693.595/0001-27;2025-06-30;1;N/A;N/A
+28.693.595/0001-27;2025-09-30;1;N/A;N/A
 28.737.771/0001-85;2025-03-31;1;Atento Del Castilho;Não possui caracteristicas que destoem dos demais
 28.737.771/0001-85;2025-03-31;1;BRF Bauru;Não possui caracteristicas que destoem dos demais
 28.737.771/0001-85;2025-03-31;1;BRF Guarulhos;Não possui caracteristicas que destoem dos demais
@@ -1985,8 +1992,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 32.274.163/0001-59;2025-06-30;1;Parque Cidade Corporate;Item acima
 32.274.163/0001-59;2025-06-30;1;Ed. Pq Dona Ana Costa;Item acima
 32.274.163/0001-59;2025-06-30;1;Complexo Madeira;Item acima
+32.274.197/0001-43;2025-09-30;1;N/A;N/A
 32.274.553/0001-29;2025-03-31;1;N/A;N/A
 32.274.553/0001-29;2025-06-30;1;N/A;N/A
+32.274.553/0001-29;2025-09-30;1;N/A;N/A
 32.527.626/0001-47;2025-03-31;1;NewPort Log Caxias do Sul;N/A
 32.527.626/0001-47;2025-03-31;1;NewPort Log Goiania;N/A
 32.527.626/0001-47;2025-03-31;1;NewPort Log Sorocaba;N/A
@@ -2062,6 +2071,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 33.554.611/0001-30;2025-06-30;1;Apartamento Parques das Águas 2106;Sem informações complementares
 33.701.455/0001-93;2025-03-31;1;Unidade Fabril da Toshiba - localizada no município de Contagem - MG.;Contrato com vigência de 96 mêses.
 33.701.455/0001-93;2025-06-30;1;Unidade Fabril da Toshiba - localizada no município de Contagem - MG.;Contrato com vigência de 96 mêses.
+33.701.485/0001-08;2025-06-30;1;Unidade fabril toshiba | Rodovia fernao dias, s/n numero | Contagem MG;Contrato com vigencia de 96 meses (8 anos)
 33.842.871/0001-01;2025-03-31;1;Itapetinga;Item acima
 33.842.871/0001-01;2025-03-31;1;Terreno Baixa de Areia;Item acima
 33.842.871/0001-01;2025-03-31;1;SERRINHA 01 E 02;Item acima
@@ -2331,6 +2341,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 36.445.551/0001-06;2025-06-30;1;VM CONNECTION - 85;Não possui caracteristicas que destoem dos demais
 36.445.551/0001-06;2025-06-30;1;VM CONNECTION - 92;Não possui caracteristicas que destoem dos demais
 36.445.551/0001-06;2025-06-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2025-09-30;1;ACARAÚ 62;Não possui caracteristicas que destoem dos demais
 36.445.587/0001-90;2025-03-31;1;Anhanguera Campinas;Conforme item 1.1.2.1.4 deste informe.
 36.445.587/0001-90;2025-03-31;1;Câmpus Anima Canoas;Conforme item 1.1.2.1.4 deste informe.
 36.445.587/0001-90;2025-03-31;1;Câmpus Anima Poa;Conforme item 1.1.2.1.4 deste informe.
@@ -2364,6 +2375,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 36.501.210/0001-00;2025-03-31;1;Rio 2 Shopping;NA
 36.501.210/0001-00;2025-06-30;1;Península Open Mall;Todos os contratos são semelhantes, apenas com pequenas variações em suas durações. Sendo as ancoras e antenas, que possuem um prazo de 120 meses Lojas com prazo 60 meses Salas podendo ter prazos de 36/48 meses Quiosques e depósitos com variações entre 12 a 60 meses ou prazo indeterminado
 36.501.210/0001-00;2025-06-30;1;Rio 2 Shopping;NA
+36.501.210/0001-00;2025-09-30;1;Península Open Mall;Todos os contratos são semelhantes, apenas com pequenas variações em suas durações. Sendo as ancoras e antenas, que possuem um prazo de 120 meses Lojas com prazo 60 meses Salas podendo ter prazos de 36/48 meses Quiosques e depósitos com variações entre 12 a 60 meses ou prazo indeterminado
+36.501.210/0001-00;2025-09-30;1;Rio 2 Shopping;NA
 36.501.249/0001-28;2025-03-31;1;World Trade Center de São Paulo;N/A
 36.501.249/0001-28;2025-06-30;1;World Trade Center de São Paulo;N/A
 36.517.660/0001-91;2025-03-31;1;Urbic Tomas Alves;duração máxima de 1 ano, sem correção, operação de short stay e long stay
@@ -2840,6 +2853,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 42.628.319/0001-06;2025-06-30;1;SENADO;N/A
 42.754.342/0001-47;2025-03-31;1;.;.
 42.754.342/0001-47;2025-06-30;1;.;.
+42.869.869/0001-17;2025-09-30;1;N/A;N/A
 42.869.892/0001-01;2025-03-31;1;FONSECA RODRIGUES- 50.218 - 10º RI;N/A
 42.869.892/0001-01;2025-06-30;1;FONSECA RODRIGUES- 50.218 - 10º RI;N/A
 42.922.127/0001-08;2025-03-31;1;GALPÃO ITAPEVI/ SP;Contrato de locação típico, com prazo de 7 (sete) anos, necessodadede aviso prévio de 12 para rescisão contratual pelo locatário, multa rescisória de 13 (treze) alugueis proporcionais, índice de reajuste pelo IPCA.
@@ -2881,6 +2895,18 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 43.617.702/0001-21;2025-06-30;1;EDIFICIO COMERCIAL MARIA SANTOS 52;Matricula 97.546 - 1º Registro de Imoveis de São Paulo
 43.617.702/0001-21;2025-06-30;1;REGENTSPARK  - CONJUNTO 82;Matrícula 1.520
 43.617.702/0001-21;2025-06-30;1;REGENTSPARK  - CONJUNTO 92;Matrícula 1.522
+43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 131;Matricula 12.302 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 82;Matrícula 1.520
+43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 92;Matrícula 1.522
+43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 121;Matricula 27.029 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 132;Matricula 27.463 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 11;Matricula 30.348 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 51;Matricula 46.608 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-09-30;1;EDIFICIO COMERCIAL MARIA SANTOS 51;Matricula 97.545 - 1º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-09-30;1;EDIFICIO COMERCIAL MARIA SANTOS 52;Matricula 97.546 - 1º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 41;Matricula 56.922 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 42;Matricula18.678 - 13º Registro de Imoveis de São Paulo
+43.619.218/0001-31;2025-09-30;1;N/A;N/A
 43.671.358/0001-59;2025-03-31;1;.;.
 43.671.358/0001-59;2025-06-30;1;.;.
 43.740.825/0001-55;2025-03-31;1;IMÓVEL FRANCO ROCHA;0
@@ -3069,6 +3095,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 47.154.849/0001-83;2025-03-31;1;SKY_1409;Não possui características relevantes individualizadas.
 47.669.336/0001-05;2025-03-31;1;NA;NA
 47.669.336/0001-05;2025-06-30;1;NA;NA
+47.669.336/0001-05;2025-09-30;1;N/A;N/A
 47.896.665/0001-99;2025-03-31;1;Catarina Fashion Outlet;Não possui caracteristicas que destoem dos demais
 47.896.665/0001-99;2025-03-31;1;Iguatemi Bosque Shopping - Fortaleza;Não possui caracteristicas que destoem dos demais
 47.896.665/0001-99;2025-03-31;1;Shopping Metro Tatuape;Não possui caracteristicas que destoem dos demais
@@ -3267,6 +3294,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 51.226.569/0001-00;2025-06-30;1;.;.
 51.295.092/0001-15;2025-03-31;1;n/a;n/a
 51.295.092/0001-15;2025-06-30;1;n/a;n/a
+51.295.092/0001-15;2025-09-30;1;N/A;N/A
 51.303.221/0001-70;2025-03-31;1;na;na
 51.303.221/0001-70;2025-06-30;1;na;na
 51.326.818/0001-30;2025-03-31;1;Informação não apresentada;Informação não apresentada
@@ -3339,8 +3367,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 52.353.292/0001-40;2025-06-30;1;Shopping Patio Maceio;Não possui caracteristicas que destoem dos demais
 52.356.865/0001-99;2025-03-31;1;IMÓVEL JARAGUÁ DO SUL;Imovel adquirido via arrematação por venda direta
 52.356.865/0001-99;2025-06-30;1;IMÓVEL JARAGUÁ DO SUL;Imovel adquirido via arrematação por venda direta
+52.356.865/0001-99;2025-09-30;1;IMÓVEL JARAGUÁ DO SUL;Imovel adquirido via arrematação por venda direta
 52.366.833/0001-74;2025-03-31;1;NA;NA
 52.366.833/0001-74;2025-06-30;1;NA;NA
+52.366.833/0001-74;2025-09-30;1;NA;NA
 52.551.605/0001-74;2025-03-31;1;Informação não apresentada.;
 52.551.605/0001-74;2025-06-30;1;Informação não apresentada.;
 52.589.406/0001-55;2025-03-31;1;Galpão Logístico - Guarulhos/SP;Matrículas n° 119.123, 119.224 e 119.225
@@ -3776,3 +3806,4 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 61.293.720/0001-87;2025-06-30;2;Galleria_Campinas;n/a
 61.293.720/0001-87;2025-06-30;2;Market Place;n/a
 61.293.720/0001-87;2025-06-30;2;MP Towers;n/a
+62.455.533/0001-15;2025-09-30;1;N/A;N/A

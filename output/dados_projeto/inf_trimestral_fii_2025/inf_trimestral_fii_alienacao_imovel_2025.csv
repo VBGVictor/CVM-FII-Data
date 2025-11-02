@@ -8,11 +8,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 09.072.017/0001-29;2025-03-31;1;GVT Curitiba;Rua Francisco Nunes, 1395 - Curitiba - PR;2025-02-28;9163.74;1;-;0.021753;0.021632
 09.072.017/0001-29;2025-06-30;1;Berrini One;Avenida Eng. Carlos Berrini, 105 - São Paulo - SP;2025-05-15;2959.34;4;-;0.274134;0.108681
 11.827.568/0001-05;2025-03-31;1;Rua Penido Bumier;Rua Penido Bumier;2025-01-27;1;1;Penido burnier;0.0214;0.0045
+13.974.819/0001-00;2025-09-30;1;Imóvel Duque de Caxias - Galpão 01;Rod. Washington Luiz, km 114, Via Projetada Aterial PD04,  nº 3777;2025-09-15;49603;1;A Transação foi concluída pelo valor total de R$ 87.000.000,00, nos termos aprovados na Assembleia Geral Extraordinária de Cotistas do Fundo, realizada em 23 de outubro de 2024, descontados os montantes referentes à saldos devedores.;0.7049;0.4069
 14.410.722/0001-29;2025-06-30;1;P_GROSSA;R.AUGUSTO RIBAS,555;2025-04-30;7562.77;1;Nenhuma característica relevante;-0.009101;-0.00849
 14.410.722/0001-29;2025-06-30;1;SORO_CAT;R.XV DE NOVEMBRO,63/67;2025-04-30;2089.12;1;Nenhuma característica relevante;-0.003916;-0.003653
 14.631.148/0001-39;2025-03-31;1;DUQUE DE CAXIAS;Galpão Comercia l/Industrial e seu respectivo terreno sito à Rodovia Washington Luiz (BR040 Km 108, nº 18.720. Duque de Caxias Rio de Janeiro;2025-01-15;8566.89;1;Galpão Comercial/Industrial;0.0647;0.0578
 15.461.076/0001-91;2025-03-31;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-02-01;269.48;5;Unidades 1901/1505/1902/1707 e 1708;0.0143;0.013
 15.461.076/0001-91;2025-06-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-05-21;88.19;1;Unidades 1907;0.004;0.0036
+15.461.076/0001-91;2025-09-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-07-18;48;1;UNIDADE 603;0.0025;0.0024
+15.461.076/0001-91;2025-09-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-09-30;48;1;UNIDADE 701;0.0031;0.0029
 15.576.907/0001-70;2025-06-30;1;Santa Cecília;R. das Palmeiras;2025-05-12;2920.29;1;n-a;0.00240198438367512;0.00221800267522881
 21.126.204/0001-43;2025-03-31;1;Rua da Paz, 338 - Afogados;Rua da Paz, 338 - Afogados;2025-01-28;1272;1;N/A;0.006094;0.006085
 21.126.204/0001-43;2025-06-30;1;Rua Oswaldo Cruz, 132;Rua Oswaldo Cruz, 132;2025-05-20;1832;1;N/A;0.018519;0.014344
@@ -218,6 +221,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 47.154.849/0001-83;2025-03-31;1;GOGH2606;R. Bancário Francisco M Sobreira, 51;2025-01-07;192.8;1;Nenhuma característica relevante;0.006552;0.003645
 47.154.849/0001-83;2025-03-31;1;GOGH2608;R. Bancário Francisco M Sobreira, 51;2025-03-21;134.9;1;Nenhuma característica relevante;0.004744;0.00264
 48.916.699/0001-60;2025-03-31;1;Condominio Faria Lima Plaza - FLP;Avenida Brigadeiro Faria Lima, 929, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05426-100;2025-01-07;69342112;191;Direito de Propriedade;0.31196238502451;42.6442433138565
+50.569.855/0001-06;2025-09-30;1;HELBOR VILA OLIMPIA HOME & STA;Rua Funchal nº 65 - Vila Olimpia SP;2025-09-30;1276.5;35;Cartorio de Imoveis - 4º RGI/SP / Matricula Area Maior - 108.072;0;0
 51.472.985/0001-99;2025-06-30;1;N/A;;;;;N/A;;
 51.870.412/0001-13;2025-03-31;1;Coral Gables - Vetter;Av. Antônio Joaquim Tavares, nº 824, Bairro Centro, Penha, Estado de Santa Catarina, CEP 88.838-000.;2025-01-17;132.13;1;N/A;0.1569;0.001951
 51.870.412/0001-13;2025-03-31;1;Alpha Houses I - Modena;Estrada Lula Chaves, 386 - Santana do Parnaíba;2025-01-24;514.44;2;N/A;0.2862;0.00294
