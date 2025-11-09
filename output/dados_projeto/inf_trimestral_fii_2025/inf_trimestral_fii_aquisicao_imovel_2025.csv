@@ -15,6 +15,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 18.950.957/0001-64;2025-03-31;1;URUGUAIA;Av. Ministro Assis Brasil, 1053 - Joquei Clube, Uruguaiana - RS;22500;1;Nenhuma característica relevante;0.002727;Renda
 19.267.845/0001-76;2025-06-30;1;NEBRASKA 2;RUA NEBRASLA, 667;627.28;1;MATRICULA - 286.114;0;Renda
 26.452.053/0001-37;2025-06-30;1;IMOVEL SÃO JOSÉ CAMPOS;RUA CORONEL JOSÉ MONTEIRO, 287- CENTRO- SÃO JOSÉ DOS CAMPOS - SP;1218;1;NA;0.0091;Renda
+26.452.053/0001-37;2025-09-30;1;IMOVEL SÃO JOSÉ CAMPOS;RUA CORONEL JOSÉ MONTEIRO, 287- CENTRO- SÃO JOSÉ DOS CAMPOS - SP;1218;1;NA;0.0091;Renda
 27.538.477/0001-81;2025-06-30;1;126594_27538;Rua Dr. João Francisco Centola Nóbrega, 491 - Ribeirão Preto - SP;56.4;1;Matrícula  126594;0;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_ARACAJU - GRUPO MATHEUS;Av. João Rodrigues, 592 - Industrial - Aracaju/SE;31524;1;n/a;0;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_ANANINDEUA- GRUPO MATHEUS;Av. Cláudio Saunders, Coqueiro, Ananindeua/PA;7601.92;1;n/a;0;Renda
@@ -95,6 +96,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 32.388.168/0001-02;2025-06-30;1;MT191522;RUA DOS ACORES 145;750;1;matricula 191.522;0.5358;Venda
 33.842.871/0001-01;2025-06-30;1;ANX. PAROQ. SALÃO 02;Largo da Vitória, 162 - Vitória, Salvador - BA;498.07;1;ANEXOS PAROQUIAIS - SALÃO 02;0;Renda
 34.691.520/0001-00;2025-06-30;1;Assai Ipatinga;Avenida Pedro Linhares Gomes, 5765, Sem Complemento, Industrial, Ipatinga/MG, Brasil, 35160-291;5500;1;Direito de Propriedade;0.10968607157406;Renda
+36.258.924/0001-30;2025-09-30;1;IMOVEL LBV 4;URBANO LBV 4;45000000;1;MATRICULA - Nº 82.480;0.24;Renda
 36.885.948/0001-19;2025-03-31;1;IMÓVEL IGUATEMI;Rua Viradouro nº 120, Jd Paulista;387.637;1;imovel;1;Renda
 38.293.897/0001-61;2025-03-31;1;Jardim Petrella Brooklin;Rua Pascoal Pais, 494/498, Vila Cordeiro, São Paulo/SP, Brasil, 04581-060;7580.61;1;Direito de Propriedade;0.01435315608519;Venda
 39.714.024/0001-48;2025-06-30;1;Ed.Barra Private e  Ed. Neolink;Ed. Barra Private: Av. Armando Lombardi nº 400  - Jacarepaguá - RJEd. Neolink: Av. Ayrton Senna, nº 2500, Jacarepaguá - RJ;5359.91;29;Barra Private, Neolink, Office I, Office II, Stay II;0.190097;Renda

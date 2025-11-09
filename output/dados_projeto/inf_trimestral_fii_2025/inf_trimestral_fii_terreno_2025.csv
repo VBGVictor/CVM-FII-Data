@@ -195,6 +195,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 13.598.226/0001-88;2025-06-30;1;RUA MANDU, 382;ID 86 MATRICULA 47492;720;0.014;0
 14.074.706/0001-02;2025-03-31;1;Moutain View Residencial;Próximo a Rua dos Industriários, Cidade Nova Lima - MG;500000;0.686;0.686
 14.074.706/0001-02;2025-06-30;1;Moutain View Residencial;Próximo a Rua dos Industriários, Cidade Nova Lima - MG;500000;0.686;0.686
+14.074.706/0001-02;2025-09-30;1;Moutain View Residencial;Próximo a Rua dos Industriários, Cidade Nova Lima - MG;500000;0.686;0.686
 14.217.108/0001-45;2025-03-31;1;R. D. Francisca, 8300 - Dist. Indl - Joinville -SC;Matricula;277714.5;0.194537;0
 14.217.108/0001-45;2025-03-31;1;R. Alemanha, nº 0 - Bairro Gloria Joinville - SC;Matricula;10635.13;0.058188;0
 14.217.108/0001-45;2025-03-31;1;R. Silva Jardim, nº 0 - Bairro Gloria-Joinville-SC;Matricula;33650;0.18411;0
@@ -261,8 +262,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 24.976.492/0001-13;2025-06-30;1;Av Ulysses reis de Mattos, Av Duquesa de Goias e Av Magalhães de Castro;Terrenos para construção de Shopping;160000;1;1
 26.269.251/0001-60;2025-03-31;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
 26.269.251/0001-60;2025-06-30;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
+26.269.251/0001-60;2025-09-30;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
 26.452.053/0001-37;2025-03-31;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
 26.452.053/0001-37;2025-06-30;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
+26.452.053/0001-37;2025-09-30;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
+26.452.053/0001-37;2025-09-30;1;rua Vilaça, 186, Centro, São josé dos Campos, SP;Terreno;800;0;0
 27.368.617/0001-10;2025-03-31;1;Coordenadas UTM N=7.803.827,02 - E=598.794,65, localizado junto à margem esquerda da Av. das Comtendas, CEP 32184-010 - Contagem-MG;Matrícula nº 155.707. Fazendo Boa Vista. Fundo é proprietário de 100% do terreno, sem ônus.;210442.43;0.995217;0
 27.368.617/0001-10;2025-03-31;1;Parque Nacional da Serra do Gandarela - Reserva Ambiental. N/A, CEP 35450-000 - Itabirito - MG.;Matrícula nº 30.803;31059;0.004783;0
 27.538.422/0001-71;2025-03-31;1;Av. Colombo, 9322 - Gleba Patrimônio, PR;IM.MARINGÁ;43655.34;1;0
@@ -337,6 +341,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 31.152.015/0001-07;2025-06-30;1;Rua Monte Caseros, 167 A 189 - Butantã, São Paulo - SP;MONTE CASERO;1443;0;0
 31.524.769/0001-32;2025-03-31;1;Rua Conselheiro Dantas n° 350, esquina com Rua Tiers, Bairro Pari - SP;ELEVSHOP KODY - Terreno com edificio comercial que será voltado para um shopping center;8406.23;1;1
 31.524.769/0001-32;2025-06-30;1;Rua Conselheiro Dantas n° 350, esquina com Rua Tiers, Bairro Pari - SP;ELEVSHOP KODY - Terreno com edificio comercial que será voltado para um shopping center;8406.23;1;1
+31.524.769/0001-32;2025-09-30;1;Rua Conselheiro Dantas n° 350, esquina com Rua Tiers, Bairro Pari - SP;ELEVSHOP KODY - Terreno com edificio comercial que será voltado para um shopping center;8406.23;1;1
 31.544.493/0001-54;2025-03-31;1;Rua Francisco Muñoz Madrid, 625, consjunto 100 Bairro Roseira Município São José dos Pinhais, Estado do Paraná;Portal do Porto;89738.66;0.943919;0.988429
 31.544.493/0001-54;2025-06-30;1;Rua Francisco Muñoz Madrid, 625, consjunto 100 Bairro Roseira Município São José dos Pinhais, Estado do Paraná;Portal do Porto;89738.66;0.943919;0.988429
 31.547.782/0001-07;2025-03-31;1;FAZENDA CACHOEIRA;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matriculas: 13553 - 13772 - 17121 - 17315 - 18588 - 13553;17883600;0;0
@@ -345,8 +350,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 31.547.782/0001-07;2025-06-30;1;Avenida Itaoca, 786, Bonsucesso;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matrícula: 94.317;0;0;0
 31.547.989/0001-81;2025-03-31;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
 31.547.989/0001-81;2025-06-30;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
+31.547.989/0001-81;2025-09-30;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
 31.713.934/0001-02;2025-03-31;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
 31.713.934/0001-02;2025-06-30;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
+31.713.934/0001-02;2025-09-30;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
 31.962.875/0001-06;2025-03-31;1;Av. Guandu, 1000 - Campo Alegre Queimados / RJ - CEP: 26.320-270;PLD Queimados;356338.1;0.252606;0
 31.962.875/0001-06;2025-03-31;1;Rodovia Raposo Tavares SP-270, Bairro do Moinho Velho, Cotia/SP;PLD São Paulo 26;800000;0.727026;0
 31.962.875/0001-06;2025-03-31;1;Av. Ayrton Senna, Sn, ( Lt 01 do PAL 47.176 da Via 8 da Rua Projetada, PA 9351, 36.034, 9351);RJ UTL 1 - BARRA DA TIJUCA II;194860;0.020369;0
@@ -416,6 +423,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 36.258.924/0001-30;2025-06-30;1;Matricula nº 72533/DF;IMÓVEL URBANO LBV;;0.4402;1
 36.258.924/0001-30;2025-06-30;1;IMOVEL -TERRENO BELEM;TERRENO BELEM;;0.1234;1
 36.258.924/0001-30;2025-06-30;1;IMOVEL BENFEITORIAS;Benfeitorias - TERRENO;;0.0595;1
+36.258.924/0001-30;2025-09-30;1;IMOVEL -TERRENO BELEM;TERRENO BELEM;1000;0.09;1
 36.312.025/0001-78;2025-03-31;1;Rua Visconde de Pirajá, n.º 616 - Ipanema - Rio de Janeiro - RJ.;=G88VISCONDE DE PIRAJÁ - MAT. 49,995;895.65;0;0
 36.312.025/0001-78;2025-03-31;1;Rua Batista de Oliveira esquina com a Rua Sampaio;=G88Matrícula nº 42.746 - Cartório Do 2º Ofício De Registro De Imóveis da Comarca de Juiz de Fora -MG;1082.75;0;0
 36.312.025/0001-78;2025-03-31;1;Rua Barão de São João Nepomuceno, nº 232 - Centro - Juiz de Fora MG;LOJA COMERCIAL - SÃO JOÃO;319.3;0;0
@@ -476,6 +484,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 39.347.413/0001-82;2025-06-30;1;Rua Denise Alves de Medeiros Campina Grande - Paraíba;Terreno adquirido de acordo com a escritura pública de compra e venda cuja aquisição está averbado junto a matrícula do imóvel.;12000;1;0
 39.583.723/0001-04;2025-03-31;1;AV UM, S/N PARQUE INDUSTRIAL, CIDADE DE CONTAGEM - MGGLEBA nª 01;lugar denominado FAZENDA DA TAPERA em Contagem/MG, com área de 52.242,19m², com limites e confrontações de acordo com a matrícula 168.070 do SRI de Contagem/MG;52242.19;1;1
 39.583.723/0001-04;2025-06-30;1;AV UM, S/N PARQUE INDUSTRIAL, CIDADE DE CONTAGEM - MGGLEBA nª 01;lugar denominado FAZENDA DA TAPERA em Contagem/MG, com área de 52.242,19m², com limites e confrontações de acordo com a matrícula 168.070 do SRI de Contagem/MG;52242.19;1;1
+39.583.723/0001-04;2025-09-30;1;AV UM, S/N PARQUE INDUSTRIAL, CIDADE DE CONTAGEM - MGGLEBA nª 01;lugar denominado FAZENDA DA TAPERA em Contagem/MG, com área de 52.242,19m², com limites e confrontações de acordo com a matrícula 168.070 do SRI de Contagem/MG;52242.19;1;1
 39.591.218/0001-01;2025-03-31;1;Rua Nicolau dos Santos, nº 40, São Paulo-SP;Imóvel registrado sob o nº 34.192 no Cartório de RGI de Imóveis da Capital de SP;883;1;1
 39.591.218/0001-01;2025-06-30;1;Rua Nicolau dos Santos, nº 40, São Paulo-SP;Imóvel registrado sob o nº 34.192 no Cartório de RGI de Imóveis da Capital de SP;883;1;1
 39.714.024/0001-48;2025-03-31;1;Rua Camboriú - Joinville/SC;Terreno urbano, objeto da matrícula 49.642, situado na Rua Camboriú, distante 71,71 metros da Rua Desembargador Nelson Nunes Guimarães. Destinado à operação do estacionamento do centro de tratamento de olhos.;3878.9;1;0.015856
@@ -632,6 +641,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.584.965/0001-44;2025-06-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracilia matricula 11.529;0;0.0638072806194535;0
 44.584.965/0001-44;2025-06-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 58.931;0;0.0321032886822588;0
 44.584.965/0001-44;2025-06-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 101.52;0;0.0321032886822588;0
+44.584.965/0001-44;2025-09-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracilia matricula 11.529;0;0.4984;0
+44.584.965/0001-44;2025-09-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 58.931;0;0.2508;0
+44.584.965/0001-44;2025-09-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 101.52;0;0.2508;0
 44.585.121/0001-18;2025-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;matrícula de n.º 162578 - terreno;1871.58;0.3608;0
 44.585.121/0001-18;2025-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;matrícula de n.º 162579 - predio;954.07;0.3165;0
 44.585.121/0001-18;2025-03-31;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.3226;0
@@ -829,6 +841,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 51.303.221/0001-70;2025-06-30;1;Rodovia Estadual MT-240, Zona Rural, Água Boa/MT, CEP: 78635-000;matrícula do RGI 7.060 do Ofício de Água Boa MT  - AGUA BOA;1120.4;0.5379;0
 51.303.221/0001-70;2025-06-30;1;Av. Gisele, s/n, Lote 52 - Aleixo, Distrito II, Manaus/AM, CEP: 69075-793;matrícula do RGI 47.322 do 4º Ofício de Manaus/AM - MANAUS;5850;0.2512;0
 51.303.221/0001-70;2025-06-30;1;R. Green 05, S/N Lote 08, Quadra 06  - Green Park Condomínio Residencial, Rio Verde/GO, CEP: 75909-620;matrícula do RGI 80.249 do Ofício de Rio Verde/GO - RIO VERDE;482.7;0.2109;0
+51.303.221/0001-70;2025-09-30;1;Rodovia Estadual MT-240, Zona Rural, Água Boa/MT, CEP: 78635-000;matrícula do RGI 7.060 do Ofício de Água Boa MT  - AGUA BOA;1120.4;0.42;0
+51.303.221/0001-70;2025-09-30;1;Av. Gisele, s/n, Lote 52 - Aleixo, Distrito II, Manaus/AM, CEP: 69075-793;matrícula do RGI 47.322 do 4º Ofício de Manaus/AM - MANAUS;5850;0.1858;0
+51.303.221/0001-70;2025-09-30;1;R. Green 05, S/N Lote 08, Quadra 06  - Green Park Condomínio Residencial, Rio Verde/GO, CEP: 75909-620;matrícula do RGI 80.249 do Ofício de Rio Verde/GO - RIO VERDE;482.7;0.1481;0
 51.407.683/0001-37;2025-03-31;1;Area de terras situada em Ribeirão Preto, denominada (Área de Preservação Permanente APP -6);.;0;0.0644;0.064117
 51.407.683/0001-37;2025-03-31;1;Area de terras situada em Ribeirão Preto, com frente para Via José Luiz Galvão, lado par, distante 879,22 metros da cerca da Rodovia Alexandre Balbo no trevo do Km 329;.;0;0.90431;0.90111
 51.407.683/0001-37;2025-06-30;1;Area de terras situada em Ribeirão Preto, denominada (Área de Preservação Permanente APP -6);.;0;0.0644;0.064117
@@ -874,6 +889,18 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 51.889.479/0001-08;2025-06-30;1;Terreno São Borges;Terreno São Borges;3000;0.0212;0.0222
 51.889.479/0001-08;2025-06-30;1;Terreno Bunge;Terreno Bunge;2500;0.0177;0.0185
 51.889.479/0001-08;2025-06-30;1;Terreno TRAMANDAI;Terreno TRAMANDAI;6100;0.0431;0.0452
+51.889.479/0001-08;2025-09-30;1;CANOAS Bittencourt - mat. 90.923;Rua Roberto Francisco Behrens;4632.113;0.0127;0.0133
+51.889.479/0001-08;2025-09-30;1;SÃO BORJA- mat. 30.094;Avenida Presidente Goulart;30000;0.0382;
+51.889.479/0001-08;2025-09-30;1;VIAMÃO mat. 40.176;Km 19, Estrada de Rodagem Porto Alegre - Viamão;13788.6;0.0892;0.0936
+51.889.479/0001-08;2025-09-30;1;VIAMÃO mat. 81.006;Km 19, Estrada de Rodagem Porto Alegre - Viamão;6740.13;0.0358;0.0376
+51.889.479/0001-08;2025-09-30;1;CRUZ ALTA - mat. 51.078;Av. Saturnino de Brito, 601 - São Francisco - Cruz Alta/RS;7008.48;0.12;0.1261
+51.889.479/0001-08;2025-09-30;1;LAGES - mat. 36.632;Rua Hirto Luiz Melegari, 465 - Sagrado Coração de Jesus, Lages/SC;9310.7;0.1236;0.1298
+51.889.479/0001-08;2025-09-30;1;SANTA MARIA - mat.107.647;Avenida Maestro Roberto Barbosa Ribas, Bairro Juscelino Kubitschek - Santa Maria;29713.42;0.0918;0.0964
+51.889.479/0001-08;2025-09-30;1;SÃO GABRIEL - Mat.4.42;Av. Francisco Chagas, 1540 - São Gabriel - RS;16348;0.0177;0.0185
+51.889.479/0001-08;2025-09-30;1;IMOVEL -PELOTAS;terreno Pelotas - MAT 73.756;17500;0.1236;0.1298
+51.889.479/0001-08;2025-09-30;1;Terreno São Borges;Terreno São Borges;3000;0.0212;0.0222
+51.889.479/0001-08;2025-09-30;1;Terreno Bunge;Terreno Bunge;2500;0.0177;0.0185
+51.889.479/0001-08;2025-09-30;1;Terreno TRAMANDAI;Terreno TRAMANDAI;6100;0.0431;0.0452
 52.371.756/0001-40;2025-03-31;1;ARAUCÁRIA - Rodovia PR-423, 3301, Bairro Boqueirão;Matrícula 63.339;358507.08;1;0
 52.371.756/0001-40;2025-06-30;1;ARAUCÁRIA - Rodovia PR-423, 3301, Bairro Boqueirão;Matrícula 63.339;358507.08;1;0
 52.551.605/0001-74;2025-03-31;1;EDIF.A MESSI-Avenida Tégula, 888, Ponte Alta. Atibaia - SP. Edif. A - Messier Unid. 01 a 04;Matrícula 133478;28703.84;0.31456884945802;0
@@ -977,6 +1004,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 58.549.748/0001-28;2025-06-30;1;Fazenda Fortaleza - Parte B -Município de Paranatinga, Mato Grosso;Certificação do INCRA: 131102000009-04 de 08/12/2011;5293.9014;0.5;0.49
 58.549.748/0001-28;2025-06-30;1;Fazenda Fortaleza - Parte B1 -Município de Paranatinga, Mato Grosso;Certificação do INCRA: Certificação do INCRA: 131102000009-04 de 08/12/2011;1766.2076;0.5;0.49
 58.863.998/0001-38;2025-06-30;3;;N/A;;;
+59.139.645/0001-52;2025-09-30;1;GLEBA DE TERRAS  (nº 091.963);NA;0;0.1478;0
+59.139.645/0001-52;2025-09-30;1;UM GALPÃO (nº106956);NA;0;0.0061;0
 59.658.166/0001-42;2025-06-30;1;Rodovia dos Bandeirantes, Km 38, no Município de Franco da Rocha, Estado de São Paulo;Direito de Propriedade;227771;1;1
 59.680.687/0001-04;2025-06-30;2;;;;;
 59.680.687/0001-04;2025-06-30;2;;;;;

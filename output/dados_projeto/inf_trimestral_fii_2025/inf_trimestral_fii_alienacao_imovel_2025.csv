@@ -19,6 +19,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 15.576.907/0001-70;2025-06-30;1;Santa Cecília;R. das Palmeiras;2025-05-12;2920.29;1;n-a;0.00240198438367512;0.00221800267522881
 21.126.204/0001-43;2025-03-31;1;Rua da Paz, 338 - Afogados;Rua da Paz, 338 - Afogados;2025-01-28;1272;1;N/A;0.006094;0.006085
 21.126.204/0001-43;2025-06-30;1;Rua Oswaldo Cruz, 132;Rua Oswaldo Cruz, 132;2025-05-20;1832;1;N/A;0.018519;0.014344
+21.126.204/0001-43;2025-09-30;1;17;Rua Riachuelo, 360 - Centro;2025-08-06;1118;1;N/A;0.005675;0.005736
+21.126.204/0001-43;2025-09-30;1;6;Rua Carijós, 645 - Centro;2025-09-29;2002;1;N/A;0.044604;0.045082
+21.126.204/0001-43;2025-09-30;1;5;Av. Paraná, 321 - Centro;2025-09-29;4724;1;N/A;0.113207;0.11442
+21.126.204/0001-43;2025-09-30;1;12;Av. Presidente Kennedy, 09;2025-09-29;2662;1;N/A;0.042219;0.042671
+21.126.204/0001-43;2025-09-30;1;14;Pça XV de Novembro, 111;2025-09-29;1145;1;N/A;0.015081;0.015242
+21.126.204/0001-43;2025-09-30;1;40;Av. Adolfo Pinheiro, 62 - Santo Amaro;2025-09-29;3264;1;N/A;0.089055;0.09001
 24.703.709/0001-11;2025-03-31;1;Apto Nº114 - Ed Caroline ;Rua Urimonduba, nº 114;;;1;Unidade localizada no Apto Nº114 - Ed Caroline ;0;0
 24.703.709/0001-11;2025-03-31;1;Apto Nº104 - Ed. Guaraí - R. Dr. Mello;Rua Dr. Mello Alves nº 247;;;1;Unidade localizada no Apto Nº104 - Ed. Guaraí - R. Dr. Mello;0;0
 24.703.709/0001-11;2025-03-31;1;Apto Nº112 - Mourato Coelho;Mourato Coelho, 112;;;1;-;0;0
@@ -113,6 +119,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 36.445.551/0001-06;2025-06-30;1;TURANDOT 610;Rua Paula Ney, 475, Vila Mariana - SP;2025-05-23;101;1;Direito de propriedade;;
 36.517.660/0001-91;2025-03-31;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2025-03-31;553.5;17;n-a;0.169983;0.046446
 36.517.660/0001-91;2025-06-30;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2025-06-30;602;18;n-a;0.226209;0.050528
+36.517.660/0001-91;2025-09-30;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2025-09-30;350;10;n-a;0.131771;0.029446
 37.112.770/0001-36;2025-03-31;1;REC Log Camaçari;Via de Ligação, 109, Polo Industrial, Camaçari/BA;2025-01-29;47441.41;1;Direito de propriedade;1.2231;0.1103
 37.112.770/0001-36;2025-06-30;1;REC Log Cotia;Estrada dos Estudantes, 600, Cotia/SP;2025-05-14;Área (m2): 18.077,77;1;;0.359668564231155;0.414376538899288
 37.112.770/0001-36;2025-06-30;1;REC Log Extrema;Rua Josepha Gomes de Souza, 306, Extrema/MG;2025-05-14;Área (m2): 11.363,84;1;;0.307216898614111;0.353946626976475
