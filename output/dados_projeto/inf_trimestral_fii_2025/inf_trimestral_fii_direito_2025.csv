@@ -29,6 +29,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 15.576.907/0001-70;2025-06-30;1;GPA - Tatuapé;Direitos de superficie GPA - Imóvel Tatuapé;13386533.74
 15.576.907/0001-70;2025-06-30;1;GPA - Guarulhos;Direitos de superficie GPA - Imóvel Guarulhos;34877296.11
 15.576.907/0001-70;2025-06-30;1;GPA - São José dos Campos;Direitos de superfície GPA - Imóvel SJC;37980200.3
+15.576.907/0001-70;2025-09-30;1;GPA - Tatuapé;Direitos de superficie GPA - Imóvel Tatuapé;13067122.21
+15.576.907/0001-70;2025-09-30;1;GPA - Guarulhos;Direitos de superficie GPA - Imóvel Guarulhos;34030199.8
+15.576.907/0001-70;2025-09-30;1;GPA - São José dos Campos;Direitos de superfície GPA - Imóvel SJC;37073967.69
 16.543.270/0001-89;2025-03-31;1;3 Apartamentos MG;Edificio Bossa Nova -BURITI;3000000
 16.543.270/0001-89;2025-03-31;1;Terras Empreendimentos;Obras finalizadas o mercado regional ainda incipiente possui grande potencial ( Bonito MS);11000000
 16.543.270/0001-89;2025-03-31;1;120 LOTES -JARDINS MONET;JARDINS MONET-MG - ABAETÉ;12000000
@@ -52,13 +55,19 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 24.514.406/0001-50;2025-06-30;1;PROJ PC1 VGV 76%;RECEBER VETOR - PC1;90396636.57
 24.514.406/0001-50;2025-06-30;1;VGV REC JUNHO;VGV REC JUNHO;-500000
 24.514.406/0001-50;2025-06-30;1;Ativo Serv Ambiental;ATIVO SERV AMBIENTAL;5500000
+24.514.406/0001-50;2025-09-30;1;PROJ PC1 VGV 76%;A VENDER - PC1;6382876.62
+24.514.406/0001-50;2025-09-30;1;PROJ PC1 VGV 76%;RECEBER CLIENT - PC1;35030196.21
+24.514.406/0001-50;2025-09-30;1;PROJ PC1 VGV 76%;RECEBER VETOR - PC1;71996881.86
+24.514.406/0001-50;2025-09-30;1;VGV REC JUNHO;VGV REC JUNHO;-1200000
 26.269.251/0001-60;2025-03-31;1;MAQUINARIO;MAQUINARIO;33041000
 26.269.251/0001-60;2025-06-30;1;MAQUINARIO;MAQUINARIO;33041000
 26.269.251/0001-60;2025-09-30;1;MAQUINARIO;MAQUINARIO;33041000
 27.486.542/0001-72;2025-03-31;1;Viracopos;Galpão na Rodovia Miguel Melhado Campos, SP-324, Km 81,5, Itupeva - SP;314168751.09
 27.486.542/0001-72;2025-06-30;1;Viracopos;Galpão na Rodovia Miguel Melhado Campos, SP-324, Km 81,5, Itupeva - SP;314168751.09
+27.486.542/0001-72;2025-09-30;1;Viracopos;Galpão na Rodovia Miguel Melhado Campos, SP-324, Km 81,5, Itupeva - SP;314168751.09
 29.242.809/0001-01;2025-03-31;1;CAXANGA;DIREITO DE SUPERFICIE;13817947
 29.242.809/0001-01;2025-06-30;1;CAXANGA;DIREITO DE SUPERFICIE;13817947
+29.242.809/0001-01;2025-09-30;1;CAXANGA;DIREITO DE SUPERFICIE;13817947
 29.267.567/0001-00;2025-03-31;1;Sala Comercial;Sala Comercial - EDIFÍCIO GAUDÍ - N° 61 - MAT - 179.771;433000
 29.267.567/0001-00;2025-03-31;1;Sala Comercial;Sala Comercial - EDIFÍCIO GAUDÍ - N° 71 - MAT - 179.776;433000
 29.267.567/0001-00;2025-06-30;1;Sala Comercial;Sala Comercial - EDIFÍCIO GAUDÍ - N° 61 - MAT - 179.771;433000
@@ -68,6 +77,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 31.524.769/0001-32;2025-09-30;1;CUSTO DA OBRA;Custo da obra do ELEVSHOP KODY;5174362.19
 31.524.789/0001-03;2025-03-31;1;csuto da obra;;399380000
 31.524.789/0001-03;2025-06-30;1;csuto da obra;;399380000
+31.524.789/0001-03;2025-09-30;1;csuto da obra;;399380000
 32.317.313/0001-64;2025-03-31;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;21674057.18
 32.317.313/0001-64;2025-06-30;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;21396865.58
 32.317.313/0001-64;2025-09-30;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;21238139.31
@@ -77,9 +87,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 33.701.887/0001-02;2025-06-30;1;Fazenda Tupã;;15181000.01
 33.701.887/0001-02;2025-06-30;1;Parque Eldorado - Lote 01, 02 e 03 Qd 9;;9123999.98
 33.701.887/0001-02;2025-06-30;1;Terra Nova - Lote 02 Qd 02;;7945000.03
+33.701.887/0001-02;2025-09-30;1;Fazenda Tupã;;15181000.01
+33.701.887/0001-02;2025-09-30;1;Parque Eldorado - Lote 01, 02 e 03 Qd 9;;9123999.98
+33.701.887/0001-02;2025-09-30;1;Terra Nova - Lote 02 Qd 02;;7945000.03
 34.547.078/0001-42;2025-06-30;1;SÃO JOSÉ IMOB 82;SÃO JOSÉ IMOB 82;20500000
+34.547.078/0001-42;2025-09-30;1;SÃO JOSÉ IMOB 82;SÃO JOSÉ IMOB 82;20500000
 36.501.128/0001-86;2025-03-31;1;FAZ ROMA - TO;Aquisição de Participação da empresa ECO BRASIL FLORESTAS S.A., referente as propriedades: Bela Vista I, Bela Vista II, Bom Jesus, Cachoeira - Lote 1, Cachoeira - Lote 2, Caititu, Estância Córdoba, Feio, Lontra, Pitanga, União I, União II, União III, Vai Quem Quer, Vitória, Vitória II e Capivara com as suas respectivas matrículas 640, 641, 455, 457, 456, 458, 586, 446, 459, 454, 507, 508, 442, 644, 585, 610 e 464 do CRI de Tupiratins-TO. A área total das propriedades é de 13.764,06 hectares.;40000000
 36.501.128/0001-86;2025-06-30;1;FAZ ROMA - TO;Aquisição de Participação da empresa ECO BRASIL FLORESTAS S.A., referente as propriedades: Bela Vista I, Bela Vista II, Bom Jesus, Cachoeira - Lote 1, Cachoeira - Lote 2, Caititu, Estância Córdoba, Feio, Lontra, Pitanga, União I, União II, União III, Vai Quem Quer, Vitória, Vitória II e Capivara com as suas respectivas matrículas 640, 641, 455, 457, 456, 458, 586, 446, 459, 454, 507, 508, 442, 644, 585, 610 e 464 do CRI de Tupiratins-TO. A área total das propriedades é de 13.764,06 hectares.;40000000
+36.501.128/0001-86;2025-09-30;1;FAZ ROMA - TO;Aquisição de Participação da empresa ECO BRASIL FLORESTAS S.A., referente as propriedades: Bela Vista I, Bela Vista II, Bom Jesus, Cachoeira - Lote 1, Cachoeira - Lote 2, Caititu, Estância Córdoba, Feio, Lontra, Pitanga, União I, União II, União III, Vai Quem Quer, Vitória, Vitória II e Capivara com as suas respectivas matrículas 640, 641, 455, 457, 456, 458, 586, 446, 459, 454, 507, 508, 442, 644, 585, 610 e 464 do CRI de Tupiratins-TO. A área total das propriedades é de 13.764,06 hectares.;40000000
 40.944.707/0001-70;2025-03-31;1;Terreno - Posto;Concluídasas condições precedentes constantes do CCV mediante a quitação do preço do imóvel.;14269529.37
 40.944.707/0001-70;2025-06-30;1;Terreno - Posto;Concluídasas condições precedentes constantes do CCV mediante a quitação do preço do imóvel.;14269529.37
 43.008.884/0001-33;2025-03-31;1;Edificio Edson;Instrumento de Compromisso de Venda e Compra de Participações em Empreendimento Imobiliário e Outras Avenças;21116400
@@ -96,6 +111,13 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 43.741.171/0001-84;2025-06-30;1;LIBERDADE;DIREITO DE SUPERFICIE;500000
 43.741.171/0001-84;2025-06-30;1;MUNDO MELHOR;DIREITO DE SUPERFICIE;500000
 43.741.171/0001-84;2025-06-30;1;SÃO BENTO DO ABADE;DIREITO DE SUPERFICIE;500000
+43.741.171/0001-84;2025-09-30;1;9ENERGIAS;DIREITO DE SUPERFICIE;6799769.64
+43.741.171/0001-84;2025-09-30;1;IMPETUS;DIREITO DE SUPERFICIE;24667310.99
+43.741.171/0001-84;2025-09-30;1;VOLTXS;DIREITO DE SUPERFICIE;39819531.59
+43.741.171/0001-84;2025-09-30;1;LIBERDADE;DIREITO DE SUPERFICIE;525534.25
+43.741.171/0001-84;2025-09-30;1;MUNDO MELHOR;DIREITO DE SUPERFICIE;540919.63
+43.741.171/0001-84;2025-09-30;1;SÃO BENTO DO ABADE;DIREITO DE SUPERFICIE;505229.66
+43.741.171/0001-84;2025-09-30;1;DRS ITABIRA;DIREITO DE SUPERFICIE;16673041.64
 45.188.099/0001-35;2025-03-31;1;Apartamento Duplex nº 04 - Condominio Reboucinhas;Instrumento Particular de Compromisso de Venda e Compra de Imóveis e Outras Avenças.;3000000
 45.188.099/0001-35;2025-06-30;1;Apartamento Duplex nº 04 - Condomínio Reboucinhas;Instrumento Particular de Compromisso de Venda e Compra de Imóveis e Outras Avenças com Opção de Compra.;3000000
 49.318.661/0001-59;2025-03-31;2;MT124985 TERRENO - PIRACICABA;O FUNDO É DETENTOR APENAS DO COMODATO;
@@ -113,6 +135,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 51.472.985/0001-99;2025-06-30;1;N/A;N/A;0
 52.635.194/0001-03;2025-03-31;1;Projeto Jamaris;Parcelamento da compra do terreno / Pagamento Advogados;29500000
 52.635.194/0001-03;2025-06-30;1;Projeto Jamaris;Parcelamento da compra do terreno / Pagamento Advogados;29772695.9
+52.635.194/0001-03;2025-09-30;1;Projeto Jamaris;Parcelamento da compra do terreno;29500000
 53.191.611/0001-20;2025-06-30;1;DC_77702_VEX;Imóveis em Garantia;87026.87
 53.191.611/0001-20;2025-06-30;1;DC_77703_VEX;Imóveis em Garantia;64162.84
 53.191.611/0001-20;2025-06-30;1;DC_77770_77769_VEX;Imóveis em Garantia;240199.71
@@ -125,10 +148,27 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 53.191.611/0001-20;2025-06-30;1;DC_77869_77873_VEX;Imóveis em Garantia;278173.35
 53.191.611/0001-20;2025-06-30;1;DC_1366_TRANSTECH;Imóveis em Garantia;1339566
 53.191.611/0001-20;2025-06-30;1;DC_77865_VEX;Imóveis em Garantia;19714.62
+53.191.611/0001-20;2025-09-30;1;DC_77702_VEX;Imóveis em Garantia;87026.87
+53.191.611/0001-20;2025-09-30;1;DC_77703_VEX;Imóveis em Garantia;64162.84
+53.191.611/0001-20;2025-09-30;1;DC_77770_77769_VEX;Imóveis em Garantia;240199.71
+53.191.611/0001-20;2025-09-30;1;DC_77714_77715_VEX;Imóveis em Garantia;146812.8
+53.191.611/0001-20;2025-09-30;1;DC_77779_77782_VEX;Imóveis em Garantia;102278.61
+53.191.611/0001-20;2025-09-30;1;DC_47_JM TRANSPORTES;Imóveis em Garantia;607614
+53.191.611/0001-20;2025-09-30;1;DC_77936_77935_VEX;Imóveis em Garantia;23342.11
+53.191.611/0001-20;2025-09-30;1;DC_10646_VEX;Imóveis em Garantia;389778
+53.191.611/0001-20;2025-09-30;1;DC_77894_VEX;Imóveis em Garantia;31766.25
+53.191.611/0001-20;2025-09-30;1;DC_77869_77873_VEX;Imóveis em Garantia;278173.35
+53.191.611/0001-20;2025-09-30;1;DC_1366_TRANSTECH;Imóveis em Garantia;1339566
+53.191.611/0001-20;2025-09-30;1;DC_77865_VEX;Imóveis em Garantia;19714.62
+53.191.611/0001-20;2025-09-30;1;DC_SEED CONSTRUÇOES;-;17570587
+53.191.611/0001-20;2025-09-30;1;EMPRESA RURAL E AGRO;-;14939425.01
+53.191.611/0001-20;2025-09-30;1;DC_SEED CONSTRUÇOES;-;1429413
 53.654.501/0001-58;2025-03-31;1;SANTORIN;60 unidades studios no projeto Condomínio Porto Paraíso localizado na Rua Coronel Oscar Porto, 629 - Paraíso - São Paulo - SP (em construção);19695594.28
 53.654.501/0001-58;2025-03-31;1;STUSABIA;214 unidades studios no projeto Casa Sabiá localizado na Av. Sabiá, 598 - Moema - São Paulo - SP (em construção);53992732.85
 53.654.501/0001-58;2025-06-30;1;SANTORIN;60 unidades studios no projeto Condomínio Porto Paraíso localizado na Rua Coronel Oscar Porto, 629 - Paraíso - São Paulo - SP (em construção);19695594.28
 53.654.501/0001-58;2025-06-30;1;STUSABIA;214 unidades studios no projeto Casa Sabiá localizado na Av. Sabiá, 598 - Moema - São Paulo - SP (em construção);53992732.85
+53.654.501/0001-58;2025-09-30;1;SANTORIN;60 unidades studios no projeto Condomínio Porto Paraíso localizado na Rua Coronel Oscar Porto, 629 - Paraíso - São Paulo - SP (em construção);19695594.28
+53.654.501/0001-58;2025-09-30;1;STUSABIA;214 unidades studios no projeto Casa Sabiá localizado na Av. Sabiá, 598 - Moema - São Paulo - SP (em construção);53992732.85
 54.645.216/0001-33;2025-03-31;1;Alameda Campinas;Promessa de compra e venda com cláusula de retrovenda.;31416496.58
 54.645.216/0001-33;2025-03-31;1;Brook;Promessa de compra e venda com cláusula de retrovenda.;3991244.43
 54.645.216/0001-33;2025-03-31;1;Baronesa de Itu;Promessa de compra e venda com cláusula de retrovenda.;38982807.54
@@ -147,4 +187,27 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 54.645.216/0001-33;2025-06-30;1;HY Pinheiro;Promessa de compra e venda com cláusula de retrovenda.;442342.94
 56.191.016/0001-83;2025-03-31;1;MAT Nº 11.285: Fazenda Boa Vista, Carangola/MG;Única possuidora e titular do Direito Real de Superfície (DRS) sobre uma área de 09,27,06 hectares, formalizada com a celebração da "Escritura Pública de Promessa de Cessão Onerosa de Direito de Superfície", celebrada em 13 de setembro de 2024, entre a PONTO DE EQUILIBRIO ENGENHARIA LTDA. e o AZ QUEST RENDA SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA. Para financiar a aquisição do imóvel, foram emitidos os certificados de recebíveis imobiliários da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A, e com isso sendo constituído o ônus da Alienação Fiduciária de DRS com a celebração da "Escritura Pública de Alienação Fiduciária de Direito Real de Superfície em Garantia e Outras Avenças", celebrado em 13 de setembro de 2024. A Alienação Fiduciária de DRS foi dada em garantia da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A.;26229108.91
 56.191.016/0001-83;2025-06-30;1;MAT Nº 11.285: Fazenda Boa Vista, Carangola/MG;Única possuidora e titular do Direito Real de Superfície (DRS) sobre uma área de 09,27,06 hectares, formalizada com a celebração da "Escritura Pública de Promessa de Cessão Onerosa de Direito de Superfície", celebrada em 13 de setembro de 2024, entre a PONTO DE EQUILIBRIO ENGENHARIA LTDA. e o AZ QUEST RENDA SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA. Para financiar a aquisição do imóvel, foram emitidos os certificados de recebíveis imobiliários da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A, e com isso sendo constituído o ônus da Alienação Fiduciária de DRS com a celebração da "Escritura Pública de Alienação Fiduciária de Direito Real de Superfície em Garantia e Outras Avenças", celebrado em 13 de setembro de 2024. A Alienação Fiduciária de DRS foi dada em garantia da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A.;26229108.91
+56.191.016/0001-83;2025-09-30;1;MAT Nº 11.285: Fazenda Boa Vista, Carangola/MG;Única possuidora e titular do Direito Real de Superfície (DRS) sobre uma área de 09,27,06 hectares, formalizada com a celebração da "Escritura Pública de Promessa de Cessão Onerosa de Direito de Superfície", celebrada em 13 de setembro de 2024, entre a PONTO DE EQUILIBRIO ENGENHARIA LTDA. e o AZ QUEST RENDA SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA. Para financiar a aquisição do imóvel, foram emitidos os certificados de recebíveis imobiliários da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A, e com isso sendo constituído o ônus da Alienação Fiduciária de DRS com a celebração da "Escritura Pública de Alienação Fiduciária de Direito Real de Superfície em Garantia e Outras Avenças", celebrado em 13 de setembro de 2024. A Alienação Fiduciária de DRS foi dada em garantia da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A.;29395187
+56.191.016/0001-83;2025-09-30;1;MAT Nº 137.280: UFV Jandira, Barueri/SP;Única possuidora e titular do Direito Real de Superfície (DRS) sobre uma área de 18.062,19 m2, formalizada com a celebração da "Escritura Pública de Promessa de Cessão Onerosa de Direito de Superfície", celebrada em 15 de agosto de 2025, entre a CARANGOLA PARTICIPAÇÕES EM ENERGIA S.A. e o AZ QUEST RENDA SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA. Para financiar a aquisição do imóvel, foram emitidos os certificados de recebíveis imobiliários da 441ª emissão (antiga 315ª emissão), em classe única para duas séries, emitidos pela OPEA SECURITIZADORA S.A, e com isso sendo destituído o ônus da Alienação Fiduciária de DRS, originalmente constituída em garantia da 315ª emissão do CRI, e constituído a cessão fiduciária adicional dos créditos imobiliários UFV Jandira, com a celebração da "Ata de Assembleia Especial de Titulares dos Certificados de Recebíveis Imobiliários da 1ª série da 315ª emissão ", celebrado em 20 de agosto de 2025.;12642719.69
+58.263.012/0001-99;2025-03-31;2;Fábrica - Uberlândia/MG;UBMG-180230;363000000
+58.263.012/0001-99;2025-06-30;2;Fábrica - Uberlândia/MG;UBMG-180230;363000000
+58.263.012/0001-99;2025-09-30;1;Fábrica - Uberlândia/MG;UBMG-180230;363000000
+58.316.418/0001-92;2025-09-30;1;Aegea MT Barra1;Direito Real de Superfície;1790887.16
+58.316.418/0001-92;2025-09-30;1;Aegea MT Barra2;Direito Real de Superfície;2052136.6
+58.316.418/0001-92;2025-09-30;1;Aegea MT Paranatinga;Direito Real de Superfície;1143759.64
+58.316.418/0001-92;2025-09-30;1;Aegea MT Pedra Preta;Direito Real de Superfície;1465776.37
+58.316.418/0001-92;2025-09-30;1;PMNE Paraípaba;Direito Real de Superfície;8917181.14
+58.316.418/0001-92;2025-09-30;1;PMNE Aram;Direito Real de Superfície;9603520.89
+58.316.418/0001-92;2025-09-30;1;PMNE Paulistana;Direito Real de Superfície;14562570.87
+58.316.418/0001-92;2025-09-30;1;PMNE Patativa;Direito Real de Superfície;7261373.46
+58.316.418/0001-92;2025-09-30;1;Aegea AM Manaus;Direito Real de Superfície;14779243.59
+58.316.418/0001-92;2025-09-30;1;Prospera Mercúrio III;Direito Real de Superfície;9386462.11
+58.316.418/0001-92;2025-09-30;1;Prospera Mercúrio IV;Direito Real de Superfície;9362739.89
+58.316.418/0001-92;2025-09-30;1;Prospera Mercúrio V;Direito Real de Superfície;6245725.15
+58.316.418/0001-92;2025-09-30;1;Prospera Mercúrio VI;Direito Real de Superfície;6226266.88
+58.316.418/0001-92;2025-09-30;1;Aegea MT Poconé;Direito Real de Superfície;2585420.7
+58.316.418/0001-92;2025-09-30;1;Aegea MT Sinop;Direito Real de Superfície;2190680.53
+58.316.418/0001-92;2025-09-30;1;Aegea MT Campo Verde;Direito Real de Superfície;2625951.57
+58.316.418/0001-92;2025-09-30;1;Aegea MT Primavera;Direito Real de Superfície;2625951.57
+58.316.418/0001-92;2025-09-30;1;Aegea MT São José;Direito Real de Superfície;1155058.95
 58.544.087/0001-48;2025-06-30;1;Ativo;Principais Características;

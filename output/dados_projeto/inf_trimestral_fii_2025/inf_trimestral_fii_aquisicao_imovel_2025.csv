@@ -1,8 +1,11 @@
 CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Categoria
 01.356.517/0001-80;2025-06-30;1;Prédio com terreno;Rua Latife Luvizaro, 133 (parte = 1/3);414;1;prédio com área de estacionamento na frente;0.005324;Renda
+07.789.135/0001-27;2025-09-30;1;SJS - SHOPPING JARDIM SUL;R. Itacaiúna, 61 - Vila Andrade - São Paulo - SP;28721.42;171;SJS - SHOPPING, localizado na Rua Itacaiúna, 61, Vila Andrade, São Paulo - SP, estando o terreno perfeitamente descrito e caracterizado na matrícula 311.650 a 381.820 do 11º Ofício de Registro de Imóveis de São Paulo - SP.;0.1;Renda
 08.706.065/0001-69;2025-03-31;1;Ibis São Paulo Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;6862.5;227;28/03/2025;0.072245;Renda
 08.706.065/0001-69;2025-03-31;1;Novotel Morumbi;Rua Ministro Nelson Hungria, 577, Morumbi, São Paulo/SP, Brasil, 05690-050;2005.37;2;28/03/2025;0.01384;Renda
 08.706.065/0001-69;2025-03-31;1;Ibis Budget Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;1491.2;31;28/03/2025;0.077402;Renda
+11.839.593/0001-09;2025-09-30;1;Galpao Santo Andre;Avenida Joao Pessoa, 500, Sem Complemento, Jardim Utinga, Santo André/SP, Brasil, 09230-650;40474;1;Direito de Propriedade;0.0206456794551;Renda
+11.839.593/0001-09;2025-09-30;1;Imovel Barueri;Avenida Tucunare, 720, Sem Complemento, Tamboré, Barueri/SP, Brasil, 06460-020;25394.2;1;Direito de Propriedade;0.00553519290387;Renda
 13.320.290/0001-00;2025-03-31;1;MAT 6273 - FAZENDA PAU DE COLHER;Rodovia Ba.324 - Km.20, S/n, Zona Rural, Ourolândia, Ourolândia/BA, Brasil, 44718-000;3870443.1;1;Direito de Propriedade;0;Renda
 13.320.290/0001-00;2025-06-30;1;MAT 8967 - FAZENDA DIVINA;Zona Rural, S/n, Sem Complemento, Itaguaçu Da Bahia, Itaguaçu Da Bahia/BA, Brasil, 47440-000;4658.12;1;Direito de Propriedade;0.04164690218235;Renda
 13.320.290/0001-00;2025-06-30;1;MAT 7226 - FAZENDA MANDIOCA BRAVA;Zona Rural, S/n, Sem Complemento, Itaguaçu Da Bahia, Itaguaçu Da Bahia/BA, Brasil, 47440-000;4733.75;1;Direito de Propriedade;0.04232306648454;Renda
@@ -16,6 +19,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 19.267.845/0001-76;2025-06-30;1;NEBRASKA 2;RUA NEBRASLA, 667;627.28;1;MATRICULA - 286.114;0;Renda
 26.452.053/0001-37;2025-06-30;1;IMOVEL SÃO JOSÉ CAMPOS;RUA CORONEL JOSÉ MONTEIRO, 287- CENTRO- SÃO JOSÉ DOS CAMPOS - SP;1218;1;NA;0.0091;Renda
 26.452.053/0001-37;2025-09-30;1;IMOVEL SÃO JOSÉ CAMPOS;RUA CORONEL JOSÉ MONTEIRO, 287- CENTRO- SÃO JOSÉ DOS CAMPOS - SP;1218;1;NA;0.0091;Renda
+26.681.370/0001-25;2025-09-30;1;Ed Faria Lima 1355;Avenida Brigadeiro Faria Lima, 1355, Sem Complemento, Jardim Paulistano, São Paulo/SP, Brasil, 01452-002;50000;2;Não possui caracteristicas que destoem dos demais;0.02246764358173;Renda
 27.538.477/0001-81;2025-06-30;1;126594_27538;Rua Dr. João Francisco Centola Nóbrega, 491 - Ribeirão Preto - SP;56.4;1;Matrícula  126594;0;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_ARACAJU - GRUPO MATHEUS;Av. João Rodrigues, 592 - Industrial - Aracaju/SE;31524;1;n/a;0;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_ANANINDEUA- GRUPO MATHEUS;Av. Cláudio Saunders, Coqueiro, Ananindeua/PA;7601.92;1;n/a;0;Renda
@@ -40,6 +44,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 28.548.288/0001-52;2025-06-30;1;EXTRA ATIBAIA;Av. Prof. Carlos Alberto de Carvalho Pinto, 210;8025;1;Direito de propriedade;0;Renda
 28.548.288/0001-52;2025-06-30;1;ASSAI COTIA;R. Prof. José Barreto, 1635 - Vila Santo Antonio do Portao;19518;1;Direito de propriedade;0;Renda
 28.548.288/0001-52;2025-06-30;1;DELBONI RICARDO JAFET;R. Rodrigo Vieira, 67 - Jardim Vila Mariana, São Paulo;6290;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-09-30;1;ASSAÍ APARECIDA DE GOIÂNIA;BR-153, s/n - Jardim Monte Serrat;21920.57;1;n/a;0;Renda
+28.548.288/0001-52;2025-09-30;1;GPA GRANJA VIANA;Av. São Camilo, 700 - Granja Viana, Cotia;4492;1;n/a;0;Renda
+28.548.288/0001-52;2025-09-30;1;GPA SANTANA - SÃO PAULO;Rua Augusto Tolle, 470 - Santana;2877.15;1;n/a;0;Renda
+28.548.288/0001-52;2025-09-30;1;GPA TITO;R. Tito, 639 - 705 - Vila Romana, São Paulo;3643.72;1;n/a;0;Renda
+28.548.288/0001-52;2025-09-30;1;MERCADO LIVRE - ARAUCÁRIA;Av. Cézar Hasselmann, 499-497 - Fazenda Velha, Araucária - PR;149452.44;1;n/a;0;Renda
 28.737.771/0001-85;2025-03-31;1;Assai - Bangu RJ;Avenida Brasil, 33809, Sem Complemento, Bangu, Rio De Janeiro/RJ, Brasil, 21852-002;34520;1;Direito de propriedade;0.04435068612234;Renda
 28.737.771/0001-85;2025-06-30;1;CD Mercado Livre;Rod. Anhanguera, 28, Sem Complemento, Cravinhos, Cravinhos/SP, Brasil, 14140-000;38383.26;1;Não possui informação apresentada.;0.07161211075159;Renda
 28.757.546/0001-00;2025-03-31;1;Carioca Shopping;Avenida Vicente De Carvalho, 909, Sem Complemento, Vila Da Penha, Rio De Janeiro/RJ, Brasil, 21210-623;0;1;Não possuem características que destoem dos demais;0.01833149785542;Renda
@@ -82,6 +91,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 30.567.216/0001-02;2025-06-30;2;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1855;206.8;1;Conjunto 31A,  3º andar. Incluidas 2 vagas.;0.005494;Renda
 30.567.216/0001-02;2025-06-30;2;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1855;227;1;Cj 32A, 3º andar. Incluidas 2 vagas indeterminadas de garagem.;0.00603;Renda
 30.567.216/0001-02;2025-06-30;2;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1855;384.81;1;Cj 82, 8º andar. Incluidas 8 vagas indeterminadas de garagem;0.005318;Renda
+30.567.216/0001-02;2025-09-30;1;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1853;178.01;1;Cj 31-B, subdivisão do cj 31, no 3º andar. Matrícula nº 52073 do 4° RGI. Adquirido com 3 vagas de garagem indeterminadas, matrículas nº  52.197 a 52.199, com área construída de 23,35m² cada.;0.00511;Renda
+30.567.216/0001-02;2025-09-30;1;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1854;186.75;1;Cj 32-B, subdivisão do cj 32, localizado no 3º andar. Matrícula nº 52074 do 4° RGI.Adquirido com uma vaga de garagem, indeterminada matrícula nº 52.200, com área de 23,35m².;0.005109;Renda
+30.871.698/0001-81;2025-09-30;1;BARRA PRIVATE - 281137;Avenida Armando Lombardi, 400 Rio de Janeiro - RJ;3909.58;1;UNIDADE - 104;0;Renda
 31.161.410/0001-48;2025-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;115.99;1;RES-1003/10ºPAV;0.06148;Venda
 31.161.410/0001-48;2025-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;88.32;1;RES-1101/11ºPAV;0.046814;Venda
 31.161.410/0001-48;2025-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;73.48;1;RES-1202/12ºPAV;0.038948;Venda
@@ -94,7 +106,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 31.161.410/0001-48;2025-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;36.48;1;STUDIO-305/3ºPAV;0.019336;Venda
 31.161.410/0001-48;2025-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;36.48;1;STUDIO-405/4ºPAV;0.019336;Venda
 32.388.168/0001-02;2025-06-30;1;MT191522;RUA DOS ACORES 145;750;1;matricula 191.522;0.5358;Venda
+32.892.018/0001-31;2025-09-30;1;SUPER SHOPPING OSASCO;Av. dos Autonomistas, 1828 - Industrial Autonomistas, Osasco - SP, 06020-010;17531.92;135;-;0.0413653593491192;Renda
 33.842.871/0001-01;2025-06-30;1;ANX. PAROQ. SALÃO 02;Largo da Vitória, 162 - Vitória, Salvador - BA;498.07;1;ANEXOS PAROQUIAIS - SALÃO 02;0;Renda
+34.508.923/0001-70;2025-09-30;1;EVO_APTO 901;Alameda Xingu, 512, Apto 901, Alphaville - Barueri - SP, 6455030;531.13;1;Matrícula 174697;0.115006;Venda
+34.508.923/0001-70;2025-09-30;1;EVO_APTO 904;Alameda Xingu, 512, Apto 904, Alphaville - Barueri - SP, 6455030;1339.58;1;Matrícula 174700;0.06153;Venda
+34.508.923/0001-70;2025-09-30;1;PQCID_APTO33;Avenida das Naçoes Unidas, 14401, Chácara Santo Antonio, São Paulo - SP, 4730090;1124.46;1;Matrícula 467710;0.218291;Venda
 34.691.520/0001-00;2025-06-30;1;Assai Ipatinga;Avenida Pedro Linhares Gomes, 5765, Sem Complemento, Industrial, Ipatinga/MG, Brasil, 35160-291;5500;1;Direito de Propriedade;0.10968607157406;Renda
 36.258.924/0001-30;2025-09-30;1;IMOVEL LBV 4;URBANO LBV 4;45000000;1;MATRICULA - Nº 82.480;0.24;Renda
 36.885.948/0001-19;2025-03-31;1;IMÓVEL IGUATEMI;Rua Viradouro nº 120, Jd Paulista;387.637;1;imovel;1;Renda
@@ -104,6 +120,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 41.650.365/0001-49;2025-06-30;1;Edifício IBM;Avenida Getúlio Vargas, 291;0;42;matrículas nº 63.972, 63.973, 63.974, 63.975, 63.976, 63.977, 63.978, 63.979, 63.980, 63.981, 63.982, 63.983, 63.984, 63.985, 63.986, 63.987, 63.988, 63.989, 63.990, 63.991, 63.992, 63.993, 63.994, 63.995, 63.996, 63.997, 63.998, 63.999, 64.000, 64.001, 64.002, 64.003, 64.004, 64.005, 64.006, 64.007, 64.008, 64.009, 64.010, 64.011, 64.012, 64.013;1;Renda
 42.517.145/0001-04;2025-06-30;1;IMOVEL PURA GESTÃO PARTICIPAÇÕES;-;0;1;-;0.36863;Venda
 42.537.540/0001-59;2025-06-30;1;Estrada da Portela 17;Estrada Do Portela, 17, Sem Complemento, Madureira, Rio De Janeiro/RJ, Brasil, 21351-050;1149;1;Direito de Propriedade;0.06863673484272;Renda
+42.537.540/0001-59;2025-09-30;1;Empreendimento Peninsula - Loja A;Avenida Joao Cabral De Mello Neto, 600, Sem Complemento, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22775-057;82.25;1;Direito de propriedade;0.01486226585555;Renda
+42.537.540/0001-59;2025-09-30;1;Empreendimento Peninsula - Loja B;Avenida Joao Cabral De Mello Neto, 600, Sem Complemento, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22775-057;81.17;1;Direito de propriedade;0.01466711441715;Renda
+42.537.540/0001-59;2025-09-30;1;Empreendimento Peninsula - Loja C;Avenida Joao Cabral De Mello Neto, 600, Sem Complemento, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22775-057;81.17;1;Direito de propriedade;0.01466711441715;Renda
+42.537.540/0001-59;2025-09-30;1;Empreendimento Peninsula - Loja D;Avenida Joao Cabral De Mello Neto, 600, Sem Complemento, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22775-057;81.17;1;Direito de propriedade;0.01466711441715;Renda
+42.537.540/0001-59;2025-09-30;1;Imovel Gilka Machado;Avenida Gilka Machado, 1360, Sem Complemento, Recreio Dos Bandeirantes, Rio De Janeiro/RJ, Brasil, 22795-570;375;1;Direito de propriedade;0.02332932774092;Renda
+42.537.540/0001-59;2025-09-30;1;Afonso Taunay;Avenida Afonso De Taunay, S/n, Lote 1 E 3 Do Pal 36.014, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22621-310;3516.14;2;Direito de propriedade;0.11752051290483;Renda
 44.669.674/0001-59;2025-03-31;1;119344_44669;Av Manoel de Abreu,790- Náutica  G4 -São Vicente/SP - CEP:11355-400;445.3;1;Matricula 60691;1;Renda
 47.669.336/0001-05;2025-03-31;1;Villa Cora;Villa CoraBalneário Camboriú/SC, na Av. Atlântica, nº 4294, Edifício ResidencialBalneário Camboriú/SC;217.23;1;matrícula nº 27.153;1;Renda
 47.669.336/0001-05;2025-06-30;1;ALPHAVILLE G;Condomínio Alphaville Paraná, Unidade 02, Quadra MB1;0;1;matrícula nº 63.538;0.3695;Renda
@@ -138,6 +160,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 51.870.412/0001-13;2025-03-31;1;Icon Residence Club;Rua Odete Jones Gigo, 380 - Sumaré - SP;2363.5;57;N/A;0.4572;Venda
 51.870.412/0001-13;2025-06-30;1;Patriani Mirai Suzano;R. Nove de Julho, 1400 - Jardim Santa Helena, Suzano - SP, 08674-230;1185.06;26;N/A;0.6138;Venda
 51.870.412/0001-13;2025-06-30;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;880.3;11;N/A;0.64;Venda
+51.870.412/0001-13;2025-09-30;1;Habitat - Casa Laguna;Alameda Paulo Roberto Cunha, 113 - Rio Verde - GO;1104.37;8;N/A;0.0273;Venda
+51.870.412/0001-13;2025-09-30;1;Daxo - Res. Rhodes;Rua Otto lehmann, SN - Balneário Piçarras - SC, 88380-000;1313.79;8;N/A;0.0514;Venda
 51.889.479/0001-08;2025-03-31;1;CANOAS Finkler - mat. 23.955;Rua Roberto Francisco Behrens;1015.57;1;CANOAS Finkler - mat. 23.955;0.0164;Renda
 51.889.479/0001-08;2025-03-31;1;CANOAS Klopsh- mat. 39.823;Rua Roberto Francisco Behrens;19964.08;1;CANOAS Klopsh- mat. 39.823;0.1283;Renda
 51.889.479/0001-08;2025-03-31;1;VENANCIO AIRES - mat. 55.026;Av. Imperatriz Dona Leopoldina, 4785 - Leopoldina - Venâncio Aires - RS;31282.50;1;VENANCIO AIRES - mat. 55.026;0.0317;Renda
@@ -150,6 +174,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 54.375.187/0001-37;2025-06-30;1;Shopping Pátio Higienópolis;Avenida Higienópolis, 618 - Higienópolis, São Paulo - 01238-000;34107;267;O FII é proprietário de 14,65% do Shopping Pátio Higienópolis;;Renda
 54.419.040/0001-00;2025-06-30;1;BOTANICO;Araraquara;329.4;1;MATRICULA 153.330;0.0288;Renda
 54.419.040/0001-00;2025-06-30;1;CASA EDEN;São Paulo;954.07;1;MATRICULA 162.579;0.2956;Renda
+55.089.373/0001-72;2025-09-30;1;2614-_5;Rua Imaculado Conceicao, 1080 - Prado Velho. Curitiba;230;1;N/A;0.121091443853519;Venda
 55.793.516/0001-22;2025-03-31;1;117889-302_5;Apartamento nº 302 do edifício situado à Rua Figueiredo Magalhães, nº 780, Rio de Janeiro / RJ;0;1;Matricula - 117889;0;Venda
 55.793.516/0001-22;2025-03-31;1;119583_534_3;Avenida Conselheiro Rodrigues Alves, 534, Apto 32, Rua Hidelbrando Tomás de Carvalho, Rua Humberto I e Rua Otávio de Moraes Dantas, Edifício Bandeiras CEP 04014-001, Vila Mariana, São Paulo - SP;0;1;Matricula - 119583 "Condomínio 1B - Ibirapuera Boulevard", já incluído o direito ao uso de 04 (quatro) vagas na garagem em local individual e indeterminado;0;Venda
 55.793.516/0001-22;2025-03-31;1;148130-23_5;Rua Salete, 279, Apto 23, Condomínio Salete Residencial Club Bairro Santana CEP 02016-001, São Paulo Estado São Paulo;235;1;Matricula - 148130;0;Venda
@@ -161,8 +186,16 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 55.793.516/0001-22;2025-03-31;1;173455_171_5;Informação não apresentada;0;1;Informação não apresentada;0;Venda
 55.793.516/0001-22;2025-03-31;1;73202_55793;Rua Jardim Botanico, 183, ap 102 Rio de Janeiro - RJ;339.35;1;Matricula - 73202;0;Venda
 55.793.516/0001-22;2025-03-31;1;79095_55793;Alphaville Residencial, Santana de Parnaíba, Barueri - SP;447.77;1;Matricula - 79095;0;Venda
+56.191.016/0001-83;2025-09-30;1;MAT Nº137.280: UFV Jandira, Barueri, São Paulo.;CONDOMÍNIO BUSINESS PARK JANDIRA", situado na Rodovia de Acesso João de Góes, nº 2.300, no Distrito e Município de Jandira, Comarca de Barueri, do Estado de São Paulo.;18062.19;1;Aquisição do Direito Real de Superfície onde está instalada uma usina solar fotovoltaica que se encontra locada para um consórcio de consumidores.;1;Renda
+56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 101, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 201, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 301, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 401, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 501, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 601, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
 57.216.258/0001-47;2025-03-31;1;Edifício Adalmiro Dellape Baptista B32;Avenida Brigadeiro Faria Lima, nº 3.732, São Paulo, SP;8223.93;1;Imóvel destinado à uso corporativo.;0.899237;Renda
 57.216.258/0001-47;2025-06-30;1;Edifício Adalmiro Dellape Baptista B32;Avenida Brigadeiro Faria Lima, nº 3.732, São Paulo, SP;572.81;1;Imóvel destinado à uso corporativo.;0.073623;Renda
+57.216.258/0001-47;2025-09-30;1;Edifício Adalmiro Dellape Baptista B32;Avenida Brigadeiro Faria Lima, nº 3.732, São Paulo, SP;87.948;1;Imóvel destinado à uso corporativo.;0.007604;Renda
 57.285.563/0001-90;2025-03-31;1;EDIFÍCIO ALBERTO DE CAMPOS;Rua Barata Ribeiro, 573, Copacabana, RJ;362.6;1;prédio e respectivo terreno, subdividido em unidades 101, 102, 201 e 202, medindo de frente e de fundos 10m, com extensão de frente a fundo de 33,10m, matrícula nº 18741;0.1897;Venda
 57.285.563/0001-90;2025-03-31;1;PRINCESA JANUARIA;Rua Alberto de Campos, 130 - Ipanema, RJ;33.1;1;imovel;0.5;Venda
 57.466.934/0001-30;2025-03-31;1;JUNDIAÍ - CASA BAHIA;Rodovia Anhanguera, km 52 + 350m e Rodovia Presidente Tancredo Neves, km 58, Bairro Castanho, CEP 13203-850, cidade de Jundiaí, Estado de São Paulo.;313314;3;N/A;0.63;Renda
@@ -171,12 +204,23 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 57.466.934/0001-30;2025-03-31;1;RIBEIRÃO PRETO - CASA BAHIA;Avenida Patriarca, nº 5355 - Parque Ribeirão Preto - CEP 14031-580, cidade de Ribeirão Preto, Estado de São Paulo.;35558;1;N/A;0.07;Renda
 57.593.613/0001-05;2025-03-31;1;Sao Jose dos Pinhais;Br 376, 18500, Sem Complemento, Mandaguari, Mandaguari/PR, Brasil, 86975-000;14305.09;1;Direito de Propriedade;0.33800371117796;Renda
 57.593.613/0001-05;2025-06-30;1;Imovel Mairipora;Rodovia Fernao Dias, 265, Sem Complemento, Luiz Fagundes, Mairiporã/SP, Brasil, 07625-000;11981.95;1;Direito de propriedade;0.08040648924331;Renda
+57.593.613/0001-05;2025-09-30;1;GH Corporate;Rodovia Engenheiro Ermenio De Oliveira Penteado - Km 56,5, S/n, Sem Complemento, Itaici, Indaiatuba/SP, Brasil, 13340-600;8031.64;7;Não possui caracteristicas que destoem dos demais;0.15286629807996;Renda
 58.019.792/0001-26;2025-03-31;1;Plaza Imperial;Av. José Pereira Liberato, esquina com a Av. Jacob Ardigó;3423.77;1;Matrícula 31.579;1;Venda
 58.316.418/0001-92;2025-03-31;1;Fazenda Taquaral;Rodovia Arquiteto Helder Candia, 567, 3º Andar, Sala 03, Ribeirão Do Lipa, Cuiabá/MT, Brasil, 78048-150;9172.4;4;não possui características que destoem dos demais;0.02461557223353;Renda
 58.316.418/0001-92;2025-06-30;1;Sitio Flamenga - Projeto Paraipaba;Sitio Flamenga, S/n, Sem Complemento, Boa Água, Morada Nova/CE, Brasil, 62953-000;40000;1;Não possui caracteristicas que destoem dos demais;0.02960547903437;Renda
 58.316.418/0001-92;2025-06-30;1;Sitio Timbauba - Projeto Aram;Sitio Timbauba Dos Simplicios, S/n, Sem Complemento, Centro, Russas/CE, Brasil, 62900-001;54909;1;Não possui caracteristicas que destoem dos demais;0.03188416068948;Renda
 58.316.418/0001-92;2025-06-30;1;Gleba 38 - Projeto Paulistana;Gleba 38 - Chapada Dos Almondes, S/n, Sem Complemento, Centro, Picos/PI, Brasil, 64600-002;41268;1;Não possui caracteristicas que destoem dos demais;0.0483484500101;Renda
 58.316.418/0001-92;2025-06-30;1;Pague Menos Patativa - PE;Parque três vaqueiros, Araripina/PE;49171;1;Não possui caracteristicas que destoem dos demais;0.011983;Renda
+58.316.418/0001-92;2025-09-30;1;Aegea AM Manaus;GLEBA 03 - RAMAL DO KM 23 - MANAUS/AM;17286.7;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-09-30;1;Prospera Mercúrio III;Rod. Lorena a Itajubá, Km 77, Fazenda Rancho Alegre - CEP: 12.600-970;23923;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-09-30;1;Prospera Mercúrio IV;Rod. Lorena a Itajubá, Km 77, Fazenda Rancho Alegre - CEP: 12.600-970;30027;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-09-30;1;Prospera Mercúrio V;Rod. Lorena a Itajubá, Km 77, Fazenda Rancho Alegre - CEP: 12.600-970;19015;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-09-30;1;Prospera Mercúrio VI;Rod. Lorena a Itajubá, Km 77, Fazenda Rancho Alegre - CEP: 12.600-970;24022;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-09-30;1;Aegea MT Poconé;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20274;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-09-30;1;Aegea MT Sinop;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20497;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-09-30;1;Aegea MT Campo Verde;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20014;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-09-30;1;Aegea MT Primavera;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20260;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-09-30;1;Aegea MT São José;Rua D, SN - Quadra:  23 - Lote 12 a 17 - JARDIM ESTORIL - SANTO ANTÔNIO DO LEVERGER /MT -  CEP 78180-000;2250;1;Não possui caracteristicas que destoem dos demais;0;Renda
 58.496.557/0001-45;2025-03-31;1;IRA Imovel;Rua Gomes Jardim, 201, bairro Santana, Porto Alegre/RS;2235.17;4;Salas Comerciais - 101, 102, 103, 1703 - Matrículas 147.685, 147.686, 147.687, 148.037;1;Renda
 58.523.596/0001-94;2025-03-31;1;CASA MORUMBI;BAIRRO DO MORUMBI;0;1;LOTE 11;0;Renda
 58.544.087/0001-48;2025-03-31;1;Le Dépanneur - Botafogo;Rua Voluntarios da Patria, 86, Botafogo - RJ;327;2;Padaria;0.4919;Renda
@@ -260,4 +304,34 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 60.551.924/0001-08;2025-06-30;2;Pernambucanas - Cubatão;Avenida Nove de Abril, 2.041, Cubatão, São Paulo;1671;1;-;0.0263620547373985;Renda
 60.551.924/0001-08;2025-06-30;2;Pernambucanas - Goiânia;Avenida Anhanguera, 5.332, Goiânia, Goiás;2696;1;-;0.021706162167627;Renda
 60.551.924/0001-08;2025-06-30;2;Pernambucanas - São Leopoldo;Rua Independência, 525, São Leopoldo, Rio Grande do Sul;1041;1;-;0.0391249254393993;Renda
+60.551.924/0001-08;2025-09-30;1;Atibaia - Lago;Rua Prefeito Takao Ono, 380, Atibaia, São Paulo;1237;12;-;0.0292602923392379;Renda
+60.551.924/0001-08;2025-09-30;1;Bragança Paulista - Lago Sul;Rua Alpheu Grimello, 1.020, Bragança Paulista, São Paulo;2147;12;-;0.0561875047202805;Renda
+60.551.924/0001-08;2025-09-30;1;Campinas - Chácara Primavera;Rua Jasmim, 215, Campinas, São Paulo;1843;14;-;0.0810878326760765;Renda
+60.551.924/0001-08;2025-09-30;1;Campinas - Parque Prado;Avenida Baden Powell, 1.929, Campinas, São Paulo;1634;14;-;0.0699187067898364;Renda
+60.551.924/0001-08;2025-09-30;1;Cotia - Pátio Cotia;Avenida Antônio Mathias de Camargo, 512, Cotia, São Paulo;5801;43;-;0.0835789173549959;Renda
+60.551.924/0001-08;2025-09-30;1;Embu das Artes - Elias Yazbek;Avenida Elias Yazbek, 708, Embu das Artes, São Paulo;1672;17;-;0.0426704725998846;Renda
+60.551.924/0001-08;2025-09-30;1;Indaiatuba - Parque Ecológico;Avenida Engenheiro Fábio Roberto Barnabé, 2.685, Indaiatuba, São Paulo;6069;17;-;0.124139309444096;Renda
+60.551.924/0001-08;2025-09-30;1;Jacareí - Centro;Rua Barão de Jacarteí, 591, Jacareí, São Paulo;2325;28;-;0.0351029359374978;Renda
+60.551.924/0001-08;2025-09-30;1;Jacareí - Villa Branca;Avenida das Letras, 15, Jacareí, São Paulo;1480;14;-;0.0276219826008518;Renda
+60.551.924/0001-08;2025-09-30;1;Paulínia - Jardim América;Avenida José Paulino, 2.279, Paulínia, São Paulo;3120;15;-;0.0892064432318723;Renda
+60.551.924/0001-08;2025-09-30;1;Santo André - Pirelli;Rua Giovanni Battista Pirelli, 1.600, Santo André, São Paulo;2258;18;-;0.0551065209566019;Renda
+60.551.924/0001-08;2025-09-30;1;São José dos Campos - Urbanova;Rua Ironman Victor Garrido com Rua Conrado Cruz, São José dos Campos, São Paulo;1493;12;-;0.0379324559503843;Renda
+60.551.924/0001-08;2025-09-30;1;São Paulo - Ellis Maas;Avenida Ellis Maas, 641, São Paulo, São Paulo;1867;17;-;0.0721422242723454;Renda
+60.551.924/0001-08;2025-09-30;1;São Paulo - Jardim das Perdizes;Avenida Marquês de São Vicente, 2.219, São Paulo, São Paulo;2615;20;-;0.0910192870205889;Renda
+60.551.924/0001-08;2025-09-30;1;Pernambucanas - Araçatuba;Rua Marechal Deodoro, 45/47, Araçatuba, São Paulo;1103;1;-;0.0178768420129462;Renda
+60.551.924/0001-08;2025-09-30;1;Pernambucanas - Cubatão;Avenida Nove de Abril, 2.041, Cubatão, São Paulo;1671;1;-;0.0263675124416961;Renda
+60.551.924/0001-08;2025-09-30;1;Pernambucanas - Goiânia;Avenida Anhanguera, 5.332, Goiânia, Goiás;2696;1;-;0.0217054116730034;Renda
+60.551.924/0001-08;2025-09-30;1;Pernambucanas - São Leopoldo;Rua Independência, 525, São Leopoldo, Rio Grande do Sul;1041;1;-;0.0390753479778039;Renda
 60.868.732/0001-20;2025-06-30;1;Imóvel de Fortaleza;Avenida Jose Saboia, 905, Sem Complemento, Cais Do Porto, Fortaleza/CE, Brasil, 60180-480;13977.17;1;Direito de Propriedade;0.757804;Renda
+60.868.732/0001-20;2025-09-30;1;Moinho da Bahia;Avenida Estados Unidos, 863, Sem Complemento, Parque Das Nações, Santo André/SP, Brasil, 09210-300;5075.9;3;Direito de propriedade.;0.46159915858258;Renda
+61.247.681/0001-81;2025-09-30;1;Scala Data Center - São João Meriti;Rodovia Presidente Dutra, 4300 - Área 3 - Jardim José Bonifácio;64462;1;n/a;1;Renda
+61.272.325/0001-18;2025-09-30;1;LOG SÃO JOSÉ DOS PINHAIS II;BR 116, nº 7.401, Quadra 307, Bairro Quississana, CEP 83.085-058São José dos Pinhais, Estado do Paraná;40981.38;1;n/a;0.4143;Renda
+61.272.325/0001-18;2025-09-30;1;HORTOLÂNDIA INCORPORAÇÃO;Rua Pérola, nº 200, Sala 1, Bairro Jardim Santa Esmeralda, CEP 13.186-546Cidade de Hortolândia, Estado de São Paulo;53591.56;3;n/a;0.5179;Renda
+61.518.537/0001-32;2025-09-30;1;Edifício Citadel I;Rua Bela Cintra, 986, Consolação, São Paulo - SP;12358.2;60;Imóvel urbano comercial, escritório (prédio), acabado e para renda registrado no 13º Oficial de Registro de Imóveis de São Paulo.;1;Renda
+61.848.349/0001-72;2025-09-30;1;Helbor Vila Olimpia;Rua Funchal, n.º 65, Vila Olímpia, São Paulo - SP;1044.9;15;N/A;0.532804714877655;Venda
+61.848.349/0001-72;2025-09-30;1;Helbor Vila Mariana;Rua Domingos de Morais nºs 930, 944, 954, 964 e 976 e Rua França Pinto nºs 64 e 70;1254.24;11;N/A;0.191958818967396;Venda
+61.848.349/0001-72;2025-09-30;1;Helbor Alegria;Avenida Doutor Benedicto Laporte Vieira da Motta, Área 7, sob nº 183 no Distrito, Município e Comarca;1487.81;15;N/A;0.147267129608744;Venda
+61.848.349/0001-72;2025-09-30;1;Helbor Curitiba;Rua Governador Agamenon Magalhães, nº 78 e na Rua João Dranka, nº 81- Curitiba - PR;1063.95;26;N/A;0.127969336546205;Venda
+62.173.916/0001-09;2025-09-30;1;Lotus Tower;Setor de Autarquias Norte - SA/N, Quadra 5, Bloco A, Asa Norte, Brasília/DF;21712.5;17;Direito de propriedade;1;Renda
+62.254.106/0001-79;2025-09-30;1;BARÃO DE ICARAÍ;Rua Barão de Icaraí, nº 30 - apartamento 101 - Flamengo/RJ;0;1;100% de participação;0.2299;Venda
+62.254.106/0001-79;2025-09-30;1;GAGO COUTINHO;Rua Gago Coutinho, nº 53, 55, 57, 59, 61;0;5;O Fundo vai desenvolver um empreendimento residencial, por meio de incorporação imobiliária;0.7701;Venda
