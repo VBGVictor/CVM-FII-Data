@@ -462,6 +462,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 28.152.777/0001-90;2025-06-30;1;Rodovia BR-163/ Sorriso - MT;Centro de Distribuição (CD);90000;0.7589;0.0508
 28.267.530/0001-10;2025-03-31;2;Rua Cel. Mursa, 160  - Brás;.;991.75;1;0
 28.267.530/0001-10;2025-06-30;1;Rua Cel. Mursa, 160  - Brás;Terreno 01;991.75;1;0
+28.267.530/0001-10;2025-09-30;1;Rua Cel. Mursa, 160  - Brás;Terreno 01;991.75;1;0
 28.267.696/0001-36;2025-09-30;1;Distrito, S/n, Sem Complemento, Dois Corregos, Dois Corregos/SP, Brasil, 17300-000;Não possui caracteristicas que destoem dos demais;30350;0.46181583337818;0
 28.267.696/0001-36;2025-09-30;1;Setor 17, Quadra 0416, S/n, Distrito, Dois Corregos, Dois Corregos/SP, Brasil, 17300-000;Não possui caracteristicas que destoem dos demais;5016.3;0.53818416662182;0
 28.548.288/0001-52;2025-03-31;1;Obramax Região Metropolitana do Rio de Janeiro;OBRAMAX_SAOGONÇALO;18657.83;0;0
@@ -534,6 +535,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 32.274.197/0001-43;2025-09-30;1;Rua Pássaros e Flores, 30, São Paulo - SP;469 unidades autônomas residenciais (R) da Torre 3 do Empreendimento ("Unidades Autônomas"), as quais corresponderão à totalidade das unidades autônomas residenciais da Torre 3;17541;1;0
 32.275.252/0001-10;2025-03-31;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
 32.275.252/0001-10;2025-06-30;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
+32.275.252/0001-10;2025-09-30;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
 32.388.168/0001-02;2025-03-31;1;Fazenda Sta Clara A;MAT 11358;48400.09;0.3708;0
 32.388.168/0001-02;2025-03-31;1;Fazenda Sta Clara B;MAT 11359;29448.95;0.1199;0
 32.388.168/0001-02;2025-03-31;1;Fazenda Sta Clara C;MAT 11360;29448.95;0.1232;0
@@ -967,6 +969,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.705.818/0001-85;2025-03-31;1;Imóvel Bom Retiro 2;Matrícula nº 28.933;2578;0;0
 44.705.818/0001-85;2025-06-30;1;Imóvel Barra Funda;Matrícula nº 108.652;270;0;0
 44.705.818/0001-85;2025-06-30;1;Imóvel Bom Retiro 2;Matrícula nº 28.933;2578;0;0
+44.705.818/0001-85;2025-09-30;1;Imóvel Barra Funda;Matrícula nº 108.652;270;0;0
+44.705.818/0001-85;2025-09-30;1;Imóvel Bom Retiro 2;Matrícula nº 28.933;2578;0;0
 45.718.511/0001-81;2025-03-31;1;Filadélfia - TO;Bloco 02 - Bom Jesus;747.53;1;0.0172
 45.718.511/0001-81;2025-03-31;1;Palmeirante - TO;Bloco 03 - São Judas Tadeu;1141.73;1;0.01
 45.718.511/0001-81;2025-03-31;1;Palmeirante - TO;Bloco 04 - Brejo Verde;565.46;1;-0.0115
@@ -1080,7 +1084,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 49.996.755/0001-87;2025-06-30;1;Lote rural de n.° 13, da Gleba Mato Escuro, situado em Barra de Macaé, 2° distrito deste Município, não foreira e fora do perímetro urbano.;Uma área de terras, desmembrada de maior porção do loterural de n.° 13, da Gleba Mato Escuro, situado em Barra de Macaé, 2° distrito desteMunicípio, não foreira e fora do perímetro urbano;90000;1;0
 50.041.467/0001-58;2025-03-31;1;Fernão Dias, km 37,5 - Atibaia, SP;Matricula número 90.850;264787;1;1
 50.041.467/0001-58;2025-06-30;1;Fernão Dias, km 37,5 - Atibaia, SP;Matricula número 90.850;264787;1;1
-50.041.467/0001-58;2025-09-30;1;Fernão Dias, km 37,5 - Atibaia, SP;Matricula  90.850;264787;1;1
+50.041.467/0001-58;2025-09-30;2;Fernão Dias, km 37,5 - Atibaia, SP;Matricula  90.850;264787;1;1
 50.255.690/0001-06;2025-03-31;1;ROD GO 174 KM 35 A DIREITA;Matrícula 94364 - ATIVO VENDIDO, SERÁ BAIXADO QUANDO DO RECEBIMENTO TOTAL DA VENDA;81.6809;0.2;0
 50.255.690/0001-06;2025-03-31;1;ROD GO 174 KM 36 A DIREITA;Matrícula 49116 - ATIVO VENDIDO, SERÁ BAIXADO QUANDO DO RECEBIMENTO TOTAL DA VENDA;289.5923;0.2;0
 50.255.690/0001-06;2025-03-31;1;ROD GO 174 KM 35 A DIREITA;Matrícula 68188 - ATIVO VENDIDO, SERÁ BAIXADO QUANDO DO RECEBIMENTO TOTAL DA VENDA;250.1115;0.2;0
@@ -1299,10 +1303,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 54.505.336/0001-35;2025-09-30;1;Rodovia Armando Salles - SP 228, Estrada do Campestre, na Cidade de Itapecerica da Serra, Estado de São Paulo;Matrícula 125435;129801.08;1;0
 54.675.539/0001-70;2025-03-31;1;Bairro Chave do Barão, Município e Comarca do Rio das Pedras, 2ª Circunscrição Imobiliária de Piracicaba/SP;Gleba de Terras, que faz  parte da Fazenda Estrela;79892.56;0;0
 54.675.539/0001-70;2025-06-30;1;Bairro Chave do Barão, Município e Comarca do Rio das Pedras, 2ª Circunscrição Imobiliária de Piracicaba/SP;Gleba de Terras, que faz  parte da Fazenda Estrela;79892.56;0;0
+54.675.539/0001-70;2025-09-30;1;Bairro Chave do Barão, Município e Comarca do Rio das Pedras, 2ª Circunscrição Imobiliária de Piracicaba/SP;Gleba de Terras, que faz  parte da Fazenda Estrela;79892.56;0;0
 54.698.848/0001-65;2025-06-30;1;N/A;N/A;0;0;0
 55.034.258/0001-09;2025-03-31;1;MARCHIONI - Avenida São Gabriel, 201 - Cj 101;Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;1609;0.300083;1
 55.034.258/0001-09;2025-06-30;1;MARCHIONI - Avenida São Gabriel, 201 - Cj 101;Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;1609;0.300083;1
-55.034.258/0001-09;2025-09-30;1;SAO GABRIEL - MARCHIONI - Avenida São Gabriel, 201 - Cj 101 Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;LJ CORP;1609;0;0
+55.034.258/0001-09;2025-09-30;2;SAO GABRIEL - MARCHIONI - Avenida São Gabriel, 201 - Cj 101 Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;LJ CORP;1609;0;0
 55.089.373/0001-72;2025-03-31;1;Rua 1128, 827, - Itajuba. CEP: 88390000. Barra Velha - Santa Cat;Registro de Imóveis da Comarca de Barra Velha - SC - Matricula 40446;12829.51;1;0
 55.089.373/0001-72;2025-06-30;1;Rua 1128, 827, - Itajuba. CEP: 88390000. Barra Velha - Santa Cat;Registro de Imóveis da Comarca de Barra Velha - SC - Matricula 40446;12829.51;1;0
 55.089.373/0001-72;2025-09-30;1;Rua 1128, 827, - Itajuba. CEP: 88390000. Barra Velha - Santa Cat;Registro de Imóveis da Comarca de Barra Velha - SC - Matricula 40446;12829.51;1;0
@@ -1389,6 +1394,6 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 61.247.681/0001-81;2025-09-30;1;Rodovia Presidente Dutra, nº 4.300, área 3, na Cidade de São João de Meriti, Estado do Rio de Janeiro;matrícula nº 926-A;64462;1;1
 61.293.720/0001-87;2025-06-30;2;Avenida Bailarina Selma Parada, s/n - Jardim Nilópolis - Campinas / SP;n/a;1384.65;0.063;0
 61.293.720/0001-87;2025-06-30;2;Av. Dr. Chucri Zaidan, 902 - Vila Cordeiro - São Paulo / SP;n/a;11500;0.015;0
-61.293.720/0001-87;2025-09-30;1;Avenida Bailarina Selma Parada, s/n - Jardim Nilópolis - Campinas / SP;n/a;1384.65;0.063;0
-61.293.720/0001-87;2025-09-30;1;Av. Dr. Chucri Zaidan, 902 - Vila Cordeiro - São Paulo / SP;n/a;11500;0.015;0
+61.293.720/0001-87;2025-09-30;2;Avenida Bailarina Selma Parada, s/n - Jardim Nilópolis - Campinas / SP;n/a;1384.65;0.063;0
+61.293.720/0001-87;2025-09-30;2;Av. Dr. Chucri Zaidan, 902 - Vila Cordeiro - São Paulo / SP;n/a;11500;0.015;0
 62.935.643/0001-84;2025-09-30;1;Av. Rebouças, 2290 - São Paulo;Matrícula unificada 181.478;4435.87;1;1
