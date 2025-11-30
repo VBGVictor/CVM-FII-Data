@@ -453,10 +453,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 09.006.914/0001-34;2025-06-30;1;AMPLA;Não se aplica
 09.006.914/0001-34;2025-06-30;1;CATETE;Não se aplica
 09.006.914/0001-34;2025-06-30;1;NATAL;Não se aplica
-09.006.914/0001-34;2025-09-30;1;SÃO GONÇALO - ENEL;mar/27 - Atípico
-09.006.914/0001-34;2025-09-30;1;CATETE - ZONA SUL;out/33 - Típico
-09.006.914/0001-34;2025-09-30;1;UBERLÂNDIA - AMBEV;fev/30 - Típico
-09.006.914/0001-34;2025-09-30;1;NATAL - MEGA LOJA;Imóvel Vago
+09.006.914/0001-34;2025-09-30;2;SÃO GONÇALO - ENEL;mar/27 - Atípico
+09.006.914/0001-34;2025-09-30;2;CATETE - ZONA SUL;out/33 - Típico
+09.006.914/0001-34;2025-09-30;2;UBERLÂNDIA - AMBEV;fev/30 - Típico
+09.006.914/0001-34;2025-09-30;2;NATAL - MEGA LOJA;Imóvel Vago
 09.072.017/0001-29;2025-03-31;1;-;
 09.072.017/0001-29;2025-06-30;1;-;
 09.072.017/0001-29;2025-09-30;1;-;
@@ -935,6 +935,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 14.413.342/0001-48;2025-03-31;1;Ed. Sede - SHN Quadra 01, Conjunto A, Bloco E, Brasília-DF;Contrato de Locação para Fins não Residenciais, correção anual por IGP-M (FGV)
 14.609.653/0001-87;2025-03-31;1;JHSF Aeroporto;-
 14.609.653/0001-87;2025-06-30;1;JHSF Aeroporto;-
+14.609.653/0001-87;2025-09-30;1;-;-
 14.631.148/0001-39;2025-03-31;1;NA;NA
 14.631.148/0001-39;2025-06-30;1;NA;NA
 14.631.148/0001-39;2025-09-30;1;NA;NA
@@ -2712,6 +2713,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 28.757.546/0001-00;2025-09-30;1;Downtown Shopping;
 28.851.767/0001-43;2025-03-31;1;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
 28.851.767/0001-43;2025-06-30;2;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
+28.851.767/0001-43;2025-09-30;1;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
 28.899.178/0001-35;2025-03-31;1;Terreno;Contrato de locação
 28.899.178/0001-35;2025-06-30;2;PREDIO_64345;De acordo com o contrato de locação
 28.899.178/0001-35;2025-09-30;1;Não possui informação apresentada;Não possui informação apresentada
@@ -2874,7 +2876,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 31.772.231/0001-47;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 31.894.369/0001-19;2025-03-31;1;-;-
 31.894.369/0001-19;2025-06-30;1;-;-
-31.894.369/0001-19;2025-09-30;1;-;-
+31.894.369/0001-19;2025-09-30;2;-;-
 31.907.591/0001-09;2025-03-31;1;GALPÃO SCANIA;n/a
 31.907.591/0001-09;2025-06-30;1;GALPÃO SCANIA;n/a
 31.907.591/0001-09;2025-09-30;1;GALPÃO SCANIA;Conforme item anterior
@@ -3314,6 +3316,15 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 36.312.025/0001-78;2025-06-30;1;Rua Batista de Oliveira esquina com a Rua Sampaio;=G88Matrícula nº 42.746 - Cartório Do 2º Ofício De Registro De Imóveis da Comarca de Juiz de Fora -MG
 36.312.025/0001-78;2025-06-30;1;Rua Barão de São João Nepomuceno, nº 232 - Centro - Juiz de Fora MG;LOJA COMERCIAL - SÃO JOÃO
 36.312.025/0001-78;2025-06-30;1;AMERICO LOBO;Matricula 4359
+36.312.025/0001-78;2025-09-30;1;OI - RIO BRANCO 2288;MAT. 59,392
+36.312.025/0001-78;2025-09-30;1;RUA HALFELD 781;JUIZ DE FORA - MG [MT. 29652  MT. 23892 MT. 770]
+36.312.025/0001-78;2025-09-30;1;RUI BARBOSA 160;Matrícula nº 21.573, Livro 2 - Registro de Imóveis - 3º Ofício - Zona A
+36.312.025/0001-78;2025-09-30;1;GRAND HYATT - LUXOR;Matrículas: , 387.139, 387.140 e 387.152
+36.312.025/0001-78;2025-09-30;1;TORRE BUREAU & MAGAS;LOJA SAMPAIO - LOJA D DA TORRE
+36.312.025/0001-78;2025-09-30;1;Rua Visconde de Pirajá, n.º 616 - Ipanema - Rio de Janeiro - RJ.;=G88VISCONDE DE PIRAJÁ - MAT. 49,995
+36.312.025/0001-78;2025-09-30;1;Rua Batista de Oliveira esquina com a Rua Sampaio;=G88Matrícula nº 42.746 - Cartório Do 2º Ofício De Registro De Imóveis da Comarca de Juiz de Fora -MG
+36.312.025/0001-78;2025-09-30;1;Rua Barão de São João Nepomuceno, nº 232 - Centro - Juiz de Fora MG;LOJA COMERCIAL - SÃO JOÃO
+36.312.025/0001-78;2025-09-30;1;AMERICO LOBO;Matricula 4359
 36.368.925/0001-37;2025-03-31;1;PÃO DE AÇUCAR - ARACAJU;Item acima.
 36.368.925/0001-37;2025-03-31;1;EXTRA -  RECIFE;Item acima.
 36.368.925/0001-37;2025-03-31;1;PÃO DE AÇUCAR - GOIANIA;Item acima.
@@ -3584,6 +3595,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 36.969.658/0001-53;2025-03-31;1;Empreendimento Serrano;Matrícula nº 27.889
 36.969.658/0001-53;2025-06-30;2;Empreendimento Atlântico;Matrícula nº 27.891
 36.969.658/0001-53;2025-06-30;2;Empreendimento Serrano;Matrícula nº 27.889
+36.969.658/0001-53;2025-09-30;1;Empreendimento Atlântico;Matrícula nº 27.891
+36.969.658/0001-53;2025-09-30;1;Empreendimento Serrano;Matrícula nº 27.889
 37.112.770/0001-36;2025-03-31;1;New Space - Cotia;Item acima.
 37.112.770/0001-36;2025-03-31;1;Forma Bens Extrema;Item acima.
 37.295.919/0001-60;2025-03-31;1;CACHOERIN;não há
@@ -3975,6 +3988,16 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 41.650.310/0001-39;2025-06-30;1;MAT 94352;Avenida Tancredo Neves, Parque 10 de novembro, Manaus, Amazonas.
 41.650.310/0001-39;2025-06-30;1;MAT 96.568;Loja 27,Avenida Torquato Tapajós, nº 6584, Colônia Terra Nova, Manaus, Amazonas.
 41.650.310/0001-39;2025-06-30;1;MAT 12.843;Avenida do Ósmio, 1.500, no bairro da Ressaca, Atibaia, São Paulo.
+41.650.310/0001-39;2025-09-30;1;MAT 10.834;Loja nº 11, Avenida Autaz Mirim,Bairro São José Operário. Manaus, Amazonas.
+41.650.310/0001-39;2025-09-30;1;MAT 12.360;Rua Nossa Senhora da Conceição, 938, Bairro Jorge Teixeira, Manaus, Amazonas.
+41.650.310/0001-39;2025-09-30;1;MAT 16.261;Rua Saldanha Marinho, nº 402, Bairro Centro , Manaus, Amazonas.
+41.650.310/0001-39;2025-09-30;1;MAT 3.533;Loja 28,Av. Max Teixeira, nº 3676, Bairro Cidade Nova, Manaus, Amazonas.
+41.650.310/0001-39;2025-09-30;1;MAT 45.793;Avenida Coronel Teixeira, 4081, Bairro de Ponta Negra,Manaus, Amazonas
+41.650.310/0001-39;2025-09-30;1;MAT 50.893;Avenida Francisco Queiroz, nº 1.025, Colônia Santo Antônio, Manaus, Amazonas.
+41.650.310/0001-39;2025-09-30;1;MAT 57.618;Loja 21, Avenida Padre Agostinho Caballero Martin, 2462, Bairro Santo Antônio, Manaus,Amazonas
+41.650.310/0001-39;2025-09-30;1;MAT 94352;Avenida Tancredo Neves, Parque 10 de novembro, Manaus, Amazonas.
+41.650.310/0001-39;2025-09-30;1;MAT 96.568;Loja 27,Avenida Torquato Tapajós, nº 6584, Colônia Terra Nova, Manaus, Amazonas.
+41.650.310/0001-39;2025-09-30;1;MAT 12.843;Avenida do Ósmio, 1.500, no bairro da Ressaca, Atibaia, São Paulo.
 41.650.319/0001-40;2025-03-31;1;IMÓVEL 52.563;MATRICULA 52562
 41.650.319/0001-40;2025-06-30;1;IMÓVEL 52.563;MATRICULA 52562
 41.650.319/0001-40;2025-09-30;1;IMÓVEL 52.563;MATRICULA 52562
@@ -5121,12 +5144,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 56.303.820/0001-07;2025-09-30;1;SICREDI II;Sem informação apresentada
 56.303.820/0001-07;2025-09-30;1;SICREDI RJ;Sem informação apresentada
 56.303.820/0001-07;2025-09-30;1;SICREDI SC;Sem informação apresentada
-56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 101, bloco 06;Não há
-56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 201, bloco 06;Não há
-56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 301, bloco 06;Não há
-56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 401, bloco 06;Não há
-56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 501, bloco 06;Não há
-56.304.155/0001-76;2025-09-30;1;Centro Empresarial Barra Shopping - Sala 601, bloco 06;Não há
+56.304.155/0001-76;2025-09-30;2;Centro Empresarial Barra Shopping - Sala 101, bloco 06;Não há
+56.304.155/0001-76;2025-09-30;2;Centro Empresarial Barra Shopping - Sala 201, bloco 06;Não há
+56.304.155/0001-76;2025-09-30;2;Centro Empresarial Barra Shopping - Sala 301, bloco 06;Não há
+56.304.155/0001-76;2025-09-30;2;Centro Empresarial Barra Shopping - Sala 401, bloco 06;Não há
+56.304.155/0001-76;2025-09-30;2;Centro Empresarial Barra Shopping - Sala 501, bloco 06;Não há
+56.304.155/0001-76;2025-09-30;2;Centro Empresarial Barra Shopping - Sala 601, bloco 06;Não há
 56.414.379/0001-30;2025-03-31;1;NA;NA
 56.414.379/0001-30;2025-06-30;1;NA;NA
 56.414.379/0001-30;2025-09-30;1;NA;NA
@@ -5466,6 +5489,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 60.551.924/0001-08;2025-09-30;1;Pernambucanas - Cubatão;N/A
 60.551.924/0001-08;2025-09-30;1;Pernambucanas - Goiânia;N/A
 60.551.924/0001-08;2025-09-30;1;Pernambucanas - São Leopoldo;N/A
+60.619.652/0001-30;2025-09-30;2;BAIRRO DO JD;Sem informação apresentada
+60.619.652/0001-30;2025-09-30;2;EST E BRITO;Sem informação apresentada
+60.619.652/0001-30;2025-09-30;2;ROSEIRA;Sem informação apresentada
 60.868.732/0001-20;2025-06-30;1;Imóvel de Fortaleza;Não possui caracteristicas que destoem dos demais.
 60.868.732/0001-20;2025-09-30;1;Imovel Fortaleza;Não possui caracteristicas que destoem dos demais
 60.868.732/0001-20;2025-09-30;1;Moinho da Bahia;Não possui caracteristicas que destoem dos demais

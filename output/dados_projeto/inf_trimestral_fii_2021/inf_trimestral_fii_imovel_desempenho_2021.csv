@@ -7,8 +7,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 01.235.622/0001-61;2021-06-30;1;Imóveis para venda em construção;Iluminato;Atraso no desmonte da rocha, devido à redução de horário de trabalho. Zona altamente residencial.;N.A.
 01.235.622/0001-61;2021-06-30;1;Imóveis para venda em construção;Tijuca All Ways;N.A.;N.A.
 01.235.622/0001-61;2021-06-30;1;Imóveis para venda em construção;Costa Mare;Prazo de obra replanejado, devido estratégias comerciais.;N.A.
-01.235.622/0001-61;2021-06-30;1;Imóveis para venda em construção;The Gallery;Paralisação de Transporte público por um período da obra, além do atraso na entrega de alguns materiais.;N.A.
 01.235.622/0001-61;2021-06-30;1;Imóveis para venda em construção;Crystal Blue;N.A.;N.A.
+01.235.622/0001-61;2021-06-30;1;Imóveis para venda em construção;The Gallery;Paralisação de Transporte público por um período da obra, além do atraso na entrega de alguns materiais.;N.A.
 01.235.622/0001-61;2021-06-30;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A;N.A.
 01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
 01.235.622/0001-61;2021-09-30;1;Imóveis para venda em construção;Iluminato;Atraso no desmonte da rocha, devido à redução de horário de trabalho. Zona altamente residencial.;N.A.
@@ -23,11 +23,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Highlight e Spotlight - Jardim Botafogo;Atraso na contratação de serviços.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Maison Laranjeiras;N.A.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Aretê - Peninsula Norte;N.A.;N.A.
-01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Costa Mare;Prazo de obra replanejado, devido estratégias comerciais.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Blanc 260;N.A.;N.A.
+01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Costa Mare;Prazo de obra replanejado, devido estratégias comerciais.;N.A.
+01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Iluminato;Atraso no desmonte da rocha, devido à redução de horário de trabalho. Zona altamente residencial.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;The Gallery;N.A.;N.A.
 01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Crystal Blue;Atraso na contratação de serviços.;N.A.
-01.235.622/0001-61;2021-12-31;1;Imóveis para venda em construção;Iluminato;Atraso no desmonte da rocha, devido à redução de horário de trabalho. Zona altamente residencial.;N.A.
 03.683.056/0001-86;2021-03-31;1;Imóveis para renda em construção;Edifício Alameda Santos;Evolução está de acordo com o previsto;Cronograma de obras está sendo seguindo dentro do baseline e ajustado ao calendário reprogramado de obra
 03.683.056/0001-86;2021-06-30;1;Imóveis para renda em construção;Edifício Alameda Santos;Evolução está de acordo com o previsto;Cronograma de obras está sendo seguindo dentro do baseline e ajustado ao calendário reprogramado de obra
 03.683.056/0001-86;2021-09-30;1;Imóveis para renda em construção;Edifício Alameda Santos;Evolução está de acordo com o previsto;Cronograma de obras está sendo seguindo dentro do baseline e ajustado ao calendário reprogramado de obra
@@ -78,27 +78,27 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 14.609.653/0001-87;2021-06-30;1;Imóveis para renda em construção;JHSF Aeroporto;;
 14.609.653/0001-87;2021-09-30;1;Imóveis para renda em construção;JHSF Aeroporto;;
 14.609.653/0001-87;2021-12-31;1;Imóveis para renda em construção;JHSF Aeroporto;;
-15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
 15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
+15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-03-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
-15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
-15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
 15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
-15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
+15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
+15.461.076/0001-91;2021-06-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
+15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
 15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
 15.461.076/0001-91;2021-09-30;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;02 unidades tipo bangalôs Hotel Resort Txai Terravista;;
-15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;51 Unidades  Master no Hotel;;
+15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;3 Centros de Convenções no Hotel;;
 15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;14 unidades Tipo Villas no Hotel Resort  Txai Terravista.;;
 15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;64 Unidades Standard no Hotel;;
 15.461.076/0001-91;2021-12-31;1;Imóveis para renda em construção;34 un salas comerciais do THE ONE OFFICE TOWER TAUBATÉ;;
@@ -221,8 +221,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 40.041.723/0001-53;2021-06-30;1;Imóveis para renda em construção;Cyrela For You;Não se aplica;Não se aplica
 40.041.723/0001-53;2021-09-30;1;Imóveis para renda em construção;Atmosfera Vila Mariana;Não se aplica;Não se aplica
 40.041.723/0001-53;2021-09-30;1;Imóveis para renda em construção;Iconyc;Não se aplica;Não se aplica
-40.041.723/0001-53;2021-09-30;1;Imóveis para renda em construção;Cyrela On The Parc By Yoo;Não se aplica;Não se aplica
 40.041.723/0001-53;2021-09-30;1;Imóveis para renda em construção;Cyrela For You;Não se aplica;Não se aplica
+40.041.723/0001-53;2021-09-30;1;Imóveis para renda em construção;Cyrela On The Parc By Yoo;Não se aplica;Não se aplica
 40.041.723/0001-53;2021-12-31;1;Imóveis para renda em construção;Cyrela On The Parc By Yoo;Não se aplica;Não se aplica
 40.041.723/0001-53;2021-12-31;1;Imóveis para renda em construção;Cyrela For You;Não se aplica;Não se aplica
 40.041.723/0001-53;2021-12-31;1;Imóveis para renda em construção;Atmosfera Vila Mariana;Não se aplica;Não se aplica
