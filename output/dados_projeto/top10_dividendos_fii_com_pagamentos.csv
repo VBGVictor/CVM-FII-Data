@@ -1,11 +1,11 @@
 codigo_fii;setor;liquidez_diaria;P/VP;dy_12m;Variação Preço;Patrimônio Líquido;Num. Cotistas;data_coleta;qtd_pagamentos_12m;primeira_data_pagamento_12m;primeiro_valor_pagamento_12m;ultima_data_pagamento_12m;ultimo_valor_pagamento_12m
-SNLG11;Imóveis Industriais e Logísticos;106165,05;302,0;8400,0;-96,77 %;1.274.564,82;8.602;2025-12-05;0;;;;
-OULG11;Imóveis Industriais e Logísticos;1376931,14;60,0;60,07;7,76 %;108.844.763,47;3.235;2025-12-05;0;;;;
-HGPO11;Lajes Corporativas;107043,91;97,0;48,22;5,05 %;257.047.548,29;9.665;2025-12-05;0;;;;
-BBFI11B;Lajes Corporativas;182918,19;41,0;47,51;4,22 %;111.645.834,19;6.989;2025-12-05;0;;;;
-PNPR11;Fundo de Desenvolvimento;5000064,0;132,0;25,23;0,00 %;32.752.937,18;16;2025-12-05;0;;;;
-KEVE11;Fundo de Desenvolvimento;163793,63;129,0;12,06;0,00 %;89.511.589,18;436;2025-12-05;0;;;;
-KOPA11;Indefinido;345184,95;80,0;5,2;-2,04 %;283.743.647,41;3.383;2025-12-05;0;;;;
-PPEI11;Indefinido;651552,64;;5,0;13,57 %;;0;2025-12-05;0;;;;
-NSLU11;Hospitalar;556228,91;96,0;4,61;5,27 %;283.153.833,89;5.208;2025-12-05;0;;;;
-TRXB11;Fundo de Desenvolvimento;1523463,95;158,0;4,04;4,02 %;378.440.197,25;526;2025-12-05;0;;;;
+SNLG11;Imóveis Industriais e Logísticos;105103,55;284,0;8400,0;-96,77 %;1.274.564,82;8.602;2025-12-06;0;;;;
+OULG11;Imóveis Industriais e Logísticos;1323417,86;59,0;60,07;7,76 %;108.844.763,47;3.235;2025-12-06;0;;;;
+HGPO11;Lajes Corporativas;106330,59;98,0;48,22;5,05 %;257.047.548,29;9.665;2025-12-06;0;;;;
+BBFI11B;Lajes Corporativas;182918,19;41,0;47,51;4,22 %;111.645.834,19;6.989;2025-12-06;0;;;;
+PNPR11;Fundo de Desenvolvimento;5000064,0;132,0;25,23;0,00 %;32.752.937,18;16;2025-12-06;0;;;;
+KEVE11;Fundo de Desenvolvimento;146715,44;120,0;12,06;0,00 %;89.511.589,18;436;2025-12-06;0;;;;
+KOPA11;Indefinido;346848,82;84,0;5,2;-2,04 %;283.743.647,41;3.383;2025-12-06;0;;;;
+PPEI11;Indefinido;658443,0;;5,0;13,57 %;;0;2025-12-06;0;;;;
+NSLU11;Hospitalar;578139,82;96,0;4,61;5,27 %;283.153.833,89;5.208;2025-12-06;0;;;;
+TRXB11;Fundo de Desenvolvimento;1521735,82;162,0;4,04;4,02 %;378.440.197,25;526;2025-12-06;0;;;;
