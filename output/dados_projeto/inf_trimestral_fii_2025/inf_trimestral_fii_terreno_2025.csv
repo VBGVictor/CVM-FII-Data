@@ -1,5 +1,7 @@
 CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevantes;Area;Percentual_Terreno_Total_Investido;Percentual_Terreno_PL
 00.868.235/0001-08;2025-03-31;1;Rua Primeiro de Janeiro, 100;Terreno;3950;1;0
+00.868.235/0001-08;2025-06-30;1;Rua Primeiro de Janeiro, 100;Terreno;3950;1;0
+00.868.235/0001-08;2025-09-30;1;Rua Primeiro de Janeiro, 100;Terreno;3950;1;0
 01.235.622/0001-61;2025-03-31;1;Av. Vereador Hermínio Moreira - Itaboraí, RJ;Itaboraí;20000;0;0
 01.235.622/0001-61;2025-03-31;1;Rodovia Darly Santos - Vila Velha - ES;Green Village;477000;0;0
 01.235.622/0001-61;2025-03-31;1;Praia Rasa, Búzios - RJ;Aretê - Toriba I;11537;0;0
@@ -394,6 +396,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 26.452.053/0001-37;2025-09-30;1;rua Vilaça, 186, Centro, São josé dos Campos, SP;Terreno;800;0;0
 27.368.617/0001-10;2025-03-31;1;Coordenadas UTM N=7.803.827,02 - E=598.794,65, localizado junto à margem esquerda da Av. das Comtendas, CEP 32184-010 - Contagem-MG;Matrícula nº 155.707. Fazendo Boa Vista. Fundo é proprietário de 100% do terreno, sem ônus.;210442.43;0.995217;0
 27.368.617/0001-10;2025-03-31;1;Parque Nacional da Serra do Gandarela - Reserva Ambiental. N/A, CEP 35450-000 - Itabirito - MG.;Matrícula nº 30.803;31059;0.004783;0
+27.368.617/0001-10;2025-06-30;1;Coordenadas UTM N=7.803.827,02 - E=598.794,65, localizado junto à margem esquerda da Av. das Comtendas, CEP 32184-010 - Contagem-MG;Matrícula nº 155.707. Fazendo Boa Vista. Fundo é proprietário de 100% do terreno, sem ônus.;210442.43;0.995217;0
+27.368.617/0001-10;2025-06-30;1;Parque Nacional da Serra do Gandarela - Reserva Ambiental. N/A, CEP 35450-000 - Itabirito - MG.;Matrícula nº 30.803;31059;0.004783;0
+27.368.617/0001-10;2025-09-30;1;Coordenadas UTM N=7.803.827,02 - E=598.794,65, localizado junto à margem esquerda da Av. das Comtendas, CEP 32184-010 - Contagem-MG;Matrícula nº 155.707. Fazendo Boa Vista. Fundo é proprietário de 100% do terreno, sem ônus.;210442.43;0.995217;0
+27.368.617/0001-10;2025-09-30;1;Parque Nacional da Serra do Gandarela - Reserva Ambiental. N/A, CEP 35450-000 - Itabirito - MG.;Matrícula nº 30.803;31059;0.004783;0
 27.538.422/0001-71;2025-03-31;1;Av. Colombo, 9322 - Gleba Patrimônio, PR;IM.MARINGÁ;43655.34;1;0
 27.538.422/0001-71;2025-06-30;1;Av. Colombo, 9322 - Gleba Patrimônio, PR;IM.MARINGÁ;43655.34;1;0
 27.538.422/0001-71;2025-09-30;1;Av. Colombo, 9322 - Gleba Patrimônio, PR;IM.MARINGÁ;43655.34;1;0
@@ -485,6 +491,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 30.492.505/0001-81;2025-09-30;1;Av. Ayrton Senna com Av. Embaixador Abelardo Bueno,  Quadra 4.6, do Pal 40.481, Freguesia de Jacarepaguá - Rio de Janeiro - RJ;Imovel melhor descrito e caracterizado na matricula 159.410 do Registro de Imóveis do 9º Oficio do Rio de Janeiro. FRE n. 245.800. CL 1450.Aquisição por meio da incorporação do  Caixa Fundo de Investimento Imobiliário VLT - Veículo Leve Sobre Trilhos, inscrito no CNPJ sob o nº 15.254.249/0001-09 ("FII VLT").;33901.32;0.854834;0
 30.492.505/0001-81;2025-09-30;1;Rua Vitorino Fernandes, s/n - Barra da Tijuca, perfeitamente descrito e caracterizado na matrícula 428076 do 9° Ofício de Registro de Imóveis da Comarca do Rio de Janeiro - RJ;Área situada à Rua Vitorino Fernandes, lado ímpar, na freguesia de Jacarepaguá, esquina com a Av. Alfredo Baltazar da Silveira;1916;0.145166;0
 30.578.275/0001-78;2025-03-31;1;Avenida Silvio Bastos Tavares, s/n, Campos dos Goytacazes, CEP 28051-250, Campos dos Goytacazes - RJ;Matrícula nº 4.442.GOYCATAZES;7777.95;1;0
+30.578.275/0001-78;2025-06-30;1;Avenida Silvio Bastos Tavares, s/n, Campos dos Goytacazes, CEP 28051-250, Campos dos Goytacazes - RJ;Matrícula nº 4.442.GOYCATAZES;7777.95;1;0
+30.578.275/0001-78;2025-09-30;1;Avenida Silvio Bastos Tavares, s/n, Campos dos Goytacazes, CEP 28051-250, Campos dos Goytacazes - RJ;Matrícula nº 4.442.GOYCATAZES;7777.95;1;0
 30.629.603/0001-18;2025-03-31;1;Estrada Do Rio Pequeno, S/n, Sem Complemento, Loteamento Fazenda Rio Pequeno, Santo Andre/SP, Brasil, 09161-100;Não possuem caracterísitcas que destoem dos demais.;16150;1;0
 30.629.603/0001-18;2025-06-30;2;Estrada Do Rio Pequeno, S/n, Sem Complemento, Loteamento Fazenda Rio Pequeno, Santo Andre/SP, Brasil, 09161-100;Não possui caracterísitcas que destoem dos demais;16150;1;0
 30.629.603/0001-18;2025-09-30;1;Estrada Do Rio Pequeno, S/n, Sem Complemento, Loteamento Fazenda Rio Pequeno, Santo Andre/SP, Brasil, 09161-100;Não possui caracterísitcas que destoem dos demais;16150;0;1
@@ -494,6 +502,30 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 30.846.692/0001-54;2025-09-30;1;AV JOSÉ BENTO RIBEIRO DANTAS,LT.3;N/A;390;0.096;0
 30.846.692/0001-54;2025-09-30;1;AV JOSÉ BENTO RIBEIRO DANTAS,LT.4;N/A;390;0.0043;0
 30.846.692/0001-54;2025-09-30;1;AV. MARECHAL HENRIQUE LOTT - BARRA DA TIJUCA - RJ;N/A;2762.71;0.0075;0
+30.871.716/0001-25;2025-03-31;1;Rua Correia Dias, 90, Sem Complemento, Paraíso, São Paulo/SP, Brasil, 04104-000;Direito de propriedade;306;0.11206687666586;0
+30.871.716/0001-25;2025-03-31;1;Rua Correia Dias, 100, Sem Complemento, Paraíso, São Paulo/SP, Brasil, 04104-000;Direito de propriedade;150;0.1135812939181;0
+30.871.716/0001-25;2025-03-31;1;Rua Correia Dias, 112, Sem Complemento, Paraíso, São Paulo/SP, Brasil, 04104-000;Direito de propriedade;220;0.16355706324206;0
+30.871.716/0001-25;2025-03-31;1;Rua Estela, 134, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;260;0.18221468378968;0
+30.871.716/0001-25;2025-03-31;1;Rua Estela, 146, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;300;0.16052822873758;0
+30.871.716/0001-25;2025-03-31;1;Rua Estela, 164, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;120;0.10903804216138;0
+30.871.716/0001-25;2025-03-31;1;Rua Estela, 172, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;100;0.10903804216138;0
+30.871.716/0001-25;2025-03-31;1;Rua Cubatao, 595, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04013-043;Direito de propriedade;0;0.04997576932396;0
+30.871.716/0001-25;2025-06-30;1;Rua Correia Dias, 90, Sem Complemento, Paraíso, São Paulo/SP, Brasil, 04104-000;Direito de propriedade;306;0.11206687666586;5.6181647E-06
+30.871.716/0001-25;2025-06-30;1;Rua Correia Dias, 100, Sem Complemento, Paraíso, São Paulo/SP, Brasil, 04104-000;Direito de propriedade;150;0.1135812939181;0
+30.871.716/0001-25;2025-06-30;1;Rua Correia Dias, 112, Sem Complemento, Paraíso, São Paulo/SP, Brasil, 04104-000;Direito de propriedade;220;0.16355706324206;6.90384142E-06
+30.871.716/0001-25;2025-06-30;1;Rua Estela, 134, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;260;0.18221468378968;6.71948023E-06
+30.871.716/0001-25;2025-06-30;1;Rua Estela, 146, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;300;0.16052822873758;0
+30.871.716/0001-25;2025-06-30;1;Rua Estela, 164, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;120;0.10903804216138;2.79937913E-06
+30.871.716/0001-25;2025-06-30;1;Rua Estela, 172, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;100;0.10903804216138;2.79937913E-06
+30.871.716/0001-25;2025-06-30;1;Rua Cubatao, 595, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04013-043;Direito de propriedade;0;0.04997576932396;0
+30.871.716/0001-25;2025-09-30;1;Rua Correia Dias, 90, Sem Complemento, Paraíso, São Paulo/SP, Brasil, 04104-000;Direito de propriedade;306;0.11206687666586;0.00030046946846
+30.871.716/0001-25;2025-09-30;1;Rua Correia Dias, 100, Sem Complemento, Paraíso, São Paulo/SP, Brasil, 04104-000;Direito de propriedade;150;0.1135812939181;0
+30.871.716/0001-25;2025-09-30;1;Rua Correia Dias, 112, Sem Complemento, Paraíso, São Paulo/SP, Brasil, 04104-000;Direito de propriedade;220;0.16355706324206;0.00036934888399
+30.871.716/0001-25;2025-09-30;1;Rua Estela, 134, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;260;0.18221468378968;0.00035936099026
+30.871.716/0001-25;2025-09-30;1;Rua Estela, 146, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;300;0.16052822873758;0
+30.871.716/0001-25;2025-09-30;1;Rua Estela, 164, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;120;0.10903804216138;0.00014973474194
+30.871.716/0001-25;2025-09-30;1;Rua Estela, 172, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04011-000;Direito de propriedade;100;0.10903804216138;0.00014973474194
+30.871.716/0001-25;2025-09-30;1;Rua Cubatao, 595, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04013-043;Direito de propriedade;0;0.04997576932396;0
 31.152.015/0001-07;2025-03-31;1;Rua Monte Caseros, 167 A 189 - Butantã, São Paulo - SP;MONTE CASERO;1443;0;0
 31.152.015/0001-07;2025-06-30;1;Rua Monte Caseros, 167 A 189 - Butantã, São Paulo - SP;MONTE CASERO;1443;0;0
 31.152.015/0001-07;2025-09-30;1;Rua Monte Caseros, 167 A 189 - Butantã, São Paulo - SP;MONTE CASERO;1443;0;0

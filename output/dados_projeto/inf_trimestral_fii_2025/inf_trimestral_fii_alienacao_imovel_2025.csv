@@ -75,6 +75,19 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 28.893.734/0001-66;2025-03-31;1;SV_306B;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 306 B;2025-02-26;71.68;1;Nenhuma característica relevante;0.035265;0.026968
 28.893.734/0001-66;2025-03-31;1;GV2_505;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 505 2;2025-01-03;119.95;1;Nenhuma característica relevante;0.043213;0.033046
 28.893.734/0001-66;2025-03-31;1;GV3_506;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 506 3;2025-01-30;207.45;1;Nenhuma característica relevante;0.058611;0.044821
+28.893.734/0001-66;2025-06-30;1;SV_105A;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 105 A;2025-05-15;71.68;1;Nenhuma característica relevante;0.048096;0.033316
+28.893.734/0001-66;2025-06-30;1;SV_106A;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 106 A;2025-05-30;71.68;1;Nenhuma característica relevante;0.048096;0.033316
+28.893.734/0001-66;2025-06-30;1;SV_306A;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 306 A;2025-04-30;71.68;1;Nenhuma característica relevante;0.050844;0.035219
+28.893.734/0001-66;2025-06-30;1;SV_105B;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 105 B;2025-06-12;71.68;1;Nenhuma característica relevante;0.048783;0.033791
+28.893.734/0001-66;2025-06-30;1;SV_406B;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 406 B;2025-06-27;71.68;1;Nenhuma característica relevante;0.04947;0.034267
+28.893.734/0001-66;2025-06-30;1;GV3_402;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 402 3;2025-06-12;119.95;1;Nenhuma característica relevante;0.060463;0.041882
+28.893.734/0001-66;2025-06-30;1;MLD_1308;Apartamento Residencial Carmo e Calçada Melodia Condomínio e Lazer Unidade 308 1 - Rua Candido Benicio, 446;2025-05-30;60.6;1;Nenhuma característica relevante;0.026796;0.018561
+28.893.734/0001-66;2025-09-30;1;SV_104B;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 104 B;2025-08-27;110.17;1;Nenhuma característica relevante;0.167484;0.09808
+28.893.734/0001-66;2025-09-30;1;GV1_703;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 703 1;2025-09-30;190.36;1;Nenhuma característica relevante;0.137033;0.080247
+28.893.734/0001-66;2025-09-30;1;GV2_701;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 701 2;2025-09-19;207.45;1;Nenhuma característica relevante;0.152258;0.089164
+28.893.734/0001-66;2025-09-30;1;GV2_708;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 708 2;2025-08-18;186.37;1;Nenhuma característica relevante;0.162907;0.0954
+28.893.734/0001-66;2025-09-30;1;GV3_503;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 503 3;2025-09-29;165.14;1;Nenhuma característica relevante;0.106581;0.062414
+28.893.734/0001-66;2025-09-30;1;GV3_507;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 507 3;2025-09-19;186.69;1;Nenhuma característica relevante;0.127897;0.074897
 29.267.567/0001-00;2025-06-30;1;MAT - 179.771;Rua Princesa Isabel, nº 94, Brooklin Paulista, São Paulo/SP;2025-05-19;112.91;1;EDIFÍCIO GAUDÍ - N° 61;1;0.001064
 29.267.567/0001-00;2025-06-30;1;MAT - 179.776;Rua Princesa Isabel, nº 94, Brooklin Paulista, São Paulo/SP;2025-05-19;112.91;1;EDIFÍCIO GAUDÍ - N° 71;1;0.001064
 29.641.226/0001-53;2025-03-31;1;Pernambucanas Ibiporã;Av. Paraná, Esq. R. D. Pedro ii, 112, Ibiporã, PR;2025-02-28;988.49;1;-;0.001142;0.001292
@@ -82,6 +95,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 29.641.226/0001-53;2025-06-30;1;Ed. Santo Alberto;Rua Quatá, 67, Vila Olímpia, São Paulo, SP;2025-06-17;6804.8;1;-;1;0.0434844844119145
 30.495.165/0001-42;2025-03-31;1;MM2  G01  (Módulos 1 ao 12);Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;2025-01-24;53930;1;N/A;1;0.26
 30.495.165/0001-42;2025-03-31;1;MM2  G01  (Módulos 13 ao 24);Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;2025-01-24;56122.89;1;N/A;1;0.31
+30.495.165/0001-42;2025-06-30;1;MM2  G01  (Módulos 1 ao 12);Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;2025-01-24;53930;1;NA;1;0.26
+30.495.165/0001-42;2025-06-30;1;MM2  G01  (Módulos 13 ao 24);Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;2025-01-24;56122.89;1;NA;1;0.31
 30.567.216/0001-02;2025-03-31;1;Edifício Banco Mercantil do Brasil;Avenida Paulista, 925;2025-03-26;215.71;1;Conjunto 102 do Edifício Banco Mercantil. Objeto da matrícula 73.372 com duas vagas de garagem objetos de matrículas distintas cujos número são: vaga 30 matrícula 73.373 e vaga 31 matrícula 73.374.;0.000676810978524795;0.000780383506941258
 30.567.216/0001-02;2025-03-31;1;Edifício Millenium;Av. Brigadeiro Faria Lima, 3015;2025-02-25;181.17;1;Conjunto 132 do Edifício Millennium com utilização de 8 vagas de garagem. Objeto da matrícula 153.312 .;0.00900699267571748;0.0106220536802181
 30.567.216/0001-02;2025-06-30;2;Edifício Millenium;Av. Brigadeiro Faria Lima, 3015;2025-04-28;181.17;1;Conjunto 131 com utilização de 9 vagas de garagem;0.00862874487241996;0.00998471955194408
@@ -131,6 +146,49 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 34.691.925/0001-48;2025-03-31;1;U_2006_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 2006 Trade - Rua Franciso Candido Magalhães, 40;2025-02-21;91.6953;1;Nenhuma característica relevante;0.001219;0.001327
 34.691.925/0001-48;2025-03-31;1;U_2106_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 2106 Trade - Rua Franciso Candido Magalhães, 40;2025-01-13;91.6953;1;Nenhuma característica relevante;0.001219;0.001327
 34.691.925/0001-48;2025-03-31;1;U_3_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 3 Business - Rua Franciso Candido Magalhães, 40;2025-02-10;103.6641;1;Nenhuma característica relevante;0.00158;0.00172
+34.691.925/0001-48;2025-06-30;1;NM_7_L;Lojas OR Empreendimentos Novo Mundo Unidade 7 - Av. A nº 4165;2025-05-14;122.28;1;Nenhuma característica relevante;0.000729;0.000787
+34.691.925/0001-48;2025-06-30;1;NP_815;Rua Dr. Nilo Peçanha, 100 - Sala 815 - Centro, Guarulhos/SP;2025-06-13;38.85;1;Nenhuma característica relevante;0.000363;0.000392
+34.691.925/0001-48;2025-06-30;1;NM_220_6;Sala Comercial OR Empreendimentos Novo Mundo Unidade 220 - Av. A nº 4165;2025-04-01;48.01;1;Nenhuma característica relevante;0.000847;0.000915
+34.691.925/0001-48;2025-06-30;1;NM_306_6;Av. A - Quadra F1, 4165 - Sala 306, Torre - 6, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-04-03;33.65;1;Nenhuma característica relevante;0.000516;0.000557
+34.691.925/0001-48;2025-06-30;1;NM_804_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 804 - Av. A nº 4165;2025-04-08;96.46;1;Nenhuma característica relevante;0.000594;0.000641
+34.691.925/0001-48;2025-06-30;1;NM_813_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 813 - Av. A nº 4165;2025-05-14;109.18;1;Nenhuma característica relevante;0.000705;0.000761
+34.691.925/0001-48;2025-06-30;1;NM_814_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 814 - Av. A nº 4165;2025-05-14;96.46;1;Nenhuma característica relevante;0.000593;0.00064
+34.691.925/0001-48;2025-06-30;1;NM_815_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 815 - Av. A nº 4165;2025-05-14;96.46;1;Nenhuma característica relevante;0.000593;0.00064
+34.691.925/0001-48;2025-06-30;1;NM_816_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 816 - Av. A nº 4165;2025-05-14;96.46;1;Nenhuma característica relevante;0.000593;0.00064
+34.691.925/0001-48;2025-06-30;1;NM_308_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 308 - Av. A nº 4165;2025-04-10;137.62;1;Nenhuma característica relevante;0.00081;0.000875
+34.691.925/0001-48;2025-06-30;1;NM_412_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 412 - Av. A nº 4165;2025-05-12;120.62;1;Nenhuma característica relevante;0.000593;0.000641
+34.691.925/0001-48;2025-06-30;1;NM_420_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 420 - Av. A nº 4165;2025-05-23;137.62;1;Nenhuma característica relevante;0.000677;0.000731
+34.691.925/0001-48;2025-06-30;1;NM_608_5;Sala Comercial OR Empreendimentos Novo Mundo Unidade 608 - Av. A nº 4165;2025-04-07;96.46;1;Nenhuma característica relevante;0.000891;0.000963
+34.691.925/0001-48;2025-06-30;1;NM_612_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 612 - Av. A nº 4165;2025-04-07;120.62;1;Nenhuma característica relevante;0.000817;0.000882
+34.691.925/0001-48;2025-06-30;1;NM_817_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 817 - Av. A nº 4165;2025-05-14;96.46;1;Nenhuma característica relevante;0.000593;0.00064
+34.691.925/0001-48;2025-06-30;1;VER_B120;Loja Calçada Condomínio Vertice Unidade 120 B - Av. Miguel Antonio Frnandes, 1333;2025-04-17;11.75;1;Nenhuma característica relevante;0.000175;0.000189
+34.691.925/0001-48;2025-06-30;1;VER_B330;Sala Comercial Calçada Condomínio Vertice Unidade 330 B - Av. Miguel Antonio Frnandes, 1333;2025-05-15;44.87;1;Nenhuma característica relevante;0.000427;0.000461
+34.691.925/0001-48;2025-06-30;1;VER_A510;Sala Comercial Calçada Condomínio Vertice Unidade 510 A - Av. Miguel Antonio Frnandes, 1333;2025-04-07;33.21;1;Nenhuma característica relevante;0.00032;0.000346
+34.691.925/0001-48;2025-06-30;1;U_207_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 207 Business - Rua Franciso Candido Magalhães, 40;2025-05-23;43.4502;1;Nenhuma característica relevante;0.000641;0.000692
+34.691.925/0001-48;2025-06-30;1;U_104_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 104 Trade - Rua Franciso Candido Magalhães, 40;2025-05-22;49.4091;1;Nenhuma característica relevante;0.000641;0.000692
+34.691.925/0001-48;2025-06-30;1;U_203_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 203 Trade - Rua Franciso Candido Magalhães, 40;2025-04-23;49.4091;1;Nenhuma característica relevante;0.000683;0.000738
+34.691.925/0001-48;2025-09-30;1;NM_21_L;Av. A - Quadra F1, 4165 - Loja 21, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-07-24;53.75;1;Nenhuma característica relevante;0.00094;0.001011
+34.691.925/0001-48;2025-09-30;1;NM_23_L;Av. A - Quadra F1, 4165 - Loja 23, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-09-03;127.87;1;Nenhuma característica relevante;0.002517;0.002706
+34.691.925/0001-48;2025-09-30;1;NM_319_3;Av. A - Quadra F1, 4165 - Sala 319, Torre - 3, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-08-15;33.65;1;Nenhuma característica relevante;0.00052;0.000559
+34.691.925/0001-48;2025-09-30;1;NM_515_2;Av. A - Quadra F1, 4165 - Sala 515, Torre - 2, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-08-27;33.65;1;Nenhuma característica relevante;0.000581;0.000625
+34.691.925/0001-48;2025-09-30;1;NM_421_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 421 - Av. A nº 4165;2025-09-03;119.73;1;Nenhuma característica relevante;0.000826;0.000888
+34.691.925/0001-48;2025-09-30;1;NM_813_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 813 - Av. A nº 4165;2025-08-05;109.18;1;Nenhuma característica relevante;0.000699;0.000752
+34.691.925/0001-48;2025-09-30;1;NM_814_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 814 - Av. A nº 4165;2025-08-05;96.46;1;Nenhuma característica relevante;0.000588;0.000633
+34.691.925/0001-48;2025-09-30;1;NM_815_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 815 - Av. A nº 4165;2025-08-01;96.46;1;Nenhuma característica relevante;0.000588;0.000633
+34.691.925/0001-48;2025-09-30;1;NM_818_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 818 - Av. A nº 4165;2025-09-10;96.46;1;Nenhuma característica relevante;0.000607;0.000652
+34.691.925/0001-48;2025-09-30;1;VER_A107;Loja Calçada Condomínio Vertice Unidade 107 A - Av. Miguel Antonio Frnandes, 1333;2025-09-24;152.64;1;Nenhuma característica relevante;0.002581;0.002775
+34.691.925/0001-48;2025-09-30;1;VER_B321;Sala Comercial Calçada Condomínio Vertice Unidade 321 B - Av. Miguel Antonio Frnandes, 1333;2025-09-24;38.33;1;Nenhuma característica relevante;0.000371;0.000399
+34.691.925/0001-48;2025-09-30;1;VER_B404;Sala Comercial Calçada Condomínio Vertice Unidade 404 B - Av. Miguel Antonio Frnandes, 1333;2025-07-31;39.06;1;Nenhuma característica relevante;0.000371;0.000399
+34.691.925/0001-48;2025-09-30;1;VER_B410;Sala Comercial Calçada Condomínio Vertice Unidade 410 B - Av. Miguel Antonio Frnandes, 1333;2025-07-01;34.4;1;Nenhuma característica relevante;0.000341;0.000366
+34.691.925/0001-48;2025-09-30;1;VER_B434;Sala Comercial Calçada Condomínio Vertice Unidade 434 B - Av. Miguel Antonio Frnandes, 1333;2025-07-14;33.49;1;Nenhuma característica relevante;0.000323;0.000348
+34.691.925/0001-48;2025-09-30;1;VER_B610;Sala Comercial Calçada Condomínio Vertice Unidade 610 B - Av. Miguel Antonio Frnandes, 1333;2025-07-22;34.4;1;Nenhuma característica relevante;0.000341;0.000366
+34.691.925/0001-48;2025-09-30;1;VER_B634;Sala Comercial Calçada Condomínio Vertice Unidade 634 B - Av. Miguel Antonio Frnandes, 1333;2025-08-18;33.49;1;Nenhuma característica relevante;0.00035;0.000376
+34.691.925/0001-48;2025-09-30;1;U_206_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 206 Business - Rua Franciso Candido Magalhães, 40;2025-09-03;43.4502;1;Nenhuma característica relevante;0.0007;0.000752
+34.691.925/0001-48;2025-09-30;1;U_1908_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 1908 Business - Rua Franciso Candido Magalhães, 40;2025-08-05;116.1254;1;Nenhuma característica relevante;0.001093;0.001175
+34.691.925/0001-48;2025-09-30;1;U_105_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 105 Trade - Rua Franciso Candido Magalhães, 40;2025-09-26;49.4091;1;Nenhuma característica relevante;0.0007;0.000752
+34.691.925/0001-48;2025-09-30;1;U_1202_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1202 Trade - Rua Franciso Candido Magalhães, 40;2025-07-21;49.4091;1;Nenhuma característica relevante;0.0007;0.000752
+34.691.925/0001-48;2025-09-30;1;U_1611_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 1611 Business - Rua Franciso Candido Magalhães, 40;2025-08-20;197.2481;1;Nenhuma característica relevante;0.002358;0.002535
+34.691.925/0001-48;2025-09-30;1;U_102_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 102 Trade - Rua Franciso Candido Magalhães, 40;2025-08-11;49.4091;1;Nenhuma característica relevante;0.0007;0.000752
 34.895.711/0001-93;2025-09-30;1;ALPHACASTELLO J13;Rua Paraná, Itu/SP;2025-08-20;0;1;São Paulo;0;0
 35.652.102/0001-76;2025-03-31;1;Vila Olimpia Corporate;Rua Fidencio Ramos, 302, Sem Complemento, Vila Olimpia, Sao Paulo/SP, Brasil, 04551-010;2025-01-31;756.32;2;Não possui características que destoe dos demais;0.0599;0.007045
 36.368.925/0001-37;2025-09-30;1;EXTRA - TERESINHA;Avenida Presidente Kennedy, 501, São Cristóvão - Teresina/PI;2025-08-20;30000;1;n/d;0;0
@@ -281,6 +339,173 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 47.154.849/0001-83;2025-03-31;1;GOGH2703;R. Bancário Francisco M Sobreira, 51;2025-02-17;192.8;1;Nenhuma característica relevante;0.006552;0.003645
 47.154.849/0001-83;2025-03-31;1;GOGH2606;R. Bancário Francisco M Sobreira, 51;2025-01-07;192.8;1;Nenhuma característica relevante;0.006552;0.003645
 47.154.849/0001-83;2025-03-31;1;GOGH2608;R. Bancário Francisco M Sobreira, 51;2025-03-21;134.9;1;Nenhuma característica relevante;0.004744;0.00264
+47.154.849/0001-83;2025-06-30;1;SKY_216;R. da Paz, 1601;2025-06-27;82.7;1;Nenhuma característica relevante;0.005458;0.00191
+47.154.849/0001-83;2025-06-30;1;SKY_217;R. da Paz, 1601;2025-06-27;75.5;1;Nenhuma característica relevante;0.004759;0.001665
+47.154.849/0001-83;2025-06-30;1;SKY_218;R. da Paz, 1601;2025-06-27;76.9;1;Nenhuma característica relevante;0.004874;0.001706
+47.154.849/0001-83;2025-06-30;1;SKY_503;R. da Paz, 1601;2025-06-11;82.7;1;Nenhuma característica relevante;0.005213;0.001824
+47.154.849/0001-83;2025-06-30;1;SKY_1107;R. da Paz, 1601;2025-05-15;82.7;1;Nenhuma característica relevante;0.005401;0.00189
+47.154.849/0001-83;2025-06-30;1;SKY_1108;R. da Paz, 1601;2025-05-15;75.5;1;Nenhuma característica relevante;0.004706;0.001647
+47.154.849/0001-83;2025-06-30;1;SKY_1511;R. da Paz, 1601;2025-05-19;75.5;1;Nenhuma característica relevante;0.005242;0.001835
+47.154.849/0001-83;2025-06-30;1;SKY_1711;R. da Paz, 1601;2025-05-27;75.5;1;Nenhuma característica relevante;0.005058;0.00177
+47.154.849/0001-83;2025-06-30;1;SKY_2001;R. da Paz, 1601;2025-05-12;76.9;1;Nenhuma característica relevante;0.005692;0.001992
+47.154.849/0001-83;2025-06-30;1;SKY_2002;R. da Paz, 1601;2025-05-12;75.5;1;Nenhuma característica relevante;0.005561;0.001946
+47.154.849/0001-83;2025-06-30;1;SKY_2003;R. da Paz, 1601;2025-05-12;82.7;1;Nenhuma característica relevante;0.005946;0.002081
+47.154.849/0001-83;2025-06-30;1;SKY_2007;R. da Paz, 1601;2025-05-12;82.7;1;Nenhuma característica relevante;0.005946;0.002081
+47.154.849/0001-83;2025-06-30;1;SKY_2008;R. da Paz, 1601;2025-05-12;75.5;1;Nenhuma característica relevante;0.005212;0.001824
+47.154.849/0001-83;2025-06-30;1;SKY_2018;R. da Paz, 1601;2025-05-12;76.9;1;Nenhuma característica relevante;0.005673;0.001986
+47.154.849/0001-83;2025-06-30;1;GA_306C;Av. Farroupilha, 5508;2025-06-04;123.2;1;Nenhuma característica relevante;0.006714;0.00235
+47.154.849/0001-83;2025-06-30;1;GA_1106C;Av. Farroupilha, 5508;2025-05-09;123.2;1;Nenhuma característica relevante;0.00745;0.002607
+47.154.849/0001-83;2025-06-30;1;GA_907C;Av. Farroupilha, 5508;2025-05-27;123.2;1;Nenhuma característica relevante;0.007339;0.002569
+47.154.849/0001-83;2025-06-30;1;GA_1007C;Av. Farroupilha, 5508;2025-05-16;123.2;1;Nenhuma característica relevante;0.006898;0.002414
+47.154.849/0001-83;2025-06-30;1;GA_203D;Av. Farroupilha, 5508;2025-06-11;123.2;1;Nenhuma característica relevante;0.00653;0.002285
+47.154.849/0001-83;2025-06-30;1;GA_05BV;Av. Farroupilha, 5508;2025-05-16;19;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GA_100BV;Av. Farroupilha, 5508;2025-06-11;17.9;1;Nenhuma característica relevante;-0.000205;-7.1E-05
+47.154.849/0001-83;2025-06-30;1;GA_475BV;Av. Farroupilha, 5508;2025-05-09;29.6;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GA_590BV;Av. Farroupilha, 5508;2025-05-27;29.6;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GA_607BV;Av. Farroupilha, 5508;2025-06-04;29.6;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_503B;R. Aurora, 1250;2025-06-02;121.8;1;Nenhuma característica relevante;0.007082;0.002479
+47.154.849/0001-83;2025-06-30;1;GR_507B;R. Aurora, 1250;2025-05-29;121.8;1;Nenhuma característica relevante;0.006714;0.00235
+47.154.849/0001-83;2025-06-30;1;GR_610C;R. Aurora, 1250;2025-04-03;121.8;1;Nenhuma característica relevante;0.007266;0.002543
+47.154.849/0001-83;2025-06-30;1;GR_301C;R. Aurora, 1250;2025-05-13;96.7;1;Nenhuma característica relevante;0.005242;0.001835
+47.154.849/0001-83;2025-06-30;1;GR_406C;R. Aurora, 1250;2025-06-04;121.8;1;Nenhuma característica relevante;0.006714;0.00235
+47.154.849/0001-83;2025-06-30;1;GR_308C;R. Aurora, 1250;2025-05-09;96.7;1;Nenhuma característica relevante;0.005426;0.001899
+47.154.849/0001-83;2025-06-30;1;GR_208C;R. Aurora, 1250;2025-04-01;96.7;1;Nenhuma característica relevante;0.005242;0.001835
+47.154.849/0001-83;2025-06-30;1;GR_309C;R. Aurora, 1250;2025-05-21;96.7;1;Nenhuma característica relevante;0.005058;0.00177
+47.154.849/0001-83;2025-06-30;1;GR_310D;R. Aurora, 1250;2025-06-13;121.8;1;Nenhuma característica relevante;0.006456;0.00226
+47.154.849/0001-83;2025-06-30;1;GR_410D;R. Aurora, 1250;2025-05-23;121.8;1;Nenhuma característica relevante;0.006714;0.00235
+47.154.849/0001-83;2025-06-30;1;GR_311D;R. Aurora, 1250;2025-06-09;121.8;1;Nenhuma característica relevante;0.006456;0.00226
+47.154.849/0001-83;2025-06-30;1;GR_302D;R. Aurora, 1250;2025-04-03;121.8;1;Nenhuma característica relevante;0.006898;0.002414
+47.154.849/0001-83;2025-06-30;1;GR_502D;R. Aurora, 1250;2025-05-14;121.8;1;Nenhuma característica relevante;0.00653;0.002285
+47.154.849/0001-83;2025-06-30;1;GR_602D;R. Aurora, 1250;2025-04-17;121.8;1;Nenhuma característica relevante;0.006714;0.00235
+47.154.849/0001-83;2025-06-30;1;GR_1102D;R. Aurora, 1250;2025-04-16;121.8;1;Nenhuma característica relevante;0.006714;0.00235
+47.154.849/0001-83;2025-06-30;1;GR_04AV;R. Aurora, 1250;2025-05-29;34.9;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_69AV;R. Aurora, 1250;2025-05-13;18.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_72AV;R. Aurora, 1250;2025-05-09;17.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_74AV;R. Aurora, 1250;2025-05-09;17.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_80AV;R. Aurora, 1250;2025-06-25;17.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_81AV;R. Aurora, 1250;2025-04-01;17.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_490AV;R. Aurora, 1250;2025-04-03;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_506AV;R. Aurora, 1250;2025-06-04;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_549AV;R. Aurora, 1250;2025-04-03;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_567AV;R. Aurora, 1250;2025-06-13;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_431AV;R. Aurora, 1250;2025-05-26;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_436AV;R. Aurora, 1250;2025-05-14;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_372AV;R. Aurora, 1250;2025-04-17;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_364AV;R. Aurora, 1250;2025-04-28;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_363AV;R. Aurora, 1250;2025-04-16;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_332AV;R. Aurora, 1250;2025-06-02;27.5;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_245AV;R. Aurora, 1250;2025-06-09;27.5;1;Nenhuma característica relevante;-0.000205;-7.1E-05
+47.154.849/0001-83;2025-06-30;1;GR_121AV;R. Aurora, 1250;2025-05-23;18.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;UNIQ_152;Av. Lázaro de Souza Campos, 635 - Franca, SP;2025-04-10;302.8;310;Nenhuma característica relevante;0.019315;0.006761
+47.154.849/0001-83;2025-06-30;1;RI_95A;R. Amália Bernardino de Souza, 532 - Recife, PE;2025-06-09;97.3;1;Nenhuma característica relevante;0.006622;0.002318
+47.154.849/0001-83;2025-06-30;1;GR_201B;R. Aurora, 1250 Canoas RS;2025-06-25;96.7;1;Nenhuma característica relevante;0.005058;0.00177
+47.154.849/0001-83;2025-06-30;1;GR_138A;R. Aurora, 1250 Canoas RS;2025-06-02;17.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_349A;R. Aurora, 1250 Canoas RS;2025-06-02;17.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_303C;R. Aurora, 1250 Canoas RS;2025-05-26;121.8;1;Nenhuma característica relevante;0.00653;0.002285
+47.154.849/0001-83;2025-06-30;1;GR_408D;R. Aurora, 1250 Canoas RS;2025-05-09;96.7;1;Nenhuma característica relevante;0.005058;0.00177
+47.154.849/0001-83;2025-06-30;1;GR_503D;R. Aurora, 1250 Canoas RS;2025-05-12;121.8;1;Nenhuma característica relevante;0.00745;0.002607
+47.154.849/0001-83;2025-06-30;1;GR_703B;R. Aurora, 1250 Canoas RS;2025-04-28;121.8;1;Nenhuma característica relevante;0.00653;0.002285
+47.154.849/0001-83;2025-06-30;1;GR_1303D;R. Aurora, 1250 Canoas RS;2025-06-02;121.8;1;Nenhuma característica relevante;0.007082;0.002479
+47.154.849/0001-83;2025-06-30;1;GR_1312C;R. Aurora, 1250 Canoas RS;2025-06-02;96.7;1;Nenhuma característica relevante;0.005537;0.001938
+47.154.849/0001-83;2025-06-30;1;GR_112A;R. Aurora, 1250 Canoas RS;2025-05-21;17.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;GR_367A;R. Aurora, 1250 Canoas RS;2025-05-12;17.2;1;Nenhuma característica relevante;0.000643;0.000225
+47.154.849/0001-83;2025-06-30;1;RI_95B;R. Amália Bernardino de Souza, 532 - Recife, PE;2025-05-21;97.3;1;Nenhuma característica relevante;0.006806;0.002382
+47.154.849/0001-83;2025-06-30;1;Nex17_45;Av Chácara das Nascentes, s/n;2025-05-20;200;8;Nenhuma característica relevante;0.005647;0.001976
+47.154.849/0001-83;2025-06-30;1;Nex20_48;Av Chácara das Nascentes, s/n;2025-06-26;229.6;9;Nenhuma característica relevante;0.007542;0.00264
+47.154.849/0001-83;2025-06-30;1;Nex3_00;Av Chácara das Nascentes, s/n;2025-05-13;193.8;18;Nenhuma característica relevante;0.007542;0.00264
+47.154.849/0001-83;2025-06-30;1;Nex9_06;Av Chácara das Nascentes, s/n;2025-05-14;200;23;Nenhuma característica relevante;0.007358;0.002575
+47.154.849/0001-83;2025-06-30;1;Nex10_07;Av Chácara das Nascentes, s/n;2025-05-20;200;24;Nenhuma característica relevante;0.007358;0.002575
+47.154.849/0001-83;2025-06-30;1;Nex11_08;Av Chácara das Nascentes, s/n;2025-04-01;200;25;Nenhuma característica relevante;0.007358;0.002575
+47.154.849/0001-83;2025-06-30;1;Nex18_15;Av Chácara das Nascentes, s/n;2025-05-20;200;31;Nenhuma característica relevante;0.007542;0.00264
+47.154.849/0001-83;2025-06-30;1;Nex27_24;Av Chácara das Nascentes, s/n;2025-05-16;200;37;Nenhuma característica relevante;0.007358;0.002575
+47.154.849/0001-83;2025-06-30;1;Nex_3132;Av Chácara das Nascentes, s/n;2025-05-16;400;42;Nenhuma característica relevante;0.011589;0.004056
+47.154.849/0001-83;2025-06-30;1;Nex_0304;Av Chácara das Nascentes, s/n;2025-04-01;566.7;43;Nenhuma característica relevante;0.014716;0.005151
+47.154.849/0001-83;2025-06-30;1;Nex_0102;Av Chácara das Nascentes, s/n;2025-05-16;706.9;44;Nenhuma característica relevante;0.014716;0.005151
+47.154.849/0001-83;2025-06-30;1;Bus2_307;Av. Cerejeira, 280;2025-04-01;31.4;1;Nenhuma característica relevante;0.001802;0.000631
+47.154.849/0001-83;2025-06-30;1;Bus2_905;Av. Cerejeira, 280;2025-06-25;32.3;1;Nenhuma característica relevante;0.001834;0.000641
+47.154.849/0001-83;2025-06-30;1;Bus2_906;Av. Cerejeira, 280;2025-06-25;31.4;1;Nenhuma característica relevante;0.001784;0.000624
+47.154.849/0001-83;2025-06-30;1;Bus2_907;Av. Cerejeira, 280;2025-06-25;31.4;1;Nenhuma característica relevante;0.001784;0.000624
+47.154.849/0001-83;2025-06-30;1;Bus2_908;Av. Cerejeira, 280;2025-06-25;31.4;1;Nenhuma característica relevante;0.001784;0.000624
+47.154.849/0001-83;2025-06-30;1;Bus1_601;Av. Cerejeira, 280;2025-06-24;32.3;1;Nenhuma característica relevante;0.001834;0.000641
+47.154.849/0001-83;2025-06-30;1;Bus1_603;Av. Cerejeira, 280;2025-05-14;31.4;1;Nenhuma característica relevante;0.001784;0.000624
+47.154.849/0001-83;2025-06-30;1;Bus1_604;Av. Cerejeira, 280;2025-05-14;32.3;1;Nenhuma característica relevante;0.001834;0.000641
+47.154.849/0001-83;2025-06-30;1;GOGH202;R. Bancário Francisco M Sobreira, 51;2025-06-04;203.8;1;Nenhuma característica relevante;0.010517;0.003681
+47.154.849/0001-83;2025-06-30;1;GOGH2302;R. Bancário Francisco M Sobreira, 51;2025-05-28;203.8;1;Nenhuma característica relevante;0.010955;0.003834
+47.154.849/0001-83;2025-06-30;1;GOGH2304;R. Bancário Francisco M Sobreira, 51;2025-06-27;150.7;1;Nenhuma característica relevante;0.008497;0.002974
+47.154.849/0001-83;2025-06-30;1;GOGH2504;R. Bancário Francisco M Sobreira, 51;2025-05-20;150.7;1;Nenhuma característica relevante;0.008497;0.002974
+47.154.849/0001-83;2025-06-30;1;GOGH2603;R. Bancário Francisco M Sobreira, 51;2025-05-14;192.8;1;Nenhuma característica relevante;0.010415;0.003645
+47.154.849/0001-83;2025-06-30;1;GOGH2604;R. Bancário Francisco M Sobreira, 51;2025-04-10;153.4;1;Nenhuma característica relevante;0.00873;0.003056
+47.154.849/0001-83;2025-06-30;1;GOGH2702;R. Bancário Francisco M Sobreira, 51;2025-05-05;207.1;1;Nenhuma característica relevante;0.011042;0.003865
+47.154.849/0001-83;2025-06-30;1;GOGH2804;R. Bancário Francisco M Sobreira, 51;2025-05-13;153.4;1;Nenhuma característica relevante;0.00873;0.003056
+47.154.849/0001-83;2025-06-30;1;GOGH2903;R. Bancário Francisco M Sobreira, 51;2025-05-16;192.8;1;Nenhuma característica relevante;0.010415;0.003645
+47.154.849/0001-83;2025-06-30;1;GOGH3003;R. Bancário Francisco M Sobreira, 51;2025-04-23;192.8;1;Nenhuma característica relevante;0.010415;0.003645
+47.154.849/0001-83;2025-06-30;1;GOGH3004;R. Bancário Francisco M Sobreira, 51;2025-06-04;153.4;1;Nenhuma característica relevante;0.00873;0.003056
+47.154.849/0001-83;2025-06-30;1;GOGH2208;R. Bancário Francisco M Sobreira, 51;2025-05-14;134.9;1;Nenhuma característica relevante;0.007422;0.002597
+47.154.849/0001-83;2025-06-30;1;GOGH2506;R. Bancário Francisco M Sobreira, 51;2025-05-30;192.8;1;Nenhuma característica relevante;0.010332;0.003616
+47.154.849/0001-83;2025-06-30;1;GOGH2705;R. Bancário Francisco M Sobreira, 51;2025-05-15;153.4;1;Nenhuma característica relevante;0.008738;0.003058
+47.154.849/0001-83;2025-06-30;1;GOGH2808;R. Bancário Francisco M Sobreira, 51;2025-05-14;134.9;1;Nenhuma característica relevante;0.007542;0.00264
+47.154.849/0001-83;2025-06-30;1;GOGH2908;R. Bancário Francisco M Sobreira, 51;2025-05-15;134.9;1;Nenhuma característica relevante;0.007542;0.00264
+47.154.849/0001-83;2025-06-30;1;GOGH3007;R. Bancário Francisco M Sobreira, 51;2025-06-04;207.1;1;Nenhuma característica relevante;0.011042;0.003865
+47.154.849/0001-83;2025-09-30;1;SKY_803;R. da Paz, 1601;2025-07-15;82.7;1;Nenhuma característica relevante;0.005263;0.001584
+47.154.849/0001-83;2025-09-30;1;SKY_1707;R. da Paz, 1601;2025-08-14;82.7;1;Nenhuma característica relevante;0.00558;0.001679
+47.154.849/0001-83;2025-09-30;1;SKY_1817;R. da Paz, 1601;2025-09-22;75.5;1;Nenhuma característica relevante;0.005267;0.001585
+47.154.849/0001-83;2025-09-30;1;GA_507B;Av. Farroupilha, 5508;2025-08-18;123.2;1;Nenhuma característica relevante;0.006519;0.001962
+47.154.849/0001-83;2025-09-30;1;GA_406C;Av. Farroupilha, 5508;2025-07-21;123.2;1;Nenhuma característica relevante;0.006906;0.002078
+47.154.849/0001-83;2025-09-30;1;GA_607C;Av. Farroupilha, 5508;2025-09-04;123.2;1;Nenhuma característica relevante;0.006813;0.00205
+47.154.849/0001-83;2025-09-30;1;GA_403D;Av. Farroupilha, 5508;2025-08-29;123.2;1;Nenhuma característica relevante;0.006537;0.001967
+47.154.849/0001-83;2025-09-30;1;GA_75BV;Av. Farroupilha, 5508;2025-07-21;17.9;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GA_116BV;Av. Farroupilha, 5508;2025-08-29;19;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GA_329BV;Av. Farroupilha, 5508;2025-08-18;29.6;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GA_465BV;Av. Farroupilha, 5508;2025-09-04;29.6;1;Nenhuma característica relevante;0.00092;0.000277
+47.154.849/0001-83;2025-09-30;1;GA_572BV;Av. Farroupilha, 5508;2025-09-12;29.6;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_206A;R. Aurora, 1250;2025-08-08;121.8;1;Nenhuma característica relevante;0.006629;0.001995
+47.154.849/0001-83;2025-09-30;1;GR_406A;R. Aurora, 1250;2025-07-03;121.8;1;Nenhuma característica relevante;0.006906;0.002078
+47.154.849/0001-83;2025-09-30;1;GR_302B;R. Aurora, 1250;2025-07-28;121.8;1;Nenhuma característica relevante;0.006721;0.002023
+47.154.849/0001-83;2025-09-30;1;GR_403B;R. Aurora, 1250;2025-07-17;121.8;1;Nenhuma característica relevante;0.006592;0.001984
+47.154.849/0001-83;2025-09-30;1;GR_306B;R. Aurora, 1250;2025-09-04;121.8;1;Nenhuma característica relevante;0.006998;0.002106
+47.154.849/0001-83;2025-09-30;1;GR_210C;R. Aurora, 1250;2025-08-11;121.8;1;Nenhuma característica relevante;0.006537;0.001967
+47.154.849/0001-83;2025-09-30;1;GR_202C;R. Aurora, 1250;2025-09-29;121.8;1;Nenhuma característica relevante;0.006721;0.002023
+47.154.849/0001-83;2025-09-30;1;GR_206C;R. Aurora, 1250;2025-09-08;121.8;1;Nenhuma característica relevante;0.006721;0.002023
+47.154.849/0001-83;2025-09-30;1;GR_407C;R. Aurora, 1250;2025-07-28;121.8;1;Nenhuma característica relevante;0.006721;0.002023
+47.154.849/0001-83;2025-09-30;1;GR_210D;R. Aurora, 1250;2025-08-06;121.8;1;Nenhuma característica relevante;0.006537;0.001967
+47.154.849/0001-83;2025-09-30;1;GR_211D;R. Aurora, 1250;2025-09-19;121.8;1;Nenhuma característica relevante;0.006537;0.001967
+47.154.849/0001-83;2025-09-30;1;GR_202D;R. Aurora, 1250;2025-07-31;121.8;1;Nenhuma característica relevante;0.006537;0.001967
+47.154.849/0001-83;2025-09-30;1;GR_03AV;R. Aurora, 1250;2025-09-08;34.4;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_56AV;R. Aurora, 1250;2025-07-21;18.2;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_78AV;R. Aurora, 1250;2025-08-06;17.2;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_84AV;R. Aurora, 1250;2025-09-29;17.2;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_482AV;R. Aurora, 1250;2025-07-28;27.5;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_433AV;R. Aurora, 1250;2025-07-17;27.5;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_360AV;R. Aurora, 1250;2025-09-04;27.5;1;Nenhuma característica relevante;0.000552;0.000166
+47.154.849/0001-83;2025-09-30;1;GR_172AV;R. Aurora, 1250;2025-07-03;27.5;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_147AV;R. Aurora, 1250;2025-08-08;27.5;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_101AV;R. Aurora, 1250;2025-09-19;17.2;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;NO1_111;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2025-08-19;66.6;1;Nenhuma característica relevante;0.006537;0.001967
+47.154.849/0001-83;2025-09-30;1;GR_129A;R. Aurora, 1250 Canoas RS;2025-07-31;17.2;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_905A;R. Aurora, 1250 Canoas RS;2025-07-21;96.7;1;Nenhuma característica relevante;0.005524;0.001662
+47.154.849/0001-83;2025-09-30;1;GR_108A;R. Aurora, 1250 Canoas RS;2025-08-11;17.2;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;GR_288A;R. Aurora, 1250 Canoas RS;2025-07-28;17.2;1;Nenhuma característica relevante;0.000644;0.000194
+47.154.849/0001-83;2025-09-30;1;OFX_906;R. Noronha Torrezão, 160 - Niterói, RJ;2025-08-22;30.1;1;Nenhuma característica relevante;0.002209;0.000665
+47.154.849/0001-83;2025-09-30;1;RI_175A;R. Amália Bernardino de Souza, 532 - Recife, PE;2025-08-26;97.3;1;Nenhuma característica relevante;0.007366;0.002217
+47.154.849/0001-83;2025-09-30;1;NR1_129;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2025-08-18;148.2;1;Nenhuma característica relevante;0.008435;0.002538
+47.154.849/0001-83;2025-09-30;1;NR1_131;Av. Doutor José Machado de Souza, 300 - Aracaju, SE;2025-09-08;147.3;1;Nenhuma característica relevante;0.008471;0.002549
+47.154.849/0001-83;2025-09-30;1;NO1_1404;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2025-09-08;102;1;Nenhuma característica relevante;0.006445;0.00194
+47.154.849/0001-83;2025-09-30;1;Nex28_56;Av Chácara das Nascentes, s/n;2025-09-18;200;13;Nenhuma característica relevante;0.005653;0.001701
+47.154.849/0001-83;2025-09-30;1;Nex8_05;Av Chácara das Nascentes, s/n;2025-08-08;200;22;Nenhuma característica relevante;0.007366;0.002217
+47.154.849/0001-83;2025-09-30;1;Nex21_18;Av Chácara das Nascentes, s/n;2025-08-01;200;33;Nenhuma característica relevante;0.007366;0.002217
+47.154.849/0001-83;2025-09-30;1;Nex22_19;Av Chácara das Nascentes, s/n;2025-08-28;200;34;Nenhuma característica relevante;0.007366;0.002217
+47.154.849/0001-83;2025-09-30;1;Nex29_26;Av Chácara das Nascentes, s/n;2025-09-19;200;39;Nenhuma característica relevante;0.007366;0.002217
+47.154.849/0001-83;2025-09-30;1;MID_1001;R. José de Alencar, 1281;2025-09-29;70.6;1;Nenhuma característica relevante;0.010331;0.003109
+47.154.849/0001-83;2025-09-30;1;MID_3;R. José de Alencar, 1281;2025-09-29;10.6;1;Nenhuma característica relevante;0.000524;0.000157
+47.154.849/0001-83;2025-09-30;1;MID_4;R. José de Alencar, 1281;2025-09-29;10.6;1;Nenhuma característica relevante;0.000524;0.000157
+47.154.849/0001-83;2025-09-30;1;Bus2_904;Av. Cerejeira, 280;2025-07-16;32.3;1;Nenhuma característica relevante;0.001836;0.000552
+47.154.849/0001-83;2025-09-30;1;GOGH1503;R. Bancário Francisco M Sobreira, 51;2025-08-14;192.8;1;Nenhuma característica relevante;0.010195;0.003068
+47.154.849/0001-83;2025-09-30;1;GOGH2203;R. Bancário Francisco M Sobreira, 51;2025-07-15;192.8;1;Nenhuma característica relevante;0.010261;0.003088
+47.154.849/0001-83;2025-09-30;1;GOGH2904;R. Bancário Francisco M Sobreira, 51;2025-07-21;153.4;1;Nenhuma característica relevante;0.00874;0.00263
+47.154.849/0001-83;2025-09-30;1;GOGH1207;R. Bancário Francisco M Sobreira, 51;2025-08-28;203.8;1;Nenhuma característica relevante;0.010704;0.003221
+47.154.849/0001-83;2025-09-30;1;GOGH1808;R. Bancário Francisco M Sobreira, 51;2025-07-07;134.9;1;Nenhuma característica relevante;0.00744;0.002239
+47.154.849/0001-83;2025-09-30;1;GOGH2708;R. Bancário Francisco M Sobreira, 51;2025-07-15;134.9;1;Nenhuma característica relevante;0.00755;0.002272
+47.154.849/0001-83;2025-09-30;1;GOGH3006;R. Bancário Francisco M Sobreira, 51;2025-07-28;192.8;1;Nenhuma característica relevante;0.010426;0.003138
 48.916.699/0001-60;2025-03-31;1;Condominio Faria Lima Plaza - FLP;Avenida Brigadeiro Faria Lima, 929, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05426-100;2025-01-07;69342112;191;Direito de Propriedade;0.31196238502451;42.6442433138565
 48.978.859/0001-04;2025-09-30;1;CVRD Aguas Claras - Bloco IV;Avenida De Ligacao, 1809, Sem Complemento, , Nova Lima/MG, Brasil, 34006-200;2025-07-09;8932;1;Não possui caracteristicas que destoem dos demais;1;0.035
 50.569.855/0001-06;2025-09-30;1;HELBOR VILA OLIMPIA HOME & STA;Rua Funchal nº 65 - Vila Olimpia SP;2025-09-30;1276.5;35;Cartorio de Imoveis - 4º RGI/SP / Matricula Area Maior - 108.072;0;0

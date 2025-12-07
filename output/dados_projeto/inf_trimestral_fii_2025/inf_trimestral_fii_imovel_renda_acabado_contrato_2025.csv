@@ -10,6 +10,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 00.762.723/0001-28;2025-09-30;1;ITM;N/A.
 00.868.235/0001-08;2025-03-31;1;Hotel;Contrato de arrendamento com a Accor
 00.868.235/0001-08;2025-03-31;1;ABS;Contratos majoritariamente corrigidos pelo IGP-M e com prazo de 5 anos
+00.868.235/0001-08;2025-06-30;1;Hotel;Contrato de arrendamento com a Accor
+00.868.235/0001-08;2025-06-30;1;ABS;Contratos majoritariamente corrigidos pelo IGP-M e com prazo de 5 anos
+00.868.235/0001-08;2025-09-30;1;Hotel;Contrato de arrendamento com a Accor
+00.868.235/0001-08;2025-09-30;1;ABS;Contratos majoritariamente corrigidos pelo IGP-M e com prazo de 5 anos
 01.201.140/0001-90;2025-03-31;1;Grand Plaza Shopping;Contratos típicos, sendo boa parte com o prazo de 5 anos, ajustados anualmente pelos índices IGP-DI, IGP-M, IPC-FIPE e IPCA, com garantia de fiadores.
 01.201.140/0001-90;2025-06-30;1;Grand Plaza Shopping;Contratos típicos, sendo boa parte com o prazo de 5 anos, ajustados anualmente pelos índices IGP-DI, IGP-M, IPC-FIPE e IPCA, com garantia de fiadores.
 01.201.140/0001-90;2025-09-30;1;Grand Plaza Shopping;Contratos típicos, sendo boa parte com o prazo de 5 anos, ajustados anualmente pelos índices IGP-DI, IGP-M, IPC-FIPE e IPCA, com garantia de fiadores.
@@ -933,6 +937,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 14.413.342/0001-48;2025-03-31;1;Ed. Canopus - Av. Tambore, 267 - Tamboré, Barueri - SP - 9º Andar - Unidade 91 - Bloco B;Contrato de Locação para Fins não Residenciais (Correção por IGPM)
 14.413.342/0001-48;2025-03-31;1;Ed. Number One - SCN, Quadra 1 Bloco A, número 77, Asa Norte, Brasila-DF;Contratos de Locação para Fins não Residenciais, correção anual por IPCA (IBGE)
 14.413.342/0001-48;2025-03-31;1;Ed. Sede - SHN Quadra 01, Conjunto A, Bloco E, Brasília-DF;Contrato de Locação para Fins não Residenciais, correção anual por IGP-M (FGV)
+14.413.342/0001-48;2025-06-30;1;Imóvel Campo Grande - Rua Campo Grande, 120 , Lote 08 do PAL 47.371 - Campo Grande - Rio de Janeiro - RJ;Contrato de Locação para Fins não Residenciais, modalidade BTS, correção anual por IPCA (IBGE)
+14.413.342/0001-48;2025-06-30;1;Ed. Canopus - Av. Tambore, 267 - Tamboré, Barueri - SP - 9º Andar - Unidade 91 - Bloco B;Contrato de Locação para Fins não Residenciais (Correção por IGPM)
+14.413.342/0001-48;2025-06-30;1;Ed. Number One - SCN, Quadra 1 Bloco A, número 77, Asa Norte, Brasila-DF;Contratos de Locação para Fins não Residenciais, correção anual por IPCA (IBGE)
+14.413.342/0001-48;2025-06-30;1;Ed. Sede - SHN Quadra 01, Conjunto A, Bloco E, Brasília-DF;Contrato de Locação para Fins não Residenciais, correção anual por IGP-M (FGV)
+14.413.342/0001-48;2025-09-30;1;Imóvel Campo Grande - Rua Campo Grande, 120 , Lote 08 do PAL 47.371 - Campo Grande - Rio de Janeiro - RJ;Contrato de Locação para Fins não Residenciais, modalidade BTS, correção anual por IPCA (IBGE)
+14.413.342/0001-48;2025-09-30;1;Ed. Canopus - Av. Tambore, 267 - Tamboré, Barueri - SP - 9º Andar - Unidade 91 - Bloco B;Contrato de Locação para Fins não Residenciais (Correção por IGPM)
+14.413.342/0001-48;2025-09-30;1;Ed. Number One - SCN, Quadra 1 Bloco A, número 77, Asa Norte, Brasila-DF;Contratos de Locação para Fins não Residenciais, correção anual por IPCA (IBGE)
+14.413.342/0001-48;2025-09-30;1;Ed. Sede - SHN Quadra 01, Conjunto A, Bloco E, Brasília-DF;Contrato de Locação para Fins não Residenciais, correção anual por IGP-M (FGV)
 14.609.653/0001-87;2025-03-31;1;JHSF Aeroporto;-
 14.609.653/0001-87;2025-06-30;1;JHSF Aeroporto;-
 14.609.653/0001-87;2025-09-30;1;-;-
@@ -1263,6 +1275,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 18.308.516/0001-63;2025-09-30;1;Ibis Styles POA Centro;Não possui caracteristicas que destoem dos demais
 18.308.516/0001-63;2025-09-30;1;Novotel Curitiba Batel;Não possui caracteristicas que destoem dos demais
 18.308.516/0001-63;2025-09-30;1;Novotel POA Aeroporto;Não possui caracteristicas que destoem dos demais
+18.312.285/0001-61;2025-03-31;1;EZ TOWERS - TORRE B;Não possui caracteristicas que destoem dos demais
+18.312.285/0001-61;2025-06-30;1;EZ TOWERS - TORRE B;Não possui caracteristicas que destoem dos demais
+18.312.285/0001-61;2025-09-30;1;EZ TOWERS - TORRE B;Não possui caracteristicas que destoem dos demais
 18.330.535/0001-96;2025-03-31;1;Imovel Osasco;Não possui caracteristicas que destoem dos demais
 18.330.535/0001-96;2025-03-31;1;Imovel Belford Roxo;Não possui caracteristicas que destoem dos demais
 18.330.535/0001-96;2025-03-31;1;Imovel Nova Iguacu;Não possui caracteristicas que destoem dos demais
@@ -1698,6 +1713,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 21.500.481/0001-74;2025-06-30;1;Edificio Botafogo;Não se aplica
 21.500.481/0001-74;2025-09-30;1;Edificio Botafogo;Não se aplica
 21.500.500/0001-62;2025-03-31;1;Shopping Internacional Guarulhos;Não possui caracteristicas que destoem dos demais.
+21.500.500/0001-62;2025-06-30;1;Shopping Internacional Guarulhos;Não possui caracteristicas que destoem dos demais.
+21.500.500/0001-62;2025-09-30;1;INTERNACIONAL SHOPPING;Não possui caracteristicas que destoem dos demais
 21.500.514/0001-86;2025-03-31;1;Shopping;Aluguel de lojas
 21.500.514/0001-86;2025-06-30;1;Shopping;Aluguel de lojas
 21.500.514/0001-86;2025-09-30;1;Shopping;Aluguel de lojas
@@ -1810,13 +1827,25 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 22.862.226/0001-34;2025-06-30;1;Não se aplica;Não se aplica
 22.862.226/0001-34;2025-09-30;2;Não se aplica;Não se aplica
 23.120.006/0001-06;2025-03-31;1;não há;não há
+23.120.006/0001-06;2025-06-30;1;não há;não há
 23.426.470/0001-17;2025-03-31;1;Informação não apresentada;
 23.426.470/0001-17;2025-06-30;1;Informação não apresentada;
 23.426.470/0001-17;2025-09-30;1;Não possui informação apresentada.;Não possui informação apresentada.
+23.532.837/0001-87;2025-03-31;1;Informação não apresentada.;
+23.532.837/0001-87;2025-06-30;1;Informação não apresentada.;
+23.532.837/0001-87;2025-09-30;1;Não possui informação apresentada;Não possui informação apresentada
+23.533.796/0001-43;2025-03-31;1;Informação não apresentada.;
+23.533.796/0001-43;2025-06-30;1;Informação não apresentada.;
+23.533.796/0001-43;2025-09-30;1;Não possui informação apresentada;Não possui informação apresentada
+23.537.203/0001-17;2025-03-31;1;Edificio MAYRINK VEIGA - MV9;Não possui caracteristicas que destoem dos demais
+23.537.203/0001-17;2025-06-30;1;Edificio MAYRINK VEIGA - MV9;Não possui caracteristicas que destoem dos demais
+23.537.203/0001-17;2025-09-30;1;Edificio MAYRINK VEIGA - MV9;Não possui caracteristicas que destoem dos demais
 23.538.112/0001-04;2025-03-31;1;N/A;N/A
 23.538.112/0001-04;2025-06-30;1;N/A;N/A
 23.538.112/0001-04;2025-09-30;2;N/A;N/A
 23.570.871/0001-46;2025-03-31;1;Wtorre Morumbi;N/A
+23.570.871/0001-46;2025-06-30;1;Wtorre Morumbi;N/A
+23.570.871/0001-46;2025-09-30;1;Wtorre Morumbi;N/A
 23.740.527/0001-58;2025-03-31;1;Não há;Não há
 23.740.595/0001-17;2025-03-31;1;não há;não há
 23.740.595/0001-17;2025-06-30;1;não há;não há
@@ -2012,6 +2041,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 24.853.044/0001-22;2025-09-30;1;Parque logistico Pernambuco;Conforme item acima
 24.853.044/0001-22;2025-09-30;1;Porto Canoa Log;Conforme item acima
 24.853.060/0001-15;2025-03-31;1;Não possui informação apresentada.;Não possui informação apresentada.
+24.853.060/0001-15;2025-06-30;1;Não possui informação apresentada.;Não possui informação apresentada.
+24.853.060/0001-15;2025-09-30;1;Não possui informação apresentada;Não possui informação apresentada
 25.032.881/0001-53;2025-03-31;1;GARAVELO CENTER;Reajuste anual atrelado ao IPCA e prazo de duração de 60 meses contados a partir da entrega do imóvel (fev/2020).
 25.032.881/0001-53;2025-06-30;1;GARAVELO CENTER;Reajuste anual atrelado ao IPCA e prazo de duração de 60 meses contados a partir da entrega do imóvel (fev/2020).
 25.032.881/0001-53;2025-09-30;1;GARAVELO CENTER;Reajuste anual atrelado ao IPCA e prazo de duração de 60 meses contados a partir da entrega do imóvel (jul/2025).
@@ -2755,6 +2786,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 30.492.505/0001-81;2025-06-30;2;Edificação comercial - Rua Almirante Heraclito da Graça, 234 - Barra da Tijuca - Rio de Janeiro - RJ;O prazo de duração do contrato é de 10 (dez) anos, com inicio em 01/07/2018 e termino em 30/06/2028, com reajuste a cada 12 (doze) meses, pela variação positiva  do IGP-M  (FGV)
 30.492.505/0001-81;2025-09-30;1;Edificação comercial - Rua Almirante Heraclito da Graça, 234 - Barra da Tijuca - Rio de Janeiro - RJ;O prazo de duração do contrato é de 10 (dez) anos, com inicio em 01/07/2018 e termino em 30/06/2028, com reajuste a cada 12 (doze) meses, pela variação positiva  do IGP-M  (FGV)
 30.495.165/0001-42;2025-03-31;1;N/A;N/A
+30.495.165/0001-42;2025-06-30;1;N/A;N/A
+30.495.165/0001-42;2025-09-30;1;N/A;N/A
 30.567.216/0001-02;2025-03-31;1;Ed. Condomínio Tangram, laje  401;Prazo de locação de 120 meses. Multa de 36 pacotes do locatício, no caso de rescisão antes de 48 meses. E no caso de rescisão após 48 meses, multa de 12 pacotes, sendo esta última sofrerá decréscimo, de acordo com o prazo não cumprido de contrato.
 30.567.216/0001-02;2025-06-30;2;Ed. Condomínio Tangram, laje  401;Prazo de locação de 120 meses. Multa de 36 pacotes do locatício, no caso de rescisão antes de 48 meses. E no caso de rescisão após 48 meses, multa de 12 pacotes, sendo esta última sofrerá decréscimo, de acordo com o prazo não cumprido de contrato. Cj.401 - até o relatório anterior (1º trim /25) o conjunto e o estacionamento foram considerados separadamente, a partir deste relatório eles foram unificados - área de estacionamento localizada no térreo da torre 2, com área privativa de 503,33. Utilizadas pelos conjuntos pertencentes ao fundo no edifício, totalizando 1.186,37.
 30.567.216/0001-02;2025-06-30;2;Ed. Brasílio Machado;Para este edifício há contratos já negociados e assinados, porém ainda não estão vigentes. Tais contratos estão sinalizados na planilha acima.
@@ -2831,6 +2864,26 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 30.871.698/0001-81;2025-09-30;1;Neolink Office, Mal & Stay;item acima
 30.871.698/0001-81;2025-09-30;1;One Eleven;item acima
 30.871.698/0001-81;2025-09-30;1;Barra Private;item acima
+30.871.716/0001-25;2025-03-31;1;Op Art Ibirapuera;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-03-31;1;SP Code Paulista;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-03-31;1;Predio Correia Dias 136;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-03-31;1;Casa Cubatao 609;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-03-31;1;Casa Cubatao 629;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-03-31;1;Edificio In Offices Paraiso;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-06-30;1;Op Art Ibirapuera;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-06-30;1;SP Code Paulista;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-06-30;1;Predio Correia Dias 136;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-06-30;1;Casa Cubatao 609;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-06-30;1;Casa Cubatao 629;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-06-30;1;Edificio In Offices Paraiso;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-06-30;1;Predio Barao de Lucena;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-09-30;1;Op Art Ibirapuera;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-09-30;1;SP Code Paulista;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-09-30;1;Predio Correia Dias 136;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-09-30;1;Casa Cubatao 609;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-09-30;1;Casa Cubatao 629;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-09-30;1;Edificio In Offices Paraiso;Não possui caracteristicas que destoem dos demais
+30.871.716/0001-25;2025-09-30;1;Predio Barao de Lucena;Não possui caracteristicas que destoem dos demais
 30.982.974/0001-89;2025-03-31;1;.;.
 30.982.974/0001-89;2025-06-30;1;.;.
 30.982.974/0001-89;2025-09-30;1;.;.
@@ -3110,6 +3163,27 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 34.691.925/0001-48;2025-03-31;1;PANTHE_6;Nenhuma característica relevante
 34.691.925/0001-48;2025-03-31;1;PANTHE_7;Nenhuma característica relevante
 34.691.925/0001-48;2025-03-31;1;PANTHE_8;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;PANTHE_4;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;PANTHE_5;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;PANTHE_6;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;PANTHE_7;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;PANTHE_8;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;NM_10_L;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;NM_12_L;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;NM_13_L;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;NM_18_L;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;NM_20_L;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;NM_21_L;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;NM_22_L;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;NM_5_L;Nenhuma característica relevante
+34.691.925/0001-48;2025-06-30;1;NM_8_L;Nenhuma característica relevante
+34.691.925/0001-48;2025-09-30;1;PANTHE_4;Não há
+34.691.925/0001-48;2025-09-30;1;PANTHE_5;Não há
+34.691.925/0001-48;2025-09-30;1;PANTHE_6;Não há
+34.691.925/0001-48;2025-09-30;1;PANTHE_7;Não há
+34.691.925/0001-48;2025-09-30;1;PANTHE_8;Não há
+34.691.925/0001-48;2025-09-30;1;NM_8_L;Não há
+34.691.925/0001-48;2025-09-30;1;NM_22_L;Não há
 34.835.191/0001-23;2025-03-31;1;Luggo Cipreste;n/a
 34.835.191/0001-23;2025-03-31;1;Luggo Ecoville;n/a
 34.835.191/0001-23;2025-03-31;1;Luggo Lindoia;n/a
@@ -4486,6 +4560,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 46.965.606/0001-62;2025-06-30;1;IMÓVEL TUPYNAMBÁS;Matrícula 051908
 47.085.640/0001-05;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 47.154.849/0001-83;2025-03-31;1;SKY_1409;Não possui características relevantes individualizadas.
+47.154.849/0001-83;2025-06-30;1;SKY_1409;Não possui características relevantes individualizadas.
+47.154.849/0001-83;2025-09-30;1;SKY_1409;Não possui características relevantes individualizadas.
 47.669.336/0001-05;2025-03-31;1;NA;NA
 47.669.336/0001-05;2025-06-30;1;NA;NA
 47.669.336/0001-05;2025-09-30;1;N/A;N/A

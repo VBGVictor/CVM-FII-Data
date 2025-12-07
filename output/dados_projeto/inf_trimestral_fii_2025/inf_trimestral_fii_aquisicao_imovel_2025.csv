@@ -94,6 +94,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 30.567.216/0001-02;2025-09-30;1;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1853;178.01;1;Cj 31-B, subdivisão do cj 31, no 3º andar. Matrícula nº 52073 do 4° RGI. Adquirido com 3 vagas de garagem indeterminadas, matrículas nº  52.197 a 52.199, com área construída de 23,35m² cada.;0.00511;Renda
 30.567.216/0001-02;2025-09-30;1;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1854;186.75;1;Cj 32-B, subdivisão do cj 32, localizado no 3º andar. Matrícula nº 52074 do 4° RGI.Adquirido com uma vaga de garagem, indeterminada matrícula nº 52.200, com área de 23,35m².;0.005109;Renda
 30.871.698/0001-81;2025-09-30;1;BARRA PRIVATE - 281137;Avenida Armando Lombardi, 400 Rio de Janeiro - RJ;3909.58;1;UNIDADE - 104;0;Renda
+30.871.716/0001-25;2025-03-31;1;Op Art Ibirapuera;Rua Agostinho Rodrigues Filho, 550, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04026-040;1856.29;18;Direito de propriedade;0;Renda
+30.871.716/0001-25;2025-06-30;1;Predio Barao de Lucena;Rua Barao De Lucena, 57, Sem Complemento, Botafogo, Rio De Janeiro/RJ, Brasil, 22260-020;480;1;Direito de propriedade;0.05790607700963;Renda
 31.161.410/0001-48;2025-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;115.99;1;RES-1003/10ºPAV;0.06148;Venda
 31.161.410/0001-48;2025-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;88.32;1;RES-1101/11ºPAV;0.046814;Venda
 31.161.410/0001-48;2025-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;73.48;1;RES-1202/12ºPAV;0.038948;Venda
@@ -127,6 +129,53 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 42.537.540/0001-59;2025-09-30;1;Imovel Gilka Machado;Avenida Gilka Machado, 1360, Sem Complemento, Recreio Dos Bandeirantes, Rio De Janeiro/RJ, Brasil, 22795-570;375;1;Direito de propriedade;0.02332932774092;Renda
 42.537.540/0001-59;2025-09-30;1;Afonso Taunay;Avenida Afonso De Taunay, S/n, Lote 1 E 3 Do Pal 36.014, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22621-310;3516.14;2;Direito de propriedade;0.11752051290483;Renda
 44.669.674/0001-59;2025-03-31;1;119344_44669;Av Manoel de Abreu,790- Náutica  G4 -São Vicente/SP - CEP:11355-400;445.3;1;Matricula 60691;1;Renda
+47.154.849/0001-83;2025-09-30;1;NE103;R. Attílio Bilibio, 251;111.5;1;Nenhuma característica relevante;0.0113689388116732;Venda
+47.154.849/0001-83;2025-09-30;1;NE201;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574463019739391;Venda
+47.154.849/0001-83;2025-09-30;1;NE303;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574463019739391;Venda
+47.154.849/0001-83;2025-09-30;1;NE401;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574463019739391;Venda
+47.154.849/0001-83;2025-09-30;1;NE802;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.00829778033255037;Venda
+47.154.849/0001-83;2025-09-30;1;NEA102;R. Attílio Bilibio, 251;80;1;Nenhuma característica relevante;0.00824502423597648;Venda
+47.154.849/0001-83;2025-09-30;1;NEA301;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574960434364231;Venda
+47.154.849/0001-83;2025-09-30;1;NEB101;R. Attílio Bilibio, 251;80;1;Nenhuma característica relevante;0.00823748765075164;Venda
+47.154.849/0001-83;2025-09-30;1;NEB102;R. Attílio Bilibio, 251;80;1;Nenhuma característica relevante;0.00823748765075164;Venda
+47.154.849/0001-83;2025-09-30;1;NEB301;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574395190472368;Venda
+47.154.849/0001-83;2025-09-30;1;NEE101;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.00767789619780716;Venda
+47.154.849/0001-83;2025-09-30;1;NEE301;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.0078663108284282;Venda
+47.154.849/0001-83;2025-09-30;1;NEF101;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.00770838168504165;Venda
+47.154.849/0001-83;2025-09-30;1;NEF102;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.00770838168504165;Venda
+47.154.849/0001-83;2025-09-30;1;NEF301;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.0079209510713083;Venda
+47.154.849/0001-83;2025-09-30;1;NEW1003;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00594529177900532;Venda
+47.154.849/0001-83;2025-09-30;1;NEW103;R. Attílio Bilibio, 251;80;1;Nenhuma característica relevante;0.00823748765075164;Venda
+47.154.849/0001-83;2025-09-30;1;NEW1301;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00612422915370611;Venda
+47.154.849/0001-83;2025-09-30;1;NEW1504;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.00844285959812857;Venda
+47.154.849/0001-83;2025-09-30;1;NEW1604;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00613553403154337;Venda
+47.154.849/0001-83;2025-09-30;1;NEW201;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574745641685323;Venda
+47.154.849/0001-83;2025-09-30;1;NEW203;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574463019739391;Venda
+47.154.849/0001-83;2025-09-30;1;NEW204;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574745641685323;Venda
+47.154.849/0001-83;2025-09-30;1;NEW303;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574395190472368;Venda
+47.154.849/0001-83;2025-09-30;1;NEW401;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.0057516957460422;Venda
+47.154.849/0001-83;2025-09-30;1;NEW402;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.0057516957460422;Venda
+47.154.849/0001-83;2025-09-30;1;NEW502;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574463019739391;Venda
+47.154.849/0001-83;2025-09-30;1;NEW503;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574463019739391;Venda
+47.154.849/0001-83;2025-09-30;1;NEW601;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00593304482801495;Venda
+47.154.849/0001-83;2025-09-30;1;NEW603;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00593304482801495;Venda
+47.154.849/0001-83;2025-09-30;1;NEW702;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00593451446213379;Venda
+47.154.849/0001-83;2025-09-30;1;NEW703;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.00828956545465529;Venda
+47.154.849/0001-83;2025-09-30;1;NEW802;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00593451446213379;Venda
+47.154.849/0001-83;2025-09-30;1;NEW803;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.00829778033255037;Venda
+47.154.849/0001-83;2025-09-30;1;NEW903;R. Attílio Bilibio, 251;75.3;1;Nenhuma característica relevante;0.00823748765075164;Venda
+47.154.849/0001-83;2025-09-30;1;NEW904;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00593304482801495;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 04;Av Chácara das Nascentes, s/n;72.2;1;Nenhuma característica relevante;0.00591998769411291;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 05;Av Chácara das Nascentes, s/n;100.7;1;Nenhuma característica relevante;0.00823748765075164;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 21;Av Chácara das Nascentes, s/n;99.1;1;Nenhuma característica relevante;0.00806414619058029;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 22;Av Chácara das Nascentes, s/n;99.1;1;Nenhuma característica relevante;0.00806414619058029;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 23;Av Chácara das Nascentes, s/n;78.1;1;Nenhuma característica relevante;0.00629681695535498;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 24;Av Chácara das Nascentes, s/n;78.1;1;Nenhuma característica relevante;0.00629568646757125;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 25;Av Chácara das Nascentes, s/n;78.1;1;Nenhuma característica relevante;0.00629568646757125;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 27;Av Chácara das Nascentes, s/n;99.1;1;Nenhuma característica relevante;0.00806414619058029;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 34;Av Chácara das Nascentes, s/n;78.1;1;Nenhuma característica relevante;0.00629568646757125;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 35;Av Chácara das Nascentes, s/n;99.1;1;Nenhuma característica relevante;0.00807074070265202;Venda
+47.154.849/0001-83;2025-09-30;1;NEX2_ 44;Av Chácara das Nascentes, s/n;99.1;1;Nenhuma característica relevante;0.00807074070265202;Venda
 47.669.336/0001-05;2025-03-31;1;Villa Cora;Villa CoraBalneário Camboriú/SC, na Av. Atlântica, nº 4294, Edifício ResidencialBalneário Camboriú/SC;217.23;1;matrícula nº 27.153;1;Renda
 47.669.336/0001-05;2025-06-30;1;ALPHAVILLE G;Condomínio Alphaville Paraná, Unidade 02, Quadra MB1;0;1;matrícula nº 63.538;0.3695;Renda
 47.669.336/0001-05;2025-06-30;1;ECO RESIDENC;Rua Guaraparim, nº 130, bairro Taboleiro, na cidade de Camboriú-SC;12.5;1;Matrícula nº 23.455;0.0508;Renda
