@@ -15,18 +15,18 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 11.769.604/0001-13;2024-03-31;1;Parque Shopping Barueri;R. Gen. de Divisão Pedro Rodrigues da Silva, 400 - Aldeia, Barueri - SP, 06440-180;38438;162;Fração ideal do imóvel detida pelo Fundo está cedida em alienação fiduciária em favor dos detentores do CRI;0.312;Renda
 11.769.604/0001-13;2024-06-30;1;Parque Shopping Barueri;R. Gen. de Divisão Pedro Rodrigues da Silva, 400 - Aldeia, Barueri - SP, 06440-180;38438;162;Fração ideal do imóvel detida pelo Fundo está cedida em alienação fiduciária em favor dos detentores do CRI;0.312;Renda
 11.769.604/0001-13;2024-09-30;1;Parque Shopping Barueri;R. Gen. de Divisão Pedro Rodrigues da Silva, 400 - Aldeia, Barueri - SP, 06440-180;38438;162;Fração ideal do imóvel detida pelo Fundo está cedida em alienação fiduciária em favor dos detentores do CRI;0.104;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Itapevi II;Avenida Portugal, 1100, Sem Complemento, Itaqui, Itapevi/SP, Brasil, 06696-060;73242;2;Direito de Propriedade;0.06413607295333;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Louveira I;Avenida Jose Luiz Mazzali, 450, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-002;137255;6;Direito de Propriedade;0.0772830757628;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Louveira II;Avenida Jose Luiz Mazzali, 480, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-002;6503.19;1;Direito de Propriedade;0.00291007624729;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Louveira III;Estrada Cruz Grande, 1700, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-900;31632;1;Direito de Propriedade;0.01630862876069;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Louveira IV;Estrada Cruz Grande, 1500, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-004;18702.16;1;Direito de Propriedade;0.00847893937558;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Louveira V VI e VII;Estrada Cruz Grande, 1700, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-004;87003.47;3;Direito de Propriedade;0.04646960001819;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Louveira VIII;Rua Wagner Luis Bevilaqua, 525, 525, Sem Complemento, Parque Dos Estados, Louveira/SP, Brasil, 13290-901;73020;16;Direito de Propriedade;0.03969892630566;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Louveira IX;Rua Wagner Luis Bevilaqua, 525, Sem Complemento, Parque Dos Estados, Louveira/SP, Brasil, 13290-901;7807;1;Direito de Propriedade;0.00309098051027;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Queimados;Rua Minas Gerais - Quadra 10, Lote 0007, 000007, Quadra 10, Lote 0007, Distrito Industrial, Queimados/RJ, Brasil, 26373-280;52234.16;1;Direito de Propriedade;0.00518292973264;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - SBC III;Estrada Dos Alvarengas, 630, Sem Complemento, Assunção, São Bernardo Do Campo/SP, Brasil, 09850-550;47751.6;1;Direito de Propriedade;0.03842200433375;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Suape II;Rodovia Pe- 60 - Km 22, S/n, , Distrito Industrial De Ipojuca - Suape, Ipojuca/PE, Brasil, 55598-078;35962;1;Direito de Propriedade;0.01015961888608;Renda
-11.839.593/0001-09;2024-12-31;1;BTLG - Caieiras;Rua Adamo Zambelli, 190, Sem Complemento, Calcárea, Caieiras/SP, Brasil, 07723-000;51109.8;15;Direito de Propriedade;0.02955474941444;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Itapevi II;Avenida Portugal, 1100, Sem Complemento, Itaqui, Itapevi/SP, Brasil, 06696-060;73591.5;2;;0.06413607295333;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Louveira I;Avenida Jose Luiz Mazzali, 450, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-002;137482.71;6;;0.0772830757628;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Louveira II;Avenida Jose Luiz Mazzali, 480, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-002;6503.19;1;;0.00291007624729;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Louveira III;Estrada Cruz Grande, 1700, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-900;31632;1;;0.01630862876069;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Louveira IV;Estrada Cruz Grande, 1500, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-004;18702.16;1;;0.00847893937558;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Louveira V VI e VII;Estrada Cruz Grande, 1700, Sem Complemento, Santo Antônio, Louveira/SP, Brasil, 13294-004;87003.47;3;;0.04646960001819;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Louveira VIII;Rua Wagner Luis Bevilaqua, 525, 525, Sem Complemento, Parque Dos Estados, Louveira/SP, Brasil, 13290-901;73072.76;16;;0.03969892630566;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Louveira IX;Rua Wagner Luis Bevilaqua, 525, Sem Complemento, Parque Dos Estados, Louveira/SP, Brasil, 13290-901;7870.22;1;;0.00309098051027;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Queimados;Rua Minas Gerais - Quadra 10, Lote 0007, 000007, Quadra 10, Lote 0007, Distrito Industrial, Queimados/RJ, Brasil, 26373-280;52234.16;1;;0.00518292973264;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - SBC III;Estrada Dos Alvarengas, 630, Sem Complemento, Assunção, São Bernardo Do Campo/SP, Brasil, 09850-550;47751.6;1;;0.03842200433375;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Suape II;Rodovia Pe- 60 - Km 22, S/n, , Distrito Industrial De Ipojuca - Suape, Ipojuca/PE, Brasil, 55598-078;35962;1;;0.01015961888608;Renda
+11.839.593/0001-09;2024-12-31;2;BTLG - Caieiras;Rua Adamo Zambelli, 190, Sem Complemento, Calcárea, Caieiras/SP, Brasil, 07723-000;51109.8;15;;0.02955474941444;Renda
 12.005.956/0001-65;2024-09-30;1;Edifício Rochaverá - Torre Crystal;Av. Nações Unidas, 14.171 , São Paulo - SP;53400;124;Proprietário de 57% do ativo;0.130406;Renda
 12.681.340/0001-04;2024-12-31;1;Loja Moema;Avenida Indianópolis, 476 - Moema;444;1;Instituição financeira;0.0274;Renda
 12.681.340/0001-04;2024-12-31;1;Loja Pinheiros;Rua Inácio Pereira da Rocha, 597 - Pinheiros, São Paulo - SP;685;1;Instituição financeira;0.0289;Renda
