@@ -547,6 +547,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 31.713.934/0001-02;2025-03-31;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
 31.713.934/0001-02;2025-06-30;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
 31.713.934/0001-02;2025-09-30;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
+31.713.934/0001-02;2025-12-31;1;Alameda Oscar Niemeyer, 119 sala 1004, Vila da Serra, CEP:34006-056;LAJES CP - CONCÓRDIA;2520;0.478589;0.91868
 31.962.875/0001-06;2025-03-31;1;Av. Guandu, 1000 - Campo Alegre Queimados / RJ - CEP: 26.320-270;PLD Queimados;356338.1;0.252606;0
 31.962.875/0001-06;2025-03-31;1;Rodovia Raposo Tavares SP-270, Bairro do Moinho Velho, Cotia/SP;PLD São Paulo 26;800000;0.727026;0
 31.962.875/0001-06;2025-03-31;1;Av. Ayrton Senna, Sn, ( Lt 01 do PAL 47.176 da Via 8 da Rua Projetada, PA 9351, 36.034, 9351);RJ UTL 1 - BARRA DA TIJUCA II;194860;0.020369;0
@@ -953,6 +954,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.585.121/0001-18;2025-03-31;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.3226;0
 44.585.121/0001-18;2025-06-30;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.5125;0
 44.585.121/0001-18;2025-09-30;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;1;0
+44.585.121/0001-18;2025-12-31;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;FAMA;9259.26;1;0
 44.625.694/0001-28;2025-06-30;2;;;;;
 44.625.694/0001-28;2025-06-30;2;;;;;
 44.625.694/0001-28;2025-06-30;2;;;;;
@@ -1059,6 +1061,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 47.669.336/0001-05;2025-06-30;1;FAZENDA BARRA DO RIBEIRO;MATRICULA 4837;2666.66;0.2227;0
 47.669.336/0001-05;2025-09-30;1;FAZENDA BARRA DO RIBEIRO;MATRICULA 4837;2666.66;0.5;0
 47.669.336/0001-05;2025-09-30;1;60.375 ALPHAVILE PR;MATRICULA 60.375;754.85;0.5;0
+47.669.336/0001-05;2025-12-31;1;FAZENDA BARRA DO RIBEIRO;MATRICULA 4837;2666.66;0.5;0
+47.669.336/0001-05;2025-12-31;1;60.375 ALPHAVILE PR;MATRICULA 60.375;754.85;0.5;0
 48.565.175/0001-72;2025-06-30;2;;;;;
 48.565.175/0001-72;2025-06-30;2;;;;;
 48.565.175/0001-72;2025-06-30;2;;;;;
@@ -1184,6 +1188,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 51.303.221/0001-70;2025-09-30;1;Rodovia Estadual MT-240, Zona Rural, Água Boa/MT, CEP: 78635-000;matrícula do RGI 7.060 do Ofício de Água Boa MT  - AGUA BOA;1120.4;0.42;0
 51.303.221/0001-70;2025-09-30;1;Av. Gisele, s/n, Lote 52 - Aleixo, Distrito II, Manaus/AM, CEP: 69075-793;matrícula do RGI 47.322 do 4º Ofício de Manaus/AM - MANAUS;5850;0.1858;0
 51.303.221/0001-70;2025-09-30;1;R. Green 05, S/N Lote 08, Quadra 06  - Green Park Condomínio Residencial, Rio Verde/GO, CEP: 75909-620;matrícula do RGI 80.249 do Ofício de Rio Verde/GO - RIO VERDE;482.7;0.1481;0
+51.303.221/0001-70;2025-12-31;1;Rodovia Estadual MT-240, Zona Rural, Água Boa/MT, CEP: 78635-000;matrícula do RGI 7.060 do Ofício de Água Boa MT  - AGUA BOA;1120.4;0.42;0
+51.303.221/0001-70;2025-12-31;1;Av. Gisele, s/n, Lote 52 - Aleixo, Distrito II, Manaus/AM, CEP: 69075-793;matrícula do RGI 47.322 do 4º Ofício de Manaus/AM - MANAUS;5850;0.1858;0
+51.303.221/0001-70;2025-12-31;1;R. Green 05, S/N Lote 08, Quadra 06  - Green Park Condomínio Residencial, Rio Verde/GO, CEP: 75909-620;matrícula do RGI 80.249 do Ofício de Rio Verde/GO - RIO VERDE;482.7;0.1481;0
 51.407.683/0001-37;2025-03-31;1;Area de terras situada em Ribeirão Preto, denominada (Área de Preservação Permanente APP -6);.;0;0.0644;0.064117
 51.407.683/0001-37;2025-03-31;1;Area de terras situada em Ribeirão Preto, com frente para Via José Luiz Galvão, lado par, distante 879,22 metros da cerca da Rodovia Alexandre Balbo no trevo do Km 329;.;0;0.90431;0.90111
 51.407.683/0001-37;2025-06-30;1;Area de terras situada em Ribeirão Preto, denominada (Área de Preservação Permanente APP -6);.;0;0.0644;0.064117
@@ -1346,6 +1353,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 54.417.489/0001-20;2025-03-31;1;FAZENDA SERVPLAN;Matrícula nº n°20.495;9962.64;1;0
 54.419.040/0001-00;2025-06-30;1;BENTO ABREU;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;1226.49;0.102;0
 54.419.040/0001-00;2025-09-30;1;BENTO ABREU;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;0;0.1061;0
+54.419.040/0001-00;2025-12-31;1;BENTO ABREU;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;0;0.1009;0
 54.505.336/0001-35;2025-06-30;1;Rodovia Armando Salles - SP 228, Estrada do Campestre, na Cidade de Itapecerica da Serra, Estado de São Paulo;Matrícula 125435;129801.08;1;0
 54.505.336/0001-35;2025-09-30;1;Rodovia Armando Salles - SP 228, Estrada do Campestre, na Cidade de Itapecerica da Serra, Estado de São Paulo;Matrícula 125435;129801.08;1;0
 54.675.539/0001-70;2025-03-31;1;Bairro Chave do Barão, Município e Comarca do Rio das Pedras, 2ª Circunscrição Imobiliária de Piracicaba/SP;Gleba de Terras, que faz  parte da Fazenda Estrela;79892.56;0;0
@@ -1354,7 +1362,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 54.698.848/0001-65;2025-06-30;1;N/A;N/A;0;0;0
 55.034.258/0001-09;2025-03-31;1;MARCHIONI - Avenida São Gabriel, 201 - Cj 101;Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;1609;0.300083;1
 55.034.258/0001-09;2025-06-30;1;MARCHIONI - Avenida São Gabriel, 201 - Cj 101;Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;1609;0.300083;1
-55.034.258/0001-09;2025-09-30;2;SAO GABRIEL - MARCHIONI - Avenida São Gabriel, 201 - Cj 101 Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;LJ CORP;1609;0;0
+55.034.258/0001-09;2025-09-30;3;SAO GABRIEL - MARCHIONI - Avenida São Gabriel, 201 - Cj 101 Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;LJ CORP;1609;0;0
 55.089.373/0001-72;2025-03-31;1;Rua 1128, 827, - Itajuba. CEP: 88390000. Barra Velha - Santa Cat;Registro de Imóveis da Comarca de Barra Velha - SC - Matricula 40446;12829.51;1;0
 55.089.373/0001-72;2025-06-30;1;Rua 1128, 827, - Itajuba. CEP: 88390000. Barra Velha - Santa Cat;Registro de Imóveis da Comarca de Barra Velha - SC - Matricula 40446;12829.51;1;0
 55.089.373/0001-72;2025-09-30;1;Rua 1128, 827, - Itajuba. CEP: 88390000. Barra Velha - Santa Cat;Registro de Imóveis da Comarca de Barra Velha - SC - Matricula 40446;12829.51;1;0
