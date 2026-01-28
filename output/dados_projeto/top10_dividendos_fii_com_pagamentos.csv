@@ -1,11 +1,11 @@
 codigo_fii;setor;liquidez_diaria;P/VP;dy_12m;Variação Preço;Patrimônio Líquido;Num. Cotistas;data_coleta;qtd_pagamentos_12m;primeira_data_pagamento_12m;primeiro_valor_pagamento_12m;ultima_data_pagamento_12m;ultimo_valor_pagamento_12m
-BBFI11B;Lajes Corporativas;182918,19;41,0;47,51;4,22 %;111.645.834,19;6.989;2026-01-27;0;;;;
-PNPR11;Fundo de Desenvolvimento;5000064,0;132,0;25,23;0,00 %;32.714.611,08;16;2026-01-27;0;;;;
-NAUI11;Outros;2327600,0;199,0;17,45;0,00 %;28.588.495,97;110;2026-01-27;0;;;;
-KOPA11;Indefinido;251408,84;91,0;17,34;2,80 %;230.818.465,31;3.364;2026-01-27;0;;;;
-PPEI11;Indefinido;228087,95;;5,0;-0,09 %;;0;2026-01-27;0;;;;
-ENDD11;Indefinido;195768,74;;4,8;9,27 %;;0;2026-01-27;0;;;;
-BDIV11;Indefinido;314817,11;;3,86;3,47 %;;0;2026-01-27;0;;;;
-KNOX11;Indefinido;223944,58;;2,77;3,59 %;;0;2026-01-27;0;;;;
-TRXB11;Fundo de Desenvolvimento;3585386,95;177,0;2,4;4,91 %;380.245.915,90;604;2026-01-27;0;;;;
-RBIF11;Indefinido;256438,0;;2,39;3,30 %;;0;2026-01-27;0;;;;
+BBFI11B;Lajes Corporativas;182918,19;41,0;47,51;4,22 %;111.645.834,19;6.989;2026-01-28;0;;;;
+PNPR11;Fundo de Desenvolvimento;5000064,0;132,0;25,23;0,00 %;32.714.611,08;16;2026-01-28;0;;;;
+NAUI11;Outros;2327600,0;199,0;17,45;0,00 %;28.588.495,97;110;2026-01-28;0;;;;
+KOPA11;Indefinido;249322,8;92,0;17,34;2,80 %;230.818.465,31;3.364;2026-01-28;0;;;;
+PPEI11;Indefinido;281939,3;;5,0;-0,09 %;;0;2026-01-28;0;;;;
+ENDD11;Indefinido;274773,2;;4,8;9,27 %;;0;2026-01-28;0;;;;
+BDIV11;Indefinido;320356,75;;3,86;3,47 %;;0;2026-01-28;0;;;;
+KNOX11;Indefinido;284963,65;;2,77;3,59 %;;0;2026-01-28;0;;;;
+TRXB11;Fundo de Desenvolvimento;6791336,0;179,0;2,4;4,91 %;380.245.915,90;604;2026-01-28;0;;;;
+RBIF11;Indefinido;264607,95;;2,39;3,30 %;;0;2026-01-28;0;;;;
