@@ -204,6 +204,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 50.275.622/0001-09;2025-06-30;1;SANTANA_SP;SÃO PAULO;0;1;NA;0.00013;Renda
 50.375.550/0001-63;2025-03-31;1;AP PADRE JOAO;AP PADRE JOAO;0;1;Apartamento;0;Renda
 50.686.473/0001-62;2025-06-30;1;59700_;Lagoa das Rosas, Cumbuco, no Município de Caucaia - Ceará;58923.91;14;Matrícula  59.700;0;Venda
+50.957.247/0001-79;2025-12-31;1;PRÉDIO COMERCIAL - BRASÍLIA;SCS Quadra 03 Bloco A, Brasília/DF;3961.12;1;matrículas 101.132, 101.133, 101.134 e 101.135;0;Renda
 51.472.985/0001-99;2025-06-30;1;N/A;;;;N/A;;
 51.786.271/0001-55;2025-03-31;1;Galpao Estrada Ladeira Grande;Estrada Ladeira Grande, S/n, Parque Industrial, Parque Industrial, Viana/ES, Brasil, 29136-537;121702.5;16;Direito de Propriedade;0.70002328245892;Renda
 51.870.412/0001-13;2025-03-31;1;Icon Residence Club;Rua Odete Jones Gigo, 380 - Sumaré - SP;2363.5;57;N/A;0.4572;Venda
@@ -385,3 +386,5 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 62.173.916/0001-09;2025-09-30;1;Lotus Tower;Setor de Autarquias Norte - SA/N, Quadra 5, Bloco A, Asa Norte, Brasília/DF;21712.5;17;Direito de propriedade;1;Renda
 62.254.106/0001-79;2025-09-30;1;BARÃO DE ICARAÍ;Rua Barão de Icaraí, nº 30 - apartamento 101 - Flamengo/RJ;0;1;100% de participação;0.2299;Venda
 62.254.106/0001-79;2025-09-30;1;GAGO COUTINHO;Rua Gago Coutinho, nº 53, 55, 57, 59, 61;0;5;O Fundo vai desenvolver um empreendimento residencial, por meio de incorporação imobiliária;0.7701;Venda
+63.279.539/0001-41;2025-12-31;1;CONDOMÍNIO ENSEADA DO CASTELO;PRAIA DO FORTE, MATA DE SÃO JOÃO - BA;81000;1;IMOVEL ENSEADA;1;Venda
+63.574.240/0001-10;2025-12-31;1;Terminal Multimodal de Camaçari;Via de Ligação , Polo Petroquimico de Camaçari - BA;338477.53;1;matricula 35341;1;Renda

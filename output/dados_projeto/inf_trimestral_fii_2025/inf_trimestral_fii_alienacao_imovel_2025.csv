@@ -1,6 +1,7 @@
 CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Percentual_Imovel_PL
 08.098.114/0001-28;2025-06-30;1;Loja - Tijuca;Cidade do Rio de Janeiro, Rio de Janeiro, na Rua Conde do Bonfim, 366;2025-05-23;5649;1;Cidade do Rio de Janeiro, Rio de Janeiro, na Rua Conde do Bonfim, 366;0.0543;0.0511
 08.098.114/0001-28;2025-09-30;1;Loja - Centro São Luiz;Rua Oswaldo Cruz nº298 e 290 Rua Sete de Setembro nºs 615, 621, 627 e 631 Rua José Augusto Correa nº 295, e está situado na cidade de São Luís do Maranhão, Maranhão;2025-07-02;4875.16;1;N/D;0.0163;0.0145
+08.417.532/0001-30;2025-12-31;1;Posto de Combustível;Avenida Pedro Álvares Cabral, n° 2.621 e 2.647 -  Belém/Pará;2025-12-30;2253.18;1;Imóvel comercial;0.0129214629025685;0.0212296155181662
 08.431.747/0001-06;2025-09-30;1;Shopping Jardim Sul;R. Itacaiúna, 61 - Piso 1 - Vila Andrade, São Paulo - SP, 05716-070;2025-09-16;28.7;158;Fração ideal de 10% do imóvel;0.020069;0.022421
 08.706.065/0001-69;2025-03-31;1;Ibis Sao Paulo Paulista;Avenida Paulista, 2355, Sem Complemento, Bela Vista, Sao Paulo/SP, Brasil, 01311-300;2025-02-03;106.2;1;Direito de Propriedade;0.00151874087215;0.00153433998849
 08.706.065/0001-69;2025-06-30;1;Estanplaza Funchal;Rua Funchal, 281, Sem Complemento, Vila Olimpia, Sao Paulo/SP, Brasil, 04551-060;2025-04-16;58.26;2;Direito de Propriedade.;0.00256672432798;0.0258457476756
@@ -32,6 +33,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 15.461.076/0001-91;2025-06-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-05-21;88.19;1;Unidades 1907;0.004;0.0036
 15.461.076/0001-91;2025-09-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-07-18;48;1;UNIDADE 603;0.0025;0.0024
 15.461.076/0001-91;2025-09-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-09-30;48;1;UNIDADE 701;0.0031;0.0029
+15.461.076/0001-91;2025-12-31;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-10-09;62.74;1;UNIDADE 1501;0.002861;0.002668
+15.461.076/0001-91;2025-12-31;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-10-30;62.74;1;UNIDADE 1504;0.003099;0.00289
+15.461.076/0001-91;2025-12-31;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-10-31;110.94;1;UNIDADE 2108;0.006676;0.006226
 15.576.907/0001-70;2025-06-30;1;Santa Cecília;R. das Palmeiras;2025-05-12;2920.29;1;n-a;0.00240198438367512;0.00221800267522881
 15.576.907/0001-70;2025-09-30;1;São Mateus - São Paulo/SP;Av. Mateo Bei, 413 - São Paulo/SP;2025-08-07;888;1;n-a;0.003235;0.002921
 18.308.516/0001-63;2025-09-30;1;Novotel POA Aeroporto;Avenida Severo Dullius, 2055, Sem Complemento, Anchieta, Porto Alegre/RS, Brasil, 90200-310;2025-09-17;18.9;2;Direito de Propriedade.;0.00093293781822;0.00933589441621
@@ -190,6 +194,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 34.691.925/0001-48;2025-09-30;1;U_1611_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 1611 Business - Rua Franciso Candido Magalhães, 40;2025-08-20;197.2481;1;Nenhuma característica relevante;0.002358;0.002535
 34.691.925/0001-48;2025-09-30;1;U_102_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 102 Trade - Rua Franciso Candido Magalhães, 40;2025-08-11;49.4091;1;Nenhuma característica relevante;0.0007;0.000752
 34.895.711/0001-93;2025-09-30;1;ALPHACASTELLO J13;Rua Paraná, Itu/SP;2025-08-20;0;1;São Paulo;0;0
+34.895.711/0001-93;2025-12-31;1;ALPHACASTELLO;Rua Paraná, Itu/SP;2025-12-17;0;2;São Paulo;0;0
 35.652.102/0001-76;2025-03-31;1;Vila Olimpia Corporate;Rua Fidencio Ramos, 302, Sem Complemento, Vila Olimpia, Sao Paulo/SP, Brasil, 04551-010;2025-01-31;756.32;2;Não possui características que destoe dos demais;0.0599;0.007045
 36.368.925/0001-37;2025-09-30;1;EXTRA - TERESINHA;Avenida Presidente Kennedy, 501, São Cristóvão - Teresina/PI;2025-08-20;30000;1;n/d;0;0
 36.445.551/0001-06;2025-06-30;1;ATIBAIA 11;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;

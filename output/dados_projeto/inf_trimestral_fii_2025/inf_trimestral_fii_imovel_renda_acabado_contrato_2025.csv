@@ -138,6 +138,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 04.644.612/0001-78;2025-03-31;1;NA;NA
 04.644.612/0001-78;2025-06-30;1;NA;NA
 04.644.612/0001-78;2025-09-30;1;NA;NA
+04.644.612/0001-78;2025-12-31;1;NA;NA
 04.722.883/0001-02;2025-03-31;1;Torre Norte - Centro Empresarial Nacoes Unidas - CENU;Não possui caracteristicas que destoem dos demais
 04.722.883/0001-02;2025-06-30;1;Torre Norte - Centro Empresarial Nacoes Unidas - CENU;Não possui caracteristicas que destoem dos demais
 04.722.883/0001-02;2025-09-30;1;Torre Norte - Centro Empresarial Nacoes Unidas - CENU;Não possui caracteristicas que destoem dos demais
@@ -300,6 +301,16 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 08.417.532/0001-30;2025-09-30;2;Base de distribuição;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 08.417.532/0001-30;2025-09-30;2;Base de distribuição;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 08.417.532/0001-30;2025-09-30;2;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Base de distribuição;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Base de distribuição;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Base de distribuição;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+08.417.532/0001-30;2025-12-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 08.431.747/0001-06;2025-03-31;2;-;-
 08.431.747/0001-06;2025-06-30;2;-;-
 08.431.747/0001-06;2025-09-30;1;-;-
@@ -628,6 +639,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 11.827.568/0001-05;2025-03-31;1;NA;NA
 11.827.568/0001-05;2025-06-30;1;NA;NA
 11.827.568/0001-05;2025-09-30;1;NA;NA
+11.827.568/0001-05;2025-12-31;1;NA;NA
 11.839.593/0001-09;2025-03-31;1;BTLG - Navegantes;Não possui caracteristicas que destoem dos demais
 11.839.593/0001-09;2025-03-31;1;BTLG - Caieiras;Não possui caracteristicas que destoem dos demais
 11.839.593/0001-09;2025-03-31;1;BTLG - Fortaleza;Não possui caracteristicas que destoem dos demais
@@ -775,6 +787,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 13.125.823/0001-95;2025-03-31;1;Gleba G.;Contrato de locação comercial.
 13.125.823/0001-95;2025-06-30;1;Gleba G.;Contrato de locação comercial.
 13.125.823/0001-95;2025-09-30;1;Gleba G.;Contrato de locação comercial.
+13.125.823/0001-95;2025-12-31;1;Gleba G.;Contrato de locação comercial.
 13.320.290/0001-00;2025-03-31;1;MAT 199138 - CONDOMINIO HERITAGE;Não possui caracteristicas que destoem dos demais
 13.320.290/0001-00;2025-03-31;1;MAT 1709 - FAZENDA SACO DA BARAUNA GRANDE;Não possui caracteristicas que destoem dos demais
 13.320.290/0001-00;2025-03-31;1;MAT 10319 - FAZENDA CACHOEIRA;Não possui caracteristicas que destoem dos demais
@@ -908,6 +921,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 13.555.918/0001-49;2025-03-31;1;NA;NA
 13.555.918/0001-49;2025-06-30;1;NA;NA
 13.555.918/0001-49;2025-09-30;1;NA;NA
+13.555.918/0001-49;2025-12-31;1;NA;NA
 13.703.596/0001-38;2025-03-31;1;Informação não apresentada.;
 13.703.596/0001-38;2025-06-30;1;Informação não apresentada.;
 13.703.596/0001-38;2025-09-30;1;Não possui informação apresentada;Não possui informação apresentada
@@ -952,6 +966,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 14.631.148/0001-39;2025-03-31;1;NA;NA
 14.631.148/0001-39;2025-06-30;1;NA;NA
 14.631.148/0001-39;2025-09-30;1;NA;NA
+14.631.148/0001-39;2025-12-31;1;NA;NA
 14.721.889/0001-00;2025-03-31;1;n/a;n/a
 14.721.889/0001-00;2025-06-30;1;n/a;n/a
 14.721.889/0001-00;2025-09-30;1;n/a;n/a
@@ -1228,6 +1243,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 18.265.829/0001-81;2025-03-31;1;Imóveis;Contrato de locação comercial.
 18.265.829/0001-81;2025-06-30;1;Imóveis;Contrato de locação comercial.
 18.265.829/0001-81;2025-09-30;1;Imóveis;Contrato de locação comercial.
+18.265.829/0001-81;2025-12-31;1;Imóveis;Contrato de locação comercial.
 18.289.950/0001-43;2025-03-31;1;MR SHAN;Nenhuma característica contratual individualizada adicional
 18.289.950/0001-43;2025-06-30;1;MR SHAN;Nenhuma característica contratual individualizada adicional
 18.289.950/0001-43;2025-09-30;1;MR SHAN;Nenhuma característica contratual individualizada adicional
@@ -1330,12 +1346,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 18.929.353/0001-36;2025-03-31;1;Nova Sede Direcional;item acima
 18.929.353/0001-36;2025-06-30;1;Nova Sede Direcional;item acima
 18.929.353/0001-36;2025-09-30;1;Nova Sede Direcional;item acima
+18.929.353/0001-36;2025-12-31;1;Nova Sede Direcional;item acima
 18.950.957/0001-64;2025-03-31;1;Imóveis;Contrato de locação built to suit de longo prazo
 18.950.957/0001-64;2025-06-30;2;Imóveis;Contrato de locação built to suit de longo prazo
 18.950.957/0001-64;2025-09-30;1;Imóveis;Contrato de locação built to suit de longo prazo
 19.026.454/0001-60;2025-03-31;1;Alameda Santos;item acima
 19.026.454/0001-60;2025-06-30;1;Alameda Santos;item acima
 19.026.454/0001-60;2025-09-30;1;Alameda Santos;n/a
+19.026.454/0001-60;2025-12-31;1;Alameda Santos;n/a
 19.131.224/0001-60;2025-03-31;1;Não aplicável;Não aplicável
 19.131.224/0001-60;2025-06-30;1;Não aplicável;Não aplicável
 19.249.956/0001-50;2025-03-31;1;Não se aplica;Não se aplica
@@ -1408,6 +1426,29 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 19.267.845/0001-76;2025-09-30;1;VERBO DIVINO - CONJUNTO;Correção dos aluguéis pelo IGPM
 19.267.845/0001-76;2025-09-30;1;VERBO DIVINO - CONJUNTO;Correção dos aluguéis pelo IGPM
 19.267.845/0001-76;2025-09-30;1;13;
+19.267.845/0001-76;2025-12-31;1;ALAMEDA SANTOS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;ALAMEDA SANTOS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;ALAMEDA SANTOS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;ANGELINA MAFFEI VITA - APARTAMENTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;IRAÍ - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;NAÇÕES UNIDAS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;BRIGADEIRO FARIA LIMA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;BRIGADEIRO FARIA LIMA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;BRIGADEIRO FARIA LIMA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;GOMES DE CARVALHO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;NEBRASKA 2;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;CAPITAL JOÃO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;CAMPOS BICUDO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;ROCCIO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;FIDENCIO RAMOS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;ITAPEVA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;ITAPEVA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;JESUINO PASCOAL - LOJA;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;JESUINO PASCOAL - APARTAMENTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;TABAPUÃ - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;VERBO DIVINO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;VERBO DIVINO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2025-12-31;1;13;
 19.419.994/0001-03;2025-03-31;1;N/A;N/A
 19.419.994/0001-03;2025-06-30;1;N/A;N/A
 19.419.994/0001-03;2025-09-30;1;N/A;N/A
@@ -1480,6 +1521,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 20.118.507/0001-51;2025-03-31;1;SAA/Norte, Quadra 03, Lotes nº 145, 185, 225 e 265, Brasilia - DF .;NA
 20.118.507/0001-51;2025-06-30;1;SAA/Norte, Quadra 03, Lotes nº 145, 185, 225 e 265, Brasilia - DF .;NA
 20.118.507/0001-51;2025-09-30;1;NA;NA
+20.118.507/0001-51;2025-12-31;1;NA;NA
 20.132.453/0001-89;2025-03-31;1;Não se aplica;
 20.132.453/0001-89;2025-06-30;1;Não se aplica;
 20.132.453/0001-89;2025-09-30;1;Não possui informação apresentada.;Não possui informação apresentada.
@@ -1856,6 +1898,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 23.768.027/0001-24;2025-06-30;1;Top Center;Não possui caracteristicas que destõem dos demais
 23.768.027/0001-24;2025-09-30;1;Shopping Top Center;Não possui caracteristicas que destõem dos demais
 24.514.406/0001-50;2025-09-30;1;-;-
+24.514.406/0001-50;2025-12-31;1;-;-
 24.796.967/0001-90;2025-03-31;1;Edificio Mima;Não possui caracteristicas que destoem dos demais
 24.796.967/0001-90;2025-03-31;1;Edificio Porto Cervo;Não possui caracteristicas que destoem dos demais
 24.796.967/0001-90;2025-03-31;1;Edificio Rio Alva;Não possui caracteristicas que destoem dos demais
@@ -2822,6 +2865,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 30.642.032/0001-51;2025-06-30;1;CTR Empresarial - Galpão;Possui 6 locatários
 30.642.032/0001-51;2025-06-30;1;Bom Jardim;Fazenda Bom Jardim - Matrículas 31649 37424 e 58425
 30.647.758/0001-87;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+30.647.758/0001-87;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 30.654.849/0001-40;2025-03-31;1;Informação não apresentada.;
 30.654.849/0001-40;2025-06-30;1;Informação não apresentada.;
 30.654.849/0001-40;2025-09-30;1;Não possui informação apresentada;Não possui informação apresentada
@@ -2928,6 +2972,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 31.547.782/0001-07;2025-03-31;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
 31.547.782/0001-07;2025-06-30;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
 31.547.782/0001-07;2025-09-30;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
+31.547.782/0001-07;2025-12-31;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
 31.772.231/0001-47;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 31.894.369/0001-19;2025-03-31;1;-;-
 31.894.369/0001-19;2025-06-30;1;-;-
@@ -2988,9 +3033,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 32.274.163/0001-59;2025-09-30;1;Ed. Pq Dona Ana Costa;Item acima
 32.274.163/0001-59;2025-09-30;1;Complexo Madeira;Item acima
 32.274.197/0001-43;2025-09-30;1;N/A;N/A
+32.274.197/0001-43;2025-12-31;1;N/A;N/A
 32.274.553/0001-29;2025-03-31;1;N/A;N/A
 32.274.553/0001-29;2025-06-30;1;N/A;N/A
 32.274.553/0001-29;2025-09-30;1;N/A;N/A
+32.274.553/0001-29;2025-12-31;1;N/A;N/A
 32.527.626/0001-47;2025-03-31;1;NewPort Log Caxias do Sul;N/A
 32.527.626/0001-47;2025-03-31;1;NewPort Log Goiania;N/A
 32.527.626/0001-47;2025-03-31;1;NewPort Log Sorocaba;N/A
@@ -3284,6 +3331,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 35.704.849/0001-20;2025-03-31;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
 35.704.849/0001-20;2025-06-30;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
 35.704.849/0001-20;2025-09-30;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
+35.704.849/0001-20;2025-12-31;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
 35.705.463/0001-33;2025-03-31;2;Galpão Hortolândia I;Item acima
 35.705.463/0001-33;2025-03-31;2;Galpão Hortolândia II;Item acima
 35.705.463/0001-33;2025-03-31;2;Galpão Extrema I;Item acima
@@ -3555,6 +3603,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 36.501.210/0001-00;2025-06-30;1;Rio 2 Shopping;NA
 36.501.210/0001-00;2025-09-30;1;Península Open Mall;Todos os contratos são semelhantes, apenas com pequenas variações em suas durações. Sendo as ancoras e antenas, que possuem um prazo de 120 meses Lojas com prazo 60 meses Salas podendo ter prazos de 36/48 meses Quiosques e depósitos com variações entre 12 a 60 meses ou prazo indeterminado
 36.501.210/0001-00;2025-09-30;1;Rio 2 Shopping;NA
+36.501.210/0001-00;2025-12-31;1;Península Open Mall;Todos os contratos são semelhantes, apenas com pequenas variações em suas durações. Sendo as ancoras e antenas, que possuem um prazo de 120 meses Lojas com prazo 60 meses Salas podendo ter prazos de 36/48 meses Quiosques e depósitos com variações entre 12 a 60 meses ou prazo indeterminado
+36.501.210/0001-00;2025-12-31;1;Rio 2 Shopping;NA
 36.501.249/0001-28;2025-03-31;1;World Trade Center de São Paulo;N/A
 36.501.249/0001-28;2025-06-30;1;World Trade Center de São Paulo;N/A
 36.501.249/0001-28;2025-09-30;1;World Trade Center de São Paulo;N/A
@@ -3690,6 +3740,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 37.899.356/0001-19;2025-06-30;1;CENU - Torre Oeste;Não possui caracteristicas que destoem dos demais
 37.899.356/0001-19;2025-09-30;1;CENU - Torre Oeste;Não possui caracteristicas que destoem dos demais
 37.899.479/0001-50;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+37.899.479/0001-50;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 37.931.298/0001-63;2025-03-31;1;-;-
 37.931.298/0001-63;2025-03-31;1;-;-
 37.931.298/0001-63;2025-03-31;1;-;-
@@ -3707,6 +3758,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 37.931.298/0001-63;2025-06-30;1;-;-
 37.931.298/0001-63;2025-06-30;1;-;-
 37.931.298/0001-63;2025-09-30;1;-;-
+37.931.298/0001-63;2025-12-31;1;-;-
 37.950.819/0001-20;2025-03-31;1;Complexo Industrial Eurofarma;Não possui caracteristicas que destoem dos demais
 37.950.819/0001-20;2025-06-30;1;Complexo Industrial Eurofarma;Não possui caracteristicas que destoem dos demais
 37.950.819/0001-20;2025-09-30;1;Complexo Industrial Eurofarma;Não possui caracteristicas que destoem dos demais
@@ -3901,6 +3953,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 40.886.521/0001-02;2025-03-31;1;Condominio Parque Jockey;Conforme contrato.
 40.886.521/0001-02;2025-06-30;1;Condominio Parque Jockey;Conforme contrato.
 40.886.521/0001-02;2025-09-30;1;Condominio Parque Jockey;Conforme contrato.
+40.886.521/0001-02;2025-12-31;1;Condominio Parque Jockey;Conforme contrato.
 40.944.707/0001-70;2025-03-31;1;Imóvel em Curitiba - PR;Correção IPCA
 40.944.707/0001-70;2025-03-31;1;Imóvel em Betim - MG;Correção IPCA
 40.944.707/0001-70;2025-06-30;1;Imóvel em Curitiba - PR;Correção IPCA
@@ -4029,6 +4082,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 41.219.454/0001-35;2025-09-30;1;Imóvel 17;Matrícula 288963
 41.219.454/0001-35;2025-09-30;1;Imóvel 18;Quadra 050 - Lote 06 - Jardim Inápolis - Campo grande MS
 41.219.454/0001-35;2025-09-30;1;Imóvel 25;Rua Antônio Ferreira Lima - Terreno Lote 14 da Quadra 04 do Jardim Autonomista III
+41.219.454/0001-35;2025-12-31;1;NA;NA
 41.320.997/0001-44;2025-03-31;1;EDIFICIO METROPOLITAN;Contrato Atípico.
 41.320.997/0001-44;2025-06-30;1;EDIFICIO METROPOLITAN;Contrato Atípico.
 41.320.997/0001-44;2025-09-30;1;EDIFICIO METROPOLITAN;Contrato Atípico.
@@ -4146,6 +4200,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 41.820.693/0001-46;2025-03-31;2;-;-
 41.820.693/0001-46;2025-06-30;1;-;-
 41.820.693/0001-46;2025-09-30;1;-;-
+41.820.693/0001-46;2025-12-31;1;-;-
 41.833.763/0001-09;2025-03-31;1;N/A;N/A
 41.833.763/0001-09;2025-06-30;1;N/A;N/A
 41.833.763/0001-09;2025-09-30;1;N/A;N/A
@@ -4153,6 +4208,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 41.969.521/0001-39;2025-03-31;1;Não se aplica;Nenhum contrato destoa sensivelmente do padrão do fundo.
 41.969.521/0001-39;2025-06-30;1;NA;NA
 41.969.521/0001-39;2025-09-30;1;NA;NA
+41.969.521/0001-39;2025-12-31;1;NA;NA
 42.031.201/0001-04;2025-03-31;1;Terreno Butantã;MATRICULA 177.900 ( lotes 14, 15 e 16 da quadra 14)
 42.031.201/0001-04;2025-03-31;1;Imóvel Vila leopoldina;MATRICULA 38.035
 42.031.201/0001-04;2025-03-31;1;Imóvel Barueri;MATRICULA 51.564
@@ -4201,6 +4257,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 42.517.145/0001-04;2025-06-30;1;-;-
 42.517.145/0001-04;2025-06-30;1;-;-
 42.517.145/0001-04;2025-09-30;1;-;-
+42.517.145/0001-04;2025-12-31;1;-;-
 42.537.492/0001-07;2025-03-31;1;Edificio Patio Victor Malzoni;Não possui caracteristicas que destoem dos demais
 42.537.492/0001-07;2025-06-30;1;Edificio Patio Victor Malzoni;Não possui caracteristicas que destoem dos demais
 42.537.492/0001-07;2025-09-30;1;Edificio Patio Victor Malzoni;Não possui caracteristicas que destoem dos demais
@@ -4299,6 +4356,17 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 43.617.702/0001-21;2025-09-30;1;EDIFICIO COMERCIAL MARIA SANTOS 52;Matricula 97.546 - 1º Registro de Imoveis de São Paulo
 43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 41;Matricula 56.922 - 13º Registro de Imoveis de São Paulo
 43.617.702/0001-21;2025-09-30;1;REGENTSPARK  - CONJUNTO 42;Matricula18.678 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-12-31;1;REGENTSPARK  - CONJUNTO 131;Matricula 12.302 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-12-31;1;REGENTSPARK  - CONJUNTO 82;Matrícula 1.520
+43.617.702/0001-21;2025-12-31;1;REGENTSPARK  - CONJUNTO 92;Matrícula 1.522
+43.617.702/0001-21;2025-12-31;1;REGENTSPARK  - CONJUNTO 121;Matricula 27.029 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-12-31;1;REGENTSPARK  - CONJUNTO 132;Matricula 27.463 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-12-31;1;REGENTSPARK  - CONJUNTO 11;Matricula 30.348 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-12-31;1;REGENTSPARK  - CONJUNTO 51;Matricula 46.608 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-12-31;1;EDIFICIO COMERCIAL MARIA SANTOS 51;Matricula 97.545 - 1º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-12-31;1;EDIFICIO COMERCIAL MARIA SANTOS 52;Matricula 97.546 - 1º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-12-31;1;REGENTSPARK  - CONJUNTO 41;Matricula 56.922 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2025-12-31;1;REGENTSPARK  - CONJUNTO 42;Matricula18.678 - 13º Registro de Imoveis de São Paulo
 43.619.218/0001-31;2025-09-30;1;N/A;N/A
 43.671.358/0001-59;2025-03-31;1;.;.
 43.671.358/0001-59;2025-06-30;1;.;.
@@ -4722,6 +4790,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 49.996.755/0001-87;2025-03-31;1;-;-
 49.996.755/0001-87;2025-06-30;1;-;-
 49.996.755/0001-87;2025-09-30;1;-;-
+49.996.755/0001-87;2025-12-31;1;-;-
 50.041.467/0001-58;2025-09-30;2;ATIBAIA;SEM INFORMAÇÃO APRESENTADA
 50.117.874/0001-00;2025-03-31;1;Casas Bahia;Não possui caracteristicas que destoem dos demais.
 50.117.874/0001-00;2025-03-31;1;Terreno Senador;Não possui caracteristicas que destoem dos demais.
@@ -4828,6 +4897,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 50.957.247/0001-79;2025-03-31;1;N/A;N/A
 50.957.247/0001-79;2025-06-30;1;N/A;N/A
 50.957.247/0001-79;2025-09-30;1;N/A;N/A
+50.957.247/0001-79;2025-12-31;1;N/A;N/A
 51.067.062/0001-51;2025-03-31;1;.;.
 51.067.062/0001-51;2025-06-30;1;.;.
 51.067.062/0001-51;2025-09-30;1;.;.
@@ -4953,6 +5023,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 52.366.833/0001-74;2025-03-31;1;NA;NA
 52.366.833/0001-74;2025-06-30;1;NA;NA
 52.366.833/0001-74;2025-09-30;1;NA;NA
+52.366.833/0001-74;2025-12-31;1;NA;NA
 52.551.605/0001-74;2025-03-31;1;Informação não apresentada.;
 52.551.605/0001-74;2025-06-30;1;Informação não apresentada.;
 52.551.605/0001-74;2025-09-30;1;Não possui informação apresentada;Não possui informação apresentada
@@ -5016,6 +5087,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 53.191.611/0001-20;2025-03-31;2;-;-
 53.191.611/0001-20;2025-06-30;2;-;-
 53.191.611/0001-20;2025-09-30;1;-;-
+53.191.611/0001-20;2025-12-31;1;-;-
 53.193.237/0001-00;2025-03-31;1;.;.
 53.193.237/0001-00;2025-06-30;1;.;.
 53.250.967/0001-98;2025-09-30;1;CCV SOLAR;Sem informação apresentada
@@ -5137,6 +5209,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 54.485.027/0001-40;2025-09-30;1;1606;182183
 54.485.027/0001-40;2025-09-30;1;1607;182184
 54.485.027/0001-40;2025-09-30;1;1608;182185
+54.500.419/0001-31;2025-12-31;1;-;-
 54.557.596/0001-54;2025-03-31;1;BM 336;Não possui caracteristicas que destoem dos demais
 54.557.596/0001-54;2025-06-30;2;BM 336;Não possui caracteristicas que destoem dos demais
 54.557.596/0001-54;2025-09-30;1;BM 336;Não possui caracteristicas que destoem dos demais
@@ -5179,6 +5252,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 55.969.466/0001-91;2025-03-31;1;-;-
 55.969.466/0001-91;2025-06-30;2;-;-
 55.969.466/0001-91;2025-09-30;1;-;-
+55.969.466/0001-91;2025-12-31;1;-;-
 55.985.307/0001-80;2025-03-31;1;BLUES PERDIZ;Sem informação apresentada
 55.985.307/0001-80;2025-03-31;1;HESA 135;Sem informação apresentada
 55.985.307/0001-80;2025-03-31;1;HESA 150;Sem informação apresentada
@@ -5400,6 +5474,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 58.495.684/0001-20;2025-03-31;1;-;-
 58.495.684/0001-20;2025-06-30;1;-;-
 58.495.684/0001-20;2025-09-30;1;-;-
+58.495.684/0001-20;2025-12-31;1;-;-
 58.496.557/0001-45;2025-03-31;1;Não se aplica;
 58.496.557/0001-45;2025-06-30;1;Não se aplica;
 58.496.557/0001-45;2025-09-30;1;Não se aplica;
@@ -5594,3 +5669,5 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 62.064.773/0001-99;2025-09-30;1;-;-
 62.173.916/0001-09;2025-09-30;1;Lotus Tower;Não possui caracteristicas que destoem dos demais
 62.455.533/0001-15;2025-09-30;1;N/A;N/A
+63.279.539/0001-41;2025-12-31;1;Imovel Enseada;Sem informações complementares
+63.574.240/0001-10;2025-12-31;1;NA;NA

@@ -212,6 +212,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 12.989.974/0001-29;2025-09-30;1;Avenida Francisco Bicalho, nº 49, Bairro Santo Cristo, Município do Rio de Janeiro, Estado do Rio de Janeiro;Terreno denominado "APLAUSO" transferido o domínio por meio de Escritura Pública de Compra e Venda do 15° Ofício de Notas do Rio de Janeiro em 12/05/2025.;32240;0.395975;0
 12.989.974/0001-29;2025-09-30;1;Rua General Luiz Mendes de Moraes, nº 50, Bairro Santo Cristo, Município do Rio de Janeiro, Estado do Rio de Janeiro;Terreno denominado "CLUBE DOS PORTUÁRIOS" transferido o domínio por meio de Escritura Pública de Compra e Venda do 15° Ofício de Notas do Rio de Janeiro em 12/05/2025.;15021.18;0.116892;0
 13.125.823/0001-95;2025-09-30;1;Endereço: Rua Tuffi Rassi n° 50, Vila Abranches, Ribeirão Preto-SP;Imóvel matricula n° 37.850.;36773;0;0
+13.125.823/0001-95;2025-12-31;1;Endereço: Rua Tuffi Rassi n° 50, Vila Abranches, Ribeirão Preto-SP;Imóvel matricula n° 37.850.;36773;0;0
 13.320.290/0001-00;2025-03-31;1;Avenida Luiz Gushiken, S/n°, Sem Complemento, Fazenda Grande, Jundiaí/SP, Brasil, 13212-437;Direito de Propriedade;27093.26;0.4544274530628;0
 13.320.290/0001-00;2025-03-31;1;Avenida Francisco Roveri, S/n°, Sem Complemento, Parque Almerinda Pereira Chaves, Jundiaí/SP, Brasil, 13212-541;Direito de Propriedade;108556.75;0.5455725469372;0
 13.320.290/0001-00;2025-09-30;1;Avenida Luiz Gushiken, S/n°, Sem Complemento, Fazenda Grande, Jundiaí/SP, Brasil, 13212-437;Direito de propriedade;27093.26;0.44552566409252;0
@@ -223,6 +224,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 13.555.918/0001-49;2025-06-30;1;Rodovia Presidente Dutra, Km 189 e 190 - Queimados - RJ.;Queimados - RJ.Situado entre os municípios de nova iguaçu - RJ e Queimados próximo a entrada da cidade de Queimados;116446.84;0.24;1
 13.555.918/0001-49;2025-09-30;1;Rodovia Presidente Dutra, Km 192 - Queimados - RJ.;Possui acesso pela estrada Olegório maciel conectando-se a área urbana da cidade a 3 km do centro da cidade, assim como estação de trem da Supervia e toda a rede de comércio (bancos, supermercados e shoppings).;109619.53;0.76;0
 13.555.918/0001-49;2025-09-30;1;Rodovia Presidente Dutra, Km 189 e 190 - Queimados - RJ.;Queimados - RJ.Situado entre os municípios de nova iguaçu - RJ e Queimados próximo a entrada da cidade de Queimados;116446.84;0.24;1
+13.555.918/0001-49;2025-12-31;1;Rodovia Presidente Dutra, Km 192 - Queimados - RJ.;Possui acesso pela estrada Olegório maciel conectando-se a área urbana da cidade a 3 km do centro da cidade, assim como estação de trem da Supervia e toda a rede de comércio (bancos, supermercados e shoppings).;109619.53;0.76;0
+13.555.918/0001-49;2025-12-31;1;Rodovia Presidente Dutra, Km 189 e 190 - Queimados - RJ.;Queimados - RJ.Situado entre os municípios de nova iguaçu - RJ e Queimados próximo a entrada da cidade de Queimados;116446.84;0.24;1
 13.598.226/0001-88;2025-03-31;1;RODOVIA WALDOMIRO CORREA CAMARGO KM 63 - ITU - SP;ID 164 RODOVIA WALDOMIRO CORREA CAMARGO KM 63 - ITU - SP;164996.69;0.096826;0
 13.598.226/0001-88;2025-03-31;1;RODOVIA WALDOMIRO CORREA CAMARGO KM 63 - ITU - SP;ID 165 RODOVIA WALDOMIRO CORREA CAMARGO KM 63 - ITU - SP;810291.35;0.198556;0
 13.598.226/0001-88;2025-03-31;1;LUCAS N GARCEZ, 320;ID 197 MATRICULA 52.114;255.15;0.006011;0
@@ -345,12 +348,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 16.915.968/0001-88;2025-06-30;1;Av. Corifeu de Azevedo Marques, 3870, Butantã, São Paulo - SP;O imóvel foi adquirido por escritura de compra e venda, não há onus reais sobre o imóvel;890;1;0
 16.915.968/0001-88;2025-09-30;1;Av. Corifeu de Azevedo Marques, 3870, Butantã, São Paulo - SP;O imóvel foi adquirido por escritura de compra e venda, não há onus reais sobre o imóvel;890;1;0
 18.265.829/0001-81;2025-09-30;1;Avenida Marginal Norte da Rodovia Anhanguera, 4575, Jundiaí/SP;Área do Terreno : 3.064,20 m2  Área Construída : 1.752,00 m2;3064.2;0;0
+18.265.829/0001-81;2025-12-31;1;Avenida Marginal Norte da Rodovia Anhanguera, 4575, Jundiaí/SP;Área do Terreno : 3.064,20 m2  Área Construída : 1.752,00 m2;3064.2;0;0
 18.369.510/0001-04;2025-03-31;1;Rodovia PR 445, km 85 - Lote 250 - A2-2, Cambé-PR.;RIO JACUTINGA S.A.;396258.23;1;0
 18.369.510/0001-04;2025-06-30;1;Rodovia PR 445, km 85 - Lote 250 - A2-2, Cambé-PR.;RIO JACUTINGA S.A.;396258.23;1;0
 18.369.510/0001-04;2025-09-30;1;Rodovia PR 445, km 85 - Lote 250 - A2-2, Cambé-PR.;RIO JACUTINGA S.A.;396258.23;1;0
 18.929.353/0001-36;2025-03-31;1;Rua dos Otoni, 177 - Santa Efigênia - BH/MG;Edifício comercial, construído em 2014, composto por um único bloco, totalmente ocupado pela Direcional Engenharia como sede da empresa, mediante um contrato de locação de longo prazo.;9100.08;;
 18.929.353/0001-36;2025-06-30;1;Rua dos Otoni, 177 - Santa Efigênia - BH/MG;Edifício comercial, construído em 2014, composto por um único bloco, totalmente ocupado pela Direcional Engenharia como sede da empresa, mediante um contrato de locação de longo prazo.;9100.08;0;0
 18.929.353/0001-36;2025-09-30;1;Rua dos Otoni, 177 - Santa Efigênia - BH/MG;Edifício comercial, construído em 2014, composto por um único bloco, totalmente ocupado pela Direcional Engenharia como sede da empresa, mediante um contrato de locação de longo prazo.;9100.08;0;0
+18.929.353/0001-36;2025-12-31;1;Rua dos Otoni, 177 - Santa Efigênia - BH/MG;Edifício comercial, construído em 2014, composto por um único bloco, totalmente ocupado pela Direcional Engenharia como sede da empresa, mediante um contrato de locação de longo prazo.;9100.08;0;0
 18.950.957/0001-64;2025-03-31;1;Rodovia MT - 208, Alta Floresta/MT;Terreno;29153.15;0.004;0.012027
 18.950.957/0001-64;2025-03-31;1;Rua Francisco Cervi - Brusque - SC;Terreno;52362.7;0.000115;0
 18.950.957/0001-64;2025-03-31;1;Rua Anfiloquio Nunes Pires, 49, Bela Vista - Gaspar - SC;Terreno;15824.21;0.002279;0
@@ -390,6 +395,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 26.269.251/0001-60;2025-03-31;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
 26.269.251/0001-60;2025-06-30;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
 26.269.251/0001-60;2025-09-30;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
+26.269.251/0001-60;2025-12-31;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
 26.452.053/0001-37;2025-03-31;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
 26.452.053/0001-37;2025-06-30;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
 26.452.053/0001-37;2025-09-30;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
@@ -541,6 +547,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 31.547.782/0001-07;2025-06-30;1;Avenida Itaoca, 786, Bonsucesso;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matrícula: 94.317;0;0;0
 31.547.782/0001-07;2025-09-30;1;FAZENDA CACHOEIRA;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matriculas: 13553 - 13772 - 17121 - 17315 - 18588 - 13553;17883600;0;0
 31.547.782/0001-07;2025-09-30;1;Avenida Itaoca, 786, Bonsucesso;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matrícula: 94.317;0;0;0
+31.547.782/0001-07;2025-12-31;1;FAZENDA CACHOEIRA;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matriculas: 13553 - 13772 - 17121 - 17315 - 18588 - 13553;17883600;0;0
+31.547.782/0001-07;2025-12-31;1;Avenida Itaoca, 786, Bonsucesso;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matrícula: 94.317;0;0;0
 31.547.989/0001-81;2025-03-31;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
 31.547.989/0001-81;2025-06-30;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
 31.547.989/0001-81;2025-09-30;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
@@ -566,6 +574,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 32.274.197/0001-43;2025-06-30;1;Rua Pássaros e Flores, 30, São Paulo - SP;469 unidades autônomas residenciais (R) da Torre 3 do Empreendimento ("Unidades Autônomas"), as quais corresponderão à totalidade das unidades autônomas residenciais da Torre 3;17541;1;0
 32.274.197/0001-43;2025-09-30;1;Av. dos Imarés, 182 - Indianópolis, São Paulo - SP, 04085-000;Construção 255 (duzentas e cinquenta e cinco) unidades autônomas residenciais (R) da Torre 2 do Empreendimento, sendo neste caso 24 (vinte e quatro) unidades por andar, as quais corresponderão à totalidade das unidades autônomas residenciais da Torre 2. E área privativa não residencial integrantes da Torre 2.;13639;1;0
 32.274.197/0001-43;2025-09-30;1;Rua Pássaros e Flores, 30, São Paulo - SP;469 unidades autônomas residenciais (R) da Torre 3 do Empreendimento ("Unidades Autônomas"), as quais corresponderão à totalidade das unidades autônomas residenciais da Torre 3;17541;1;0
+32.274.197/0001-43;2025-12-31;1;Av. dos Imarés, 182 - Indianópolis, São Paulo - SP, 04085-000;Construção 255 (duzentas e cinquenta e cinco) unidades autônomas residenciais (R) da Torre 2 do Empreendimento, sendo neste caso 24 (vinte e quatro) unidades por andar, as quais corresponderão à totalidade das unidades autônomas residenciais da Torre 2. E área privativa não residencial integrantes da Torre 2.;13639;1;0
+32.274.197/0001-43;2025-12-31;1;Rua Pássaros e Flores, 30, São Paulo - SP;469 unidades autônomas residenciais (R) da Torre 3 do Empreendimento ("Unidades Autônomas"), as quais corresponderão à totalidade das unidades autônomas residenciais da Torre 3;17541;1;0
 32.275.252/0001-10;2025-03-31;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
 32.275.252/0001-10;2025-06-30;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
 32.275.252/0001-10;2025-09-30;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
@@ -857,6 +867,30 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 41.969.537/0001-41;2025-09-30;1;Área 28, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;15791.5;0.0659821;0.0657651
 41.969.537/0001-41;2025-09-30;1;Área 33, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;55785.49;0.1990804;0.1984257
 41.969.537/0001-41;2025-09-30;1;Loteamento Fazenda Itapinhoacanga;-;79355.08;0.1868118;0.1861975
+41.969.537/0001-41;2025-12-31;1;Rua "D", da Quadra 01 do Loteamento denominado Praia da Ribeira;-;1092;0.0197534;0.0196884
+41.969.537/0001-41;2025-12-31;1;Loteamento porto Bracuhy, situado na Fazenda Bracuí;-;2561.82;0.0613427;0.061141
+41.969.537/0001-41;2025-12-31;1;Fazenda Itapinhoacanga;-;23029.86;0.063281;0.0630729
+41.969.537/0001-41;2025-12-31;1;Fazenda Itapinhoacanga;-;5350;0.0176502;0.0175922
+41.969.537/0001-41;2025-12-31;1;Fazenda Itapinhoacanga - Condomínio dos Sinos;-;23631.91;0.0647243;0.0645115
+41.969.537/0001-41;2025-12-31;1;Ilha da Gipóia;-;1900;0.029795;0.0296971
+41.969.537/0001-41;2025-12-31;1;Porto Bracuhy - Fazenda Bracuí;-;2656;0.0542703;0.0540918
+41.969.537/0001-41;2025-12-31;1;Porto Bracuhy - Fazenda Bracuí;-;1232.06;0.0370531;0.0369312
+41.969.537/0001-41;2025-12-31;1;Porto Bracuhy - Fazenda Bracuí;-;1209.01;0.0363314;0.0362119
+41.969.537/0001-41;2025-12-31;1;Lote de Terreno nº 09, da Quadra J, da Gleba A, do Loteamento denominado Frade, situado na Fazenda do Frade;-;1353;0.0167017;0.0166468
+41.969.537/0001-41;2025-12-31;1;Lote de Terreno nº 34-A, da Quadra I, da Gleba A, do Loteamento denominado Frade, situado na Fazenda do Frade;-;883;0.0115056;0.0114678
+41.969.537/0001-41;2025-12-31;1;Área 08, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;2644;0.0127098;0.012668
+41.969.537/0001-41;2025-12-31;1;Área 12, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;2644;0.0127098;0.012668
+41.969.537/0001-41;2025-12-31;1;Área 16, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;2644;0.0127098;0.012668
+41.969.537/0001-41;2025-12-31;1;Área 20, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;2644;0.0113407;0.0113034
+41.969.537/0001-41;2025-12-31;1;Área 21, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;2644;0.0113407;0.0113034
+41.969.537/0001-41;2025-12-31;1;Área 22, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;2644;0.0127098;0.012668
+41.969.537/0001-41;2025-12-31;1;Área 23, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;2644;0.0113407;0.0113034
+41.969.537/0001-41;2025-12-31;1;Área 24, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;2644;0.0127098;0.012668
+41.969.537/0001-41;2025-12-31;1;Área 25, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;2644;0.0113407;0.0113034
+41.969.537/0001-41;2025-12-31;1;Área 26, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;5623;0.0268052;0.0267171
+41.969.537/0001-41;2025-12-31;1;Área 28, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;15791.5;0.0659821;0.0657651
+41.969.537/0001-41;2025-12-31;1;Área 33, oriunda do Loteamento denominado Enseada dos Girassóis - Bracuí;-;55785.49;0.1990804;0.1984257
+41.969.537/0001-41;2025-12-31;1;Loteamento Fazenda Itapinhoacanga;-;79355.08;0.1868118;0.1861975
 41.978.140/0001-16;2025-03-31;1;Av. Heraclito Fontoura Sobral Pinto, nº350;Direito de superficie Ribeirão Preto - Mat. 134.893;24717.44;0;0
 41.978.140/0001-16;2025-03-31;1;Av. Comendador Agostinho Prada, 3080 - Limeira - São Paulo;Direito de superfície Limeira - Mat. 103.167;6868.18;0;0
 41.978.140/0001-16;2025-03-31;1;Av. Portugal, 690 - Centro / Santo André - SP;Direito de superfície Portugal - Mat. 63.015;1000;0;0
@@ -1058,6 +1092,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 45.718.511/0001-81;2025-03-31;1;Barra do Ouro - TO;Bloco 42 - Lote 33;279.94;1;-0.0109
 47.102.860/0001-08;2025-03-31;1;Rodovia Norte Sul, N 243 (Serra - ES);PROJETO HOSPITAL (Matricula 104.848) - Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
 47.102.860/0001-08;2025-06-30;1;Rodovia Norte Sul, N 243 (Serra - ES);PROJETO HOSPITAL (Matricula 104.848) - Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
+47.102.860/0001-08;2025-12-31;1;Rodovia Norte Sul, N 243 (Serra - ES);PROJETO HOSPITAL (Matricula 104.848) - Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
 47.669.336/0001-05;2025-06-30;1;FAZENDA BARRA DO RIBEIRO;MATRICULA 4837;2666.66;0.2227;0
 47.669.336/0001-05;2025-09-30;1;FAZENDA BARRA DO RIBEIRO;MATRICULA 4837;2666.66;0.5;0
 47.669.336/0001-05;2025-09-30;1;60.375 ALPHAVILE PR;MATRICULA 60.375;754.85;0.5;0
@@ -1133,6 +1168,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 49.893.516/0001-00;2025-06-30;1;Área 07 - Campina, Bairro de São Miguel - Guarulhos, São Paulo;Matrícula 146.645 - Ativo adquirido via Escritura de Permuta - O Fundo assinou a Escritura de Permuta no dia 05 de fevereiro de 2024, sendo a Bekaa a proprietária do terreno situado em Guarulhos, Estado de São Paulo, devidamente identificado na matrícula nº 146.645, no qual o Fundo adquiriu, a título de permuta, a parte ideal de 64,2857%, em troca das construções, benfeitorias e acessões, que correspondem a 35,7143% da área total do Empreendimento.;63806.64296;0.642857;0
 49.893.516/0001-00;2025-09-30;1;Área 07 - Campina, Bairro de São Miguel - Guarulhos, São Paulo;Matrícula 146.645 - Ativo adquirido via Escritura de Permuta - O Fundo assinou a Escritura de Permuta no dia 05 de fevereiro de 2024, sendo a Bekaa a proprietária do terreno situado em Guarulhos, Estado de São Paulo, devidamente identificado na matrícula nº 146.645, no qual o Fundo adquiriu, a título de permuta, a parte ideal de 64,2857%, em troca das construções, benfeitorias e acessões, que correspondem a 35,7143% da área total do Empreendimento.;63806.64296;0.642857;0
 49.996.755/0001-87;2025-06-30;1;Lote rural de n.° 13, da Gleba Mato Escuro, situado em Barra de Macaé, 2° distrito deste Município, não foreira e fora do perímetro urbano.;Uma área de terras, desmembrada de maior porção do loterural de n.° 13, da Gleba Mato Escuro, situado em Barra de Macaé, 2° distrito desteMunicípio, não foreira e fora do perímetro urbano;90000;1;0
+49.996.755/0001-87;2025-12-31;1;Lote rural de n.° 13, da Gleba Mato Escuro, situado em Barra de Macaé, 2° distrito deste Município, não foreira e fora do perímetro urbano.;Uma área de terras, desmembrada de maior porção do loterural de n.° 13, da Gleba Mato Escuro, situado em Barra de Macaé, 2° distrito desteMunicípio, não foreira e fora do perímetro urbano;90000;1;0
 50.041.467/0001-58;2025-03-31;1;Fernão Dias, km 37,5 - Atibaia, SP;Matricula número 90.850;264787;1;1
 50.041.467/0001-58;2025-06-30;1;Fernão Dias, km 37,5 - Atibaia, SP;Matricula número 90.850;264787;1;1
 50.041.467/0001-58;2025-09-30;2;Fernão Dias, km 37,5 - Atibaia, SP;Matricula  90.850;264787;1;1
@@ -1155,6 +1191,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 50.957.247/0001-79;2025-09-30;1;RUA BARBOSA;MATRICULA 26865;26865;0;0
 50.957.247/0001-79;2025-09-30;1;PREFEITO ALBARY;MAT. 70.857;51154.33;0;0
 50.957.247/0001-79;2025-09-30;1;RODOVIA DOS MINERIOS;MAT. 3723 E 3724;44930;0;0
+50.957.247/0001-79;2025-12-31;1;Linha Verde - Av. Santa Bernadethe - Fanny, Curitiba - PR, 81650-200;Matrículas: 55.467 / 55.468 / 55.469 / 55.470 / 55.471 / 55.472 / 55.710 / 55.711 /55.712 / 56.677 / 56.678 / 56.679 / 56.680 / 56.681 / 56.682;10637.25;0;0
+50.957.247/0001-79;2025-12-31;1;Estrada José Kalinoski - Contorno, Ponta Grossa - PR, 84060-160, lote 12/R2-1.;Matrícula: 80.552;14783.47;0;0
+50.957.247/0001-79;2025-12-31;1;RUA BARBOSA;MATRICULA 26865;26865;0;0
+50.957.247/0001-79;2025-12-31;1;PREFEITO ALBARY;MAT. 70.857;51154.33;0;0
+50.957.247/0001-79;2025-12-31;1;RODOVIA DOS MINERIOS;MAT. 3723 E 3724;44930;0;0
+50.957.247/0001-79;2025-12-31;1;UMBARÁ TERRENO;MAT. 123.587 E 123.588;12218.8;0;0
 51.295.092/0001-15;2025-03-31;1;TERRENO LADO IMPAR -  Ribeirão Preto/SP 12.437;matricula 123.024 -;1250;0.0686487852352673;0
 51.295.092/0001-15;2025-03-31;1;Lote de Terreno -  Rua Borborema Jaguaribe, Campos do Jordão/SP;matrícula nº 12.665;2717;0.259792303668059;0
 51.295.092/0001-15;2025-03-31;1;Terreno - Fazenda Sao Pedro - Vitória da Conquista;matrícula nº 37.899;12387.47;0.0956837027321212;0
@@ -1400,6 +1442,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 58.019.792/0001-26;2025-03-31;1;Av. José Pereira Liberato -;Av. José Pereira Liberato - MATRÍCULA 31.579;;;
 58.019.792/0001-26;2025-06-30;1;Av. José Pereira Liberato;MATRÍCULA 31.579;;;
 58.019.792/0001-26;2025-09-30;1;Av. José Pereira Liberato;MATRÍCULA 31.579;;;
+58.019.792/0001-26;2025-12-31;1;Av. José Pereira Liberato;MATRÍCULA 17835;49969.72;1;0.033491
 58.350.082/0001-84;2025-09-30;1;Avenida Horacio Lafer, 73, Sem Complemento, Itaim Bibi, São Paulo/SP, Brasil, 04538-083;Direito de propriedade;1068;1;0
 58.544.087/0001-48;2025-06-30;1;Endereço;Outras Características Relevantes¹;;;
 58.549.748/0001-28;2025-06-30;1;Fazenda Fortaleza - Parte B -Município de Paranatinga, Mato Grosso;Certificação do INCRA: 131102000009-04 de 08/12/2011;5293.9014;0.5;0.49
@@ -1435,6 +1478,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 59.693.395/0001-06;2025-09-30;1;Água Branca matricula 5.622;-;741700;0;0
 59.693.395/0001-06;2025-09-30;1;Água Branca matricula 5.625;-;2044000;0;0
 59.693.395/0001-06;2025-09-30;1;Água Branca matricula 9.727;-;1065400;0;0
+59.693.395/0001-06;2025-12-31;1;Água Branca matricula 5.620;-;683100;0;0
+59.693.395/0001-06;2025-12-31;1;Água Branca matricula 5.622;-;741700;0;0
+59.693.395/0001-06;2025-12-31;1;Água Branca matricula 5.625;-;2044000;0;0
+59.693.395/0001-06;2025-12-31;1;Água Branca matricula 9.727;-;1065400;0;0
 59.890.241/0001-04;2025-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 59.890.241/0001-04;2025-06-30;2;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 59.890.241/0001-04;2025-09-30;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
@@ -1446,9 +1493,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 59.891.409/0001-98;2025-09-30;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 60.522.814/0001-18;2025-06-30;1;Lote nº 290-B/A - Gleba Keller, Mandaguari/PR;N;0;1;0
 60.522.814/0001-18;2025-09-30;1;Lote nº 290-B/A - Gleba Keller, Mandaguari/PR;N/A;0;1;0
+60.522.814/0001-18;2025-12-31;1;Lote nº 290-B/A - Gleba Keller, Mandaguari/PR;N/A;0;1;0
 61.247.681/0001-81;2025-09-30;1;Rodovia Presidente Dutra, nº 4.300, área 3, na Cidade de São João de Meriti, Estado do Rio de Janeiro;matrícula nº 926-A;64462;1;1
 61.293.720/0001-87;2025-06-30;2;Avenida Bailarina Selma Parada, s/n - Jardim Nilópolis - Campinas / SP;n/a;1384.65;0.063;0
 61.293.720/0001-87;2025-06-30;2;Av. Dr. Chucri Zaidan, 902 - Vila Cordeiro - São Paulo / SP;n/a;11500;0.015;0
 61.293.720/0001-87;2025-09-30;2;Avenida Bailarina Selma Parada, s/n - Jardim Nilópolis - Campinas / SP;n/a;1384.65;0.063;0
 61.293.720/0001-87;2025-09-30;2;Av. Dr. Chucri Zaidan, 902 - Vila Cordeiro - São Paulo / SP;n/a;11500;0.015;0
+62.296.221/0001-06;2025-12-31;1;RuaValmirZanete,ÁreaA-Centro,Camboriu/Santa Catarina;matricula 35086;21154.6;1;0
 62.935.643/0001-84;2025-09-30;1;Av. Rebouças, 2290 - São Paulo;Matrícula unificada 181.478;4435.87;1;1
