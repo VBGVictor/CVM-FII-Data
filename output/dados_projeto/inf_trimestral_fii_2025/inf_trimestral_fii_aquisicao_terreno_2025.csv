@@ -11,6 +11,17 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Area;Outras_Caracteristicas_Re
 18.950.957/0001-64;2025-09-30;1;Avenida Nestor de Moura Jardim, Guaíba - RS;28518.6;Contrato de locação longo prazo;0.0145844660199629;0.0145844660199629
 28.548.288/0001-52;2025-03-31;1;OBRAMAX _SAOGONÇALO;18657.8;n/a;0;0
 41.081.336/0001-03;2025-03-31;1;Avenida Guarapiranga, 752 - Vila Socorro, São Paulo - SP;10705.5;Shopping Fiesta;0.861818;0
+41.650.310/0001-39;2025-12-31;1;Avenida Capitão Júlio Bezerra, Lotes 42, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;1160;Matricula 1025;1;0.00718946689730996
+41.650.310/0001-39;2025-12-31;1;Rua Amparo do Itororó, bairro Alvorada,Manaus, Amazonas.;16550.4;Matrícula 12.657;1;0.0698135075028257
+41.650.310/0001-39;2025-12-31;1;Avenida Max Teixeira, Bairro Cidade Nova, Manaus, Amazonas;3000;Matrícula 15240;1;0.0212530731964338
+41.650.310/0001-39;2025-12-31;1;Avenida Capitão Júlio Bezerra, Lotes 96, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;984;Matrícula 16408;1;0.00623087131100197
+41.650.310/0001-39;2025-12-31;1;Ruas Dona Clô e Alvaro Maia, Lote 490,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;1078;Matrícula 2319;1;0.0044398111365844
+41.650.310/0001-39;2025-12-31;1;Avenida Capitão Júlio Bezerra, Lotes 62, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;630;Matrícula 2396;1;0.00422538843964708
+41.650.310/0001-39;2025-12-31;1;Avenida Desembargador João Machado, Lote 4, Bairro Campos Elíseos,Manaus, Amazonas;1.37967e+006;Matrícula 3574;1;0.00394159369370064
+41.650.310/0001-39;2025-12-31;1;Avenida Capitão Júlio Bezerra, Lotes 83, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;980;Matrícula 5384;1;0.00620564511136228
+41.650.310/0001-39;2025-12-31;1;Ruas Dona Clô e Alvaro Maia, Lote 490,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;969.3;Matrícula 52563;1;0.00484343033081934
+41.650.310/0001-39;2025-12-31;1;Ruas Dona Clô e Alvaro Maia, Lote 490,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;947.75;Matrícula 6.232;1;0.00403934521730441
+41.650.310/0001-39;2025-12-31;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;1000;Matrícula 64.777;1;0.00785165463785167
 42.537.540/0001-59;2025-03-31;1;Avenida Dos Bandeirantes, S/n°,  Costazul, Rio Das Ostras/RJ, Brasil, 28895-314;990;Direito de Propriedade;0.037925;0.039871
 47.669.336/0001-05;2025-06-30;1;FAZENDA BARRA DO RIBEIRO;2666.66;MATRICULA 4837;0.2227;0.3022
 47.669.336/0001-05;2025-09-30;1;60.375 ALPHAVILE PR;754.85;MATRICULA 60.375;0.5;0.0417
@@ -29,6 +40,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Area;Outras_Caracteristicas_Re
 51.889.479/0001-08;2025-03-31;1;Rua Hirto Luiz Melegari, 465 - Sagrado Coração de Jesus, Lages/SC;9310.7;LAGES - mat. 36.632;0.1911;0.1926
 51.889.479/0001-08;2025-03-31;1;Avenida Maestro Roberto Barbosa Ribas, Bairro Juscelino Kubitschek - Santa Maria;29713.4;SANTA MARIA - mat.107.647;0.0753;0.0759
 51.889.479/0001-08;2025-03-31;1;Av. Francisco Chagas, 1540 - São Gabriel - RS;16348;SÃO GABRIEL - Mat.4.42;0.0273;0.0275
+51.889.479/0001-08;2025-12-31;1;Cidade de Novo Hamburgo;222210;Matrícula 52.917;1;0.0978
+52.356.865/0001-99;2025-12-31;1;Av. Do Estado Dalmo Vieira - Pioneiros, Balneário Camboríu/ SC.;1988.91;MATRICULA 23501;0.5569;0
 52.366.833/0001-74;2025-12-31;1;Rodovia Amaral Peixoto- RJ 106;66545.1;1º DISTRITO DE MARICÁ;0.540248;0.479074
 53.191.611/0001-20;2025-03-31;2;TERRENO BR364;;TERRENO BR364 - ESCRITURA;;
 53.191.611/0001-20;2025-06-30;2;TERRENO BR364;;TERRENO BR364 - ESCRITURA;;

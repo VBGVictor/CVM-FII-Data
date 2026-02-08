@@ -8,6 +8,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 03.855.441/0001-63;2025-09-30;1;Vitória;Arrend Mercantil Financeiro;64863897.9
 03.855.441/0001-63;2025-09-30;1;Santos;Arrend Mercantil Financeiro;334852719.93
 03.855.441/0001-63;2025-09-30;1;Laboratório de Fluidos;Arrend Mercantil Financeiro;83621880.53
+03.855.441/0001-63;2025-12-31;1;Santos;Arrend Mercantil Financeiro;251418763.59
+03.855.441/0001-63;2025-12-31;1;Laboratório de Fluidos;Arrend Mercantil Financeiro;59047609.9
 08.417.532/0001-30;2025-03-31;1;Bapon;Arrendamento Mercantil Financeiro;51991153.33
 08.417.532/0001-30;2025-03-31;1;Basul;Arrendamento Mercantil Financeiro;188038791.49
 08.417.532/0001-30;2025-06-30;1;Bapon;Arrendamento Mercantil Financeiro;53732896.34
@@ -57,6 +59,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 16.671.412/0001-93;2025-03-31;1;Galpão Contagem;Direitos de usufruto imóvel de Contagem - MG;97188963.58
 16.671.412/0001-93;2025-06-30;1;Galpão Contagem;Direitos de usufruto imóvel de Contagem - MG;92925463.27
 16.671.412/0001-93;2025-09-30;1;Galpão Contagem;Direitos de usufruto imóvel de Contagem - MG;90758380.0808129
+16.671.412/0001-93;2025-12-31;1;Galpão Contagem;Direitos de usufruto imóvel de Contagem - MG;88591297.21
 24.514.406/0001-50;2025-06-30;1;PROJ PC1 VGV 76%;A VENDER - PC1;5411074.87
 24.514.406/0001-50;2025-06-30;1;PROJ PC1 VGV 76%;RECEBER CLIENT - PC1;46549728.95
 24.514.406/0001-50;2025-06-30;1;PROJ PC1 VGV 76%;RECEBER VETOR - PC1;90396636.57
@@ -93,6 +96,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 32.317.313/0001-64;2025-03-31;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;21674057.18
 32.317.313/0001-64;2025-06-30;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;21396865.58
 32.317.313/0001-64;2025-09-30;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;21238139.31
+32.317.313/0001-64;2025-12-31;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;20771343.22
 33.701.887/0001-02;2025-03-31;1;Fazenda Tupã;;15181000.01
 33.701.887/0001-02;2025-03-31;1;Parque Eldorado - Lote 01, 02 e 03 Qd 9;;9123999.98
 33.701.887/0001-02;2025-03-31;1;Terra Nova - Lote 02 Qd 02;;7945000.03
@@ -219,6 +223,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 58.263.012/0001-99;2025-03-31;2;Fábrica - Uberlândia/MG;UBMG-180230;363000000
 58.263.012/0001-99;2025-06-30;2;Fábrica - Uberlândia/MG;UBMG-180230;363000000
 58.263.012/0001-99;2025-09-30;1;Fábrica - Uberlândia/MG;UBMG-180230;363000000
+58.263.012/0001-99;2025-12-31;1;Fábrica - Uberlândia/MG;UBMG-180230;363000000
 58.316.418/0001-92;2025-09-30;1;Aegea MT Barra1;Direito Real de Superfície;1790887.16
 58.316.418/0001-92;2025-09-30;1;Aegea MT Barra2;Direito Real de Superfície;2052136.6
 58.316.418/0001-92;2025-09-30;1;Aegea MT Paranatinga;Direito Real de Superfície;1143759.64

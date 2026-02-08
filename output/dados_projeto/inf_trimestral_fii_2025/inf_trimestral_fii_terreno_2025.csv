@@ -2,6 +2,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 00.868.235/0001-08;2025-03-31;1;Rua Primeiro de Janeiro, 100;Terreno;3950;1;0
 00.868.235/0001-08;2025-06-30;1;Rua Primeiro de Janeiro, 100;Terreno;3950;1;0
 00.868.235/0001-08;2025-09-30;1;Rua Primeiro de Janeiro, 100;Terreno;3950;1;0
+00.868.235/0001-08;2025-12-31;1;Rua Primeiro de Janeiro, 100;Terreno;3950;1;0
 01.235.622/0001-61;2025-03-31;1;Av. Vereador Hermínio Moreira - Itaboraí, RJ;Itaboraí;20000;0;0
 01.235.622/0001-61;2025-03-31;1;Rodovia Darly Santos - Vila Velha - ES;Green Village;477000;0;0
 01.235.622/0001-61;2025-03-31;1;Praia Rasa, Búzios - RJ;Aretê - Toriba I;11537;0;0
@@ -579,6 +580,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 32.275.252/0001-10;2025-03-31;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
 32.275.252/0001-10;2025-06-30;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
 32.275.252/0001-10;2025-09-30;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
+32.275.252/0001-10;2025-12-31;1;Fazenda Santana, BOTUCATU - SP;2º subdistrito de Botucatu;201700;1;0
 32.388.168/0001-02;2025-03-31;1;Fazenda Sta Clara A;MAT 11358;48400.09;0.3708;0
 32.388.168/0001-02;2025-03-31;1;Fazenda Sta Clara B;MAT 11359;29448.95;0.1199;0
 32.388.168/0001-02;2025-03-31;1;Fazenda Sta Clara C;MAT 11360;29448.95;0.1232;0
@@ -591,6 +593,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 32.388.168/0001-02;2025-09-30;1;Fazenda Sta Clara B;MAT 11359;29448.95;0.0557;0
 32.388.168/0001-02;2025-09-30;1;Fazenda Sta Clara C;MAT 11360;29448.95;0.0572;0
 32.388.168/0001-02;2025-09-30;1;Sitio Santa Clara;MAT 17028;108900;0.1792;0
+32.388.168/0001-02;2025-12-31;1;Fazenda Sta Clara A;MAT 11358;48400.09;0.1721;0
+32.388.168/0001-02;2025-12-31;1;Fazenda Sta Clara B;MAT 11359;29448.95;0.0557;0
+32.388.168/0001-02;2025-12-31;1;Fazenda Sta Clara C;MAT 11360;29448.95;0.0572;0
+32.388.168/0001-02;2025-12-31;1;Sitio Santa Clara;MAT 17028;108900;0.1792;0
+32.388.168/0001-02;2025-12-31;1;GRANOSCAR IBIRA 122A;GRANOSCAR IBIRA 122A;6289;0.18084;0
+32.388.168/0001-02;2025-12-31;1;GRANOSCAR IBIRA 232A;GRANOSCAR IBIRA 232A;6289;0.37065;0
 32.892.018/0001-31;2025-03-31;1;Av. Menino Marcelo, 1.051 - Antares - Maceió - AL;Não há;14064.75;0.00248146711134906;0
 32.892.018/0001-31;2025-03-31;1;Av. Apolônio Sales, 665;Não há;312.4;0;0
 32.892.018/0001-31;2025-03-31;1;Av. Apolônio Sales, 679;Não há;330;0;0
@@ -656,6 +664,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 36.258.924/0001-30;2025-06-30;1;IMOVEL -TERRENO BELEM;TERRENO BELEM;;0.1234;1
 36.258.924/0001-30;2025-06-30;1;IMOVEL BENFEITORIAS;Benfeitorias - TERRENO;;0.0595;1
 36.258.924/0001-30;2025-09-30;1;IMOVEL -TERRENO BELEM;TERRENO BELEM;1000;0.09;1
+36.258.924/0001-30;2025-12-31;1;IMOVEL -TERRENO BELEM;TERRENO BELEM;1000;0.0856;1
 36.312.025/0001-78;2025-03-31;1;Rua Visconde de Pirajá, n.º 616 - Ipanema - Rio de Janeiro - RJ.;=G88VISCONDE DE PIRAJÁ - MAT. 49,995;895.65;0;0
 36.312.025/0001-78;2025-03-31;1;Rua Batista de Oliveira esquina com a Rua Sampaio;=G88Matrícula nº 42.746 - Cartório Do 2º Ofício De Registro De Imóveis da Comarca de Juiz de Fora -MG;1082.75;0;0
 36.312.025/0001-78;2025-03-31;1;Rua Barão de São João Nepomuceno, nº 232 - Centro - Juiz de Fora MG;LOJA COMERCIAL - SÃO JOÃO;319.3;0;0
@@ -671,6 +680,13 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 36.312.025/0001-78;2025-09-30;1;Loteamento Alphaville 14 - Quadra "Q" - Juiz de Fora - MG;Matrícula nº 64.069 do Cartório do 3º Ofício de Registro de Imóveis de Juiz de Fora/MG;489.91;0;0
 36.312.025/0001-78;2025-09-30;1;Loteamento Alphaville 15 - Quadra "Q" - Juiz de Fora - MG;Matrícula nº 64.070 do Cartório do 3º Ofício de Registro de Imóveis de Juiz de Fora/M;489.78;0;0
 36.312.025/0001-78;2025-09-30;1;Loteamento Alphaville 16 - Quadra "Q" - Juiz de Fora - MG;Matrícula nº 64.071 do Cartório do 3º Ofício de Registro de Imóveis de Juiz de Fora/M;482.74;0;0
+36.312.025/0001-78;2025-12-31;1;Rua Visconde de Pirajá, n.º 616 - Ipanema - Rio de Janeiro -RJ.;MAT. 49,995;895.65;0;0
+36.312.025/0001-78;2025-12-31;1;Rua Batista de Oliveira esquina com a Rua Sampaio;Matrícula nº 42.746;1082.75;0;0
+36.312.025/0001-78;2025-12-31;1;Rua Barão de São João Nepomuceno, nº 232 - Centro - Juizde Fora MG;na;319.3;0;0
+36.312.025/0001-78;2025-12-31;1;Loteamento Alphaville 13 - Quadra "Q" - Juiz de Fora - MG;Matrícula nº 64.068 do Cartório do 3º Ofício de Registro deImóveis de Juiz de Fora/MG;489.48;0;0
+36.312.025/0001-78;2025-12-31;1;Loteamento Alphaville 14 - Quadra "Q" - Juiz de Fora - MG;Matrícula nº 64.069 do Cartório do 3º Ofício de Registro deImóveis de Juiz de Fora/MG;489.91;0;0
+36.312.025/0001-78;2025-12-31;1;Loteamento Alphaville 15 - Quadra "Q" - Juiz de Fora - MG;Matrícula nº 64.070 do Cartório do 3º Ofício de Registro deImóveis de Juiz de Fora/M;489.78;0;0
+36.312.025/0001-78;2025-12-31;1;Loteamento Alphaville 16 - Quadra "Q" - Juiz de Fora - MG;Matrícula nº 64.071 do Cartório do 3º Ofício de Registro deImóveis de Juiz de Fora/M;482.74;0;0
 36.885.948/0001-19;2025-03-31;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;;
 36.885.948/0001-19;2025-03-31;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;;
 36.885.948/0001-19;2025-03-31;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;;
@@ -679,6 +695,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 36.885.948/0001-19;2025-06-30;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);330;;
 36.885.948/0001-19;2025-06-30;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 10, da Quadra 04(ZM-BD);347.52;;
 36.885.948/0001-19;2025-06-30;1;Avenida Marginal Leste, Goiânia;Lote de terreno urbano de número 11, da Quadra 04(ZM-BD);319.57;;
+36.885.948/0001-19;2025-09-30;2;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;0;0
+36.885.948/0001-19;2025-09-30;2;Avenida Marginal Leste, Goiânia Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);na;330;0;0
+36.885.948/0001-19;2025-09-30;2;Avenida Marginal Leste, Goiânia Lote de terreno urbano de número 10, da Quadra 04 (ZM-BD);na;347.52;0;0
+36.885.948/0001-19;2025-09-30;2;Avenida Marginal Leste, Goiânia Lote de terreno urbano de número 11, da Quadra 04 (ZM-BD);na;319.57;0;0
+36.885.948/0001-19;2025-12-31;1;Um lote de terras de nº 13, da quadra "B5";Matrícula 50.492;360;0;0
+36.885.948/0001-19;2025-12-31;1;Avenida Marginal Leste, Goiânia Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);na;330;0;0
+36.885.948/0001-19;2025-12-31;1;Avenida Marginal Leste, Goiânia Lote de terreno urbano de número 10, da Quadra 04 (ZM-BD);na;347.52;0;0
+36.885.948/0001-19;2025-12-31;1;Avenida Marginal Leste, Goiânia Lote de terreno urbano de número 11, da Quadra 04 (ZM-BD);na;319.57;0;0
 36.885.989/0001-05;2025-03-31;1;Avenida Alphaville Flamboyant;fração ideal de 1,9250% do lote de terras de nº 01, da quadra "A4;9876.24;0;0
 36.885.989/0001-05;2025-03-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 34;matrícula nº 155.412.;720;0;0
 36.885.989/0001-05;2025-03-31;1;Avenida das Palmeiras, s/n, em Brasília-DF lote 11;matrícula nº 155.412.;720;0;0
@@ -791,6 +815,17 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 41.650.310/0001-39;2025-09-30;1;Ruas Dona Clô e Alvaro Maia, Lote 490,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;Matrícula 52563;969.3;1;0
 41.650.310/0001-39;2025-09-30;1;Ruas Dona Clô e Alvaro Maia, Lote 490,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;Matrícula 6.232;947.75;1;0
 41.650.310/0001-39;2025-09-30;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;Matrícula 64.777;1000;1;0
+41.650.310/0001-39;2025-12-31;1;Avenida Capitão Júlio Bezerra, Lotes 42, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matricula 1025;1160;1;0.00718946689730996
+41.650.310/0001-39;2025-12-31;1;Rua Amparo do Itororó, bairro Alvorada,Manaus, Amazonas.;Matrícula 12.657;16550.4;1;0.069
+41.650.310/0001-39;2025-12-31;1;Avenida Max Teixeira, Bairro Cidade Nova, Manaus, Amazonas;Matrícula 15240;3000;1;0.021
+41.650.310/0001-39;2025-12-31;1;Avenida Capitão Júlio Bezerra, Lotes 96, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matrícula 16408;984;1;0.0062
+41.650.310/0001-39;2025-12-31;1;Ruas Dona Clô e Alvaro Maia, Lote 490,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;Matrícula 2319;1078;1;0.004
+41.650.310/0001-39;2025-12-31;1;Avenida Capitão Júlio Bezerra, Lotes 62, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matrícula 2396;630;1;0
+41.650.310/0001-39;2025-12-31;1;Avenida Desembargador João Machado, Lote 4, Bairro Campos Elíseos,Manaus, Amazonas;Matrícula 3574;1379670;1;0
+41.650.310/0001-39;2025-12-31;1;Avenida Capitão Júlio Bezerra, Lotes 83, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matrícula 5384;980;1;0
+41.650.310/0001-39;2025-12-31;1;Ruas Dona Clô e Alvaro Maia, Lote 490,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;Matrícula 52563;969.3;1;0
+41.650.310/0001-39;2025-12-31;1;Ruas Dona Clô e Alvaro Maia, Lote 490,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;Matrícula 6.232;947.75;1;0
+41.650.310/0001-39;2025-12-31;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;Matrícula 64.777;1000;1;0
 41.833.876/0001-04;2025-03-31;1;Fazenda Uanalua, estrada Trancoso - Arraial D'Ajuda, s/n, Trancoso, Porto Seguro/BA;Direito de propriedade;326698.31;1;1
 41.833.876/0001-04;2025-06-30;1;Fazenda Uanalua, estrada Trancoso - Arraial D'Ajuda, s/n, Trancoso, Porto Seguro/BA;Direito de propriedade;326698.31;1;1
 41.833.876/0001-04;2025-09-30;1;Fazenda Uanalua, estrada Trancoso - Arraial D'Ajuda, s/n, Trancoso, Porto Seguro/BA;Direito de propriedade;326698.31;1;1
@@ -983,6 +1018,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.584.965/0001-44;2025-09-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracilia matricula 11.529;0;0.4984;0
 44.584.965/0001-44;2025-09-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 58.931;0;0.2508;0
 44.584.965/0001-44;2025-09-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 101.52;0;0.2508;0
+44.584.965/0001-44;2025-12-31;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracilia matricula 11.529;0;0.4984;0
+44.584.965/0001-44;2025-12-31;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 58.931;0;0.2508;0
+44.584.965/0001-44;2025-12-31;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 101.52;0;0.2508;0
 44.585.121/0001-18;2025-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;matrícula de n.º 162578 - terreno;1871.58;0.3608;0
 44.585.121/0001-18;2025-03-31;1;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;matrícula de n.º 162579 - predio;954.07;0.3165;0
 44.585.121/0001-18;2025-03-31;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;n/a;9259.26;0.3226;0
@@ -1054,6 +1092,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.705.818/0001-85;2025-06-30;1;Imóvel Bom Retiro 2;Matrícula nº 28.933;2578;0;0
 44.705.818/0001-85;2025-09-30;1;Imóvel Barra Funda;Matrícula nº 108.652;270;0;0
 44.705.818/0001-85;2025-09-30;1;Imóvel Bom Retiro 2;Matrícula nº 28.933;2578;0;0
+44.705.818/0001-85;2025-12-31;1;Imóvel Barra Funda;Matrícula nº 108.652;270;0;0
+44.705.818/0001-85;2025-12-31;1;Imóvel Bom Retiro 2;Matrícula nº 28.933;2578;0;0
 45.718.511/0001-81;2025-03-31;1;Filadélfia - TO;Bloco 02 - Bom Jesus;747.53;1;0.0172
 45.718.511/0001-81;2025-03-31;1;Palmeirante - TO;Bloco 03 - São Judas Tadeu;1141.73;1;0.01
 45.718.511/0001-81;2025-03-31;1;Palmeirante - TO;Bloco 04 - Brejo Verde;565.46;1;-0.0115
@@ -1301,6 +1341,20 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 51.889.479/0001-08;2025-09-30;1;Terreno São Borges;Terreno São Borges;3000;0.0212;0.0222
 51.889.479/0001-08;2025-09-30;1;Terreno Bunge;Terreno Bunge;2500;0.0177;0.0185
 51.889.479/0001-08;2025-09-30;1;Terreno TRAMANDAI;Terreno TRAMANDAI;6100;0.0431;0.0452
+51.889.479/0001-08;2025-12-31;1;CANOAS Bittencourt - mat. 90.923;Rua Roberto Francisco Behrens;4632.113;0.0127;0.0133
+51.889.479/0001-08;2025-12-31;1;SÃO BORJA- mat. 30.094;Avenida Presidente Goulart;30000;0.0382;0.0382
+51.889.479/0001-08;2025-12-31;1;VIAMÃO mat. 40.176;Km 19, Estrada de Rodagem Porto Alegre - Viamão;13788.6;0.0892;0.0936
+51.889.479/0001-08;2025-12-31;1;VIAMÃO mat. 81.006;Km 19, Estrada de Rodagem Porto Alegre - Viamão;6740.13;0.0358;0.0376
+51.889.479/0001-08;2025-12-31;1;CRUZ ALTA - mat. 51.078;Av. Saturnino de Brito, 601 - São Francisco - Cruz Alta/RS;7008.48;0.12;0.1261
+51.889.479/0001-08;2025-12-31;1;LAGES - mat. 36.632;Rua Hirto Luiz Melegari, 465 - Sagrado Coração de Jesus, Lages/SC;9310.7;0.1236;0.1298
+51.889.479/0001-08;2025-12-31;1;SANTA MARIA - mat.107.647;Avenida Maestro Roberto Barbosa Ribas, Bairro Juscelino Kubitschek - Santa Maria;29713.42;0.0918;0.0964
+51.889.479/0001-08;2025-12-31;1;SÃO GABRIEL - Mat.4.42;Av. Francisco Chagas, 1540 - São Gabriel - RS;16348;0.0177;0.0185
+51.889.479/0001-08;2025-12-31;1;IMOVEL -PELOTAS;terreno Pelotas - MAT 73.756;17500;0.1236;0.1298
+51.889.479/0001-08;2025-12-31;1;Terreno São Borges;Terreno São Borges;3000;0.0212;0.0222
+51.889.479/0001-08;2025-12-31;1;Terreno Bunge;Terreno Bunge;2500;0.0177;0.0185
+51.889.479/0001-08;2025-12-31;1;Terreno TRAMANDAI;Terreno TRAMANDAI;6100;0.0431;0.0452
+51.889.479/0001-08;2025-12-31;1;Terreno Nova Hamburgo;Imovel urgabo -Matrícula 52.917;22210.19;0.0978;0.0978
+52.356.865/0001-99;2025-12-31;1;Av. Do Estado Dalmo Vieira - Pioneiros, Balneário Camboríu/ SC.;MATRICULA 23501;1988.91;0.5969;0
 52.371.756/0001-40;2025-03-31;1;ARAUCÁRIA - Rodovia PR-423, 3301, Bairro Boqueirão;Matrícula 63.339;358507.08;1;0
 52.371.756/0001-40;2025-06-30;1;ARAUCÁRIA - Rodovia PR-423, 3301, Bairro Boqueirão;Matrícula 63.339;358507.08;1;0
 52.371.756/0001-40;2025-09-30;1;ARAUCÁRIA - Rodovia PR-423, 3301, Bairro Boqueirão;Matrícula 63.339;358507.08;1;0

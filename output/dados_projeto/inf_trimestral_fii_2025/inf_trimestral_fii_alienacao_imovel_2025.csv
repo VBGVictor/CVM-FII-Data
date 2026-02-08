@@ -21,6 +21,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 09.072.017/0001-29;2025-06-30;1;Berrini One;Avenida Eng. Carlos Berrini, 105 - São Paulo - SP;2025-05-15;2959.34;4;-;0.274134;0.108681
 11.827.568/0001-05;2025-03-31;1;Rua Penido Bumier;Rua Penido Bumier;2025-01-27;1;1;Penido burnier;0.0214;0.0045
 12.516.185/0001-70;2025-09-30;1;C&A - Alphaville;Alameda Araguaia, 617, Alphaville, Barueri/SP;2025-09-19;8492;1;O Fundo possui 100% do imóvel.;0;0
+13.500.306/0001-59;2025-12-31;1;Loja Térrea - Imóvel Bravo! BH;Rua Rio de Janeiro, 654, Belo Horizonte/MG;2025-12-09;783.99;1;CJ11;0.046548;0.042668
 13.598.226/0001-88;2025-09-30;1;HIPODROMO;RUA DO HIPODROMO, 600;2025-09-22;4540;1;ID 338 MATRICULA 125.042;0.0666;0.3362
 13.598.226/0001-88;2025-09-30;1;ARIZONA;RUA ARIZONA, 715;2025-07-07;153.73;1;ID 32 MATRICULA 92411;0.0024;0.0121
 13.974.819/0001-00;2025-09-30;1;Imóvel Duque de Caxias - Galpão 01;Rod. Washington Luiz, km 114, Via Projetada Aterial PD04,  nº 3777;2025-09-15;49603;1;A Transação foi concluída pelo valor total de R$ 87.000.000,00, nos termos aprovados na Assembleia Geral Extraordinária de Cotistas do Fundo, realizada em 23 de outubro de 2024, descontados os montantes referentes à saldos devedores.;0.7049;0.4069
@@ -55,6 +56,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 21.126.204/0001-43;2025-09-30;1;12;Av. Presidente Kennedy, 09;2025-09-29;2662;1;N/A;0.042219;0.042671
 21.126.204/0001-43;2025-09-30;1;14;Pça XV de Novembro, 111;2025-09-29;1145;1;N/A;0.015081;0.015242
 21.126.204/0001-43;2025-09-30;1;40;Av. Adolfo Pinheiro, 62 - Santo Amaro;2025-09-29;3264;1;N/A;0.089055;0.09001
+21.126.204/0001-43;2025-12-31;1;22;Rua Voluntários da Pátria, 29 - Centro - Porto Alegre - RS;2025-10-15;2069;1;N/A;0.028853;0.020126
+21.126.204/0001-43;2025-12-31;1;43;Rua dos Americanos, 465 - Barra Funda - São Paulo - SP;2025-11-10;1167;1;N/A;0.014108;0.009841
+21.126.204/0001-43;2025-12-31;1;34;Av. Getulio Vargas, 258 - Centro - Rio Branco - AC;2025-12-03;2894;1;N/A;0.034831;0.024296
 24.703.709/0001-11;2025-03-31;1;Apto Nº114 - Ed Caroline ;Rua Urimonduba, nº 114;;;1;Unidade localizada no Apto Nº114 - Ed Caroline ;0;0
 24.703.709/0001-11;2025-03-31;1;Apto Nº104 - Ed. Guaraí - R. Dr. Mello;Rua Dr. Mello Alves nº 247;;;1;Unidade localizada no Apto Nº104 - Ed. Guaraí - R. Dr. Mello;0;0
 24.703.709/0001-11;2025-03-31;1;Apto Nº112 - Mourato Coelho;Mourato Coelho, 112;;;1;-;0;0
@@ -111,6 +115,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 31.894.369/0001-19;2025-09-30;2;Edifício Rachid Saliba;Rua Bela Cintra, 986, Cerqueira Cesar - São Paulo - SP;2025-07-18;12358.2;28;-;1;0.467865
 32.274.163/0001-59;2025-09-30;1;CANOPUS - SALA Nº 101 A;Av. Tamboré, 267 - Alphaville - Barueri - SP;2025-09-22;1137;1;Área construída de 22.899,55m² (andares do 6 ao 17, 19, 20 e 23 - Torre A e andares 8, 10 16 a 18, 22 e 23 - Torre B);0.008316;0.009989
 32.274.163/0001-59;2025-09-30;1;CANOPUS - SALA Nº 91 A;Av. Tamboré, 267 - Alphaville - Barueri - SP;2025-09-22;1137;1;Área construída de 22.899,55m² (andares do 6 ao 17, 19, 20 e 23 - Torre A e andares 8, 10 16 a 18, 22 e 23 - Torre B);0.008316;0.009989
+32.274.163/0001-59;2025-12-31;1;Cidade Matarazzo;Alameda Rio Claro, 190, Bela Vista, São Paulo - SP;2025-10-27;2427;8;Direito de propriedade;0.0954;0.1129
+32.274.163/0001-59;2025-12-31;1;Avenida Europa;Avenida Europa,nº 884, lote 3, quadra 6,  Jardim América, São Paulo - SP;2025-12-26;1962.6;1;Direito de propriedade;0.0372;0.0397
 32.903.702/0001-71;2025-03-31;1;Galpão Logístico Barueri - SP;Avenida Tucunaré , 720, Tamboré - CEP: 06460-020, Barueri - SP;2025-02-27;18884;1;N/A;0.0884424589703336;0.0865204403744824
 34.197.776/0001-65;2025-09-30;1;Hotel Vila Madalena;Rua Aspicuelta, 245, Numeros 245, 251 E 259, Vila Madalena, Sao Paulo/SP, Brasil, 05433-010;2025-08-20;3467.7;1;Não possui características que destoem dos demais;0.43966675989442;57.1069776264992
 34.508.923/0001-70;2025-03-31;1;HIPICA MAX G;Rua Manoel Ribero da Cruz, S/N, São Paulo - SP, CEP 04716-030;2025-02-27;861.12;1;Não se aplica;0.150369;0.12959
@@ -254,6 +260,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 43.008.884/0001-33;2025-03-31;1;Edificio Edson;Rua Edson, 1400, Sem Complemento, Campo Belo, São Paulo/SP, Brasil, 04618-035;2025-02-10;2343.45;1;Direito de propriedade.;0.14669544815811;0.14710012232282
 43.010.844/0001-26;2025-06-30;2;Hotel Selina;Avenida Vieira De Carvalho, 99, Sem Complemento, Republica, Sao Paulo/SP, Brasil, 01210-010;2025-05-18;5394;1;Direito de propriedade;0.02601135891742;0.02622441870469
 43.951.851/0001-22;2025-09-30;1;Edifício Panamerica Green Park;Av. Guido Caloi 1000, São Paulo, SP, 05802-140;2025-04-15;4843.86;4;Foram emitidos Certificados de Recebíveis Imobiliários ("CRI"), Série 1ª, 2ª,3ª e 4ª  da 8ª ,13ª,14ª,39ª e 40ª Emissão da OPEA Securitizadora SA, adquiridos em sua totalidade Itaú. Em garantia dos pagamentos destes CRIs, foi outorgado alienação fiduciária sobre a totalidade das cotas de emissão, do imóvel do FII e a cessão de recebíbeis.;1;0.7878
+46.157.348/0001-98;2025-12-31;1;HELBOR VILA OLIMPIA HOME & STY;Rua Funchal, 65, Vila Olimpia;2026-01-04;360.85;5;Matricula 108.072;0;0
 46.285.299/0001-79;2025-09-30;1;LUMI501;Avenida Soledade, 257/267 - Petropolis, Porto Alegre, RS;2025-08-22;345.65;1;n/a;0.1852;0.1867
 46.285.299/0001-79;2025-09-30;1;LUMI602;Avenida Soledade, 257/267 - Petropolis, Porto Alegre, RS;2025-08-29;345.65;1;n/a;0.2276;0.1826
 46.285.299/0001-79;2025-09-30;1;LUMI701;Avenida Soledade, 257/267 - Petropolis, Porto Alegre, RS;2025-09-23;345.65;1;n/a;0.3195;0.1919
@@ -538,6 +545,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 51.870.412/0001-13;2025-09-30;1;Residencial Vida Habitat;R. Paranaíba, 581 - St. Planalto, Jataí - GO, 75805-045;2025-09-22;78.84;1;N/A;0.1316;0.0007
 51.870.412/0001-13;2025-09-30;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-08-31;240.09;3;N/A;0.4286;0.0028
 51.870.412/0001-13;2025-09-30;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-09-30;160.06;2;N/A;0.5;0.0019
+52.904.581/0001-90;2025-12-31;1;IMOVEL RJ;AV. EPITÁCIO PESSOA,Nº 4.180, BL. 02, APT.101;2025-12-03;2876777;1;IMOVEL RIO DE JANEIRO;1;0.1921
 55.793.516/0001-22;2025-03-31;1;P0076-ROOFT;Rua Santo André, nº 366, apartamento 51 e box de garagem G-9, Ed. Amarilis, CEP 09020-230 - Santo André/São Paulo;2025-03-28;164;1;n/a;0;0
 58.544.087/0001-48;2025-06-30;1;Nome;Endereço;;Área;;Outras características relevantes;;
 58.561.054/0001-06;2025-06-30;2;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;2025-06-06;206.8;1;Cj 31-A, subdivisão do cj 31, localizado no 3º andar, com área privativa de 206,80m², objeto da matrícula nº 52073 do 4° registro de imóveis.  Contrato de locação formalizado, com vigência a partir de maio/25.;0.157566;0.099652

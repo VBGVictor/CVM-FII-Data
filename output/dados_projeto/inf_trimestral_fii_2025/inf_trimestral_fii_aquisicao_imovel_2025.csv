@@ -115,10 +115,21 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 34.508.923/0001-70;2025-09-30;1;PQCID_APTO33;Avenida das Naçoes Unidas, 14401, Chácara Santo Antonio, São Paulo - SP, 4730090;1124.46;1;Matrícula 467710;0.218291;Venda
 34.691.520/0001-00;2025-06-30;1;Assai Ipatinga;Avenida Pedro Linhares Gomes, 5765, Sem Complemento, Industrial, Ipatinga/MG, Brasil, 35160-291;5500;1;Direito de Propriedade;0.10968607157406;Renda
 36.258.924/0001-30;2025-09-30;1;IMOVEL LBV 4;URBANO LBV 4;45000000;1;MATRICULA - Nº 82.480;0.24;Renda
+36.258.924/0001-30;2025-12-31;1;IMOVEL LBV 4;URBANO LBV 4;45000000;1;MATRICULA - Nº 82.480;0.24;Renda
 36.885.948/0001-19;2025-03-31;1;IMÓVEL IGUATEMI;Rua Viradouro nº 120, Jd Paulista;387.637;1;imovel;1;Renda
 38.293.897/0001-61;2025-03-31;1;Jardim Petrella Brooklin;Rua Pascoal Pais, 494/498, Vila Cordeiro, São Paulo/SP, Brasil, 04581-060;7580.61;1;Direito de Propriedade;0.01435315608519;Venda
 39.714.024/0001-48;2025-06-30;1;Ed.Barra Private e  Ed. Neolink;Ed. Barra Private: Av. Armando Lombardi nº 400  - Jacarepaguá - RJEd. Neolink: Av. Ayrton Senna, nº 2500, Jacarepaguá - RJ;5359.91;29;Barra Private, Neolink, Office I, Office II, Stay II;0.190097;Renda
 41.325.993/0001-59;2025-06-30;1;MA138599;Rua Ana Vieira de Carvalho - Casa 4;383.08;1;matrícula 138.599 casa 4;1;Venda
+41.650.310/0001-39;2025-12-31;1;AVENIDA MAX TEIXEIRA, Nº 3.676;Av. Max Teixeira, 3676;7883.34;;MATRICULA 3.353;0.240910206558983;Renda
+41.650.310/0001-39;2025-12-31;1;AVENIDA TANCREDO NEVES;AVENIDA TANCREDO NEVES;6691.98;;MATRICULA 94.352;;Renda
+41.650.310/0001-39;2025-12-31;1;AVENIDA AUTAZ MIRIM;Loja nº 11, Avenida Autaz Mirim,Bairro São José Operário. Manaus, Amazonas.;1090.39;;MAT. 10.834;;Renda
+41.650.310/0001-39;2025-12-31;1;RUA NOSSA SENHORA DA CONCEIÇÃO;Rua Nossa Senhora da Conceição, 938, Bairro Jorge Teixeira, Manaus, Amazonas.;3502.8;;MATRICULA 12.360;;Renda
+41.650.310/0001-39;2025-12-31;1;AVENIDA CORONEL TEIXEIRA,N4081;Avenida Coronel Teixeira, 4081, Bairro de Ponta Negra,Manaus, Amazonas;3296.31;;Matrícula 45793;;Renda
+41.650.310/0001-39;2025-12-31;1;AV. FRANCISCO QUEIROZ, N 1025;Avenida Francisco Queiroz, nº 1.025, Colônia Santo Antônio, Manaus, Amazonas.;6184.99;;MAT 50.893;;Renda
+41.650.310/0001-39;2025-12-31;1;ESTRADA DA COMPENSA;Loja 21, Avenida Padre Agostinho Caballero Martin, 2462, Bairro Santo Antônio, Manaus,Amazonas;9000;;Matrícula 57.618;;Renda
+41.650.310/0001-39;2025-12-31;1;AV. TORQUATO TAPAJÓS, Nº 6584;Loja 27,Avenida Torquato Tapajós, nº 6584, Colônia Terra Nova, Manaus, Amazonas.;5930.18;;Matrícula 96568;;Renda
+41.650.310/0001-39;2025-12-31;1;RUA DOS BARÉS, 269;Avenida do Ósmio, 1.500, no bairro da Ressaca, Atibaia, São Paulo.;155.25;;Matrícula 12.843;;Renda
+41.650.310/0001-39;2025-12-31;1;AV. TORQUATO TAPAJÓS, Nº 6584;Rua Saldanha Marinho, nº 402, Bairro Centro , Manaus, Amazonas.;0;;Matrícula 16261;;Renda
 41.650.365/0001-49;2025-06-30;1;Edifício IBM;Avenida Getúlio Vargas, 291;0;42;matrículas nº 63.972, 63.973, 63.974, 63.975, 63.976, 63.977, 63.978, 63.979, 63.980, 63.981, 63.982, 63.983, 63.984, 63.985, 63.986, 63.987, 63.988, 63.989, 63.990, 63.991, 63.992, 63.993, 63.994, 63.995, 63.996, 63.997, 63.998, 63.999, 64.000, 64.001, 64.002, 64.003, 64.004, 64.005, 64.006, 64.007, 64.008, 64.009, 64.010, 64.011, 64.012, 64.013;1;Renda
 42.517.145/0001-04;2025-06-30;1;IMOVEL PURA GESTÃO PARTICIPAÇÕES;-;0;1;-;0.36863;Venda
 42.537.540/0001-59;2025-06-30;1;Estrada da Portela 17;Estrada Do Portela, 17, Sem Complemento, Madureira, Rio De Janeiro/RJ, Brasil, 21351-050;1149;1;Direito de Propriedade;0.06863673484272;Renda
