@@ -1,26 +1,91 @@
 CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Categoria
 01.356.517/0001-80;2025-06-30;1;Prédio com terreno;Rua Latife Luvizaro, 133 (parte = 1/3);414;1;prédio com área de estacionamento na frente;0.005324;Renda
 07.789.135/0001-27;2025-09-30;1;SJS - SHOPPING JARDIM SUL;R. Itacaiúna, 61 - Vila Andrade - São Paulo - SP;28721.42;171;SJS - SHOPPING, localizado na Rua Itacaiúna, 61, Vila Andrade, São Paulo - SP, estando o terreno perfeitamente descrito e caracterizado na matrícula 311.650 a 381.820 do 11º Ofício de Registro de Imóveis de São Paulo - SP.;0.1;Renda
+08.431.747/0001-06;2025-12-31;1;ParkShopping São Caetano;Alameda Terracota, 545 - São Caetano do Sul - SP;39251.7;252;Fração ideal de 20% do imóvel;0.08;Renda
 08.706.065/0001-69;2025-03-31;1;Ibis São Paulo Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;6862.5;227;28/03/2025;0.072245;Renda
 08.706.065/0001-69;2025-03-31;1;Novotel Morumbi;Rua Ministro Nelson Hungria, 577, Morumbi, São Paulo/SP, Brasil, 05690-050;2005.37;2;28/03/2025;0.01384;Renda
 08.706.065/0001-69;2025-03-31;1;Ibis Budget Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;1491.2;31;28/03/2025;0.077402;Renda
 11.839.593/0001-09;2025-09-30;2;Galpao Santo Andre;Avenida Joao Pessoa, 500, Sem Complemento, Jardim Utinga, Santo André/SP, Brasil, 09230-650;40474;1;Direito de Propriedade;0.0206456794551;Renda
 11.839.593/0001-09;2025-09-30;2;Imovel Barueri;Avenida Tucunare, 720, Sem Complemento, Tamboré, Barueri/SP, Brasil, 06460-020;25394.2;1;Direito de Propriedade;0.00553519290387;Renda
+11.839.593/0001-09;2025-12-31;1;BTLG - Maua II;Avenida Papa Joao Xxiii, 3740, Sem Complemento, Sitio Sertão, Mauá/SP, Brasil, 09370-800;48417;2;Direito de Propriedade;0.02744010727285;Renda
+11.839.593/0001-09;2025-12-31;1;BTLG - Osasco;Avenida Doutor Alberto Jackson Byington, 2990, Sem Complemento, Industrial Anhangüera, Osasco/SP, Brasil, 06276-000;35011.07;1;Direito de Propriedade;0.02010482729324;Renda
 13.320.290/0001-00;2025-03-31;1;MAT 6273 - FAZENDA PAU DE COLHER;Rodovia Ba.324 - Km.20, S/n, Zona Rural, Ourolândia, Ourolândia/BA, Brasil, 44718-000;3870443.1;1;Direito de Propriedade;0;Renda
 13.320.290/0001-00;2025-06-30;1;MAT 8967 - FAZENDA DIVINA;Zona Rural, S/n, Sem Complemento, Itaguaçu Da Bahia, Itaguaçu Da Bahia/BA, Brasil, 47440-000;4658.12;1;Direito de Propriedade;0.04164690218235;Renda
 13.320.290/0001-00;2025-06-30;1;MAT 7226 - FAZENDA MANDIOCA BRAVA;Zona Rural, S/n, Sem Complemento, Itaguaçu Da Bahia, Itaguaçu Da Bahia/BA, Brasil, 47440-000;4733.75;1;Direito de Propriedade;0.04232306648454;Renda
 13.320.290/0001-00;2025-06-30;1;MAT 8654 - FAZENDA TEXAS;Zona Rural, S/n, Sem Complemento, Itaguaçu Da Bahia, Itaguaçu Da Bahia/BA, Brasil, 47440-000;9454.76;1;Direito de Propriedade;0.08453216682351;Renda
 13.320.290/0001-00;2025-06-30;1;MAT 8653 - FAZENDA SAO SEBASTIAO;Zona Rural, S/n, Sem Complemento, Itaguaçu Da Bahia, Itaguaçu Da Bahia/BA, Brasil, 47440-000;4131.38;1;Direito de Propriedade;0.03693748610838;Renda
 13.320.290/0001-00;2025-06-30;1;MAT 7229 - FAZENDA SERTAO VELHO;Zona Rural, S/n, Sem Complemento, Itaguaçu Da Bahia, Itaguaçu Da Bahia/BA, Brasil, 47440-000;3547.32;1;Direito de Propriedade;0.03171551419872;Renda
+13.598.226/0001-88;2025-12-31;1;ID 102;RUA ARIZONA, 28 - SÃO PAULO - SP;110;1;- ID 102 MATRÍCULA 78.966;0.0052904167650332;Venda
+13.598.226/0001-88;2025-12-31;1;ID 105;RUA CAIUBI, 742;120;1;- ID 105 MATRÍCULA 134.627;0.00373378297374484;Venda
+13.598.226/0001-88;2025-12-31;1;ID 231;RUA CAIUBI, 750;120;1;- ID 231 MATRÍCULA 112.931;0.00583842180996107;Venda
+13.598.226/0001-88;2025-12-31;1;ID 109;RUA SANTA RITA, 721 - SÃO PAULO - SP;900;1;- ID 109 MATRÍCULA 136.264;0.0223833002193182;Venda
+13.598.226/0001-88;2025-12-31;1;ID 114;RUA ZACARIAS DE GOES, 519;100;1;- ID 114 MATRÍCULA 130.129;0.00320705866482221;Venda
+13.598.226/0001-88;2025-12-31;1;ID 14;RUA NIAGARA, 76;175;1;- ID 14 MATRÍCULA 136.773;0.00576805161868592;Venda
+13.598.226/0001-88;2025-12-31;1;ID 186;FAZENDA DENOMINADA LOPES/SERRADO - PIRASSUNUNGA - SP;169400.0053;1;- ID 186 MATRÍCULA 45.016;0.0194740549628568;Venda
+13.598.226/0001-88;2025-12-31;1;ID 19;AV PRESIDENTE WILSON, 1987;2540.2;1;- ID 19 MATRÍCULA 52.126;0.023785186438734;Venda
+13.598.226/0001-88;2025-12-31;1;ID 186;AV PRESIDENTE WILSON, 1871;3154.88;1;- ID 18 MATRÍCULA 52.126;0.0288156196244252;Venda
+13.598.226/0001-88;2025-12-31;1;ID 215;RUA ARIZONA, 421;5.69;1;- ID 215 MATRÍCULA 277.878;0.00384638469567049;Venda
+13.598.226/0001-88;2025-12-31;1;ID 22;AV REI ALBERTO, LOTE 30 DA QUADRA R - SÃO PAULO;300;1;- ID 22 MATRÍCULA 58.730;0.00771137212364676;Venda
+13.598.226/0001-88;2025-12-31;1;ID 222;RUA GODOI COLAÇO, 618 - SÃO PAULO - SP;62;1;- ID 222 MATRÍCULA 179.418;0.00424823355399621;Venda
+13.598.226/0001-88;2025-12-31;1;ID 229;AV ÁGUA ESPRAIADA, PARTE DA QUADRA 108 - SÃO PAULO - SP;154;1;- ID 229 MATRÍCULA 135.071;0.00281677933484252;Venda
+13.598.226/0001-88;2025-12-31;1;ID 232;RUA SANTA RITA, 739;60;1;- ID 232 MATRÍCULA 175.477;0.00742620329881655;Venda
+13.598.226/0001-88;2025-12-31;1;ID 249;RUA ANTÔNIO DE GODÓI, 122;22.75;1;- ID 249 MATRÍCULA 98.033;0.0007;Venda
+13.598.226/0001-88;2025-12-31;1;ID 334;RUA ZACARIAS DE GOES, 502;1350;1;- ID 334 MATRÍCULA 112.932;0.0264182439294201;Venda
+13.598.226/0001-88;2025-12-31;1;ID 341;RUA MAURO, 522 - SÃO PAULO - SP;3852;1;- ID 341 MATRÍCULA 23.408;0.0682783583000092;Venda
+13.598.226/0001-88;2025-12-31;1;ID 350;AV. JOÃO PESSOA 122-124 SANTOS;1895;1;- ID 350 MATRÍCULA 18.480;0.04048287908049;Venda
+13.598.226/0001-88;2025-12-31;1;ID 353;AV. PE. L. LUNDERS 2065;6000;1;- ID 353 MATRÍCULA 6.758;0.0417690113116756;Venda
+13.598.226/0001-88;2025-12-31;1;ID 355;AV. PORTUGAL, 1074;200;1;- ID 355 MATRÍCULA 55.824;0.0095214277911006;Venda
+13.598.226/0001-88;2025-12-31;1;ID 365;RUA BENJAMIM CONSTANT, 1214 - CAMPINAS - SP;302.08;1;- ID 365 MATRÍCULA 46.930;0.00193969808666978;Venda
+13.598.226/0001-88;2025-12-31;1;ID 366;RUA BENJAMIM CONSTANT, 1214 - CAMPINAS - SP;302.08;4;- ID 366 MATRÍCULA 46.641 / 46.642 / 46.643 / 46.644;0.00368028809159531;Venda
+13.598.226/0001-88;2025-12-31;1;ID 367;RUA WENCESLAU BRAZ, 167, 169 E 173 - SÃO PAULO - SP;333.6;1;- ID 367 MATRÍCULA 101.198;0.0557688891282947;Venda
+13.598.226/0001-88;2025-12-31;1;ID 369;PONTA DA ALDEIA - PERUÍBE - SP;7770;1;- ID 369 MATRÍCULA 117.048;0.0150476771644834;Venda
+13.598.226/0001-88;2025-12-31;1;ID 370;RA IRMÃOS BASILE, 390 - ANGATUBA - SP;320;1;- ID 370 MATRÍCULA 111;0.00175677556511893;Venda
+13.598.226/0001-88;2025-12-31;1;ID 372;RUA ABUASSALI ABUJAMRA, 11 - OURINHOS - SP;403;1;- ID 372 MATRÍCULA 1.086;0.00248949330593777;Venda
+13.598.226/0001-88;2025-12-31;1;ID 373;AV 13, Nº109 - GUAÍRA - SP;489;2;- ID 373 MATRÍCULA 18.748;0.00493916499552668;Venda
+13.598.226/0001-88;2025-12-31;1;ID 40;PERÍMETRO 14-11-12-13-14 NO 30º SUBDISTRITO IBIRAPUERA - SÃO PAULO - SP;147.54;1;- ID 40 MATRÍCULA 125.494;0.00557111689799653;Venda
+13.598.226/0001-88;2025-12-31;1;ID 45;RUA BERNARDINO DOS CAMPOS S/N (PERÍMETRO;532.78;1;- ID 45 MATRÍCULA 136.654;0.0179839557704483;Venda
+13.598.226/0001-88;2025-12-31;1;ID 66;PASSAGEM PARTICULAR UM, NO 30º - IBIRAPUERA - SÃO PAULO - SP;190.15;1;- ID 66 MATRÍCULA 168.772;0.00268998795067192;Venda
+13.598.226/0001-88;2025-12-31;1;ID 69;RUA GODOI COLAÇO, 620 - SÃO PAULO - SP;207.75;1;- ID 69 MATRÍCULA 77.660;0.00703154468292151;Venda
+13.598.226/0001-88;2025-12-31;1;ID 216;RUA ARIZONA, PERÍMETRO 34-A-33-A-32-35-34-A - SÃO PAULO;18.38;1;- ID 216 MATRÍCULA 73.681;0.00383925341492338;Venda
+13.598.226/0001-88;2025-12-31;1;ID 41;RUA GODOI COLAÇO, 55 - SÃO PAULO - SP;144.46;1;- ID 41 MATRÍCULA 79.928;0.0048736339656073;Venda
+13.598.226/0001-88;2025-12-31;1;ID 44;RUA BERNARDINO DOS CAMPOS, 1.232 - SÃO PAULO - SP;144;1;- ID 44 MATRÍCULA 121.816;0.00358236551665363;Venda
+13.598.226/0001-88;2025-12-31;1;ID 67;RUA GABRIEL DE LARA, 497 - SÃO PAULO - SP;188.37;1;- ID 67 MATRÍCULA 135.507;0.00685666561404582;Venda
+13.598.226/0001-88;2025-12-31;1;ID 91;RUA MICHIGAN, 117 - SÃO PAULO - SP;149.1;1;- ID 91 MATRÍCULA 168.770;0.00495426426056314;Venda
+13.598.226/0001-88;2025-12-31;1;ID 356;RUA ENG CÂNDIDO GOMIDE Nº 196;26517.5;1;- ID 356 MATRÍCULA 32.048;0.170022210279792;Venda
+13.598.226/0001-88;2025-12-31;1;ID 361;RUA JOÃO ALVES, 304;637;1;- ID 361 MATRÍCULA 12.559;0.00187805512375955;Venda
+13.598.226/0001-88;2025-12-31;1;ID 362;AVENIDA RODRIGUES ALVES Nº 7-48;1065.95;1;- ID 362 CERTIDÃO 284200;0.0382799612016373;Venda
+13.598.226/0001-88;2025-12-31;1;ID 364;RUA AMAZONAS - AVARÉ - SP;4700;1;- ID 364 MATRÍCULA 23.429;0.0226496749753989;Venda
+14.410.722/0001-29;2025-12-31;1;HORTFRU;Rua Professor Álvaro Rodrigues, nº 355, Loja A / Botafogo / RJ;1168;1;Nenhuma característica relevante;0.017591086895379;Renda
+14.788.492/0001-36;2025-12-31;1;Condominio Filadelfo;Rua Professor Filadelfo Azevedo, 665, Sem Complemento, Vila Nova Conceição, São Paulo/SP, Brasil, 04508-011;362.72;2;Não possui características que destoem dos demais;0.00941378928646;Venda
 17.161.979/0001-82;2025-06-30;2;Ed. Concórdia;Alameda Oscar Niemeyer, nº 132, Vale Sereno, Nova Lima - MG;24397;70;Salão, Lj 2, salas 101 201 a 502, 801 a 1102, 49,44% da sl 1501 29,14% da sl 1502, 65,73% da sl 1602, salas 1701 a 3102. Estacion e dep;0.339994;Renda
+17.282.011/0001-04;2025-12-31;1;Ed JK Financial Center;Avenida Presidente Juscelino Kubitschek, 510, Sem Complemento, Vila Nova Conceição, São Paulo/SP, Brasil, 04543-000;1945.48;4;Direito de propriedade.;0.077473;Renda
+17.282.011/0001-04;2025-12-31;1;Ed Juscelino Plaza;Rua Doutor Eduardo De Souza Aranha, 387, Sem Complemento, Vila Nova Conceição, São Paulo/SP, Brasil, 04543-121;1121.72;4;Direito de propriedade.;0.022403;Renda
+17.282.011/0001-04;2025-12-31;1;Ed Millennium;Avenida Chedid Jafet, 222, Bloco D, Vila Olímpia, São Paulo/SP, Brasil, 04551-065;2280.63;3;Direito de propriedade.;0.047194;Renda
+17.282.011/0001-04;2025-12-31;1;Edificio Atrium V;Rua Fidencio Ramos, 195, Sem Complemento, Vila Olímpia, São Paulo/SP, Brasil, 04551-010;6120.87;48;Direito de propriedade.;0.093081;Renda
+17.282.011/0001-04;2025-12-31;1;Ed Ronaldo Sampaio;Avenida Engenheiro Luiz Carlos Berrini, 1645, Sem Complemento, Cidade Monções, São Paulo/SP, Brasil, 04571-011;5080;11;Direito de propriedade.;0.079434;Renda
+17.282.011/0001-04;2025-12-31;1;Edificio Capital Plaza;Avenida Pedroso De Morais, 1553, 5º Andar, Pinheiros, São Paulo/SP, Brasil, 05419-001;1517.8;8;Direito de propriedade.;0.02698;Renda
+17.282.011/0001-04;2025-12-31;1;Edificio Alice Maria;Avenida Engenheiro Luiz Carlos Berrini, 1645, Sem Complemento, Cidade Monções, São Paulo/SP, Brasil, 04571-011;3219.4;10;Direito de propriedade.;0.04165;Renda
+17.554.274/0001-25;2025-12-31;1;TERRENOS MIDWAY MALL;Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-450;67796;300;Área total contruida 67.796 m²;0;Renda
+17.655.115/0001-17;2025-12-31;1;CONDOMÍNIO VISTA FARIA LIMA;Rua Professor Atílio Innocenti, n° 165;16474.68;1;matrícula n° 181.109;0;Renda
 18.259.637/0001-62;2025-03-31;1;Condominio Edificio Summit Pinheiros;Rua Eugenio De Medeiros, 288, Sem Complemento, Pinheiros, São Paulo/SP, Brasil, 05425-000;1774.51;23;Direito de propriedade;0.41304757156934;Renda
 18.259.637/0001-62;2025-03-31;1;Centro Empresarial Mario Garnero;Avenida Brigadeiro Faria Lima, 1485, 8º Andar - Torre Sul, Pinheiros, São Paulo/SP, Brasil, 05426-100;1251.44;5;Direito de propriedade;0.35103359274276;Renda
 18.950.957/0001-64;2025-03-31;1;URUGUAIA;Av. Ministro Assis Brasil, 1053 - Joquei Clube, Uruguaiana - RS;22500;1;Nenhuma característica relevante;0.002727;Renda
 19.267.845/0001-76;2025-06-30;1;NEBRASKA 2;RUA NEBRASLA, 667;627.28;1;MATRICULA - 286.114;0;Renda
+19.419.994/0001-03;2025-12-31;1;MATRÍCULA 100.747;Rua Pequetita 170, São Paulo/SP;400;1;;0.0008;Renda
+22.340.978/0001-35;2025-12-31;1;MT 78850;Avenida Flamboyant, 225,  - Guarujá;1624.74;1;lote nº 06, Quadra 01, Sítio Taguaíba;0.0799;Venda
+24.853.044/0001-22;2025-12-31;1;CAJAMAR;Rodovia Castello Branco, km 57 - São Roque, SP;60589;1;CAJAMAR - MATRÍCULA Nº 91.752;0;Renda
 26.452.053/0001-37;2025-06-30;1;IMOVEL SÃO JOSÉ CAMPOS;RUA CORONEL JOSÉ MONTEIRO, 287- CENTRO- SÃO JOSÉ DOS CAMPOS - SP;1218;1;NA;0.0091;Renda
 26.452.053/0001-37;2025-09-30;1;IMOVEL SÃO JOSÉ CAMPOS;RUA CORONEL JOSÉ MONTEIRO, 287- CENTRO- SÃO JOSÉ DOS CAMPOS - SP;1218;1;NA;0.0091;Renda
+26.452.053/0001-37;2025-12-31;1;IMOVEL SÃO JOSÉ CAMPOS;RUA CORONEL JOSÉ MONTEIRO, 287- CENTRO- SÃO JOSÉ DOS CAMPOS - SP;1218;1;NA;0.0091;Renda
+26.502.794/0001-85;2025-12-31;1;110307_26502 (Galpão Hortolândia II);Rod. Jornalista F. A. Proença, Km 09;15349.293;1;https://fnet.bmfbovespa.com.br/fnet/publico/visualizarDocumento?id=1067291&cvm=true;0;Renda
+26.502.794/0001-85;2025-12-31;1;12769_26502 (Galpão Extrema I);Estrada M. Vargem João Pinto;37600.235;1;https://fnet.bmfbovespa.com.br/fnet/publico/visualizarDocumento?id=1067291&cvm=true;0;Renda
+26.502.794/0001-85;2025-12-31;1;1702_26502 (Guarulhos);Av. Francisco Xavier, 62;111197.53;1;https://fnet.bmfbovespa.com.br/fnet/publico/visualizarDocumento?id=1067291&cvm=true;0;Renda
+26.502.794/0001-85;2025-12-31;1;24929_26502 (Galpão Extrema II);Estrada M. Luiz Lopes Neto;77106.29;13;https://fnet.bmfbovespa.com.br/fnet/publico/visualizarDocumento?id=1067291&cvm=true;0;Renda
+26.502.794/0001-85;2025-12-31;1;88913_26502 (Galpão Hortolândia I);Rod. Jornalista F. A. Proença, Km 09;15349.293;1;https://fnet.bmfbovespa.com.br/fnet/publico/visualizarDocumento?id=1067291&cvm=true;0;Renda
+26.502.794/0001-85;2025-12-31;1;95140_26502 (Galpão WT RBR Log);Rod. P. Tancredo Neves, Km 45;33615.901;2;https://fnet.bmfbovespa.com.br/fnet/publico/visualizarDocumento?id=1067291&cvm=true;0;Renda
 26.681.370/0001-25;2025-09-30;1;Ed Faria Lima 1355;Avenida Brigadeiro Faria Lima, 1355, Sem Complemento, Jardim Paulistano, São Paulo/SP, Brasil, 01452-002;50000;2;Não possui caracteristicas que destoem dos demais;0.02246764358173;Renda
 27.538.477/0001-81;2025-06-30;1;126594_27538;Rua Dr. João Francisco Centola Nóbrega, 491 - Ribeirão Preto - SP;56.4;1;Matrícula  126594;0;Renda
+28.267.696/0001-36;2025-12-31;1;Imovel Andorinha - Sao Paulo 2;Rua Professor Luciano Prata, 204, Sem Complemento, Vila Baruel, São Paulo/SP, Brasil, 02510-020;1500;1;Não possui;0.01095348276041;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_ARACAJU - GRUPO MATHEUS;Av. João Rodrigues, 592 - Industrial - Aracaju/SE;31524;1;n/a;0;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_ANANINDEUA- GRUPO MATHEUS;Av. Cláudio Saunders, Coqueiro, Ananindeua/PA;7601.92;1;n/a;0;Renda
 28.548.288/0001-52;2025-03-31;1;DRS_CARUARU - GRUPO MATHEUS;Av. Portugal - Bairro Universitário - Caruaru/PE;32604;1;n/a;0;Renda
@@ -49,6 +114,46 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 28.548.288/0001-52;2025-09-30;1;GPA SANTANA - SÃO PAULO;Rua Augusto Tolle, 470 - Santana;2877.15;1;n/a;0;Renda
 28.548.288/0001-52;2025-09-30;1;GPA TITO;R. Tito, 639 - 705 - Vila Romana, São Paulo;3643.72;1;n/a;0;Renda
 28.548.288/0001-52;2025-09-30;1;MERCADO LIVRE - ARAUCÁRIA;Av. Cézar Hasselmann, 499-497 - Fazenda Velha, Araucária - PR;149452.44;1;n/a;0;Renda
+28.548.288/0001-52;2025-12-31;1;ALCÂNTARA - CEF;Dr. Alfredo Backer, 5;1688.88;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ANHANGUERA;R. Luiz Otávio, 1313 - Parque Taquara;22787.79;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ÂNIMA CANOAS;Rua Santos Dumont, 88;11664;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ÂNIMA POA;Rua Orfanotrófio, 555, Alto - Teresópolis;29592.24;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ASSAÍ SÃO BERNADO;Av. Piraporinha, 680,Planalto, São Bernardo do Campo;43950;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ATACADÃO - ARAPIRACA;AL-220, 359 - Itapoá;34842.89;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ATACADÃO - CAMARAGIBE;Av. Dr. Belmínio Correia, 4817;40216;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ATACADÃO - DUQUE DE CAXIAS;Rod. Washington Luiz, 121;31600.21;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ATACADÃO - MOSSORÓ;Av. João da Escóssia, 1724;87176;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ATACADÃO - RESENDE;Av. Francisco Fortes Filho,;47776.57;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ATACADÃO - SOBRAL;Av. Sen. Fernandes Távora, 605;33460;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ATACADÃO - TANGARÁ DA SERRA;Av. Domingos Parente de Sá Barreto, 303;51443.56;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;BARRA DA TIJUCA - CEF;Av. das Américas, 3959;1174.08;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;CÂNDIDO BENÍCIO - LOJA A;R. Cândido Benício, 1671;4920;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;CÂNDIDO BENÍCIO - LOJA B;MAT. 126.225;4920;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;CIDADELA - CEF;Av. Antônio Carlos Magalhães,;1219.44;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;CRUZEIRO DO SUL - GUARULHOS/SP;Av. Salgado Filho, 100 - Centro;3390.7;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;ESCOLA ELEVA - RJ;Av. José Silva de Azevedo Neto, 309 - Barra da Tijuca;17961.67;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;FONSECA - CEF;Alameda São Boaventura, 904;935.55;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;FRANCISO MATARAZO - CEF;Av. Francisco Matarazzo, 342;674.4;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;GRANDE CENTER;R. Oswaldo Cruz, 415;2572.58;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;JUNDIAÍ - CEF;Rua Rangel Pestana, 278;1150;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;LINK - CORPORATE GARDEN;Av. Brigadeiro Luís Antônio, 5083;2220.78;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;MATEUS - CAMETÁ/PA;Rodovia BR 422, KM 01, Cametá - PA;28000;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;MATEUS - CARPINA/PE;Av. Conselheiro João Alfredo, 262;18242.09;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;MATEUS - ESTRADA DO ARROZ IMPERATRIZ/MA;Av. Newton Bello, 22;29776.6;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;MATEUS - SALVADOR IGUATEMI/BA;Av. Antônio Carlos Magalhães, 3650;70050;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;MEDICAL CENTER - EINSTEIN;Marginal Pinheiros, 14.500;9185.27;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;PENHA - CEF;Av. Brás de Pina, 02;1134.67;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;RIACHUELO - CEF;R. Riachuelo, 61;1150;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;RIO SUL - CEF;Rua Lauro Müller, 116;1170.07;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;RUA DAS FLORES - CEF;Praça Gen. Osório, 319;1789.05;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;SÃO BENTO - CEF;R. São Bento, 397;1539.8;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;SÃO JOÃO DO MERITI - CEF;Av. Getúlio de Moura, 60;602.23;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;SHOPPING BARRA - CEF;R. Augusto Frederico Schmith, 139;829;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;SHOPPING BARREIRO;Av. Afonso Vaz de Melo, 640;59460;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;SHOPPING MARANHÃO;Av. Prof. Carlos Cunha, 100;55312.91;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;SHOPPING PAMPULHA;Av. Pres. Antônio Carlos, 8100 - Pampulha, Belo Horizonte - MG;23631.65;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;STRIP MALL BARRA - RJ;Av. José Silva de Azevedo Neto, 309 - Barra da Tijuca;2333.33;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;1;VILA MADALENA - CEF;R. Fradique Coutinho, 1339;800;;Direito de propriedade;;
 28.737.771/0001-85;2025-03-31;1;Assai - Bangu RJ;Avenida Brasil, 33809, Sem Complemento, Bangu, Rio De Janeiro/RJ, Brasil, 21852-002;34520;1;Direito de propriedade;0.04435068612234;Renda
 28.737.771/0001-85;2025-06-30;1;CD Mercado Livre;Rod. Anhanguera, 28, Sem Complemento, Cravinhos, Cravinhos/SP, Brasil, 14140-000;38383.26;1;Não possui informação apresentada.;0.07161211075159;Renda
 28.757.546/0001-00;2025-03-31;1;Carioca Shopping;Avenida Vicente De Carvalho, 909, Sem Complemento, Vila Da Penha, Rio De Janeiro/RJ, Brasil, 21210-623;0;1;Não possuem características que destoem dos demais;0.01833149785542;Renda
@@ -93,6 +198,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 30.567.216/0001-02;2025-06-30;2;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1855;384.81;1;Cj 82, 8º andar. Incluidas 8 vagas indeterminadas de garagem;0.005318;Renda
 30.567.216/0001-02;2025-09-30;1;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1853;178.01;1;Cj 31-B, subdivisão do cj 31, no 3º andar. Matrícula nº 52073 do 4° RGI. Adquirido com 3 vagas de garagem indeterminadas, matrículas nº  52.197 a 52.199, com área construída de 23,35m² cada.;0.00511;Renda
 30.567.216/0001-02;2025-09-30;1;Ed. Brasílio Machado;Rua Dr. Cardoso de Mello, 1854;186.75;1;Cj 32-B, subdivisão do cj 32, localizado no 3º andar. Matrícula nº 52074 do 4° RGI.Adquirido com uma vaga de garagem, indeterminada matrícula nº 52.200, com área de 23,35m².;0.005109;Renda
+30.567.216/0001-02;2025-12-31;1;Edifício HD 873 - CJ. 1706 A 1709;Rua Henri Dunant, 873;194.3;4;Cjs 1706, 1707, 1708 e 1709, localizados no 17º pavimento. Matrículas nº 442.068, 442.069, 442.070 e 442.071 respectivamente, do 11° RGI. Cada conjunto possui 2 vagas de garagem indeterminadas citadas nas respectivas matrículas.;0.008261;Renda
+30.567.216/0001-02;2025-12-31;1;Edifício  Led Corporate - CJ. 1801 E 1804;Rua Robert Bush, 45,67 e 235;1965.07;2;Cjs 1801 e 1804 localizados no 14º pavimento. Matrículas nº 280.603 e 280.606 respectivamente, do 15° RGI. A área indicada inclui 889,70m² de terraço.Cada conjunto tem direito ao uso de 20 vagas de garagem  indeterminadas citadas nas matrículas.;0.056794;Renda
+30.567.216/0001-02;2025-12-31;1;Edifício Monterey - CJ. 151 A 155;Rua Álvaro Rodrigues, 182;341.8;5;Cjs 151, 152, 153, 154 e 155 localizado no 15º andar. Matrículas nº 153.777, 153.778, 153.779, 153.780, 153.781 respectivamente do 15° RGI. A área indicda inclui 100m² de mezanino. Cada conjunto tem direito ao uso de uma vaga de garagem indeterminada citada na respectiva matrícula.;0.010326;Renda
 30.871.698/0001-81;2025-09-30;1;BARRA PRIVATE - 281137;Avenida Armando Lombardi, 400 Rio de Janeiro - RJ;3909.58;1;UNIDADE - 104;0;Renda
 30.871.716/0001-25;2025-03-31;1;Op Art Ibirapuera;Rua Agostinho Rodrigues Filho, 550, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04026-040;1856.29;18;Direito de propriedade;0;Renda
 30.871.716/0001-25;2025-06-30;1;Predio Barao de Lucena;Rua Barao De Lucena, 57, Sem Complemento, Botafogo, Rio De Janeiro/RJ, Brasil, 22260-020;480;1;Direito de propriedade;0.05790607700963;Renda
@@ -114,11 +222,19 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 34.508.923/0001-70;2025-09-30;1;EVO_APTO 904;Alameda Xingu, 512, Apto 904, Alphaville - Barueri - SP, 6455030;1339.58;1;Matrícula 174700;0.06153;Venda
 34.508.923/0001-70;2025-09-30;1;PQCID_APTO33;Avenida das Naçoes Unidas, 14401, Chácara Santo Antonio, São Paulo - SP, 4730090;1124.46;1;Matrícula 467710;0.218291;Venda
 34.691.520/0001-00;2025-06-30;1;Assai Ipatinga;Avenida Pedro Linhares Gomes, 5765, Sem Complemento, Industrial, Ipatinga/MG, Brasil, 35160-291;5500;1;Direito de Propriedade;0.10968607157406;Renda
+34.691.520/0001-00;2025-12-31;1;Lojas Belo Horizonte;Rua Dos Carijos, 352, Sem Complemento, Centro, Belo Horizonte/MG, Brasil, 30120-064;7211.75;2;Não possui;0.06552825803186;Renda
+34.691.520/0001-00;2025-12-31;1;Loja Diadema;Avenida Presidente Kennedy, 09, Sem Complemento, Centro, Diadema/SP, Brasil, 09913-000;858;1;Não possui;0.0196424240424;Renda
+34.691.520/0001-00;2025-12-31;1;Lojas Santo Amaro;Avenida Adolfo Pinheiro, 76, Sem Complemento, Santo Amaro, São Paulo/SP, Brasil, 04733-000;1792.85;3;Não possui;0.04171181912937;Renda
+34.691.520/0001-00;2025-12-31;1;Loja Florianopolis;Praca Quinze De Novembro, 111, Sem Complemento, Centro, Florianópolis/SC, Brasil, 88010-400;399.32;1;Não possui;0.00721481198195;Renda
+34.691.520/0001-00;2025-12-31;1;Loja Rio Branco;Avenida Getulio Vargas, 258, Sem Complemento, Bosque, Rio Branco/AC, Brasil, 69900-589;2730.64;1;Não possui;0.00684431831943;Renda
 36.258.924/0001-30;2025-09-30;1;IMOVEL LBV 4;URBANO LBV 4;45000000;1;MATRICULA - Nº 82.480;0.24;Renda
 36.258.924/0001-30;2025-12-31;1;IMOVEL LBV 4;URBANO LBV 4;45000000;1;MATRICULA - Nº 82.480;0.24;Renda
+36.420.742/0001-13;2025-12-31;1;Thera  Corporate;Av. Engenheiro Luís Carlos Berrini, 105 - Cidade Monções - São Paulo/SP;21047.68;15;Imóvel urbano comercial, acabado e para renda, multiuso, composto por 4 níveis de subsolos, 12 elevadores e 15 pavimentps a partir de 1.032m². Registrado no 15º Oficial de Registro de Imóveis;0.444040854969565;Renda
+36.445.587/0001-90;2025-12-31;1;FACAMP;Rua Candido Benício, 1671, Jacarepaguá, Rio de Janeiro - RJ;402;1;Direito de propriedade.;1;Renda
 36.885.948/0001-19;2025-03-31;1;IMÓVEL IGUATEMI;Rua Viradouro nº 120, Jd Paulista;387.637;1;imovel;1;Renda
 38.293.897/0001-61;2025-03-31;1;Jardim Petrella Brooklin;Rua Pascoal Pais, 494/498, Vila Cordeiro, São Paulo/SP, Brasil, 04581-060;7580.61;1;Direito de Propriedade;0.01435315608519;Venda
 39.714.024/0001-48;2025-06-30;1;Ed.Barra Private e  Ed. Neolink;Ed. Barra Private: Av. Armando Lombardi nº 400  - Jacarepaguá - RJEd. Neolink: Av. Ayrton Senna, nº 2500, Jacarepaguá - RJ;5359.91;29;Barra Private, Neolink, Office I, Office II, Stay II;0.190097;Renda
+40.886.241/0001-02;2025-12-31;1;Strip Mall P4;Rua Quinze De Novembro, 202, Sem Complemento, Itaoca, Fortaleza/CE, Brasil, 60421-076;9017;28;Direito de propriedade;0.099;Renda
 41.325.993/0001-59;2025-06-30;1;MA138599;Rua Ana Vieira de Carvalho - Casa 4;383.08;1;matrícula 138.599 casa 4;1;Venda
 41.650.310/0001-39;2025-12-31;1;AVENIDA MAX TEIXEIRA, Nº 3.676;Av. Max Teixeira, 3676;7883.34;;MATRICULA 3.353;0.240910206558983;Renda
 41.650.310/0001-39;2025-12-31;1;AVENIDA TANCREDO NEVES;AVENIDA TANCREDO NEVES;6691.98;;MATRICULA 94.352;;Renda
@@ -139,7 +255,314 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 42.537.540/0001-59;2025-09-30;1;Empreendimento Peninsula - Loja D;Avenida Joao Cabral De Mello Neto, 600, Sem Complemento, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22775-057;81.17;1;Direito de propriedade;0.01466711441715;Renda
 42.537.540/0001-59;2025-09-30;1;Imovel Gilka Machado;Avenida Gilka Machado, 1360, Sem Complemento, Recreio Dos Bandeirantes, Rio De Janeiro/RJ, Brasil, 22795-570;375;1;Direito de propriedade;0.02332932774092;Renda
 42.537.540/0001-59;2025-09-30;1;Afonso Taunay;Avenida Afonso De Taunay, S/n, Lote 1 E 3 Do Pal 36.014, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22621-310;3516.14;2;Direito de propriedade;0.11752051290483;Renda
+42.537.540/0001-59;2025-12-31;1;Imovel Volta Redonda;Rua 33, 51, Sem Complemento, Vila Santa Cecília, Volta Redonda/RJ, Brasil, 27259-330;707.23;1;Direito de propriedade;0.05490924214373;Renda
+44.002.561/0001-03;2025-12-31;1;94.764;Lote do Terreno Urbano n° 7-A-B, Vila Mayer, Bairro Oficinas - Ponta Grossa - Paraná;23860.87;0;Matricula 94764;0;Renda
+44.002.561/0001-03;2025-12-31;1;MT48850;Rod. PR 323 - S/N - Gleba 14 Figueira - Cep 87508-200 - Umuarama/PR;21060;0;Matrícula 48850;0;Renda
+44.002.561/0001-03;2025-12-31;1;117745-_4;Avenida Saul Elkind s/n°,Gleba Jacutinga - Londrina / PR;22670.32;0;Matrícula 117745;0;Renda
 44.669.674/0001-59;2025-03-31;1;119344_44669;Av Manoel de Abreu,790- Náutica  G4 -São Vicente/SP - CEP:11355-400;445.3;1;Matricula 60691;1;Renda
+44.669.674/0001-59;2025-12-31;1;Green_227579;AV  BONNARD - Nº 980 - INFRA CABEAMENTO;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_133544;AV  BONNARD - Nº 980 - INFRA CABEAMENTO;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_227580;AV  BONNARD - Nº 980 - INFRA CABEAMENTO;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_227581;AV  BONNARD - Nº 980 - INFRA CABEAMENTO;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_227582;AV  BONNARD - Nº 980 - INFRA CABEAMENTO;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_119159;RUA CAPITÃO PEDRO FREDERICO DE ALMEIDA N° 276;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_108974;RUA CAPITÃO PEDRO FREDERICO DE ALMEIDA N° 298;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_6708;RUA JOÃO ORTEGA SANCHES - Nº 65, 137/164/165;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_162665;RUA MANOEL NASCIMENTO ESTEVAM FURTADO / RUA CAPITÃO PEDRO FREDERICO DE ALMEIDA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_3527;SITIO BOA VISTA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_69166;Av. Omega - Imóvel Vertville;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_166312;MANOEL N. ESTEVAM FURTADO, 35;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_88312;LOTE 03, QUADRA 109, TERRENO CIDADE NAUTICA/ BALBEQUE NEGOCIOS;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Green_88313;LOTE 04, QUADRA 109, TERRENO CIDADE NAUTICA/ BALBEQUE NEGOCIOS;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_25842;AV RUY RODRIGUES - SANTA LETICIA DO RETIRO;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_43083;AV. DEPUTADO CANTÍDIO SAMPAIO, 4595;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_43084;AV. DEPUTADO CANTÍDIO SAMPAIO, 4595;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_43085;AV. DEPUTADO CANTÍDIO SAMPAIO, 4595;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_43086;AV. DEPUTADO CANTÍDIO SAMPAIO, 4595;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_43087;AV. DEPUTADO CANTÍDIO SAMPAIO, 4595;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_23815;AV. INOCENCIO SERAFICO - LOJA 01 - Nº3575;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_154593;AV. JUSSARA  - N° 187 - ALPHAVILLE;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_25535;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_22922;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_22767;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_30122;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_4417;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_9161;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_9171;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_6529;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28269;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28270;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28271;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_2565;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_2566;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_20462;AV. MARIA NUNES CORREA BAIRRO ELISEOS LOTE 02,03,04,05,06,07,08,09,10,11,12 19,20,21,22 E 23 (13 IPTUs);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_13551;AV. NORDESTINA, Nº 359 - LOTE 35C E 49C;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_105133;AV. PROF. PAPINI 317 CIDADE DUTRA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_307;AV. TABOÃO , Nº 3.900 JARDIM ABC;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_98622;AV. TENENTE MARQUES, 2391 Área B1-E;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_138644;AVENIDA PRESIDENTE KENNEDY CASA 01;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_215677;AVENIDA PRESIDENTE KENNEDY CASA 01;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_38090;BARRA DO TIBAJI , 35 ESQUINA COM AS RUAS CARMO ZACCUR E ANTONIO HAJJAR - BOM RETIRO;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_48764;PASSEIO DOS SAMBAQUIS - EDIFÍCIO PORTO FINO, Nº 433 APTO 81;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_17427;RUA FERNANDES PINHEIRO , NR 32  e RUA MELO FREIRE;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28264;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28263;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28262;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28442;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28440;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28441;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28261;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28260;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28259;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28823;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28645;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28644;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28643;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28642;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_28641;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_27462;RUA MANUEL DO ESPIRITO SANTO  BAIRRO LOTE 27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_92547;RUA MARECHAL , 749;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_96295;RUA VIRGINIA AUGUSTA MIGUEL,49,CIDADE LIDER;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_24349;ALAMEDA MAUA, 4 - BORACÉIA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_135459;AV ANHAIA MELO - RUA SERROLÂNDIA  , LOTE 1 - 2 - 3 - 29;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_119850;AV ANHAIA MELO - RUA SERROLÂNDIA  , LOTE 1 - 2 - 3 - 29;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_76305;AV ANHAIA MELO - RUA SERROLÂNDIA  , LOTE 1 - 2 - 3 - 29;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_76306;AV ANHAIA MELO - RUA SERROLÂNDIA  , LOTE 1 - 2 - 3 - 29;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_190399;AV PIRES DO RIO - Nº 4736 - BAIRRO ITAQUERA - SP;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_46502;AV PRESID TANCREDO NEVES - Nº 1200 -  JD TRÊS MARIA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_72276;AV. AMADOR BUENO DA VEIGA, 2180;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_8841;AV. BRASIL, Nº 87 - LOTE 36;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_15194;AV. BUSSOCABA, 464;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_16103;AV. CURIO, 131 - LOTE 15 C -  LOTE 16 A B C - QUADRA F;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_16104;AV. CURIO, 131 - LOTE 15 C -  LOTE 16 A B C - QUADRA F;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_42221;AV. DO CURSINO / RUA DNA BIANCA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_40913;AV. DOM JOÃO VI, Nº 499 - LOTE 26 - JD DAS NACOES;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45344;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45345;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45346;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45347;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45348;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45349;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45350;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45351;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45352;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45353;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45354;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45355;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45356;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45357;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45358;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45359;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45360;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45361;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45362;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45363;AV. DOS AUTONOMISTAS, N 2400-2394;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_11577;AV. GETULIO VARGAS  ESQUINA COM A RUA CAIUBY;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_44820;AV. GETULIO VARGAS  ESQUINA COM A RUA CAIUBY;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_5537;AV. GETÚLIO VARGAS, S/ Nº;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_9302;AV. GIACONDA CIBIN / R: FRANCISCA CORAL CHIQUINHO, 10;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_328253;AV. GUARAPIRANGA, 5157;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_328254;AV. GUARAPIRANGA, 5157;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_328255;AV. GUARAPIRANGA, 5157;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_23431;AV. INOCENCIO SERÁFICO - 1º PAV LJ 01 Nº 3445;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_32087;AV. ITABERABA, Nº 4996/ 5000/ 5002/ 5004;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_181980;AV. ITAQUERA, 6767, 6773 VILA CARMOZINA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_97605;AV. OLIVEIRA FREIRE   / R. ASCENSO FERNANDES - SÃO MIGUEL PAULISTA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_64171;AV. PEDRO CELESTINO LEITE PENTEADO 261;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_17087;AV. PEDRO CELESTINO LEITE PENTEADO 261  - GP 01;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_63897;AV. PEDRO CELESTINO LEITE PENTEADO 261  - GP 01;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_16966;AV. PRESIDENTE MEDICI, Nº 205;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_10462;AV. PRESIDENTE TANCREDO DE ALMEIDA NEVES, 33;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_175573;AV. ROLAND GARROS, 1973;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_112907;AV. SÃO MIGUEL PAULISTA (PRÉDIO, 6850) - LOTE 46;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_160167;AV. SAPOPEMBA, Nº 6047 - LOTE 123/124;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_27527;AV. VICTOR CIVITA - LOTE 11- JARDIM SANTA MARIA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_27528;AV. VICTOR CIVITA - LOTE 11- JARDIM SANTA MARIA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_27529;AV. VICTOR CIVITA - LOTE 11- JARDIM SANTA MARIA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_27530;AV. VICTOR CIVITA - LOTE 11- JARDIM SANTA MARIA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_27531;AV. VICTOR CIVITA - LOTE 11- JARDIM SANTA MARIA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_97253;AV. YERVANT KISSAJIKIAN, Nº 2002 E 2004;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_47706;AVENIDA ANTONIO ESTEVAO DE CARVALHO, Nº 2301;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_140923;AVENIDA CAPITÃO LUIZ HOUNEAUX, 699;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_22429;AVENIDA DO CORREGO/AV GUABIROBA, 1300 - LOTES 01, 02, 03;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_34780;AVENIDA IPANEMA , JARDIM ATLANTICO;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_42657;AVENIDA LUCAS DA CRUZ CARVALHO - LOTE 268;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_219816;AVENIDA MIRUNA, Nº 1874;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_134582;EST. ANTIGA DO MAR, Nº 5172 - LOTE 2 - 3 - 4;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_134583;EST. ANTIGA DO MAR, Nº 5172 - LOTE 2 - 3 - 4;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_134584;EST. ANTIGA DO MAR, Nº 5172 - LOTE 2 - 3 - 4;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_160356;ESTRADA DA BOCAIANA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_22431;ESTRADA DA GABIROBA, LOTE 01 02 03 BLOCO 25;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_171894;ESTRADA DE TAIPAS, Nº 2711 - LOTE 27;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_33173;ESTRADA DO PERNAMBUCO, Nº 568,  ENSEADA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_45645;ESTRADA JUSCELINO K. DE OLIVEIRA (PRÉDIO, 16);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_19348;ESTRADA M. BOI MIRIM, 3841 - LOTE 8;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_19349;ESTRADA M. BOI MIRIM, 3841 - LOTE 8;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_192696;ESTRADA M'BOI MIRIM, 6092;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_103144;JD REAL - AVENIDA MARGINAL COM A RUA SANTO MARINELLI - AVENIDA DIAMANTINO CRUZ FERREIRA MOURÃO  8520;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_103147;JD REAL - AVENIDA MARGINAL COM A RUA SANTO MARINELLI - AVENIDA DIAMANTINO CRUZ FERREIRA MOURÃO  8520;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_5509;LOTE 1-A SETOR INFLAMAEIS DO SUL;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_1125;ROD. WALDOMIRO CORRÊA CAMARGO - KM 60,5 - CNC;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_8107;ROD. WALDOMIRO CORRÊA CAMARGO - KM 60,5 - CNC;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_9354;ROD. WALDOMIRO CORRÊA CAMARGO - KM 60,5 - CNC;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_34953;RUA ADELINO MARTINS, Nº 315;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_8704;RUA ANTONIO FREDERICO OZANAM, 1901;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_233423;RUA ANTONIO JOSE BORGES, 153 CH. STO ANTONIO (MARG. PINHEIROS);0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_22430;RUA ANTONIO LOPES DA SILVA, 36;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_31606;RUA BOM PASTOR, Nº 445/451 - 453/459 - 463;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_31607;RUA BOM PASTOR, Nº 445/451 - 453/459 - 463;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_31608;RUA BOM PASTOR, Nº 445/451 - 453/459 - 463;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_64870;RUA BRIGADEIRO AMILCAR VELOSO PEDERNEIRAS / AV. MAURICE DENIS;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_97262;RUA BRIGADEIRO TOBIAS, DR CONSULTA - NEXT HOME;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_160762;RUA CAPITÃO PACHECO CHAVES 738,742 E 744 VILA PRUDENTE;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_52058;Rua Cavalheiro Adelson Riesco , s/n - Quadra 5 Lote A/B .;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_150744;RUA DA MOOCA - LOJA 3873 - 3879;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_150745;RUA DA MOOCA - LOJA 3873 - 3879;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_150746;RUA DA MOOCA - LOJA 3873 - 3879;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_4742;RUA GENERAL PORFIRIO DA PAZ, Nº 12;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_71904;RUA GERALDO FRAGA DE OLIVEIRA, Nº 121/123;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_18889;RUA IAPÓ - Nº 531 - CASA VERDE - SP;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_179804;RUA LAGOA TAI GRANDE , 1484 - ITAQUERA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_84183;RUA LAVRADIO N.º 35 / AVENIDA PACAEMBU, N.º 233 BARRA FUNDA;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_68365;RUA MARECHAL MASCARENHAS DE MORAES, 442 ANTIGO 585;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_27894;RUA MARIO PERDIGÃO BRIGADEIRO, 61;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_167837;RUA PARAPUÃ , 1961,1965,1969,1973;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_209760;RUA PIRAJU, 267;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_287436;RUA PIRAJU, 267;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_325810;RUA PIRAJU, 267;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_335037;RUA PIRAJU, 267;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_52736;RUA VITORIA PERDÃO PETIGROSSO 1500 /115- VILA FAUSTO N MORELLI;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_52737;RUA VITORIA PERDÃO PETIGROSSO 1500 /115- VILA FAUSTO N MORELLI;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_52738;RUA VITORIA PERDÃO PETIGROSSO 1500 /115- VILA FAUSTO N MORELLI;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_31359;RUA WAL DISNEY, 126;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;Unip_230656;Avenida VertVille, S/N;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;27311_44669;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;2913_33956;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;43969_4466;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;72056_44669;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;91261_44669;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107962;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107963;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107964;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107965;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107966;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107967;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107968;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107969;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107970;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107971;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107972;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107973;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107974;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107975;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107976;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107977;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107978;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107979;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107980;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107981;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107983;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107984;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107985;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107986;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107987;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107988;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107989;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107990;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107991;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107992;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107993;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107994;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107995;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107996;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107998;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_107999;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108000;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108001;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108002;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108003;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108004;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108005;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108006;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108007;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108008;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108010;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108012;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108013;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108014;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108015;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108016;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108019;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108022;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108023;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108024;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108025;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108026;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108027;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108028;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108029;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108030;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108031;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108032;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108034;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108035;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108036;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108037;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108038;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108041;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108044;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108045;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108046;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108048;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108049;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108050;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108051;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108052;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108053;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108054;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108055;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108056;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108057;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108058;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108059;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108060;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108061;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108062;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108063;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108064;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108065;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108066;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108068;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108069;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108070;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108071;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108072;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108073;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108074;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108075;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108076;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108077;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108079;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108080;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108081;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108082;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108083;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108084;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108085;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108086;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108087;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108088;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;FLA_108090;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;UNIP_11129;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;UNIP_12986;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;UNIP_12987;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;UNIP_12988;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;UNIP_26658;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;UNIP_26659;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;UNIP_26660;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.669.674/0001-59;2025-12-31;1;UNIP_26661;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.674.528/0001-11;2025-12-31;1;PARANGABA;AVENIDA DOUTOR SILAS MUNGUBA, Nº 847 - PARANGABA -FORTALEZA / CE;24667.66;1;Não possui informação apresentada;0;Renda
+45.188.099/0001-35;2025-12-31;1;Edificio Wall Street;Avenida Nove De Julho, 5109, Sem Complemento, Jardim Paulista, São Paulo/SP, Brasil, 01407-200;372.4;1;Promessa de compra com opção de recompra;0.22910851676052;Renda
 47.154.849/0001-83;2025-09-30;1;NE103;R. Attílio Bilibio, 251;111.5;1;Nenhuma característica relevante;0.0113689388116732;Venda
 47.154.849/0001-83;2025-09-30;1;NE201;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574463019739391;Venda
 47.154.849/0001-83;2025-09-30;1;NE303;R. Attílio Bilibio, 251;54.9;1;Nenhuma característica relevante;0.00574463019739391;Venda
@@ -187,6 +610,29 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 47.154.849/0001-83;2025-09-30;1;NEX2_ 34;Av Chácara das Nascentes, s/n;78.1;1;Nenhuma característica relevante;0.00629568646757125;Venda
 47.154.849/0001-83;2025-09-30;1;NEX2_ 35;Av Chácara das Nascentes, s/n;99.1;1;Nenhuma característica relevante;0.00807074070265202;Venda
 47.154.849/0001-83;2025-09-30;1;NEX2_ 44;Av Chácara das Nascentes, s/n;99.1;1;Nenhuma característica relevante;0.00807074070265202;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL301;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0206715184107243;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL302;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0210641702483742;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL401;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0210641702483742;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL402;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0221112418154406;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL1002;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.021849473923674;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL1201;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0234200812742735;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL1202;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0188391431683582;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL1401;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0238127331119234;Venda
+47.154.849/0001-83;2025-12-31;1;PAU302;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0210641702483742;Venda
+47.154.849/0001-83;2025-12-31;1;PAU401;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0221112418154406;Venda
+47.154.849/0001-83;2025-12-31;1;PAU1202;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.021849473923674;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL1301;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0222421257613239;Venda
+47.154.849/0001-83;2025-12-31;1;PAU1401;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0222421257613239;Venda
+47.154.849/0001-83;2025-12-31;1;PAUL2202;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0247289207331065;Venda
+47.154.849/0001-83;2025-12-31;1;PRIV_13;R. Fuad Mussa Cheid, 115;54.6;1;Nenhuma característica relevante;0.00522328208983277;Venda
+47.154.849/0001-83;2025-12-31;1;PRIV_23;R. Fuad Mussa Cheid, 115;54.6;1;Nenhuma característica relevante;0.00534336274393891;Venda
+47.154.849/0001-83;2025-12-31;1;PRIV_24;R. Fuad Mussa Cheid, 115;54.6;1;Nenhuma característica relevante;0.00534336274393891;Venda
+47.154.849/0001-83;2025-12-31;1;PRIV_53;R. Fuad Mussa Cheid, 115;54.6;1;Nenhuma característica relevante;0.00534336274393891;Venda
+47.154.849/0001-83;2025-12-31;1;PRIV_83;R. Fuad Mussa Cheid, 115;54.6;1;Nenhuma característica relevante;0.00561167483299967;Venda
+47.154.849/0001-83;2025-12-31;1;PRIV_113;R. Fuad Mussa Cheid, 115;54.6;1;Nenhuma característica relevante;0.00587998692206042;Venda
+47.154.849/0001-83;2025-12-31;1;PRIV_123;R. Fuad Mussa Cheid, 115;54.6;1;Nenhuma característica relevante;0.00587998692206042;Venda
+47.154.849/0001-83;2025-12-31;1;PRIV_133;R. Fuad Mussa Cheid, 115;54.6;1;Nenhuma característica relevante;0.00587998692206042;Venda
+47.154.849/0001-83;2025-12-31;1;PRIV_134;R. Fuad Mussa Cheid, 115;54.6;1;Nenhuma característica relevante;0.00587998692206042;Venda
 47.669.336/0001-05;2025-03-31;1;Villa Cora;Villa CoraBalneário Camboriú/SC, na Av. Atlântica, nº 4294, Edifício ResidencialBalneário Camboriú/SC;217.23;1;matrícula nº 27.153;1;Renda
 47.669.336/0001-05;2025-06-30;1;ALPHAVILLE G;Condomínio Alphaville Paraná, Unidade 02, Quadra MB1;0;1;matrícula nº 63.538;0.3695;Renda
 47.669.336/0001-05;2025-06-30;1;ECO RESIDENC;Rua Guaraparim, nº 130, bairro Taboleiro, na cidade de Camboriú-SC;12.5;1;Matrícula nº 23.455;0.0508;Renda
@@ -202,7 +648,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 47.669.336/0001-05;2025-09-30;1;41.751 Vaga garage;na Avenida Atlântica, nº  4664, centro, na cidade de Balneário Camboriú/SC;13.5;1;Matrícula nº 41.751;0.0094;Renda
 47.669.336/0001-05;2025-09-30;1;41.752 Vaga garage;na Avenida Atlântica, nº  4664, centro, na cidade de Balneário Camboriú/SC;13.5;1;Matrícula nº 41.752;0.0094;Renda
 47.669.336/0001-05;2025-09-30;1;Torre alpha;Travessa Doutor Flávio Luz nº 132, Praça São Paulo da Cruz  nº 50 e Rua Bom jesus nº 212 na Cidade de Curitiba, Estado do Paraná;52.46;1;Matrícula nº 81.393;0.0226;Renda
+49.184.940/0001-77;2025-12-31;1;Galpao Campinas;Avenida Maria Luiza Pompeo De Camargo, 215, Sem Complemento, Jardim Campineiro, Campinas/SP, Brasil, 13082-325;47359.67;1;Direito de propriedade;0.8287007900711;Renda
 49.592.781/0001-40;2025-03-31;1;BLOG Garuva;Rodovia SC - 417, 11915, Bairro Mina Velha, Garuva/SC;22790;1;Galpão de uso logístico industrial com 22.789 m² de área bruta locável entregue, localizado em Garuva, Santa Catarina, dentro de um terreno com área total de 61.737 m². O ativo, configurado como condomínio logístico classe AAA, possui 100% de sua área entregue atualmente ocupada, consolidando-se como uma oportunidade estratégica para operações de alta performance na Região Sul do Brasil.O empreendimento conta com pátio de manobras, vagas de espera para caminhões e estacionamento para motos, além de vias internas em ótimas condições operacionais. Inaugurado em 2020, com habite-se emitido e pronto para ocupação, o imóvel é certificado como green building e oferece infraestrutura moderna para operadores logísticos. Todos os módulos possuem sistema de sprinklers, niveladores de doca e pé-direito de 12 metros, com piso industrial de alta resistência, com capacidade para 5 t/m². A distância entre pilares é de 22,50 x 22,50 metros, favorecendo layout flexível de armazenagem.O Módulo 1 dispõe de 17 docas, enquanto os módulos 1-A, 2 e 3 contam com 4, 4 e 5 docas, respectivamente. O imóvel conta ainda com cobertura metálica, iluminação zenital, isolamento termoacústico e ventilação forçada, garantindo eficiência energética e conforto operacional. O controle de acesso para veículos leves, pesados e pedestres reforça os padrões de segurança, posicionando o Braspark Garuva como um polo logístico de referência na região.;1;Renda
+50.180.894/0001-17;2025-12-31;1;NEW PATTEO;Av. Analice Sakatauskas, 867 - Bela Vista, Osasco - SP, 06060-013;1343.12;20;UNIDADES AUTÔNOMAS - Torre A: 201,161, 121, 71, 212, 182, 152, 112, 213, 133, 83, 204, 174, 134, 225, 165, 115, 186, 116 e 76.;1;Renda
+50.180.894/0001-17;2025-12-31;1;PATTEO;Av. Dom Jaime de Barros Câmara, 320, São Bernardo do Campo;40307.18;380;Matricula 84053;1;Renda
 50.275.622/0001-09;2025-06-30;1;AVGENTIL_SP;SÃO PAULO;0;1;NA;0.1537676150032;Renda
 50.275.622/0001-09;2025-06-30;1;CAMPOBELO_SP;SÃO PAULO;0;1;NA;0.0481;Renda
 50.275.622/0001-09;2025-06-30;1;CONSOLAÇÃO_SP;SÃO PAULO;0;1;NA;0.0543;Renda
@@ -214,20 +663,29 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 50.275.622/0001-09;2025-06-30;1;TUCURUVI_SP;SÃO PAULO;0;1;NA;4E-05;Renda
 50.275.622/0001-09;2025-06-30;1;SANTANA_SP;SÃO PAULO;0;1;NA;0.00013;Renda
 50.375.550/0001-63;2025-03-31;1;AP PADRE JOAO;AP PADRE JOAO;0;1;Apartamento;0;Renda
+50.479.122/0001-80;2025-12-31;1;LOG Jundiai;Rodovia Dom Gabriel Paulino Bueno Couto, S/n, Km 71, Medeiros, Jundiaí/SP, Brasil, 13212-240;33742.84;3;Direito de Propriedade;0.04739551034432;Renda
+50.479.122/0001-80;2025-12-31;1;LOG Ribeirao Preto;Rua Serra Negra, 780, Sem Complemento, Jardim Jóquei Clube, Ribeirão Preto/SP, Brasil, 14078-640;48085;1;Direito de Propriedade;0.0781313912224;Renda
+50.479.122/0001-80;2025-12-31;1;LOG Natal;Rodovia Br 101,  Km 113, S/n, Sem Complemento, São José De Mipibu, São José De Mipibu/RN, Brasil, 59162-000;28862;2;Direito de Propriedade;0.04751880865123;Renda
 50.686.473/0001-62;2025-06-30;1;59700_;Lagoa das Rosas, Cumbuco, no Município de Caucaia - Ceará;58923.91;14;Matrícula  59.700;0;Venda
+50.701.686/0001-16;2025-12-31;1;Catarina Fashion Outlet - Expansao 3;Rodovia Castelo Branco, S/n, Km 60, Dona Catarina, São Roque/SP, Brasil, 18132-900;55083.81;1;Não possui;0.05063685161081;Renda
 50.957.247/0001-79;2025-12-31;1;PRÉDIO COMERCIAL - BRASÍLIA;SCS Quadra 03 Bloco A, Brasília/DF;3961.12;1;matrículas 101.132, 101.133, 101.134 e 101.135;0;Renda
 51.472.985/0001-99;2025-06-30;1;N/A;;;;N/A;;
+51.665.327/0001-13;2025-12-31;2;Helbor W Residences - Vila Olimpia;Rua Funchal, n.º 65, Vila Olímpia, São Paulo - SP;307.1;4;N/A;0.247049245388868;Venda
 51.786.271/0001-55;2025-03-31;1;Galpao Estrada Ladeira Grande;Estrada Ladeira Grande, S/n, Parque Industrial, Parque Industrial, Viana/ES, Brasil, 29136-537;121702.5;16;Direito de Propriedade;0.70002328245892;Renda
 51.870.412/0001-13;2025-03-31;1;Icon Residence Club;Rua Odete Jones Gigo, 380 - Sumaré - SP;2363.5;57;N/A;0.4572;Venda
 51.870.412/0001-13;2025-06-30;1;Patriani Mirai Suzano;R. Nove de Julho, 1400 - Jardim Santa Helena, Suzano - SP, 08674-230;1185.06;26;N/A;0.6138;Venda
 51.870.412/0001-13;2025-06-30;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;880.3;11;N/A;0.64;Venda
 51.870.412/0001-13;2025-09-30;1;Habitat - Casa Laguna;Alameda Paulo Roberto Cunha, 113 - Rio Verde - GO;1104.37;8;N/A;0.0273;Venda
 51.870.412/0001-13;2025-09-30;1;Daxo - Res. Rhodes;Rua Otto lehmann, SN - Balneário Piçarras - SC, 88380-000;1313.79;8;N/A;0.0514;Venda
+51.870.412/0001-13;2025-12-31;1;Habitat - Liberta;Rua Joaquim Caetano, 875, Lotes 05/08 - Qd 61-A - Jataí - GO;729.02;6;N/A;0.0139;Venda
+51.870.412/0001-13;2025-12-31;1;Longitude - Vibe Itaim;Rua Salvador Balbino de Matos, 280 - Vila Itaim - SP;36812;45;N/A;0.0069;Venda
+51.870.412/0001-13;2025-12-31;1;CK - Artefacto;Av. Osvaldo Reis, 3334 - Praia Brava - Itajaí;1427.4;8;N/A;0.0283;Venda
 51.889.479/0001-08;2025-03-31;1;CANOAS Finkler - mat. 23.955;Rua Roberto Francisco Behrens;1015.57;1;CANOAS Finkler - mat. 23.955;0.0164;Renda
 51.889.479/0001-08;2025-03-31;1;CANOAS Klopsh- mat. 39.823;Rua Roberto Francisco Behrens;19964.08;1;CANOAS Klopsh- mat. 39.823;0.1283;Renda
 51.889.479/0001-08;2025-03-31;1;VENANCIO AIRES - mat. 55.026;Av. Imperatriz Dona Leopoldina, 4785 - Leopoldina - Venâncio Aires - RS;31282.50;1;VENANCIO AIRES - mat. 55.026;0.0317;Renda
 51.889.479/0001-08;2025-03-31;1;ERECHIM - Mat. 10.897;Rua Luiz Cavagni - Bela Vista, Erechim - RS;16381.75;1;ERECHIM - Mat. 10.897;0.0715;Renda
 51.889.479/0001-08;2025-03-31;1;ERECHIM - Mat.10.898;Rua Luiz Cavagni - Bela Vista, Erechim - RS;16381.75;1;ERECHIM - Mat.10.898;0.0186;Renda
+52.371.756/0001-40;2025-12-31;1;80198_52371;RUA MIRACEMA , S/Nº BATISTINI, 09843-750, São bernardo do campo - SP;21669252;1;Matrícula 80198;0;Renda
 52.904.581/0001-90;2025-03-31;1;IMOVEL RJ;Condomínio Grand Hyatt;238;1;IMOVEL RENDA FUTURA;0.95;Venda
 54.010.546/0001-52;2025-06-30;1;ROVIC 63 EMPREENDIMENTO IMOBILIÁRIO SPE LTDA;NA;0;17;NA;0.1134;Renda
 54.375.187/0001-37;2025-03-31;1;Shopping RioSul;Rua Lauro Müller, 116 - Botafogo, Rio de Janeiro - RJ, 22290-070;51966;308;O FII é proprietário de 33,27% do Shopping RioSul;0.3327;Renda
@@ -237,6 +695,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 54.419.040/0001-00;2025-06-30;1;CASA EDEN;São Paulo;954.07;1;MATRICULA 162.579;0.2956;Renda
 54.419.040/0001-00;2025-12-31;1;VILLAGE;Rua Projetada 10, n° 218, Lote 24, Quadra D, Araraquara -SP, CEP 14.804-470;159.21;1;MATRICULA 107.593;0.0506;Venda
 55.089.373/0001-72;2025-09-30;1;2614-_5;Rua Imaculado Conceicao, 1080 - Prado Velho. Curitiba;230;1;N/A;0.121091443853519;Venda
+55.089.373/0001-72;2025-12-31;1;2614-_5;Rua Imaculado Conceicao, 1080 - Prado Velho. Curitiba;230;1;N/A;0.121091443853519;Venda
 55.793.516/0001-22;2025-03-31;1;117889-302_5;Apartamento nº 302 do edifício situado à Rua Figueiredo Magalhães, nº 780, Rio de Janeiro / RJ;0;1;Matricula - 117889;0;Venda
 55.793.516/0001-22;2025-03-31;1;119583_534_3;Avenida Conselheiro Rodrigues Alves, 534, Apto 32, Rua Hidelbrando Tomás de Carvalho, Rua Humberto I e Rua Otávio de Moraes Dantas, Edifício Bandeiras CEP 04014-001, Vila Mariana, São Paulo - SP;0;1;Matricula - 119583 "Condomínio 1B - Ibirapuera Boulevard", já incluído o direito ao uso de 04 (quatro) vagas na garagem em local individual e indeterminado;0;Venda
 55.793.516/0001-22;2025-03-31;1;148130-23_5;Rua Salete, 279, Apto 23, Condomínio Salete Residencial Club Bairro Santana CEP 02016-001, São Paulo Estado São Paulo;235;1;Matricula - 148130;0;Venda
@@ -255,6 +714,17 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 56.304.155/0001-76;2025-09-30;2;Centro Empresarial Barra Shopping - Sala 401, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
 56.304.155/0001-76;2025-09-30;2;Centro Empresarial Barra Shopping - Sala 501, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
 56.304.155/0001-76;2025-09-30;2;Centro Empresarial Barra Shopping - Sala 601, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-12-31;1;Centro Empresarial Barra Shopping - Sala 101, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-12-31;1;Centro Empresarial Barra Shopping - Sala 201, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-12-31;1;Centro Empresarial Barra Shopping - Sala 301, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-12-31;1;Centro Empresarial Barra Shopping - Sala 401, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-12-31;1;Centro Empresarial Barra Shopping - Sala 501, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.304.155/0001-76;2025-12-31;1;Centro Empresarial Barra Shopping - Sala 601, bloco 06;Av. das Américas, 4200 - Barra da Tijuca, Rio de Janeiro - RJ, 22640-907;1;1;Não há;1;Renda
+56.992.328/0001-96;2025-12-31;1;RCJ;São Paulo;29736.65;54;RCJ;0;Venda
+56.992.328/0001-96;2025-12-31;1;VGL;Porto Feliz;12157.55;46;VGL;0;Venda
+56.992.328/0001-96;2025-12-31;1;VSS;Porto Feliz;4974.89;19;VSS;0;Venda
+56.992.328/0001-96;2025-12-31;1;VE;Porto Feliz;13054.47;56;VE;0;Venda
+56.992.328/0001-96;2025-12-31;1;VH;Porto Feliz;5568;8;VH;0;Venda
 57.216.258/0001-47;2025-03-31;1;Edifício Adalmiro Dellape Baptista B32;Avenida Brigadeiro Faria Lima, nº 3.732, São Paulo, SP;8223.93;1;Imóvel destinado à uso corporativo.;0.899237;Renda
 57.216.258/0001-47;2025-06-30;1;Edifício Adalmiro Dellape Baptista B32;Avenida Brigadeiro Faria Lima, nº 3.732, São Paulo, SP;572.81;1;Imóvel destinado à uso corporativo.;0.073623;Renda
 57.216.258/0001-47;2025-09-30;1;Edifício Adalmiro Dellape Baptista B32;Avenida Brigadeiro Faria Lima, nº 3.732, São Paulo, SP;87.948;1;Imóvel destinado à uso corporativo.;0.007604;Renda
@@ -267,6 +737,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 57.593.613/0001-05;2025-03-31;1;Sao Jose dos Pinhais;Br 376, 18500, Sem Complemento, Mandaguari, Mandaguari/PR, Brasil, 86975-000;14305.09;1;Direito de Propriedade;0.33800371117796;Renda
 57.593.613/0001-05;2025-06-30;1;Imovel Mairipora;Rodovia Fernao Dias, 265, Sem Complemento, Luiz Fagundes, Mairiporã/SP, Brasil, 07625-000;11981.95;1;Direito de propriedade;0.08040648924331;Renda
 57.593.613/0001-05;2025-09-30;1;GH Corporate;Rodovia Engenheiro Ermenio De Oliveira Penteado - Km 56,5, S/n, Sem Complemento, Itaici, Indaiatuba/SP, Brasil, 13340-600;8031.64;7;Não possui caracteristicas que destoem dos demais;0.15286629807996;Renda
+57.593.613/0001-05;2025-12-31;1;Imovel Andorinha - Sao Paulo;Rua Professor Luciano Prata, 204, Sem Complemento, Vila Baruel, Sao Paulo/SP, Brasil, 02510-020;4205.41;1;Não possui;0.0630259015329;Renda
 58.019.792/0001-26;2025-03-31;1;Plaza Imperial;Av. José Pereira Liberato, esquina com a Av. Jacob Ardigó;3423.77;1;Matrícula 31.579;1;Venda
 58.316.418/0001-92;2025-03-31;1;Fazenda Taquaral;Rodovia Arquiteto Helder Candia, 567, 3º Andar, Sala 03, Ribeirão Do Lipa, Cuiabá/MT, Brasil, 78048-150;9172.4;4;não possui características que destoem dos demais;0.02461557223353;Renda
 58.316.418/0001-92;2025-06-30;1;Sitio Flamenga - Projeto Paraipaba;Sitio Flamenga, S/n, Sem Complemento, Boa Água, Morada Nova/CE, Brasil, 62953-000;40000;1;Não possui caracteristicas que destoem dos demais;0.02960547903437;Renda
@@ -283,6 +754,16 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 58.316.418/0001-92;2025-09-30;1;Aegea MT Campo Verde;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20014;1;Não possui caracteristicas que destoem dos demais;0;Renda
 58.316.418/0001-92;2025-09-30;1;Aegea MT Primavera;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20260;1;Não possui caracteristicas que destoem dos demais;0;Renda
 58.316.418/0001-92;2025-09-30;1;Aegea MT São José;Rua D, SN - Quadra:  23 - Lote 12 a 17 - JARDIM ESTORIL - SANTO ANTÔNIO DO LEVERGER /MT -  CEP 78180-000;2250;1;Não possui caracteristicas que destoem dos demais;0;Renda
+58.316.418/0001-92;2025-12-31;1;Aegea AM Manaus;GLEBA 03 - RAMAL DO KM 23 - MANAUS/AM;17286.7;1;Não possui caracteristicas que destoem dos demais;1;Renda
+58.316.418/0001-92;2025-12-31;1;Prospera Mercúrio III;Rod. Lorena a Itajubá, Km 77, Fazenda Rancho Alegre - CEP: 12.600-970;23923;1;Não possui caracteristicas que destoem dos demais;1;Renda
+58.316.418/0001-92;2025-12-31;1;Prospera Mercúrio IV;Rod. Lorena a Itajubá, Km 77, Fazenda Rancho Alegre - CEP: 12.600-970;30027;1;Não possui caracteristicas que destoem dos demais;1;Renda
+58.316.418/0001-92;2025-12-31;1;Prospera Mercúrio V;Rod. Lorena a Itajubá, Km 77, Fazenda Rancho Alegre - CEP: 12.600-970;19015;1;Não possui caracteristicas que destoem dos demais;1;Renda
+58.316.418/0001-92;2025-12-31;1;Prospera Mercúrio VI;Rod. Lorena a Itajubá, Km 77, Fazenda Rancho Alegre - CEP: 12.600-970;24022;1;Não possui caracteristicas que destoem dos demais;1;Renda
+58.316.418/0001-92;2025-12-31;1;Aegea MT Poconé;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20274;1;Não possui caracteristicas que destoem dos demais;1;Renda
+58.316.418/0001-92;2025-12-31;1;Aegea MT Sinop;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20497;1;Não possui caracteristicas que destoem dos demais;1;Renda
+58.316.418/0001-92;2025-12-31;1;Aegea MT Campo Verde;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20014;1;Não possui caracteristicas que destoem dos demais;1;Renda
+58.316.418/0001-92;2025-12-31;1;Aegea MT Primavera;Estrada Velha Da Guia - Baus KM 10 - A Esquerda (Beira da Estrada) - Distrito da Guia - Cuiabá/MT - CEP: 78048-250;20260;1;Não possui caracteristicas que destoem dos demais;1;Renda
+58.316.418/0001-92;2025-12-31;1;Aegea MT São José;Rua D, SN - Quadra:  23 - Lote 12 a 17 - JARDIM ESTORIL - SANTO ANTÔNIO DO LEVERGER /MT -  CEP 78180-000;2250;1;Não possui caracteristicas que destoem dos demais;1;Renda
 58.496.557/0001-45;2025-03-31;1;IRA Imovel;Rua Gomes Jardim, 201, bairro Santana, Porto Alegre/RS;2235.17;4;Salas Comerciais - 101, 102, 103, 1703 - Matrículas 147.685, 147.686, 147.687, 148.037;1;Renda
 58.523.596/0001-94;2025-03-31;1;CASA MORUMBI;BAIRRO DO MORUMBI;0;1;LOTE 11;0;Renda
 58.544.087/0001-48;2025-03-31;1;Le Dépanneur - Botafogo;Rua Voluntarios da Patria, 86, Botafogo - RJ;327;2;Padaria;0.4919;Renda
@@ -290,6 +771,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 58.544.087/0001-48;2025-03-31;1;Nova Farma - Gloria;Rua do Catete, 287, Gloria - RJ;120;1;Framacia;0.1551;Renda
 58.544.087/0001-48;2025-03-31;1;Fleury - Gloria;Rua do Catete, 216, Gloria - RJ;545;2;Saude;0.1528;Renda
 58.544.087/0001-48;2025-06-30;1;Nome;Endereço;Área;;Outras características relevantes;;Categoria
+58.548.730/0001-01;2025-12-31;1;16469_58548;Avenida Dionísio Gomes, nº 595, Lote 01, Quadra 26;3000;1;Não possui informação apresentada;0;Renda
+58.548.730/0001-01;2025-12-31;1;51827_58548;Avenida Professor Armando Alves da Silva, 990,;26273.5;1;Não possui informação apresentada;0;Renda
 58.561.054/0001-06;2025-03-31;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;206.8;1;Cj 31-A, subdivisão do cj 31, localizado no 3º andar, com área privativa de 206,80m², objeto da matrícula nº 52073 do 4° registro de imóveis.  Contrato de locação formalizado, com vigência a partir de maio/25.;0.109458;Renda
 58.561.054/0001-06;2025-03-31;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;178.01;1;Cj 31-B, subdivisão do cj 31, localizado no 3º andar, com área privativa de 178,01m², objeto da matrícula nº 52073 do 4° registro de imóveis.  Contrato de locação formalizado, com vigência a partir de julho/25.;0.094219;Renda
 58.561.054/0001-06;2025-03-31;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;198.08;1;Cj 32-A, subdivisão do cj 32, localizado no 3º andar, com área privativa de 198,08m², objeto da matrícula nº 52074 do 4° registro de imóveis.  Contrato de locação formalizado, com vigência a partir de maio/25.;0.104842;Renda
@@ -297,6 +780,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 58.561.054/0001-06;2025-03-31;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;384.81;1;Cj 41, localizado no 4º andar, com área privativa de 384,81 m², objeto da matrícula nº 52075 do 4° registro de imóveis.;0.203788;Renda
 58.561.054/0001-06;2025-03-31;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;384.81;1;Cj 42, localizado no 4º andar, com área privativa de 384,81m², objeto da matrícula nº 52076 do 4° registro de imóveis.;0.203788;Renda
 58.561.054/0001-06;2025-03-31;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;350.25;15;Vagas de garagem nº 63 a 77, localizadas no 1º sub-solo, sedo cada vaga objeto de matrícula distinta (nº respectivos 52.193 a 52.207), com área construída de 23,35m² cada. As 15 vagas soma 350,25m². Serão disponibilizadas entre 3 e 4 vagas para cada subconjunto.;0.18507;Renda
+58.564.382/0001-66;2025-12-31;1;Ed. Panambi;Rua Geraldo Flausino Gomes, 61;237.96;1;1;0.178904;Renda
 58.580.017/0001-45;2025-03-31;1;Edifício The Spot One;Balneário Camboriú - SC;20000;1;Conectado ao Balneário Shopping;0;Renda
 58.863.998/0001-38;2025-06-30;3;Distribution Park Cajamar;Av. Ribeirão dos Cristais, 800, Cajamar - São Paulo;88676;1;Compra de Portfólio - Detalhes da aquisição no Fato Relevante publicado na CVM no dia 02/04/2025.;0.2704;Renda
 58.863.998/0001-38;2025-06-30;3;Distribution Park Manaus I;Av. Torquato Tapajós, 7.503, Tarumã - Manaus, Amazonas.;105153;1;Compra de Portfólio - Detalhes da aquisição no Fato Relevante publicado na CVM no dia 02/04/2025.;0.3267;Renda
@@ -348,6 +832,19 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 59.680.687/0001-04;2025-03-31;1;Matrícula 43645 - Cartório de Reg. de Imóveis de Curvelo MG;Zona Rural do Município de Felixlândia;127;1;Direito de posse - Matrículas em processo de transferência;0.0243928652850511;Renda
 59.680.687/0001-04;2025-03-31;1;Matrícula 42621 - Cartório de Reg. de Imóveis de Curvelo MG;Zona Rural do Município de Felixlândia;321;1;Direito de posse - Matrículas em processo de transferência;0.0613521428121446;Renda
 59.680.687/0001-04;2025-03-31;1;Matrícula 12814 - Cartório de Registro de  Três Maria / MG;Zona Rural do Município de Três Marias;354;1;Direito de posse - Matrículas em processo de transferência;0.0677345132990539;Renda
+60.329.826/0001-20;2025-12-31;1;Novotel Sao Jose dos Campos;Avenida Doutor Nelson D'avila, 2200, Sem Complemento, Jardim São Dimas, São José Dos Campos/SP, Brasil, 12245-031;6433.75;1;Direito de propriedade;0.05624754201569;Renda
+60.329.826/0001-20;2025-12-31;1;Novotel Sao Paulo Morumbi;Rua Ministro Nelson Hungria, 577, Sem Complemento, Vila Tramontano, São Paulo/SP, Brasil, 05690-050;100;1;Direito de propriedade;0.22451231732413;Renda
+60.329.826/0001-20;2025-12-31;1;Ibis Sao Carlos;Rua Passeio Dos Ipes, 140, Sem Complemento, Parque Faber Castell I, São Carlos/SP, Brasil, 13561-385;3784.58;1;Direito de propriedade;0.04506636775001;Renda
+60.329.826/0001-20;2025-12-31;1;Ibis Budget Paraiso;Rua Vergueiro, 1571, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04101-000;10999.4;1;Direito de propriedade;0.14487229933764;Renda
+60.329.826/0001-20;2025-12-31;1;Ibis Piracicaba;Avenida Armando Dedini, 125, Sem Complemento, Areão, Piracicaba/SP, Brasil, 13414-019;3224.64;1;Direito de propriedade;0.02551770567308;Renda
+60.329.826/0001-20;2025-12-31;1;Ibis Budget Piracicaba;Avenida Armando Dedini, 155, Sem Complemento, Areão, Piracicaba/SP, Brasil, 13414-019;2124.88;1;Direito de propriedade;0.0225264216619;Renda
+60.329.826/0001-20;2025-12-31;1;Ibis Sorocaba;Rua Senhora Maria Aparecida Pessutti Milego, 290, Sem Complemento, Parque Campolim, Sorocaba/SP, Brasil, 18048-140;6000;3;Direito de propriedade;0.04513311318958;Renda
+60.329.826/0001-20;2025-12-31;1;Ibis Paulinia;Rua Trinta E Um De Marco, 290, Sem Complemento, Fazenda Morumbi, São Paulo/SP, Brasil, 05657-030;3821.67;1;Direito de propriedade;0.04081836306985;Renda
+60.329.826/0001-20;2025-12-31;1;Mama Shelter Rio de Janeiro;Rua Paschoal Carlos Magno, 5, Sem Complemento, Santa Teresa, Rio De Janeiro/RJ, Brasil, 20240-290;4000;2;Direito de propriedade;0.00232097806178;Renda
+60.329.826/0001-20;2025-12-31;1;Mgallery Santa Tereza;Rua Almirante Alexandrino, 660, Sem Complemento, Santa Teresa, Rio De Janeiro/RJ, Brasil, 20241-263;2000;1;Direito de propriedade;0.00730445145597;Renda
+60.329.826/0001-20;2025-12-31;1;Pullman Vila Olimpia;Rua Olimpiadas, 205, Sem Complemento, Vila Olímpia, São Paulo/SP, Brasil, 04551-000;2000;45;Direito de propriedade;0.10779954592433;Renda
+60.329.826/0001-20;2025-12-31;1;Ibis Sao Jose dos Campos  Dutra;Avenida Cidade Jardim, 101, Sem Complemento, Jardim Satélite, São José Dos Campos/SP, Brasil, 12231-675;4971.1;1;Direito de propriedade;0.04060146993293;Renda
+60.329.826/0001-20;2025-12-31;1;Ibis Sao Jose do Rio Preto;Avenida Arthur Nonato, 4193, Sem Complemento, Jardim Santa Catarina, São José Do Rio Preto/SP, Brasil, 15080-010;2000;1;Direito de propriedade;0.04394594941894;Renda
 60.551.924/0001-08;2025-06-30;2;Atibaia - Lago;Rua Prefeito Takao Ono, 380, Atibaia, São Paulo;1237;12;-;0.0290844371558499;Renda
 60.551.924/0001-08;2025-06-30;2;Bragança Paulista - Lago Sul;Rua Alpheu Grimello, 1.020, Bragança Paulista, São Paulo;2147;12;-;0.0561697697734438;Renda
 60.551.924/0001-08;2025-06-30;2;Campinas - Chácara Primavera;Rua Jasmim, 215, Campinas, São Paulo;1843;14;-;0.0812323019955193;Renda
@@ -384,8 +881,92 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 60.551.924/0001-08;2025-09-30;1;Pernambucanas - Cubatão;Avenida Nove de Abril, 2.041, Cubatão, São Paulo;1671;1;-;0.0263675124416961;Renda
 60.551.924/0001-08;2025-09-30;1;Pernambucanas - Goiânia;Avenida Anhanguera, 5.332, Goiânia, Goiás;2696;1;-;0.0217054116730034;Renda
 60.551.924/0001-08;2025-09-30;1;Pernambucanas - São Leopoldo;Rua Independência, 525, São Leopoldo, Rio Grande do Sul;1041;1;-;0.0390753479778039;Renda
+60.551.924/0001-08;2025-12-31;1;São Paulo - Verbo Divino;Rua Verbo Divino, n° 986, São Paulo, SP;2890;26;Trata-se de uma SPE que detém o direito de uso do imóvel via contrato atípico de locação;0.0529;Renda
 60.868.732/0001-20;2025-06-30;1;Imóvel de Fortaleza;Avenida Jose Saboia, 905, Sem Complemento, Cais Do Porto, Fortaleza/CE, Brasil, 60180-480;13977.17;1;Direito de Propriedade;0.757804;Renda
 60.868.732/0001-20;2025-09-30;1;Moinho da Bahia;Avenida Estados Unidos, 863, Sem Complemento, Parque Das Nações, Santo André/SP, Brasil, 09210-300;5075.9;3;Direito de propriedade.;0.46159915858258;Renda
+60.871.972/0001-83;2025-12-31;1;Edificio Loeb;Alameda Ministro Rocha Azevedo, 1334, Sem Complemento, Cerqueira César, São Paulo/SP, Brasil, 01410-003;393.84;3;Direito de Propriedade;0.04771173423149;Venda
+61.090.977/0001-31;2025-12-31;1;Fazenda Paulista;Zona Rural, Cristalina/Go;6520000;;Matrícula 26.546, do Cartório de Registro de Imóveis de Cristalina/GO;;Renda
+61.090.977/0001-31;2025-12-31;1;Fazenda Dadivosa;Zona Rural, Cristalina/Go;6900000;;Matrícula 11.030, do Cartório de Registro de Imóveis de Cristalina/GO;;Renda
+61.112.477/0001-53;2025-12-31;1;SB_48826;Rua São Bento, 1;112.15;1;Nenhuma característica relevante;0.00857340707157453;Venda
+61.112.477/0001-53;2025-12-31;1;SB_48827;Rua São Bento, 1;54.76;1;Nenhuma característica relevante;0.00418699715017793;Venda
+61.112.477/0001-53;2025-12-31;1;SB_48828;Rua São Bento, 1;49.77;1;Nenhuma característica relevante;0.00381891143211641;Venda
+61.112.477/0001-53;2025-12-31;1;SB_48829;Rua São Bento, 1;34.97;1;Nenhuma característica relevante;0.00272369767491501;Venda
+61.112.477/0001-53;2025-12-31;1;SB_201;Rua São Bento, 1;267.37;1;Nenhuma característica relevante;0.00855316914626326;Venda
+61.112.477/0001-53;2025-12-31;1;SB_202;Rua São Bento, 1;215.23;1;Nenhuma característica relevante;0.00689699008329246;Venda
+61.112.477/0001-53;2025-12-31;1;SB_301;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00855316914626326;Venda
+61.112.477/0001-53;2025-12-31;1;SB_302;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0115851024121408;Venda
+61.112.477/0001-53;2025-12-31;1;SB_401;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00878905821005561;Venda
+61.112.477/0001-53;2025-12-31;1;SB_402;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0119389360078293;Venda
+61.112.477/0001-53;2025-12-31;1;SB_501;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00878905821005561;Venda
+61.112.477/0001-53;2025-12-31;1;SB_502;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0119389360078293;Venda
+61.112.477/0001-53;2025-12-31;1;SB_601;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00878905821005561;Venda
+61.112.477/0001-53;2025-12-31;1;SB_602;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0119389360078293;Venda
+61.112.477/0001-53;2025-12-31;1;SB_701;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00896597500789986;Venda
+61.112.477/0001-53;2025-12-31;1;SB_702;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0121158528056736;Venda
+61.112.477/0001-53;2025-12-31;1;SB_801;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00896597500789986;Venda
+61.112.477/0001-53;2025-12-31;1;SB_802;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0121158528056736;Venda
+61.112.477/0001-53;2025-12-31;1;SB_901;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00896597500789986;Venda
+61.112.477/0001-53;2025-12-31;1;SB_902;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0121158528056736;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1001;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00914289180574412;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1002;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0123517418694659;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1101;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00914289180574412;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1102;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0123517418694659;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1201;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00914289180574412;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1202;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0123517418694659;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1301;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00931980860358837;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1302;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0125876309332582;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1401;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00931980860358837;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1402;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0125876309332582;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1501;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00931980860358837;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1502;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0125876309332582;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1601;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00943775313548454;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1602;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0128235199970506;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1701;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00943775313548454;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1702;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0128235199970506;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1801;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00943775313548454;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1802;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0128235199970506;Venda
+61.112.477/0001-53;2025-12-31;1;SB_1901;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.0096146699333288;Renda
+61.112.477/0001-53;2025-12-31;1;SB_1902;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0130004367948948;Renda
+61.112.477/0001-53;2025-12-31;1;SB_2001;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.0096146699333288;Venda
+61.112.477/0001-53;2025-12-31;1;SB_2002;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0130004367948948;Venda
+61.112.477/0001-53;2025-12-31;1;SB_2101;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.0096146699333288;Venda
+61.112.477/0001-53;2025-12-31;1;SB_2102;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0130004367948948;Venda
+61.112.477/0001-53;2025-12-31;1;SB_2201;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00979158673117305;Venda
+61.112.477/0001-53;2025-12-31;1;SB_2202;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0132363258586872;Venda
+61.112.477/0001-53;2025-12-31;1;SB_2301;Rua São Bento, 1;267.83;1;Nenhuma característica relevante;0.00979158673117305;Venda
+61.112.477/0001-53;2025-12-31;1;SB_2302;Rua São Bento, 1;362.55;1;Nenhuma característica relevante;0.0132363258586872;Venda
+61.112.477/0001-53;2025-12-31;1;SB_2401;Rua São Bento, 1;439.33;1;Nenhuma característica relevante;0.0160488683188108;Venda
+61.112.477/0001-53;2025-12-31;1;SB_2402;Rua São Bento, 1;559.17;1;Nenhuma característica relevante;0.0204073931452816;Venda
+61.112.477/0001-53;2025-12-31;1;VI_101;Rua Visconde de Inhaúma, 83;463.29;1;Nenhuma característica relevante;0.0133197263243035;Venda
+61.112.477/0001-53;2025-12-31;1;VI_102;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0171432526900639;Venda
+61.112.477/0001-53;2025-12-31;1;VI_201;Rua Visconde de Inhaúma, 83;463.29;1;Nenhuma característica relevante;0.0133197263243035;Venda
+61.112.477/0001-53;2025-12-31;1;VI_202;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0171432526900639;Venda
+61.112.477/0001-53;2025-12-31;1;VI_301;Rua Visconde de Inhaúma, 83;463.29;1;Nenhuma característica relevante;0.0136802625897951;Venda
+61.112.477/0001-53;2025-12-31;1;VI_302;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0176150308176486;Venda
+61.112.477/0001-53;2025-12-31;1;VI_401;Rua Visconde de Inhaúma, 83;463.29;1;Nenhuma característica relevante;0.0136802625897951;Venda
+61.112.477/0001-53;2025-12-31;1;VI_402;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0176150308176486;Venda
+61.112.477/0001-53;2025-12-31;1;VI_501;Rua Visconde de Inhaúma, 83;463.29;1;Nenhuma característica relevante;0.0136802625897951;Venda
+61.112.477/0001-53;2025-12-31;1;VI_502;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0176150308176486;Venda
+61.112.477/0001-53;2025-12-31;1;VI_601;Rua Visconde de Inhaúma, 83;463.29;1;Nenhuma característica relevante;0.0139822005914493;Venda
+61.112.477/0001-53;2025-12-31;1;VI_602;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0179688644133371;Venda
+61.112.477/0001-53;2025-12-31;1;VI_701;Rua Visconde de Inhaúma, 83;463.29;1;Nenhuma característica relevante;0.0139822005914493;Venda
+61.112.477/0001-53;2025-12-31;1;VI_702;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0179688644133371;Venda
+61.112.477/0001-53;2025-12-31;1;VI_801;Rua Visconde de Inhaúma, 83;463.29;1;Nenhuma característica relevante;0.0139822005914493;Venda
+61.112.477/0001-53;2025-12-31;1;VI_802;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0179688644133371;Venda
+61.112.477/0001-53;2025-12-31;1;VI_901;Rua Visconde de Inhaúma, 83;463.1;1;Nenhuma característica relevante;0.0142270342147071;Venda
+61.112.477/0001-53;2025-12-31;1;VI_902;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0182637257430775;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1001;Rua Visconde de Inhaúma, 83;462.89;1;Nenhuma característica relevante;0.0142270342147071;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1002;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0182637257430775;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1101;Rua Visconde de Inhaúma, 83;462.63;1;Nenhuma característica relevante;0.0142270342147071;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1102;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0182637257430775;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1201;Rua Visconde de Inhaúma, 83;462.35;1;Nenhuma característica relevante;0.0144863043666134;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1202;Rua Visconde de Inhaúma, 83;591.06;1;Nenhuma característica relevante;0.0186175593387661;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1301;Rua Visconde de Inhaúma, 83;449.24;1;Nenhuma característica relevante;0.0140429420253758;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1401;Rua Visconde de Inhaúma, 83;448.85;1;Nenhuma característica relevante;0.0140429420253758;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1501;Rua Visconde de Inhaúma, 83;448.42;1;Nenhuma característica relevante;0.0142877756486336;Renda
+61.112.477/0001-53;2025-12-31;1;VI_1601;Rua Visconde de Inhaúma, 83;447.96;1;Nenhuma característica relevante;0.0142877756486336;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1701;Rua Visconde de Inhaúma, 83;447.46;1;Nenhuma característica relevante;0.0142288033826855;Venda
+61.112.477/0001-53;2025-12-31;1;VI_1801;Rua Visconde de Inhaúma, 83;622.69;1;Nenhuma característica relevante;0.0202002283517595;Renda
 61.247.681/0001-81;2025-09-30;1;Scala Data Center - São João Meriti;Rodovia Presidente Dutra, 4300 - Área 3 - Jardim José Bonifácio;64462;1;n/a;1;Renda
 61.272.325/0001-18;2025-09-30;1;LOG SÃO JOSÉ DOS PINHAIS II;BR 116, nº 7.401, Quadra 307, Bairro Quississana, CEP 83.085-058São José dos Pinhais, Estado do Paraná;40981.38;1;n/a;0.4143;Renda
 61.272.325/0001-18;2025-09-30;1;HORTOLÂNDIA INCORPORAÇÃO;Rua Pérola, nº 200, Sala 1, Bairro Jardim Santa Esmeralda, CEP 13.186-546Cidade de Hortolândia, Estado de São Paulo;53591.56;3;n/a;0.5179;Renda
@@ -394,8 +975,69 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 61.848.349/0001-72;2025-09-30;1;Helbor Vila Mariana;Rua Domingos de Morais nºs 930, 944, 954, 964 e 976 e Rua França Pinto nºs 64 e 70;1254.24;11;N/A;0.191958818967396;Venda
 61.848.349/0001-72;2025-09-30;1;Helbor Alegria;Avenida Doutor Benedicto Laporte Vieira da Motta, Área 7, sob nº 183 no Distrito, Município e Comarca;1487.81;15;N/A;0.147267129608744;Venda
 61.848.349/0001-72;2025-09-30;1;Helbor Curitiba;Rua Governador Agamenon Magalhães, nº 78 e na Rua João Dranka, nº 81- Curitiba - PR;1063.95;26;N/A;0.127969336546205;Venda
+61.848.349/0001-72;2025-12-31;2;Helbor Vila Mariana II;Rua Domingos de Morais nºs 930, 944, 954, 964 e 976 e Rua França Pinto nºs 64 e 70;503.34;4;N/A;0.0931820137553213;Venda
+61.848.349/0001-72;2025-12-31;2;Helbor Alegria II;Avenida Doutor Benedicto Laporte Vieira da Motta, Área 7, sob nº 183 no Distrito, Município e Comarca;703.66;6;N/A;0.0252;Venda
+61.848.349/0001-72;2025-12-31;2;Helbor Curitiba II;Rua Governador Agamenon Magalhães, nº 78 e na Rua João Dranka, nº 81- Curitiba - PR;1155.45;29;N/A;0.108719103231336;Venda
+61.911.799/0001-62;2025-12-31;1;EZ Towers - Torre A;Av. Dr Chucri Zaidan, 1.649 - São Paulo - SP, 04711-130;22277.24;31;O empreendimento está localizado no principal eixo de desenvolvimento de São Paulo, com fácil acesso ao transporte público e cercado por uma crescente infraestrutura viária. O edifício também conta com Certificado de Destinação de Resíduos Sólidos, Certificação Fitwel e Selo Guia de Rodas.;0.508759;Renda
+61.911.799/0001-62;2025-12-31;1;BrasilPrev;Rua Alexandre Dumas, 1671 - Chácara Santo Antônio (Zona Sul), São Paulo - SP, 04717-004;11845;5;Empreendimento localizado na Chácara Santo Antônio, bairro nobre da cidade de São Paulo. Projetado para permitir uma ocupação eficiente e sustentável, ele também oferece inúmeras possibilidades de layouts. O empreendimento tem 11.845 m² de ABL (Área Bruta Locável), 5 pavimentos de 2.354 m², 253 vagas de estacionamento e 5 elevadores.;0.087658;Renda
+61.911.799/0001-62;2025-12-31;1;Passeio 42;R. do Passeio, 42 - Centro, Rio de Janeiro - RJ, 20021-290;10499.68;12;O empreendimento está localizado na Zona Especial do Corredor Cultural, de preservação paisagística e ambiental do centro do Rio de Janeiro, próximo ao aeroporto Santos Dumont. O empreendmento tem 12 pavimentos de 1.100 m², vagas disponíveis no edifício, garagem e 4 elevadores.;0.054011;Renda
+61.911.799/0001-62;2025-12-31;1;Paulista Office Park;Av. Paulista, 1912 - Cerqueira César, São Paulo - SP, 01311-000;8467.15;19;O empreendimento está localizado na Avenida Paulista, principal cartão postal de São Paulo. O empreendimento tem 8.467 m² de ABL (Área Bruta Locável), 19 pavimentos de 562 m², 132 vagas de estacionamento e 4 elevadores.;0.143508;Renda
+61.911.799/0001-62;2025-12-31;1;Centro Empresarial Visconde de Ouro Preto (CEVOP);Rua Visconde de Ouro Preto, 5 - Botafogo;7161.6;11;O empreendimento está localizado na orla de Botafogo, Rio de Janeiro. Botafogo é um dos bairros mais movimentados da Zona Sul carioca e tem uma grande variedade de serviços e lojas de varejo, além de oferecer fácil acesso de diferentes pontos da cidade. O empreendimento tem 7.162 m² de ABL (Área Bruta Locável), 11 pavimentos de 716 m², 271 vagas de estacionamento e 4 elevadores.;0.064916;Renda
+61.911.799/0001-62;2025-12-31;1;GlobalTech;Estrada Giuseppina Vianelli di Napoli, 1455 - Bosque das Palmeiras, Campinas - SP, 13086-530;5919.67;3;O GlobalTech é um empreendimento corporativo com estrutura moderna e arquitetura arrojada, localizado em Campinas, São Paulo. O empreendimento tem 5.919,67 m² de ABL (Área Bruta Locável) e conta com vagas de estacionamento e plataformas de acessibilidade.;0.051957;Renda
+61.911.799/0001-62;2025-12-31;1;São Paulo Office Park II (SPOP II);Rua Alexandre Dumas, 1981 - Chácara Santo Antônio, São Paulo - SP, 04717-906;5599.65;3;O empreendimento está localizado em um dos pontos de maior visibilidade da região, na esquina da Rua Alexandre Dumas com a Rua José Guerra, próximo ao novo eixo corporativo de São Paulo, o Berrini - Chucri Zaidan, na zona sul da capital.  O empreendimento tem 5.600 m² de ABL (Área Bruta Locável), 3 pavimentos de 1.850 m², 75 vagas de estacionamento e 2 elevadores.;0.040096;Renda
+61.911.799/0001-62;2025-12-31;1;Pasteur 110;Av. Pasteur, 110 - Botafogo, Rio de Janeiro - RJ, 22290-240;5372.65;11;O empreendimento está localizado em uma das históricas ruas da Zona Sul carioca. O empreendimento tem 5.373 m² de ABL (Área Bruta Locável), 11 pavimentos de 780 m², 100 vagas de estacionamento e 4 elevadores.;0.049095;Renda
+62.082.124/0001-10;2025-12-31;1;Cidade Jardim Continental Tower;Av. Magalhães de Castro, 4.800 - São Paulo/SP;23758.97;26;-;0.4722;Renda
+62.173.370/0001-88;2025-12-31;1;Torre Rio Claro Offices;Alameda Rio Claro, nº 190, Bela Vista, cidade e estado de São Paulo;2426.79;8;Subcondomínio Office, Condomínio Cidade Matarazzo. Imóveis correspondentes aos Escritórios nº 41, 42, 43, 51, 52, 53, 61 e 62;0.9492;Renda
 62.173.916/0001-09;2025-09-30;1;Lotus Tower;Setor de Autarquias Norte - SA/N, Quadra 5, Bloco A, Asa Norte, Brasília/DF;21712.5;17;Direito de propriedade;1;Renda
 62.254.106/0001-79;2025-09-30;1;BARÃO DE ICARAÍ;Rua Barão de Icaraí, nº 30 - apartamento 101 - Flamengo/RJ;0;1;100% de participação;0.2299;Venda
 62.254.106/0001-79;2025-09-30;1;GAGO COUTINHO;Rua Gago Coutinho, nº 53, 55, 57, 59, 61;0;5;O Fundo vai desenvolver um empreendimento residencial, por meio de incorporação imobiliária;0.7701;Venda
+62.305.611/0001-03;2025-12-31;1;Imoveis Pesa;Rodovia Br - 386, 3960, Sem Complemento, Nova Santa Rita, Nova Santa Rita/RS, Brasil, 92480-000;34997.11;5;Não possui;0.475326;Renda
+62.731.360/0001-10;2025-12-31;1;A Mata - Casa 06;Rua Projetada, Casa 06, distrito de Trancoso - Porto Seguro/BA;420;1;A aquisição foi formalizada por Compromisso de Compra e Venda da Casa nº 6 do empreendimento residencial A MATA, localizada em Trancoso/BA, vinculada à respectiva fração ideal de terreno. O empreendimento contará com 18 unidades autônomas. Embora exista hipoteca sobre o terreno em favor do Banco Santander (Brasil) S.A., o ônus não recai sobre a fração ideal da unidade adquirida, que se encontra livre e desembaraçada de gravames.;0.159760601933215;Venda
+62.731.360/0001-10;2025-12-31;1;A Mata - Casa 09;Rua Projetada, Casa 09, distrito de Trancoso - Porto Seguro/BA;420;1;A aquisição foi formalizada por Compromisso de Compra e Venda da Casa nº 9 do empreendimento residencial A MATA, localizada em Trancoso/BA, vinculada à respectiva fração ideal de terreno. O empreendimento contará com 18 unidades autônomas. Embora exista hipoteca sobre o terreno em favor do Banco Santander (Brasil) S.A., o ônus não recai sobre a fração ideal da unidade adquirida, que se encontra livre e desembaraçada de gravames.;0.159760601933215;Venda
+62.855.536/0001-46;2025-12-31;1;Lotus Tower;Quadra 5, S/n, Lote A, Setor Norte (brazlândia), Brasília/DF, Brasil, 72705-050;50000;16;Direito de propriedade;0.92809428874282;Renda
+63.104.203/0001-48;2025-12-31;1;Ambev CDDs ENF;Rua Padre Vicente Próspero n.145, Area A-3-2;0.080142;1;Ativos imobiliários adquiridos por meio de direitos reais de superfície, pelos quais o fundo obtém o direito de uso e exploração econômica de imóveis de terceiros por prazo determinado. Os ativos são destinados exclusivamente à locação na modalidade built to suit, regida pelo art. 54-A da Lei do Inquilinato, que prevê multa altamente punitiva em caso de rescisão antecipada. A aquisição ocorreu com os ativos já operacionais há pelo menos seis meses, reduzindo risco de construção, e conta como principais garantias contratos de longo prazo com locatários de baixo risco de crédito (locatárias com rating), seguros do projeto e procuração que permite ao locador assumir ou redirecionar o uso da energia e a titularidade do medidor em caso de inadimplência.;0.361265498076101;Renda
+63.104.203/0001-48;2025-12-31;1;Ambev CDDs ESS1;Estância Vô Ninha, Estrada Ninho das Cobras (Av.14/M12.322);0.1096;1;Ativos imobiliários adquiridos por meio de direitos reais de superfície, pelos quais o fundo obtém o direito de uso e exploração econômica de imóveis de terceiros por prazo determinado. Os ativos são destinados exclusivamente à locação na modalidade built to suit, regida pelo art. 54-A da Lei do Inquilinato, que prevê multa altamente punitiva em caso de rescisão antecipada. A aquisição ocorreu com os ativos já operacionais há pelo menos seis meses, reduzindo risco de construção, e conta como principais garantias contratos de longo prazo com locatários de baixo risco de crédito (locatárias com rating), seguros do projeto e procuração que permite ao locador assumir ou redirecionar o uso da energia e a titularidade do medidor em caso de inadimplência.;0.211628901239846;Renda
+63.104.203/0001-48;2025-12-31;1;Ambev CDDs ESS2;Sitio Santa Mariana, Estrada de São Berto Km 02;0.15;1;Ativos imobiliários adquiridos por meio de direitos reais de superfície, pelos quais o fundo obtém o direito de uso e exploração econômica de imóveis de terceiros por prazo determinado. Os ativos são destinados exclusivamente à locação na modalidade built to suit, regida pelo art. 54-A da Lei do Inquilinato, que prevê multa altamente punitiva em caso de rescisão antecipada. A aquisição ocorreu com os ativos já operacionais há pelo menos seis meses, reduzindo risco de construção, e conta como principais garantias contratos de longo prazo com locatários de baixo risco de crédito (locatárias com rating), seguros do projeto e procuração que permite ao locador assumir ou redirecionar o uso da energia e a titularidade do medidor em caso de inadimplência.;0.215476699444207;Renda
+63.104.203/0001-48;2025-12-31;1;Ambev CDDs ESS3;Estância Cantinho do Brasileirinho, Estrada São Bento;0.15;1;Ativos imobiliários adquiridos por meio de direitos reais de superfície, pelos quais o fundo obtém o direito de uso e exploração econômica de imóveis de terceiros por prazo determinado. Os ativos são destinados exclusivamente à locação na modalidade built to suit, regida pelo art. 54-A da Lei do Inquilinato, que prevê multa altamente punitiva em caso de rescisão antecipada. A aquisição ocorreu com os ativos já operacionais há pelo menos seis meses, reduzindo risco de construção, e conta como principais garantias contratos de longo prazo com locatários de baixo risco de crédito (locatárias com rating), seguros do projeto e procuração que permite ao locador assumir ou redirecionar o uso da energia e a titularidade do medidor em caso de inadimplência.;0.211628901239846;Renda
+63.240.822/0001-60;2025-12-31;1;Grand Plaza Shopping;Avenida Industrial, 600, Sem Complemento, Campestre, Santo André/SP, Brasil, 09080-510;72000;1;Não possui caracteristicas que destoem dos demais;0.18283545821983;Renda
+63.240.822/0001-60;2025-12-31;1;Tiete Plaza Shopping;Avenida Raimundo Pereira De Magalhaes, 1465, Sem Complemento, Jardim Íris, São Paulo/SP, Brasil, 05145-000;36914;1;Não possui caracteristicas que destoem dos demais;0.24064352338044;Renda
+63.240.822/0001-60;2025-12-31;1;Santana Parque Shopping;Rua Conselheiro Moreira De Barros, 2780, , Lauzane Paulista, Sao Paulo/SP, Brasil, 02430-001;26496;1;Não possui caracteristicas que destoem dos demais;0.03082905244845;Renda
+63.240.822/0001-60;2025-12-31;1;Caxias Shopping;Rodovia Washington Luiz, 2895, Sem Complemento, Parque Duque, Duque De Caxias/RJ, Brasil, 25085-008;28074;1;Não possui caracteristicas que destoem dos demais;0.04992360739918;Renda
+63.240.822/0001-60;2025-12-31;1;Shopping Metropolitano Barra;Avenida Embaixador Abelardo Bueno, 1300, Sem Complemento, Barra Olímpica, Rio De Janeiro/RJ, Brasil, 22775-023;43275;1;Não possui caracteristicas que destoem dos demais;0.1203019652357;Renda
+63.240.822/0001-60;2025-12-31;1;Shopping Ponta Negra;Avenida Coronel Teixeira, 5705, Sem Complemento, Ponta Negra, Manaus/AM, Brasil, 69037-000;35029;1;Não possui caracteristicas que destoem dos demais;0.09244738061432;Renda
+63.240.822/0001-60;2025-12-31;1;CAMPINAS SHOPPING CENTER;Rua Jacy Teixeira Camargo, 940, 940, Sem Complemento, Jardim Do Lago, Campinas/SP, Brasil, 13050-913;57000;1;Não possui caracteristicas que destoem dos demais;0.08334905347633;Renda
+63.240.822/0001-60;2025-12-31;1;Shopping Bela Vista;Alameda Euvaldo Luz, 92, Sem Complemento, Horto Bela Vista, Salvador/BA, Brasil, 41098-020;51143;1;Não possui caracteristicas que destoem dos demais;0.05134731875165;Renda
+63.240.822/0001-60;2025-12-31;1;Downtown (varejo dos blocos 5 7 e 17);Avenida Das Americas, 500, Sem Complemento, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22640-100;9611;1;Não possui caracteristicas que destoem dos demais;0.04762125333461;Venda
 63.279.539/0001-41;2025-12-31;1;CONDOMÍNIO ENSEADA DO CASTELO;PRAIA DO FORTE, MATA DE SÃO JOÃO - BA;81000;1;IMOVEL ENSEADA;1;Venda
-63.574.240/0001-10;2025-12-31;1;Terminal Multimodal de Camaçari;Via de Ligação , Polo Petroquimico de Camaçari - BA;338477.53;1;matricula 35341;1;Renda
+63.327.294/0001-80;2025-12-31;1;Condomínio Basílio, 177 - Ramal;R. Sete de Abril, 295 e 309;2347.06;8;Lojas 01 a 08,  localizadas no pavimento térreo do Condomínio Basílio 177, respectivamente objeto das matrículas n°s 117.588 a 177.595, todas do 5º Oficial do Registro de Imóveis de São Paulo, compreendendo uma área privativa de 2.347,06 m².;1;Renda
+63.360.692/0001-07;2025-12-31;1;Pátio Victor Malzoni CJ 53;Avenida Brigadeiro Faria Lima, 3477;378.67;1;Conjunto 53;1;Renda
+63.416.131/0001-74;2025-12-31;1;Condomínio São Paulo Bay;Avenida Ulysses Reis de Mattos, nº 105 e Avenida Duquesa de Goias, nº 523, Real Parque, CEP 05686-002, São Paulo/SP - Unid 91;220;1;Não possui informação apresentada;0.184136779200854;Venda
+63.416.131/0001-74;2025-12-31;1;Condomínio São Paulo Bay;Avenida Ulysses Reis de Mattos, nº 105 e Avenida Duquesa de Goias, nº 523, RealParque, CEP 05686-002, São Paulo/SP - Unid 92;220;1;Não possui informação apresentada;0.186481431771395;Venda
+63.416.131/0001-74;2025-12-31;1;Condomínio São Paulo Bay;Avenida Ulysses Reis de Mattos, nº 105 e Avenida Duquesa de Goias, nº 523, RealParque, CEP 05686-002, São Paulo/SP - Unid 202;220;1;Não possui informação apresentada;0.198473939087345;Venda
+63.416.131/0001-74;2025-12-31;1;Condomínio São Paulo Bay;Avenida Ulysses Reis de Mattos, nº 105 e Avenida Duquesa de Goias, nº 523, RealParque, CEP 05686-002, São Paulo/SP - Unid 193;220;1;não possui informação apresentada;0.215453924970203;Venda
+63.416.131/0001-74;2025-12-31;1;Condomínio São Paulo Bay;Avenida Ulysses Reis de Mattos, nº 105 e Avenida Duquesa de Goias, nº 523, RealParque, CEP 05686-002, São Paulo/SP - Unid 194;220;1;Não possui informação apresentada;0.215453924970203;Venda
+63.492.653/0001-55;2025-12-31;1;171874_63492;171874_63492 - Avenida Escola Politécnica, 760, - Rio Pequeno. CEP: 05350-901.;209.6;1;Não possui informação apresentada;1;Venda
+63.566.516/0001-18;2025-12-31;1;GENERAL ARTIGAS;Rua General Artigas, nº 119, Leblon, Rio de Janeiro - RJ;0;0;0;0;Venda
+63.574.240/0001-10;2025-12-31;2;Terminal Multimodal de Camaçari;Via de Ligação , Polo Petroquimico de Camaçari - BA;338477.53;1;matricula 35341;1;Renda
+63.574.892/0001-54;2025-12-31;1;GIO Jardins Unidade 1501;Alameda Gabriel Monteiro da Silva n° 125, 135, 137, 145 e Rua Carumbé n° 51, Jardim América;200.12;1;Unidade residencial, comprada com opção de recompra (por parte do vendedor) Preço de Aquisição: R$ 4.226.683,26;0.166666;Venda
+63.574.892/0001-54;2025-12-31;1;GIO Jardins Unidade 2401;Alameda Gabriel Monteiro da Silva n° 125, 135, 137, 145 e Rua Carumbé n° 51, Jardim América;200.35;1;Unidade residencial, comprada com opção de recompra (por parte do vendedor) Preço de Aquisição: R$ 4.226.683,26;0.166666;Venda
+63.574.892/0001-54;2025-12-31;1;GIO Jardins Unidade 2901;Alameda Gabriel Monteiro da Silva n° 125, 135, 137, 145 e Rua Carumbé n° 51, Jardim América;200.35;1;Unidade residencial, comprada com opção de recompra (por parte do vendedor) Preço de Aquisição: R$ 4.226.683,26;0.166666;Venda
+63.574.892/0001-54;2025-12-31;1;GIO Jardins Unidade 3101;Alameda Gabriel Monteiro da Silva n° 125, 135, 137, 145 e Rua Carumbé n° 51, Jardim América;200.35;1;Unidade residencial, comprada com opção de recompra (por parte do vendedor) Preço de Aquisição: R$ 4.226.683,26;0.166666;Venda
+63.574.892/0001-54;2025-12-31;1;GIO Jardins Unidade 3301;Alameda Gabriel Monteiro da Silva n° 125, 135, 137, 145 e Rua Carumbé n° 51, Jardim América;200.57;1;Unidade residencial, comprada com opção de recompra (por parte do vendedor) Preço de Aquisição: R$ 4.226.683,26;0.166666;Venda
+63.574.892/0001-54;2025-12-31;1;GIO Jardins Unidade 1801;Alameda Gabriel Monteiro da Silva n° 125, 135, 137, 145 e Rua Carumbé n° 51, Jardim América;200.12;1;Unidade residencial, comprada com opção de recompra (por parte do vendedor) Preço de Aquisição: R$ 4.226.683,26;0.166666;Venda
+63.574.892/0001-54;2025-12-31;1;HADDOCK 885 Unidade 801;Rua Haddock Lobo 885 e na Alameda Itu n° 1200, 1210, 1212, 1232;207.95;1;Unidade residencial, comprada com opção de recompra (por parte do vendedor) Preço de Aquisição: R$ 6.700.171,72;0.166666;Venda
+63.574.892/0001-54;2025-12-31;1;HADDOCK 885 Unidade 901;Rua Haddock Lobo 885 e na Alameda Itu n° 1200, 1210, 1212, 1232;207.05;1;Unidade residencial, comprada com opção de recompra (por parte do vendedor) Preço de Aquisição: R$ 6.700.171,72;0.166666;Venda
+63.574.892/0001-54;2025-12-31;1;HADDOCK 885 Unidade 1001;Rua Haddock Lobo 885 e na Alameda Itu n° 1200, 1210, 1212, 1232;207.05;1;Unidade residencial, comprada com opção de recompra (por parte do vendedor) Preço de Aquisição: R$ 6.700.171,72;0.166666;Venda
+63.787.833/0001-64;2025-12-31;1;Ed. Panambi;Rua Geraldo Flausino Gomes, 61;237.96;1;1;1;Renda
+63.811.693/0001-12;2025-12-31;1;Condomínio Citlog Sul de Minas;Av. Porto Seco, 1.540, Aeroporto - Varginha - MG;78542.74;14;-;1;Renda
+63.879.740/0001-60;2025-12-31;1;Campus Matrícula N° 85.657;Praça Tereza Cristina, 88 - Centro, Guarulhos - SP;15658.97;1;Campus Matrícula N° 85.657;1;Renda
+63.879.740/0001-60;2025-12-31;1;Campus Matrícula N° 87.164;Praça Tereza Cristina, 88 - Centro, Guarulhos - SP;5346.94;1;Campus Matrícula N° 87.164;1;Renda
+63.879.740/0001-60;2025-12-31;1;Campus Matrícula N° 86.813;Praça Tereza Cristina, 88 - Centro, Guarulhos - SP;4081.79;1;Campus Matrícula N° 86.813;1;Renda
+63.879.740/0001-60;2025-12-31;1;Campus Matrícula N° 62.914;Praça Tereza Cristina, 88 - Centro, Guarulhos - SP;300;1;Campus Matrícula N° 62.914;1;Renda
+63.879.740/0001-60;2025-12-31;1;Largo Paissandú Matrícula N° 58.212;Lg. do Paissandú, 62/72 - Centro Histórico de São Paulo, São Paulo - SP, 01034-010;100.32;1;Largo Paissandú Matrícula N° 58.212;1;Renda
+63.879.740/0001-60;2025-12-31;1;Largo Paissandú Matrícula N° 58.213;Lg. do Paissandú, 62/72 - Centro Histórico de São Paulo, São Paulo - SP, 01034-010;105.13;1;Largo Paissandú Matrícula N° 58.213;1;Renda
+63.879.740/0001-60;2025-12-31;1;Matrícula N° 113.163;Avenida Jorge Amado S/N - Guarulhos - São Paulo/SP;5000;1;Matrícula N° 113.163;1;Renda
+63.879.740/0001-60;2025-12-31;1;Matrícula N° 218.538;Rua Padre Jose de Ancheita, 652, 756 e 762 - Santo Amaro, São Paulo/SP;91.85;1;Matrícula N° 218.538;1;Renda
+63.879.740/0001-60;2025-12-31;1;Matrícula N° 218.539;Rua Padre Jose de Ancheita, 652, 756 e 762 - Santo Amaro, São Paulo/SP;91.85;1;Matrícula N° 218.539;1;Renda
+63.879.740/0001-60;2025-12-31;1;Matrícula N° 218.540;Rua Padre Jose de Ancheita, 652, 756 e 762 - Santo Amaro, São Paulo/SP;91.85;1;Matrícula N° 218.540;1;Renda
+63.879.740/0001-60;2025-12-31;1;Matrícula N° 342;Rua São Benedito, 218 - Santo Amaro - São Paulo/SP;189;1;Matrícula N° 342;1;Renda

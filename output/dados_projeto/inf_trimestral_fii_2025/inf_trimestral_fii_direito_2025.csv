@@ -27,6 +27,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 13.584.584/0001-31;2025-09-30;1;Cemitério Morumby;Jazigos;3199170
 13.584.584/0001-31;2025-09-30;1;Cemitério Morumby;Jazigos;23206287
 13.584.584/0001-31;2025-09-30;1;Cemitério Morumby;Jazigos;43872838.5
+13.584.584/0001-31;2025-12-31;1;Cemitério Morumby;Jazigos;3199170
+13.584.584/0001-31;2025-12-31;1;Cemitério Morumby;Jazigos;23206287
+13.584.584/0001-31;2025-12-31;1;Cemitério Morumby;Jazigos;43872838.5
 15.576.907/0001-70;2025-03-31;1;GPA - Tatuapé;Direitos de superficie GPA - Imóvel Tatuapé;13599851.0218489
 15.576.907/0001-70;2025-03-31;1;GPA - Guarulhos;Direitos de superficie GPA - Imóvel Guarulhos;35433073.2957442
 15.576.907/0001-70;2025-03-31;1;GPA - São José dos Campos;Direitos de superfície GPA - Imóvel SJC;38585422.9248648
@@ -36,6 +39,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 15.576.907/0001-70;2025-09-30;1;GPA - Tatuapé;Direitos de superficie GPA - Imóvel Tatuapé;13067122.21
 15.576.907/0001-70;2025-09-30;1;GPA - Guarulhos;Direitos de superficie GPA - Imóvel Guarulhos;34030199.8
 15.576.907/0001-70;2025-09-30;1;GPA - São José dos Campos;Direitos de superfície GPA - Imóvel SJC;37073967.69
+15.576.907/0001-70;2025-12-31;1;GPA - Tatuapé;Direitos de superficie GPA - Imóvel Tatuapé;12745340.83
+15.576.907/0001-70;2025-12-31;1;GPA - Guarulhos;Direitos de superficie GPA - Imóvel Guarulhos;33192197.02
+15.576.907/0001-70;2025-12-31;1;GPA - São José dos Campos;Direitos de superfície GPA - Imóvel SJC;36161011.3
 16.543.270/0001-89;2025-03-31;1;3 Apartamentos MG;Edificio Bossa Nova -BURITI;3000000
 16.543.270/0001-89;2025-03-31;1;Terras Empreendimentos;Obras finalizadas o mercado regional ainda incipiente possui grande potencial ( Bonito MS);11000000
 16.543.270/0001-89;2025-03-31;1;120 LOTES -JARDINS MONET;JARDINS MONET-MG - ABAETÉ;12000000
@@ -80,9 +86,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 27.486.542/0001-72;2025-03-31;1;Viracopos;Galpão na Rodovia Miguel Melhado Campos, SP-324, Km 81,5, Itupeva - SP;314168751.09
 27.486.542/0001-72;2025-06-30;1;Viracopos;Galpão na Rodovia Miguel Melhado Campos, SP-324, Km 81,5, Itupeva - SP;314168751.09
 27.486.542/0001-72;2025-09-30;1;Viracopos;Galpão na Rodovia Miguel Melhado Campos, SP-324, Km 81,5, Itupeva - SP;314168751.09
+27.486.542/0001-72;2025-12-31;1;Viracopos;Galpão na Rodovia Miguel Melhado Campos, SP-324, Km 81,5, Itupeva - SP;314168751.09
 29.242.809/0001-01;2025-03-31;1;CAXANGA;DIREITO DE SUPERFICIE;13817947
 29.242.809/0001-01;2025-06-30;1;CAXANGA;DIREITO DE SUPERFICIE;13817947
 29.242.809/0001-01;2025-09-30;1;CAXANGA;DIREITO DE SUPERFICIE;13817947
+29.242.809/0001-01;2025-12-31;1;CAXANGA;DIREITO REAL DE SUPERFÍCIE;13817947
 29.267.567/0001-00;2025-03-31;1;Sala Comercial;Sala Comercial - EDIFÍCIO GAUDÍ - N° 61 - MAT - 179.771;433000
 29.267.567/0001-00;2025-03-31;1;Sala Comercial;Sala Comercial - EDIFÍCIO GAUDÍ - N° 71 - MAT - 179.776;433000
 29.267.567/0001-00;2025-06-30;1;Sala Comercial;Sala Comercial - EDIFÍCIO GAUDÍ - N° 61 - MAT - 179.771;433000
@@ -90,9 +98,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 31.524.769/0001-32;2025-03-31;1;CUSTO DA OBRA;Custo da obra do ELEVSHOP KODY;5174362.19
 31.524.769/0001-32;2025-06-30;1;CUSTO DA OBRA;Custo da obra do ELEVSHOP KODY;5174362.19
 31.524.769/0001-32;2025-09-30;1;CUSTO DA OBRA;Custo da obra do ELEVSHOP KODY;5174362.19
+31.524.769/0001-32;2025-12-31;1;CUSTO DA OBRA;Custo da obra do ELEVSHOP KODY;5174362.19
 31.524.789/0001-03;2025-03-31;1;csuto da obra;;399380000
 31.524.789/0001-03;2025-06-30;1;csuto da obra;;399380000
 31.524.789/0001-03;2025-09-30;1;csuto da obra;;399380000
+31.524.789/0001-03;2025-12-31;1;csuto da obra;;399385000
 32.317.313/0001-64;2025-03-31;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;21674057.18
 32.317.313/0001-64;2025-06-30;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;21396865.58
 32.317.313/0001-64;2025-09-30;1;DIREITO DE PARTICIPAÇÃO - JOAQUIM GUARANI;Participação através de permuta financeira;21238139.31
@@ -106,11 +116,16 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 33.701.887/0001-02;2025-09-30;1;Fazenda Tupã;;15181000.01
 33.701.887/0001-02;2025-09-30;1;Parque Eldorado - Lote 01, 02 e 03 Qd 9;;9123999.98
 33.701.887/0001-02;2025-09-30;1;Terra Nova - Lote 02 Qd 02;;7945000.03
+33.701.887/0001-02;2025-12-31;1;Fazenda Tupã;;15181000.01
+33.701.887/0001-02;2025-12-31;1;Parque Eldorado - Lote 01, 02 e 03 Qd 9;;9123999.98
+33.701.887/0001-02;2025-12-31;1;Terra Nova - Lote 02 Qd 02;;7945000.03
 34.547.078/0001-42;2025-06-30;1;SÃO JOSÉ IMOB 82;SÃO JOSÉ IMOB 82;20500000
 34.547.078/0001-42;2025-09-30;1;SÃO JOSÉ IMOB 82;SÃO JOSÉ IMOB 82;20500000
+34.547.078/0001-42;2025-12-31;1;SÃO JOSÉ IMOB 82;SÃO JOSÉ IMOB 82;20500000
 36.501.128/0001-86;2025-03-31;1;FAZ ROMA - TO;Aquisição de Participação da empresa ECO BRASIL FLORESTAS S.A., referente as propriedades: Bela Vista I, Bela Vista II, Bom Jesus, Cachoeira - Lote 1, Cachoeira - Lote 2, Caititu, Estância Córdoba, Feio, Lontra, Pitanga, União I, União II, União III, Vai Quem Quer, Vitória, Vitória II e Capivara com as suas respectivas matrículas 640, 641, 455, 457, 456, 458, 586, 446, 459, 454, 507, 508, 442, 644, 585, 610 e 464 do CRI de Tupiratins-TO. A área total das propriedades é de 13.764,06 hectares.;40000000
 36.501.128/0001-86;2025-06-30;1;FAZ ROMA - TO;Aquisição de Participação da empresa ECO BRASIL FLORESTAS S.A., referente as propriedades: Bela Vista I, Bela Vista II, Bom Jesus, Cachoeira - Lote 1, Cachoeira - Lote 2, Caititu, Estância Córdoba, Feio, Lontra, Pitanga, União I, União II, União III, Vai Quem Quer, Vitória, Vitória II e Capivara com as suas respectivas matrículas 640, 641, 455, 457, 456, 458, 586, 446, 459, 454, 507, 508, 442, 644, 585, 610 e 464 do CRI de Tupiratins-TO. A área total das propriedades é de 13.764,06 hectares.;40000000
 36.501.128/0001-86;2025-09-30;1;FAZ ROMA - TO;Aquisição de Participação da empresa ECO BRASIL FLORESTAS S.A., referente as propriedades: Bela Vista I, Bela Vista II, Bom Jesus, Cachoeira - Lote 1, Cachoeira - Lote 2, Caititu, Estância Córdoba, Feio, Lontra, Pitanga, União I, União II, União III, Vai Quem Quer, Vitória, Vitória II e Capivara com as suas respectivas matrículas 640, 641, 455, 457, 456, 458, 586, 446, 459, 454, 507, 508, 442, 644, 585, 610 e 464 do CRI de Tupiratins-TO. A área total das propriedades é de 13.764,06 hectares.;40000000
+36.501.128/0001-86;2025-12-31;1;FAZ ROMA - TO;Aquisição de Participação da empresa ECO BRASIL FLORESTAS S.A., referente as propriedades: Bela Vista I, Bela Vista II, Bom Jesus, Cachoeira - Lote 1, Cachoeira - Lote 2, Caititu, Estância Córdoba, Feio, Lontra, Pitanga, União I, União II, União III, Vai Quem Quer, Vitória, Vitória II e Capivara com as suas respectivas matrículas 640, 641, 455, 457, 456, 458, 586, 446, 459, 454, 507, 508, 442, 644, 585, 610 e 464 do CRI de Tupiratins-TO. A área total das propriedades é de 13.764,06 hectares.;40000000
 40.944.707/0001-70;2025-03-31;1;Terreno - Posto;Concluídasas condições precedentes constantes do CCV mediante a quitação do preço do imóvel.;14269529.37
 40.944.707/0001-70;2025-06-30;1;Terreno - Posto;Concluídasas condições precedentes constantes do CCV mediante a quitação do preço do imóvel.;14269529.37
 43.008.884/0001-33;2025-03-31;1;Edificio Edson;Instrumento de Compromisso de Venda e Compra de Participações em Empreendimento Imobiliário e Outras Avenças;21116400
@@ -134,6 +149,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 43.741.171/0001-84;2025-09-30;1;MUNDO MELHOR;DIREITO DE SUPERFICIE;540919.63
 43.741.171/0001-84;2025-09-30;1;SÃO BENTO DO ABADE;DIREITO DE SUPERFICIE;505229.66
 43.741.171/0001-84;2025-09-30;1;DRS ITABIRA;DIREITO DE SUPERFICIE;16673041.64
+43.741.171/0001-84;2025-12-31;1;9ENERGIAS;DIREITO DE SUPERFICIE;5589000
+43.741.171/0001-84;2025-12-31;1;IMPETUS;DIREITO DE SUPERFICIE;28780000
+43.741.171/0001-84;2025-12-31;1;VOLTXS;DIREITO DE SUPERFICIE;32790000
+43.741.171/0001-84;2025-12-31;1;DRS ITABIRA;DIREITO DE SUPERFICIE;14110000
 45.188.099/0001-35;2025-03-31;1;Apartamento Duplex nº 04 - Condominio Reboucinhas;Instrumento Particular de Compromisso de Venda e Compra de Imóveis e Outras Avenças.;3000000
 45.188.099/0001-35;2025-06-30;1;Apartamento Duplex nº 04 - Condomínio Reboucinhas;Instrumento Particular de Compromisso de Venda e Compra de Imóveis e Outras Avenças com Opção de Compra.;3000000
 49.318.661/0001-59;2025-03-31;2;MT124985 TERRENO - PIRACICABA;O FUNDO É DETENTOR APENAS DO COMODATO;
@@ -152,6 +171,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 52.635.194/0001-03;2025-03-31;1;Projeto Jamaris;Parcelamento da compra do terreno / Pagamento Advogados;29500000
 52.635.194/0001-03;2025-06-30;1;Projeto Jamaris;Parcelamento da compra do terreno / Pagamento Advogados;29772695.9
 52.635.194/0001-03;2025-09-30;1;Projeto Jamaris;Parcelamento da compra do terreno;29500000
+52.635.194/0001-03;2025-12-31;1;Projeto Jamaris;Parcelamento da compra do terreno;29500000
 53.191.611/0001-20;2025-06-30;2;DC_77702_VEX;Imóveis em Garantia;87026.87
 53.191.611/0001-20;2025-06-30;2;DC_77703_VEX;Imóveis em Garantia;64162.84
 53.191.611/0001-20;2025-06-30;2;DC_77770_77769_VEX;Imóveis em Garantia;240199.71
@@ -200,6 +220,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 53.654.501/0001-58;2025-06-30;1;STUSABIA;214 unidades studios no projeto Casa Sabiá localizado na Av. Sabiá, 598 - Moema - São Paulo - SP (em construção);53992732.85
 53.654.501/0001-58;2025-09-30;1;SANTORIN;60 unidades studios no projeto Condomínio Porto Paraíso localizado na Rua Coronel Oscar Porto, 629 - Paraíso - São Paulo - SP (em construção);19695594.28
 53.654.501/0001-58;2025-09-30;1;STUSABIA;214 unidades studios no projeto Casa Sabiá localizado na Av. Sabiá, 598 - Moema - São Paulo - SP (em construção);53992732.85
+53.654.501/0001-58;2025-12-31;1;SANTORIN;60 unidades studios no projeto Condomínio Porto Paraíso localizado na Rua Coronel Oscar Porto, 629 - Paraíso - São Paulo - SP (em construção);19695594.28
+53.654.501/0001-58;2025-12-31;1;STUSABIA;214 unidades studios no projeto Casa Sabiá localizado na Av. Sabiá, 598 - Moema - São Paulo - SP (em construção);57159932.85
 54.645.216/0001-33;2025-03-31;1;Alameda Campinas;Promessa de compra e venda com cláusula de retrovenda.;31416496.58
 54.645.216/0001-33;2025-03-31;1;Brook;Promessa de compra e venda com cláusula de retrovenda.;3991244.43
 54.645.216/0001-33;2025-03-31;1;Baronesa de Itu;Promessa de compra e venda com cláusula de retrovenda.;38982807.54
@@ -220,6 +242,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 56.191.016/0001-83;2025-06-30;1;MAT Nº 11.285: Fazenda Boa Vista, Carangola/MG;Única possuidora e titular do Direito Real de Superfície (DRS) sobre uma área de 09,27,06 hectares, formalizada com a celebração da "Escritura Pública de Promessa de Cessão Onerosa de Direito de Superfície", celebrada em 13 de setembro de 2024, entre a PONTO DE EQUILIBRIO ENGENHARIA LTDA. e o AZ QUEST RENDA SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA. Para financiar a aquisição do imóvel, foram emitidos os certificados de recebíveis imobiliários da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A, e com isso sendo constituído o ônus da Alienação Fiduciária de DRS com a celebração da "Escritura Pública de Alienação Fiduciária de Direito Real de Superfície em Garantia e Outras Avenças", celebrado em 13 de setembro de 2024. A Alienação Fiduciária de DRS foi dada em garantia da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A.;26229108.91
 56.191.016/0001-83;2025-09-30;1;MAT Nº 11.285: Fazenda Boa Vista, Carangola/MG;Única possuidora e titular do Direito Real de Superfície (DRS) sobre uma área de 09,27,06 hectares, formalizada com a celebração da "Escritura Pública de Promessa de Cessão Onerosa de Direito de Superfície", celebrada em 13 de setembro de 2024, entre a PONTO DE EQUILIBRIO ENGENHARIA LTDA. e o AZ QUEST RENDA SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA. Para financiar a aquisição do imóvel, foram emitidos os certificados de recebíveis imobiliários da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A, e com isso sendo constituído o ônus da Alienação Fiduciária de DRS com a celebração da "Escritura Pública de Alienação Fiduciária de Direito Real de Superfície em Garantia e Outras Avenças", celebrado em 13 de setembro de 2024. A Alienação Fiduciária de DRS foi dada em garantia da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A.;29395187
 56.191.016/0001-83;2025-09-30;1;MAT Nº 137.280: UFV Jandira, Barueri/SP;Única possuidora e titular do Direito Real de Superfície (DRS) sobre uma área de 18.062,19 m2, formalizada com a celebração da "Escritura Pública de Promessa de Cessão Onerosa de Direito de Superfície", celebrada em 15 de agosto de 2025, entre a CARANGOLA PARTICIPAÇÕES EM ENERGIA S.A. e o AZ QUEST RENDA SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA. Para financiar a aquisição do imóvel, foram emitidos os certificados de recebíveis imobiliários da 441ª emissão (antiga 315ª emissão), em classe única para duas séries, emitidos pela OPEA SECURITIZADORA S.A, e com isso sendo destituído o ônus da Alienação Fiduciária de DRS, originalmente constituída em garantia da 315ª emissão do CRI, e constituído a cessão fiduciária adicional dos créditos imobiliários UFV Jandira, com a celebração da "Ata de Assembleia Especial de Titulares dos Certificados de Recebíveis Imobiliários da 1ª série da 315ª emissão ", celebrado em 20 de agosto de 2025.;12642719.69
+56.191.016/0001-83;2025-12-31;2;MAT Nº 11.285: Fazenda Boa Vista, Carangola/MG;Única possuidora e titular do Direito Real de Superfície (DRS) sobre uma área de 09,27,06 hectares, formalizada com a celebração da "Escritura Pública de Promessa de Cessão Onerosa de Direito de Superfície", celebrada em 13 de setembro de 2024, entre a PONTO DE EQUILIBRIO ENGENHARIA LTDA. e o AZ QUEST RENDA SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA. Para financiar a aquisição do imóvel, foram emitidos os certificados de recebíveis imobiliários da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A, e com isso sendo constituído o ônus da Alienação Fiduciária de DRS com a celebração da "Escritura Pública de Alienação Fiduciária de Direito Real de Superfície em Garantia e Outras Avenças", celebrado em 13 de setembro de 2024. A Alienação Fiduciária de DRS foi dada em garantia da 315ª emissão, em classe e série únicas, emitidos pela TRUE SECURITIZADORA S.A.;29840574.78
+56.191.016/0001-83;2025-12-31;2;MAT Nº 137.280: UFV Jandira, Barueri/SP;Única possuidora e titular do Direito Real de Superfície (DRS) sobre uma área de 18.062,19 m2, formalizada com a celebração da "Escritura Pública de Promessa de Cessão Onerosa de Direito de Superfície", celebrada em 15 de agosto de 2025, entre a CARANGOLA PARTICIPAÇÕES EM ENERGIA S.A. e o AZ QUEST RENDA SOLAR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA. Para financiar a aquisição do imóvel, foram emitidos os certificados de recebíveis imobiliários da 441ª emissão (antiga 315ª emissão), em classe única para duas séries, emitidos pela OPEA SECURITIZADORA S.A, e com isso sendo destituído o ônus da Alienação Fiduciária de DRS, originalmente constituída em garantia da 315ª emissão do CRI, e constituído a cessão fiduciária adicional dos créditos imobiliários UFV Jandira, com a celebração da "Ata de Assembleia Especial de Titulares dos Certificados de Recebíveis Imobiliários da 1ª série da 315ª emissão ", celebrado em 20 de agosto de 2025.;12895172.19
 58.263.012/0001-99;2025-03-31;2;Fábrica - Uberlândia/MG;UBMG-180230;363000000
 58.263.012/0001-99;2025-06-30;2;Fábrica - Uberlândia/MG;UBMG-180230;363000000
 58.263.012/0001-99;2025-09-30;1;Fábrica - Uberlândia/MG;UBMG-180230;363000000
@@ -243,3 +267,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Ativo;Principais_Caracteristicas;V
 58.316.418/0001-92;2025-09-30;1;Aegea MT Primavera;Direito Real de Superfície;2625951.57
 58.316.418/0001-92;2025-09-30;1;Aegea MT São José;Direito Real de Superfície;1155058.95
 58.544.087/0001-48;2025-06-30;1;Ativo;Principais Características;
+61.007.289/0001-65;2025-12-31;1;LIBERDADE;DIREITO DE SUPERFICIE;530763.91
+61.007.289/0001-65;2025-12-31;1;MUNDO MELHOR;DIREITO DE SUPERFICIE;558936.77
+61.007.289/0001-65;2025-12-31;1;SÃO BENTO DO ABADE;DIREITO DE SUPERFICIE;510459.32
+63.104.203/0001-48;2025-12-31;1;Ambev CDDs ENF;Ativos imobiliários adquiridos por meio de direitos reais de superfície, pelos quais o fundo obtém o direito de uso e exploração econômica de imóveis de terceiros por prazo determinado. Os ativos são destinados exclusivamente à locação na modalidade built to suit, regida pelo art. 54-A da Lei do Inquilinato, que prevê multa altamente punitiva em caso de rescisão antecipada. A aquisição ocorreu com os ativos já operacionais há pelo menos seis meses, reduzindo risco de construção, e conta como principais garantias contratos de longo prazo com locatários de baixo risco de crédito (locatárias com rating), seguros do projeto e procuração que permite ao locador assumir ou redirecionar o uso da energia e a titularidade do medidor em caso de inadimplência.;638332.646789563
+63.104.203/0001-48;2025-12-31;1;Ambev CDDs ESS1;Ativos imobiliários adquiridos por meio de direitos reais de superfície, pelos quais o fundo obtém o direito de uso e exploração econômica de imóveis de terceiros por prazo determinado. Os ativos são destinados exclusivamente à locação na modalidade built to suit, regida pelo art. 54-A da Lei do Inquilinato, que prevê multa altamente punitiva em caso de rescisão antecipada. A aquisição ocorreu com os ativos já operacionais há pelo menos seis meses, reduzindo risco de construção, e conta como principais garantias contratos de longo prazo com locatários de baixo risco de crédito (locatárias com rating), seguros do projeto e procuração que permite ao locador assumir ou redirecionar o uso da energia e a titularidade do medidor em caso de inadimplência.;373934.509066075
+63.104.203/0001-48;2025-12-31;1;Ambev CDDs ESS2;Ativos imobiliários adquiridos por meio de direitos reais de superfície, pelos quais o fundo obtém o direito de uso e exploração econômica de imóveis de terceiros por prazo determinado. Os ativos são destinados exclusivamente à locação na modalidade built to suit, regida pelo art. 54-A da Lei do Inquilinato, que prevê multa altamente punitiva em caso de rescisão antecipada. A aquisição ocorreu com os ativos já operacionais há pelo menos seis meses, reduzindo risco de construção, e conta como principais garantias contratos de longo prazo com locatários de baixo risco de crédito (locatárias com rating), seguros do projeto e procuração que permite ao locador assumir ou redirecionar o uso da energia e a titularidade do medidor em caso de inadimplência.;380733.318321822
+63.104.203/0001-48;2025-12-31;1;Ambev CDDs ESS3;Ativos imobiliários adquiridos por meio de direitos reais de superfície, pelos quais o fundo obtém o direito de uso e exploração econômica de imóveis de terceiros por prazo determinado. Os ativos são destinados exclusivamente à locação na modalidade built to suit, regida pelo art. 54-A da Lei do Inquilinato, que prevê multa altamente punitiva em caso de rescisão antecipada. A aquisição ocorreu com os ativos já operacionais há pelo menos seis meses, reduzindo risco de construção, e conta como principais garantias contratos de longo prazo com locatários de baixo risco de crédito (locatárias com rating), seguros do projeto e procuração que permite ao locador assumir ou redirecionar o uso da energia e a titularidade do medidor em caso de inadimplência.;373934.509066075

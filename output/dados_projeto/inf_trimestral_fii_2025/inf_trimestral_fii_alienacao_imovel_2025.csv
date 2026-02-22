@@ -1,4 +1,5 @@
 CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Percentual_Imovel_PL
+07.000.400/0001-46;2025-12-31;1;CARJ - Rio de Janeiro;Rua Barao De Sao Francisco, 177, Entrada Pela Rua Gomes Braga, 65, Andarai, Rio De Janeiro/RJ, Brasil, 20560-031;2025-11-06;40176;1;Direito de propriedade;0.72276632476659;77.852949164203
 08.098.114/0001-28;2025-06-30;1;Loja - Tijuca;Cidade do Rio de Janeiro, Rio de Janeiro, na Rua Conde do Bonfim, 366;2025-05-23;5649;1;Cidade do Rio de Janeiro, Rio de Janeiro, na Rua Conde do Bonfim, 366;0.0543;0.0511
 08.098.114/0001-28;2025-09-30;1;Loja - Centro São Luiz;Rua Oswaldo Cruz nº298 e 290 Rua Sete de Setembro nºs 615, 621, 627 e 631 Rua José Augusto Correa nº 295, e está situado na cidade de São Luís do Maranhão, Maranhão;2025-07-02;4875.16;1;N/D;0.0163;0.0145
 08.417.532/0001-30;2025-12-31;1;Posto de Combustível;Avenida Pedro Álvares Cabral, n° 2.621 e 2.647 -  Belém/Pará;2025-12-30;2253.18;1;Imóvel comercial;0.0129214629025685;0.0212296155181662
@@ -17,14 +18,31 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 08.706.065/0001-69;2025-09-30;1;Estanplaza Funchal;Rua Funchal, 281, Sem Complemento, Vila Olimpia, Sao Paulo/SP, Brasil, 04551-060;2025-09-02;29.1;1;Direito de Propriedade.;0.00130900470376;0.01320250784943
 08.706.065/0001-69;2025-09-30;1;Estanplaza International;Rua Fernandes Moreira, 1293, Sem Complemento, Chacara Santo Antonio Zona Sul, Sao Paulo/SP, Brasil, 04716-003;2025-09-14;27.9;1;Direito de Propriedade.;0.00105910380577;0.01068202907817
 08.706.065/0001-69;2025-09-30;1;Estanplaza International;Rua Fernandes Moreira, 1293, Sem Complemento, Chacara Santo Antonio Zona Sul, Sao Paulo/SP, Brasil, 04716-003;2025-09-22;27.9;1;Direito de Propriedade.;0.00107814387419;0.01087406555598
+08.706.065/0001-69;2025-12-31;1;Ibis Sao Paulo Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;2025-10-05;13234.8;1;Direito de propriedade;0.00118798259586;0.12026713930565
+08.706.065/0001-69;2025-12-31;1;Intercity Nacoes Unidas;Rua Fernandes Moreira, 1371, Sem Complemento, Chacara Santo Antonio Zona Sul, Sao Paulo/SP, Brasil, 04716-003;2025-10-18;359.07;1;Direito de propriedade;0.00154437737462;0.15634728109734
+08.706.065/0001-69;2025-12-31;1;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2025-10-22;632.7;1;Direito de propriedade;0.0013780598112;0.13950988159455
+08.706.065/0001-69;2025-12-31;1;Ibis Sao Paulo Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;2025-10-25;13234.8;1;Direito de propriedade;0.00118798259586;0.12026713930565
+08.706.065/0001-69;2025-12-31;1;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2025-11-11;632.7;1;Direito de propriedade;0.0014493402442;0.14701802913424
+08.706.065/0001-69;2025-12-31;1;Ibis Sao Paulo Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;2025-11-11;13234.8;1;Direito de propriedade;0.00120381056467;0.12211201433025
+08.706.065/0001-69;2025-12-31;1;Ibis Sao Paulo Paulista;Avenida Paulista, 2355, Sem Complemento, Bela Vista, Sao Paulo/SP, Brasil, 01311-300;2025-11-12;106.2;1;Direito de propriedade;0.00144218889431;0.14629261122733
+08.706.065/0001-69;2025-12-31;1;Ibis Sao Paulo Morumbi;Avenida Roque Petroni Junior, 800, Sem Complemento, Jardim Das Acacias, Sao Paulo/SP, Brasil, 04707-000;2025-11-23;13234.8;1;Direito de propriedade;0.00120381056467;0.12211201433025
+08.706.065/0001-69;2025-12-31;1;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2025-11-25;632.7;1;Direito de propriedade;0.0013825943119;0.14024746200306
+08.706.065/0001-69;2025-12-31;1;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2025-11-04;632.7;1;Direito de propriedade;0.0013825943119;0.14024746200306
+08.706.065/0001-69;2025-12-31;1;Gran Estanplaza;Rua Doutor Nelson Libero, 1517, Sem Complemento, Cidade Moncoes, Sao Paulo/SP, Brasil, 04567-010;2025-12-02;10000;1;Direito de propriedade;0.00183674449791;0.18769487141224
+08.706.065/0001-69;2025-12-31;1;Innside by Melia Sao Paulo Iguatemi;Rua Iguatemi, 150, Sem Complemento, Itaim Bibi, Sao Paulo/SP, Brasil, 01451-010;2025-12-10;259.2;1;Direito de propriedade;0.00144315639122;0.14747454182391
+08.706.065/0001-69;2025-12-31;1;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2025-12-15;632.7;1;Direito de propriedade;0.00145985406847;0.14918085883674
 09.072.017/0001-29;2025-03-31;1;GVT Curitiba;Rua Francisco Nunes, 1395 - Curitiba - PR;2025-02-28;9163.74;1;-;0.021753;0.021632
 09.072.017/0001-29;2025-06-30;1;Berrini One;Avenida Eng. Carlos Berrini, 105 - São Paulo - SP;2025-05-15;2959.34;4;-;0.274134;0.108681
+09.072.017/0001-29;2025-12-31;1;Berrini One;Avenida Eng. Carlos Berrini, 105 - São Paulo - SP;2025-10-15;911.41;2;N/A;0.116312;0.013449
 11.827.568/0001-05;2025-03-31;1;Rua Penido Bumier;Rua Penido Bumier;2025-01-27;1;1;Penido burnier;0.0214;0.0045
+12.005.956/0001-65;2025-12-31;1;Edifício Athenas;Rua Dr. Fernandes Coelho, 64, Pinheiros, São Paulo - SP;2025-12-19;6759.3;27;Prédio Corporativo;0.0205893572584833;0.0195217153631178
 12.516.185/0001-70;2025-09-30;1;C&A - Alphaville;Alameda Araguaia, 617, Alphaville, Barueri/SP;2025-09-19;8492;1;O Fundo possui 100% do imóvel.;0;0
+13.371.132/0001-71;2025-12-31;1;Ed. Tower Bridge Corporate;Av. Jornalista Roberto Marinho, 85, Cidade Monções, Sao Paulo - SP;2025-12-17;21845.95;48;NA;0.38588921598896;0.190952
 13.500.306/0001-59;2025-12-31;1;Loja Térrea - Imóvel Bravo! BH;Rua Rio de Janeiro, 654, Belo Horizonte/MG;2025-12-09;783.99;1;CJ11;0.046548;0.042668
-13.598.226/0001-88;2025-09-30;1;HIPODROMO;RUA DO HIPODROMO, 600;2025-09-22;4540;1;ID 338 MATRICULA 125.042;0.0666;0.3362
-13.598.226/0001-88;2025-09-30;1;ARIZONA;RUA ARIZONA, 715;2025-07-07;153.73;1;ID 32 MATRICULA 92411;0.0024;0.0121
+13.598.226/0001-88;2025-09-30;2;HIPODROMO;RUA DO HIPODROMO, 600;2025-09-22;4540;1;ID 338 MATRICULA 125.042;0.0666;0.3362
+13.598.226/0001-88;2025-09-30;2;ARIZONA;RUA ARIZONA, 715;2025-07-07;153.73;1;ID 32 MATRICULA 92411;0.0024;0.0121
 13.974.819/0001-00;2025-09-30;1;Imóvel Duque de Caxias - Galpão 01;Rod. Washington Luiz, km 114, Via Projetada Aterial PD04,  nº 3777;2025-09-15;49603;1;A Transação foi concluída pelo valor total de R$ 87.000.000,00, nos termos aprovados na Assembleia Geral Extraordinária de Cotistas do Fundo, realizada em 23 de outubro de 2024, descontados os montantes referentes à saldos devedores.;0.7049;0.4069
+13.974.819/0001-00;2025-12-31;1;Imóvel Juiz de Fora;Lote nº 21 - Distrito Industrial - Bairro Benfica - Juiz de Fora/MG;2025-10-07;31400.43;1;Em 07 de outubro de 2025, o Fundo celebrou a Escritura Definitiva de Compra e Venda do imóvel de Juiz de Fora, e a Transação foi concluída pelo valor total de R$ 35.000.000;0.8723;0.4069
 14.410.722/0001-29;2025-06-30;1;P_GROSSA;R.AUGUSTO RIBAS,555;2025-04-30;7562.77;1;Nenhuma característica relevante;-0.009101;-0.00849
 14.410.722/0001-29;2025-06-30;1;SORO_CAT;R.XV DE NOVEMBRO,63/67;2025-04-30;2089.12;1;Nenhuma característica relevante;-0.003916;-0.003653
 14.410.722/0001-29;2025-09-30;1;MARING_;AV.DUQUE DE CAXIAS 448;2025-07-03;7623.36;1;Nenhuma característica relevante;0.0158523983794564;0.014481104619243
@@ -39,6 +57,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 15.461.076/0001-91;2025-12-31;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2025-10-31;110.94;1;UNIDADE 2108;0.006676;0.006226
 15.576.907/0001-70;2025-06-30;1;Santa Cecília;R. das Palmeiras;2025-05-12;2920.29;1;n-a;0.00240198438367512;0.00221800267522881
 15.576.907/0001-70;2025-09-30;1;São Mateus - São Paulo/SP;Av. Mateo Bei, 413 - São Paulo/SP;2025-08-07;888;1;n-a;0.003235;0.002921
+15.576.907/0001-70;2025-12-31;1;Nilo Peçanha;Rua Dr. Nilo Peçanha, 125;2025-10-07;1389;1;n-a;0.002156;0.001904
+15.576.907/0001-70;2025-12-31;1;São Gonçalo-Centro;Rua Dr. Feliciano Sodré, 111;2025-10-20;951;1;n-a;0.00532499076176679;0.00470288313223252
+15.576.907/0001-70;2025-12-31;1;Guaianases;Rua Salvador Gianetti, 436;2025-12-05;2475.1;1;n-a;0.00331744213469897;0.00292987224869039
+15.576.907/0001-70;2025-12-31;1;Pirituba;Rua Guerino Giovani Leardini, 63/67;2025-12-05;1205.86;1;n-a;0.00329660584569253;0.00291147022012533
+15.576.907/0001-70;2025-12-31;1;Planalto Paulista;Av. Indianópolis, 2.125;2025-12-05;1135;1;n-a;0.00286813838617297;0.0025330597254907
 18.308.516/0001-63;2025-09-30;1;Novotel POA Aeroporto;Avenida Severo Dullius, 2055, Sem Complemento, Anchieta, Porto Alegre/RS, Brasil, 90200-310;2025-09-17;18.9;2;Direito de Propriedade.;0.00093293781822;0.00933589441621
 18.308.516/0001-63;2025-09-30;1;Novotel POA Aeroporto;Avenida Severo Dullius, 2055, Sem Complemento, Anchieta, Porto Alegre/RS, Brasil, 90200-310;2025-09-14;18.9;4;Direito de Propriedade.;0.00186587563645;0.01867178883242
 18.308.516/0001-63;2025-09-30;1;Novotel POA Aeroporto;Avenida Severo Dullius, 2055, Sem Complemento, Anchieta, Porto Alegre/RS, Brasil, 90200-310;2025-09-14;18.9;1;Direito de Propriedade.;0.00046646890911;0.0046679472081
@@ -77,9 +100,29 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 24.796.967/0001-90;2025-09-30;1;Edificio Santa Bernadette;Avenida Nove De Julho, 2976, Sem Complemento, Jardim Paulista, São Paulo/SP, Brasil, 01406-000;2025-07-27;751.95;1;Direito de propriedade;0.01693571762775;1.77003950216849
 24.796.967/0001-90;2025-09-30;1;Edificio Chateau de Cheverny;Rua Maestro Francisco Braga, 181, Sem Complemento, Copacabana, Rio De Janeiro/RJ, Brasil, 22041-070;2025-08-21;84;1;Direito de propriedade;0.01802852159185;1.83920692132973
 24.796.967/0001-90;2025-09-30;1;Edificio Stay Aeroporto;Rua Doutor Jesuino Maciel, 1616, Sem Complemento, Campo Belo, São Paulo/SP, Brasil, 04615-004;2025-08-13;132.07;1;Direito de propriedade;0.01023240414673;1.04387419859255
+24.796.967/0001-90;2025-12-31;1;Edificio Vitoria Regia;Rua Jardim Botanico, 192, Sem Complemento, Jardim Botânico, Rio De Janeiro/RJ, Brasil, 22461-000;2025-10-26;116;1;Direito de Propriedade;0.03172541960815;3.2512051378783
+24.796.967/0001-90;2025-12-31;1;Edificio Catete Palazzo;Rua Do Catete, 129, Sem Complemento, Catete, Rio De Janeiro/RJ, Brasil, 22220-000;2025-10-08;273.5;1;Direito de Propriedade;0.02163096791465;2.21673077582611
+24.796.967/0001-90;2025-12-31;1;Edificio Anete;Rua Pedroso Alvarenga, 660, Sem Complemento, Itaim Bibi, São Paulo/SP, Brasil, 04531-001;2025-10-29;121.3;2;Direito de Propriedade;0.02792009973261;2.86123785979497
+24.796.967/0001-90;2025-12-31;1;Edificio Jet Set;Rua Borges Lagoa, 1246, Sem Complemento, Vila Clementino, São Paulo/SP, Brasil, 04038-003;2025-12-08;187.57;1;Direito de Propriedade;0.02543661412829;2.6118442996522
+24.853.044/0001-22;2025-12-31;1;Fernão Dias Business Park;Rodovia Fernão Dias, km 891,5, Extrema - MG;2025-11-26;58262.17;9;Pé Direito: 12 m. Capacidade Piso: 6 ton/m².;0;0
+24.853.044/0001-22;2025-12-31;1;Galpão TOK$STOK;Est. Vargem do João Pinto, Fazenda Matão Gleba 2, Extrema - MG;2025-11-26;66938.16;1;Pé Direito: 12 m. Capacidade Piso: 6 ton/m².;0;0
+24.853.044/0001-22;2025-12-31;1;Parque Logístico Osasco;Av. Dr. Kenkiti Shimomoto, Nº 1.678, Osasco - SP;2025-11-26;25788;1;Direito de propriedade.;0;0
+24.853.044/0001-22;2025-12-31;1;Porto Canoa Log;Município de Serra, no estado do Espírito Santo;2025-11-26;93690;1;Aquisição de 100%;0;0
+25.032.881/0001-53;2025-12-31;1;GARAVELO CENTER;Avenida 85, 603, Goiânia - GO, 74823-310;2025-10-08;2913;1;N/A;1;0.00194881260600931
 26.813.118/0001-22;2025-03-31;1;Sítio Pedregulho - Matrícula 91.820;Rua Colina 501/502 - Agua Chata - Guarulhos - SP;2025-01-15;15328.7;1;imóvel;1;1.2406
+28.267.696/0001-36;2025-12-31;1;Imovel Andorinha - Sao Paulo;Rua Professor Luciano Prata, 204, Sem Complemento, Vila Baruel, Sao Paulo/SP, Brasil, 02510-020;2025-11-27;4205.41;1;Não possui;0.03000627842132;3.28103242446107
 28.548.288/0001-52;2025-06-30;1;Pão De Açúcar  Sto And;Rua das Figueiras, nº 1.021 - Operário;2025-05-15;2450;1;Direito de propriedade;0;0
 28.548.288/0001-52;2025-06-30;1;Assaí Ipatinga;Avenida José Júlio da Costa, s/n - Ferroviários - MG;2025-05-21;15671.75;1;Direito de propriedade;0;0
+28.548.288/0001-52;2025-12-31;1;EXTRA NS SABARA;Av. Nossa Sra. do Sabará, 3015;2025-12-16;2334;1;Direito de propriedade;0;0
+28.757.546/0001-00;2025-12-31;1;Grand Plaza Shopping;Avenida Industrial, 600, Sem Complemento, Campestre, Santo André/SP, Brasil, 09080-510;2025-12-02;72000;1;Não possui;0;0
+28.757.546/0001-00;2025-12-31;1;Tiete Plaza Shopping;Avenida Raimundo Pereira De Magalhaes, 1465, Sem Complemento, Jardim Íris, São Paulo/SP, Brasil, 05145-000;2025-12-02;36914;1;Não possui;0;0
+28.757.546/0001-00;2025-12-31;1;Santana Parque Shopping;Rua Conselheiro Moreira De Barros, 2780, , Lauzane Paulista, Sao Paulo/SP, Brasil, 02430-001;2025-12-02;26496;1;Não possui;0;0
+28.757.546/0001-00;2025-12-31;1;Caxias Shopping;Rodovia Washington Luiz, 2895, Sem Complemento, Parque Duque, Duque De Caxias/RJ, Brasil, 25085-008;2025-12-02;28074;1;Não possui;0;0
+28.757.546/0001-00;2025-12-31;1;Shopping Metropolitano Barra;Avenida Embaixador Abelardo Bueno, 1300, Sem Complemento, Barra Olímpica, Rio De Janeiro/RJ, Brasil, 22775-023;2025-12-02;43275;1;Não possui;0;0
+28.757.546/0001-00;2025-12-31;1;Shopping Ponta Negra;Avenida Coronel Teixeira, 5705, Sem Complemento, Ponta Negra, Manaus/AM, Brasil, 69037-000;2025-12-02;35029;1;Não possui;0;0
+28.757.546/0001-00;2025-12-31;1;CAMPINAS SHOPPING CENTER;Rua Jacy Teixeira Camargo, 940, 940, Sem Complemento, Jardim Do Lago, Campinas/SP, Brasil, 13050-913;2025-12-02;57000;1;Não possui;0;0
+28.757.546/0001-00;2025-12-31;1;Downtown (varejo dos blocos 5 7 e 17);Avenida Das Americas, 500, Sem Complemento, Barra Da Tijuca, Rio De Janeiro/RJ, Brasil, 22640-100;2025-12-02;9611;1;Não possui;0;0
+28.757.546/0001-00;2025-12-31;1;Shopping Bela Vista;Alameda Euvaldo Luz, 92, Sem Complemento, Horto Bela Vista, Salvador/BA, Brasil, 41098-020;2025-12-02;51143;1;Não possui;0;0
 28.893.734/0001-66;2025-03-31;1;SV_306B;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 306 B;2025-02-26;71.68;1;Nenhuma característica relevante;0.035265;0.026968
 28.893.734/0001-66;2025-03-31;1;GV2_505;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 505 2;2025-01-03;119.95;1;Nenhuma característica relevante;0.043213;0.033046
 28.893.734/0001-66;2025-03-31;1;GV3_506;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 506 3;2025-01-30;207.45;1;Nenhuma característica relevante;0.058611;0.044821
@@ -96,11 +139,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 28.893.734/0001-66;2025-09-30;1;GV2_708;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 708 2;2025-08-18;186.37;1;Nenhuma característica relevante;0.162907;0.0954
 28.893.734/0001-66;2025-09-30;1;GV3_503;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 503 3;2025-09-29;165.14;1;Nenhuma característica relevante;0.106581;0.062414
 28.893.734/0001-66;2025-09-30;1;GV3_507;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 507 3;2025-09-19;186.69;1;Nenhuma característica relevante;0.127897;0.074897
+28.893.734/0001-66;2025-12-31;1;SV_403A;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 403 A;2025-12-16;110.17;1;Nenhuma característica relevante;0.22925;0.161343
+28.893.734/0001-66;2025-12-31;1;GV3_504;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 504 3;2025-11-19;165.14;1;Nenhuma característica relevante;0.195818;0.137814
 29.267.567/0001-00;2025-06-30;1;MAT - 179.771;Rua Princesa Isabel, nº 94, Brooklin Paulista, São Paulo/SP;2025-05-19;112.91;1;EDIFÍCIO GAUDÍ - N° 61;1;0.001064
 29.267.567/0001-00;2025-06-30;1;MAT - 179.776;Rua Princesa Isabel, nº 94, Brooklin Paulista, São Paulo/SP;2025-05-19;112.91;1;EDIFÍCIO GAUDÍ - N° 71;1;0.001064
 29.641.226/0001-53;2025-03-31;1;Pernambucanas Ibiporã;Av. Paraná, Esq. R. D. Pedro ii, 112, Ibiporã, PR;2025-02-28;988.49;1;-;0.001142;0.001292
 29.641.226/0001-53;2025-03-31;1;Porto Velho;Rodovia BR 364, s/n Km 3,5;2025-01-28;7910;1;-;0.005372;0.006075
 29.641.226/0001-53;2025-06-30;1;Ed. Santo Alberto;Rua Quatá, 67, Vila Olímpia, São Paulo, SP;2025-06-17;6804.8;1;-;1;0.0434844844119145
+30.492.505/0001-81;2025-12-31;1;Imóvel Dona Mariana;Rua Dona Mariana, nº 63 - Botafogo - Rio de Janeiro - RJ;2025-12-29;1161.6;1;Prédio de 2 pavimentos e domínio útil de terreno medindo: 66m de comprimento e 17,60 de frente e fundos. Terreno com área de 1.161,60;0.670782;0.047313
 30.495.165/0001-42;2025-03-31;1;MM2  G01  (Módulos 1 ao 12);Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;2025-01-24;53930;1;N/A;1;0.26
 30.495.165/0001-42;2025-03-31;1;MM2  G01  (Módulos 13 ao 24);Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;2025-01-24;56122.89;1;N/A;1;0.31
 30.495.165/0001-42;2025-06-30;1;MM2  G01  (Módulos 1 ao 12);Rodovia BR-101 Sul, nº 5225, Lote 004B, Ditrito de Ponte dos Carvalhos, Município de Cabo de Santo Agostinho, Pernambuco, CEP 54503-900;2025-01-24;53930;1;NA;1;0.26
@@ -108,6 +154,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 30.567.216/0001-02;2025-03-31;1;Edifício Banco Mercantil do Brasil;Avenida Paulista, 925;2025-03-26;215.71;1;Conjunto 102 do Edifício Banco Mercantil. Objeto da matrícula 73.372 com duas vagas de garagem objetos de matrículas distintas cujos número são: vaga 30 matrícula 73.373 e vaga 31 matrícula 73.374.;0.000676810978524795;0.000780383506941258
 30.567.216/0001-02;2025-03-31;1;Edifício Millenium;Av. Brigadeiro Faria Lima, 3015;2025-02-25;181.17;1;Conjunto 132 do Edifício Millennium com utilização de 8 vagas de garagem. Objeto da matrícula 153.312 .;0.00900699267571748;0.0106220536802181
 30.567.216/0001-02;2025-06-30;2;Edifício Millenium;Av. Brigadeiro Faria Lima, 3015;2025-04-28;181.17;1;Conjunto 131 com utilização de 9 vagas de garagem;0.00862874487241996;0.00998471955194408
+30.567.216/0001-02;2025-12-31;1;Edifício Harvard;R. Iaiá, 150;2025-10-09;241.54;1;Cj 131, localizado na cobertura. Matrícula nº 132.541 do 4° RGI. A ABL indicada inclui 12,98 de áreas de circulação. Direito ao uso de quatro vagas de garagem citadas na matrícula.;0.006563;0.007482
 30.871.698/0001-81;2025-09-30;1;BARRA PRIVATE - 281137;Avenida Armando Lombardi, 400 Rio de Janeiro - RJ;2025-08-22;3909.58;1;UNIDADE - 109;0;0
 31.508.219/0001-20;2025-03-31;1;Vargas;Avenida Presidente Vargas, 824, Centro, Rio de Janeiro;2025-02-20;15497.63;23;Não se aplica;0.363829;0.1691
 31.508.219/0001-20;2025-06-30;1;Ouvidor 107;Rua do Ouvidor, 107, Centro, Rio de Janeiro;2025-05-20;6284;1;Não se aplica;;
@@ -199,10 +246,50 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 34.691.925/0001-48;2025-09-30;1;U_1202_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 1202 Trade - Rua Franciso Candido Magalhães, 40;2025-07-21;49.4091;1;Nenhuma característica relevante;0.0007;0.000752
 34.691.925/0001-48;2025-09-30;1;U_1611_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 1611 Business - Rua Franciso Candido Magalhães, 40;2025-08-20;197.2481;1;Nenhuma característica relevante;0.002358;0.002535
 34.691.925/0001-48;2025-09-30;1;U_102_T;Sala Comercial Fernando Linhares Unique Condominium Unidade 102 Trade - Rua Franciso Candido Magalhães, 40;2025-08-11;49.4091;1;Nenhuma característica relevante;0.0007;0.000752
+34.691.925/0001-48;2025-12-31;1;NP_1215;Rua Dr. Nilo Peçanha, 100 - Sala 1215 - Centro, Guarulhos/SP;2025-10-13;38.85;1;Nenhuma característica relevante;0.000371;0.000411
+34.691.925/0001-48;2025-12-31;1;NM_12_L;Av. A - Quadra F1, 4165 - Loja 12, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-12-10;38.75;1;Nenhuma característica relevante;0.000878;0.000973
+34.691.925/0001-48;2025-12-31;1;NM_13_L;Av. A - Quadra F1, 4165 - Loja 13, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-11-18;39.71;1;Nenhuma característica relevante;0.000716;0.000793
+34.691.925/0001-48;2025-12-31;1;NM_302_2;Av. A - Quadra F1, 4165 - Sala 302, Torre - 2, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-10-15;33.65;1;Nenhuma característica relevante;0.000539;0.000597
+34.691.925/0001-48;2025-12-31;1;NM_315_2;Av. A - Quadra F1, 4165 - Sala 315, Torre - 2, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-12-24;33.65;1;Nenhuma característica relevante;0.000539;0.000597
+34.691.925/0001-48;2025-12-31;1;NM_316_3;Av. A - Quadra F1, 4165 - Sala 316, Torre - 3, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-10-21;33.65;1;Nenhuma característica relevante;0.000539;0.000597
+34.691.925/0001-48;2025-12-31;1;NM_323_3;Av. A - Quadra F1, 4165 - Sala 323, Torre - 3, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-12-09;40.49;1;Nenhuma característica relevante;0.000791;0.000876
+34.691.925/0001-48;2025-12-31;1;NM_33_L;Av. A - Quadra F1, 4165 - Loja 33, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-12-10;43.45;1;Nenhuma característica relevante;0.000985;0.001091
+34.691.925/0001-48;2025-12-31;1;NM_406_3;Av. A - Quadra F1, 4165 - Sala 406, Torre - 3, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-12-15;33.65;1;Nenhuma característica relevante;0.000558;0.000617
+34.691.925/0001-48;2025-12-31;1;NM_408_3;Av. A - Quadra F1, 4165 - Sala 408, Torre - 3, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-12-15;48.01;1;Nenhuma característica relevante;0.000796;0.000881
+34.691.925/0001-48;2025-12-31;1;NM_409_3;Av. A - Quadra F1, 4165 - Sala 409, Torre - 3, Praia do Paiva - Cabo de Santo Agostinho-PE;2025-12-15;41.74;1;Nenhuma característica relevante;0.000692;0.000766
+34.691.925/0001-48;2025-12-31;1;NM_8_L;Lojas OR Empreendimentos Novo Mundo Unidade 8 - Av. A nº 4165;2025-12-24;113.83;1;Nenhuma característica relevante;0.000901;0.000998
+34.691.925/0001-48;2025-12-31;1;P117_LJ;Rua Equador, N° 43 - "Porto Atlântico Leste";2025-11-28;37.5;1;Nenhuma característica relevante;0.00078;0.000863
+34.691.925/0001-48;2025-12-31;1;NM_302_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 302 - Av. A nº 4165;2025-10-23;96.46;1;Nenhuma característica relevante;0.000539;0.000597
+34.691.925/0001-48;2025-12-31;1;NM_303_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 303 - Av. A nº 4165;2025-10-22;96.46;1;Nenhuma característica relevante;0.000539;0.000597
+34.691.925/0001-48;2025-12-31;1;NM_304_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 304 - Av. A nº 4165;2025-11-10;96.46;1;Nenhuma característica relevante;0.000539;0.000597
+34.691.925/0001-48;2025-12-31;1;NM_305_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 305 - Av. A nº 4165;2025-11-11;96.46;1;Nenhuma característica relevante;0.000539;0.000597
+34.691.925/0001-48;2025-12-31;1;NM_316_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 316 - Av. A nº 4165;2025-11-17;96.46;1;Nenhuma característica relevante;0.000539;0.000597
+34.691.925/0001-48;2025-12-31;1;NM_405_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 405 - Av. A nº 4165;2025-12-15;96.46;1;Nenhuma característica relevante;0.000558;0.000617
+34.691.925/0001-48;2025-12-31;1;NM_407_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 407 - Av. A nº 4165;2025-12-15;96.46;1;Nenhuma característica relevante;0.000558;0.000617
+34.691.925/0001-48;2025-12-31;1;NM_410_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 410 - Av. A nº 4165;2025-12-15;143.69;1;Nenhuma característica relevante;0.000831;0.00092
+34.691.925/0001-48;2025-12-31;1;NM_501_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 501 - Av. A nº 4165;2025-12-30;109.18;1;Nenhuma característica relevante;0.000672;0.000744
+34.691.925/0001-48;2025-12-31;1;NM_502_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 502 - Av. A nº 4165;2025-12-30;96.46;1;Nenhuma característica relevante;0.000594;0.000657
+34.691.925/0001-48;2025-12-31;1;NM_503_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 503 - Av. A nº 4165;2025-12-30;96.46;1;Nenhuma característica relevante;0.000594;0.000657
+34.691.925/0001-48;2025-12-31;1;NM_504_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 504 - Av. A nº 4165;2025-12-30;96.46;1;Nenhuma característica relevante;0.000594;0.000657
+34.691.925/0001-48;2025-12-31;1;NM_505_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 505 - Av. A nº 4165;2025-12-30;96.46;1;Nenhuma característica relevante;0.000594;0.000657
+34.691.925/0001-48;2025-12-31;1;NM_506_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 506 - Av. A nº 4165;2025-12-30;96.46;1;Nenhuma característica relevante;0.000594;0.000657
+34.691.925/0001-48;2025-12-31;1;NM_507_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 507 - Av. A nº 4165;2025-12-30;96.46;1;Nenhuma característica relevante;0.000594;0.000657
+34.691.925/0001-48;2025-12-31;1;NM_508_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 508 - Av. A nº 4165;2025-12-30;137.62;1;Nenhuma característica relevante;0.000847;0.000938
+34.691.925/0001-48;2025-12-31;1;NM_509_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 509 - Av. A nº 4165;2025-12-30;119.65;1;Nenhuma característica relevante;0.000737;0.000815
+34.691.925/0001-48;2025-12-31;1;NM_510_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 510 - Av. A nº 4165;2025-12-30;143.69;1;Nenhuma característica relevante;0.000885;0.000979
+34.691.925/0001-48;2025-12-31;1;NM_523_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 523 - Av. A nº 4165;2025-12-30;116.06;1;Nenhuma característica relevante;0.000714;0.000791
+34.691.925/0001-48;2025-12-31;1;NM_524_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 524 - Av. A nº 4165;2025-12-30;120.71;1;Nenhuma característica relevante;0.000743;0.000823
+34.691.925/0001-48;2025-12-31;1;VO_140;Loja Calçada Vogue Square Life Experience Unidade 140  - Av. das Américas, 8585;2025-12-09;46;1;Nenhuma característica relevante;0.002585;0.002862
+34.691.925/0001-48;2025-12-31;1;VER_A604;Sala Comercial Calçada Condomínio Vertice Unidade 604 A - Av. Miguel Antonio Frnandes, 1333;2025-10-30;42.06;1;Nenhuma característica relevante;0.000426;0.000472
+34.691.925/0001-48;2025-12-31;1;VER_B631;Sala Comercial Calçada Condomínio Vertice Unidade 631 B - Av. Miguel Antonio Frnandes, 1333;2025-10-01;56.41;1;Nenhuma característica relevante;0.000521;0.000577
+34.691.925/0001-48;2025-12-31;1;VER_B633;Sala Comercial Calçada Condomínio Vertice Unidade 633 B - Av. Miguel Antonio Frnandes, 1333;2025-10-02;75.98;1;Nenhuma característica relevante;0.000771;0.000853
+34.691.925/0001-48;2025-12-31;1;U_103_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 103 Business - Rua Franciso Candido Magalhães, 40;2025-10-23;43.4502;1;Nenhuma característica relevante;0.00068;0.000753
+34.691.925/0001-48;2025-12-31;1;U_409_B;Sala Comercial Fernando Linhares Unique Condominium Unidade 409 Business - Rua Franciso Candido Magalhães, 40;2025-10-13;43.4502;1;Nenhuma característica relevante;0.000635;0.000703
 34.895.711/0001-93;2025-09-30;1;ALPHACASTELLO J13;Rua Paraná, Itu/SP;2025-08-20;0;1;São Paulo;0;0
 34.895.711/0001-93;2025-12-31;1;ALPHACASTELLO;Rua Paraná, Itu/SP;2025-12-17;0;2;São Paulo;0;0
 35.652.102/0001-76;2025-03-31;1;Vila Olimpia Corporate;Rua Fidencio Ramos, 302, Sem Complemento, Vila Olimpia, Sao Paulo/SP, Brasil, 04551-010;2025-01-31;756.32;2;Não possui características que destoe dos demais;0.0599;0.007045
 36.368.925/0001-37;2025-09-30;1;EXTRA - TERESINHA;Avenida Presidente Kennedy, 501, São Cristóvão - Teresina/PI;2025-08-20;30000;1;n/d;0;0
+36.368.925/0001-37;2025-12-31;1;ASSAÍ - GOIANIA PQ. AMAZONIA;Avenida Padre Orlando de Morais, 2147, Parque Amazônia - Goiânia/GO;2025-11-24;42028.08;1;n/d;0;0
 36.445.551/0001-06;2025-06-30;1;ATIBAIA 11;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
 36.445.551/0001-06;2025-06-30;1;ATIBAIA 32;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
 36.445.551/0001-06;2025-06-30;1;ATIBAIA 72;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
@@ -230,6 +317,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 36.445.551/0001-06;2025-06-30;1;SANTOS DUMONT 121;Rua Dr. Plinio Barreto, 249, Bela Vista - SP;2025-05-23;108.3;1;Direito de propriedade;;
 36.445.551/0001-06;2025-06-30;1;TUITU 604;Av. Paulista, 347, Paraíso - SP;2025-05-23;114;1;Direito de propriedade;;
 36.445.551/0001-06;2025-06-30;1;TURANDOT 610;Rua Paula Ney, 475, Vila Mariana - SP;2025-05-23;101;1;Direito de propriedade;;
+36.501.181/0001-87;2025-12-31;1;Vhouse Faria Lima - unidade 2507;Av. Eusébio Matoso, 218 - Pinheiros, São Paulo - SP;2025-10-01;136.25;1;Matrículas 147.741 147.743 147.745;0.0193;0.0167
+36.501.181/0001-87;2025-12-31;1;VO699;Av. Dr. Cardoso de Melo, 699 - Vila Olímpia, São Paulo - SP;2025-10-01;545.55;131;Totalidade do % detido pelo FII;0.1001;0.0868
 36.517.660/0001-91;2025-03-31;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2025-03-31;553.5;17;n-a;0.169983;0.046446
 36.517.660/0001-91;2025-06-30;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2025-06-30;602;18;n-a;0.226209;0.050528
 36.517.660/0001-91;2025-09-30;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2025-09-30;350;10;n-a;0.131771;0.029446
@@ -238,12 +327,17 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 37.112.770/0001-36;2025-06-30;1;REC Log Extrema;Rua Josepha Gomes de Souza, 306, Extrema/MG;2025-05-14;Área (m2): 11.363,84;1;;0.307216898614111;0.353946626976475
 37.112.770/0001-36;2025-06-30;1;Rec Log Queimados;Av. Bahia, nº 1.000,Lote 12 da Quadra 06, no município de Queimados - Rio de Janeiro;2025-05-14;Área (m2): 12.335,00;1;;0.179834285412539;0.207188273248096
 37.112.770/0001-36;2025-06-30;1;Rec Log Contagem;Avenida Wilson Tavares Ribeiro, nº 800;2025-05-14;Área (m2): 8.080,00;1;;0.153280251742195;0.176595194896492
+38.293.897/0001-61;2025-12-31;1;Jardim Petrella Brooklin;Rua Pascoal Pais, 494/498, Sem Complemento, Vila Cordeiro, São Paulo/SP, Brasil, 04581-060;2025-09-30;7580.61;1;Direito de propriedade;0.03413050916574;3.67430765634053
 38.456.508/0001-71;2025-03-31;1;EDIFICIO BELLA;Avenida Jk, S/n, Quadra 38, Lote S/l, Jardim America, Itumbiara/GO, Brasil, 75523-425;2025-01-29;4785.6;2;Direito de propriedade.;0.00857937531077;0.86815102858061
 40.054.838/0001-82;2025-06-30;1;Condominio Edificio Terezina;Rua Casa Do Ator, 996, Sem Complemento, Vila Olímpia, São Paulo/SP, Brasil, 04546-003;2025-04-21;135.28;2;Direito de Propriedade;0.05198906962166;0.05198906962166
+40.054.838/0001-82;2025-12-31;2;Condominio Edificio Residencial Perdizes;Rua Capital Federal, 163, Sem Complemento, Sumaré, São Paulo/SP, Brasil, 01259-010;2025-09-29;532.43;1;Direito de propriedade;0.16762070986916;21.4610845117263
 40.189.596/0001-34;2025-06-30;1;AG FREDERICO WESTPHALEN;R COMERCIO, 660, FREDERICO WESTPHALEN - RS;2025-05-27;859.35;1;Agência Bancária Monolocatário;0.011198;0.011314
 40.575.940/0001-23;2025-03-31;1;SOUZA CRUZ;Rua Professor Sarmento Barata, nº 297, Porto Alegre-RS, CEP 90240-640.;2025-03-19;3515.77;1;N/A;0.03145;0.047126
 41.199.975/0001-78;2025-06-30;1;Casa - Rua Natingui nº 246;Rua Natingui, 246, Sem Complemento, Vila Madalena, São Paulo/SP, Brasil, 05443-000;2025-04-09;282;1;Não possui caracteristicas que destoem dos demais;0.10871108292214;11.0805697644166
 41.199.975/0001-78;2025-06-30;1;Condominio Fell Nice - Apto 35 - Torre B;Rua Da Chibata, 61, Sem Complemento, Vila Andrade, São Paulo/SP, Brasil, 05734-100;2025-06-29;73.24;1;Não possui caracteristicas que destoem dos demais;0.01986703291175;2.11642723453807
+41.199.975/0001-78;2025-12-31;1;Apto Duplex 134 - Edificio Boulevard Tilli - Casa Verde;Rua Atilio Piffer, 523, Apto. 134, Casa Verde, Sao Paulo/SP, Brasil, 02516-000;2025-11-03;108.76;1;;0.03686461177561;3.75832440111082
+41.199.975/0001-78;2025-12-31;1;Condominio Rio Residencial - Apto 1310B;Estrada Adhemar Bebiano, 275, Sem Complemento, Del Castilho, Rio De Janeiro/RJ, Brasil, 21051-071;2025-11-16;50;1;;0.01526425331334;1.55618119733495
+41.199.975/0001-78;2025-12-31;1;Apto 12 - Condominio Costa do Marfim;Rua Alecrins, 234, Sem Complemento, Cambuí, Campinas/SP, Brasil, 13024-410;2025-12-09;183.49;1;;0.05683875275544;5.79488936629017
 41.218.404/0001-33;2025-03-31;1;Con.A.Mello, 116;Rua Cônego Amaral Mello, 116, apto 13;2025-02-04;540.28;1;Matrícula 173616;0.1063;0.1016
 41.218.404/0001-33;2025-06-30;1;R. Capitao Pinto Ferreira;Rua Capitão Pinto Ferreira, 80, apto 91 - 9º andar;2025-04-07;136.8;1;Matrícula Imobiliária nº 20.689 (apartamento) e nº 20.690 (vaga);0.0563;0.0542
 41.256.643/0001-88;2025-09-30;1;Itá Conceição;Rua Itatiaia, 356 - Vila Guarani São Paulo;2025-08-06;27.13;1;n/a;0.0566;0.0007
@@ -255,15 +349,28 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 41.325.993/0001-59;2025-09-30;1;IVC Jh Palhano;Rua João Huss,520, Cidade de Londrina, no Estado do Paraná;2025-09-29;71.13;1;matrícula 60.110 do 1º Ofício de Registro de Imóveis - unidade 308;0.0024;0.005157
 41.325.993/0001-59;2025-09-30;1;IVC Greenwich Park;Rua Martinho Lutero, 99, na Cidade de Londrina/PR;2025-09-29;124.43;1;matrícula 80.137 do 2º Ofício de Registro de Imóveis - unidade 2604;0.005;0.010876
 41.325.993/0001-59;2025-09-30;1;IVA Patio Malzoni;Avenida Brigadeiro Faria Lima, nº 3.477, no 28º Subdistrito - Jardim Paulista, Município de São Paulo, Estado de São Paulo;2025-09-29;323.68;1;matrículas 183.552 - unidade 32 - 3º pavimento do Edifício Condomínio Pátio Victor Malzoni, bloco Torre Norte;0.1396;0.30253
+41.325.993/0001-59;2025-12-31;1;PLJK-22;Rua Minas de Prata, 30;2025-12-29;287.61;1;Matrícula 169.024;0.0635;0.0506
+41.325.993/0001-59;2025-12-31;1;JH-2202;Rua João Huss,520, Cidade de Londrina, no Estado do Paraná;2025-12-30;89.69;1;Matrícula 132.433;0.003;0.0024
+41.325.993/0001-59;2025-12-31;1;JH-2204;Rua João Huss,520, Cidade de Londrina, no Estado do Paraná;2025-12-29;76.3;1;Matrícula 132.432;0.0038;0.003
+41.325.993/0001-59;2025-12-31;1;GR-1804;Rua Martinho Lutero, 99, na Cidade de Londrina/PR;2025-12-30;124.43;1;Matrícula 132.303;0.0059;0.0047
+41.325.993/0001-59;2025-12-31;1;GR-2004;Rua Martinho Lutero, 99, na Cidade de Londrina/PR;2025-12-30;124.43;1;Matrícula 133.046;0.0059;0.0047
+41.325.993/0001-59;2025-12-31;1;GR-2702;Rua Martinho Lutero, 99, na Cidade de Londrina/PR;2025-12-29;124.43;1;Matrícula 133.060;0.0059;0.0047
+41.325.993/0001-59;2025-12-31;1;GR-2703;Rua Martinho Lutero, 99, na Cidade de Londrina/PR;2025-12-29;125.33;1;Matrícula 134.915;0.006;0.0047
 42.592.868/0001-78;2025-06-30;1;Edifício Panamerica Green Park;Av. Guido Caloi 1000, São Paulo, SP, 05802-140;2025-04-15;4843.86;4;Foram emitidos Certificados de Recebíveis Imobiliários ("CRI"), Série 1ª, 2ª,3ª e 4ª  da 8ª ,13ª,14ª,39ª e 40ª Emissão da OPEA Securitizadora SA, adquiridos em sua totalidade Itaú. Em garantia dos pagamentos destes CRIs, foi outorgado alienação fiduciária sobre a totalidade das cotas de emissão, do imóvel do FII e a cessão de recebíbeis.;1;0.7878
 42.592.868/0001-78;2025-09-30;1;Edifício Panamerica Green Park;Av. Guido Caloi 1000, São Paulo, SP, 05802-140;2025-04-15;4843.86;4;Foram emitidos Certificados de Recebíveis Imobiliários ("CRI"), Série 1ª, 2ª,3ª e 4ª  da 8ª ,13ª,14ª,39ª e 40ª Emissão da OPEA Securitizadora SA, adquiridos em sua totalidade Itaú. Em garantia dos pagamentos destes CRIs, foi outorgado alienação fiduciária sobre a totalidade das cotas de emissão, do imóvel do FII e a cessão de recebíbeis.;1;0.7878
+42.592.868/0001-78;2025-12-31;1;Edifício Panamerica Green Park;Av. Guido Caloi 1000, São Paulo, SP, 05802-140;2025-04-15;4843.86;4;Foram emitidos Certificados de Recebíveis Imobiliários ("CRI"), Série 1ª, 2ª,3ª e 4ª  da 8ª ,13ª,14ª,39ª e 40ª Emissão da OPEA Securitizadora SA, adquiridos em sua totalidade Itaú. Em garantia dos pagamentos destes CRIs, foi outorgado alienação fiduciária sobre a totalidade das cotas de emissão, do imóvel do FII e a cessão de recebíbeis.;1;0.7878
+42.754.342/0001-47;2025-12-31;2;Suíte nº: 1445 Cidade Matarazzo;Alameda Rio Claro, 190, Bela Vista, São Paulo/SP;2025-12-12;166.15;1;Unidade localizada no empreendimento condominio Cidade Matarazzo;0.00282765758195656;0.0029445476642051
 43.008.884/0001-33;2025-03-31;1;Edificio Edson;Rua Edson, 1400, Sem Complemento, Campo Belo, São Paulo/SP, Brasil, 04618-035;2025-02-10;2343.45;1;Direito de propriedade.;0.14669544815811;0.14710012232282
 43.010.844/0001-26;2025-06-30;2;Hotel Selina;Avenida Vieira De Carvalho, 99, Sem Complemento, Republica, Sao Paulo/SP, Brasil, 01210-010;2025-05-18;5394;1;Direito de propriedade;0.02601135891742;0.02622441870469
 43.951.851/0001-22;2025-09-30;1;Edifício Panamerica Green Park;Av. Guido Caloi 1000, São Paulo, SP, 05802-140;2025-04-15;4843.86;4;Foram emitidos Certificados de Recebíveis Imobiliários ("CRI"), Série 1ª, 2ª,3ª e 4ª  da 8ª ,13ª,14ª,39ª e 40ª Emissão da OPEA Securitizadora SA, adquiridos em sua totalidade Itaú. Em garantia dos pagamentos destes CRIs, foi outorgado alienação fiduciária sobre a totalidade das cotas de emissão, do imóvel do FII e a cessão de recebíbeis.;1;0.7878
+43.951.851/0001-22;2025-12-31;1;Edifício Panamerica Green Park;Av. Guido Caloi 1000, São Paulo, SP, 05802-140;2025-04-15;4843.86;4;Foram emitidos Certificados de Recebíveis Imobiliários ("CRI"), Série 1ª, 2ª,3ª e 4ª  da 8ª ,13ª,14ª,39ª e 40ª Emissão da OPEA Securitizadora SA, adquiridos em sua totalidade Itaú. Em garantia dos pagamentos destes CRIs, foi outorgado alienação fiduciária sobre a totalidade das cotas de emissão, do imóvel do FII e a cessão de recebíbeis.;1;0.7878
+44.514.162/0001-13;2025-12-31;1;Condomínio Citlog Sul de Minas;Av. Porto Seco, 1.540, Aeroporto - Varginha - MG;2025-12-15;78542.74;14;-;0.85;1.07
 46.157.348/0001-98;2025-12-31;1;HELBOR VILA OLIMPIA HOME & STY;Rua Funchal, 65, Vila Olimpia;2026-01-04;360.85;5;Matricula 108.072;0;0
 46.285.299/0001-79;2025-09-30;1;LUMI501;Avenida Soledade, 257/267 - Petropolis, Porto Alegre, RS;2025-08-22;345.65;1;n/a;0.1852;0.1867
 46.285.299/0001-79;2025-09-30;1;LUMI602;Avenida Soledade, 257/267 - Petropolis, Porto Alegre, RS;2025-08-29;345.65;1;n/a;0.2276;0.1826
 46.285.299/0001-79;2025-09-30;1;LUMI701;Avenida Soledade, 257/267 - Petropolis, Porto Alegre, RS;2025-09-23;345.65;1;n/a;0.3195;0.1919
+46.285.299/0001-79;2025-12-31;1;LEPIE501;Rua Artur Rocha, 111 - Boa Vista, Porto Alegre, RS;2025-12-26;407.32;1;Futuras unidades autônomas compromissadas localizadas no Edifício Residencial Le Pierre ("Edifício") que correspondem à fração ideal de 0,16579 do Imóvel descrito e caracterizado na matrícula n° 205.521, do Livro nº 2 de Registro Geral do Registro de Imóveis da 1ª Zona de Porto Alegre, Estado do Rio Grande do Sul ("Imóvel"):;1;0.2636
+46.285.299/0001-79;2025-12-31;1;LEPIE901;Rua Artur Rocha, 111 - Boa Vista, Porto Alegre, RS;2025-10-17;407.32;1;Futuras unidades autônomas compromissadas localizadas no Edifício Residencial Le Pierre ("Edifício") que correspondem à fração ideal de 0,16579 do Imóvel descrito e caracterizado na matrícula n° 205.521, do Livro nº 2 de Registro Geral do Registro de Imóveis da 1ª Zona de Porto Alegre, Estado do Rio Grande do Sul ("Imóvel"):;0.5362;0.2121
 47.154.849/0001-83;2025-03-31;1;SKY_1211;R. da Paz, 1601;2025-02-20;75.5;1;Nenhuma característica relevante;0.003014;0.001677
 47.154.849/0001-83;2025-03-31;1;SKY_1401;R. da Paz, 1601;2025-02-03;76.9;1;Nenhuma característica relevante;0.003298;0.001835
 47.154.849/0001-83;2025-03-31;1;SKY_1418;R. da Paz, 1601;2025-02-03;76.9;1;Nenhuma característica relevante;0.003298;0.001835
@@ -518,9 +625,55 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 47.154.849/0001-83;2025-09-30;1;GOGH1808;R. Bancário Francisco M Sobreira, 51;2025-07-07;134.9;1;Nenhuma característica relevante;0.00744;0.002239
 47.154.849/0001-83;2025-09-30;1;GOGH2708;R. Bancário Francisco M Sobreira, 51;2025-07-15;134.9;1;Nenhuma característica relevante;0.00755;0.002272
 47.154.849/0001-83;2025-09-30;1;GOGH3006;R. Bancário Francisco M Sobreira, 51;2025-07-28;192.8;1;Nenhuma característica relevante;0.010426;0.003138
+47.154.849/0001-83;2025-12-31;1;SKY_903;R. da Paz, 1601;2025-12-01;82.7;1;Nenhuma característica relevante;0.00373;0.001385
+47.154.849/0001-83;2025-12-31;1;SKY_1815;R. da Paz, 1601;2025-12-08;74.4;1;Nenhuma característica relevante;0.003476;0.001291
+47.154.849/0001-83;2025-12-31;1;SKY_2202;R. da Paz, 1601;2025-11-11;75.5;1;Nenhuma característica relevante;0.003887;0.001444
+47.154.849/0001-83;2025-12-31;1;GA_206A;Av. Farroupilha, 5508;2025-10-31;123.2;1;Nenhuma característica relevante;0.004777;0.001774
+47.154.849/0001-83;2025-12-31;1;GA_207C;Av. Farroupilha, 5508;2025-10-17;123.2;1;Nenhuma característica relevante;0.004646;0.001726
+47.154.849/0001-83;2025-12-31;1;GA_202D;Av. Farroupilha, 5508;2025-11-14;123.2;1;Nenhuma característica relevante;0.004842;0.001799
+47.154.849/0001-83;2025-12-31;1;GA_310D;Av. Farroupilha, 5508;2025-12-24;123.2;1;Nenhuma característica relevante;0.004646;0.001726
+47.154.849/0001-83;2025-12-31;1;GA_16BV;Av. Farroupilha, 5508;2025-10-31;19;1;Nenhuma característica relevante;0.000458;0.00017
+47.154.849/0001-83;2025-12-31;1;GA_17BV;Av. Farroupilha, 5508;2025-10-17;19;1;Nenhuma característica relevante;0.000458;0.00017
+47.154.849/0001-83;2025-12-31;1;GA_21BV;Av. Farroupilha, 5508;2025-12-24;19;1;Nenhuma característica relevante;0.000458;0.00017
+47.154.849/0001-83;2025-12-31;1;GR_304D;R. Aurora, 1250;2025-12-19;96.7;1;Nenhuma característica relevante;0.003535;0.001313
+47.154.849/0001-83;2025-12-31;1;GR_390AV;R. Aurora, 1250;2025-12-19;27.5;1;Nenhuma característica relevante;0.000458;0.00017
+47.154.849/0001-83;2025-12-31;1;NO1_401;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2025-12-22;84.6;1;Nenhuma característica relevante;0.003402;0.001264
+47.154.849/0001-83;2025-12-31;1;GR_902D;R. Aurora, 1250 Canoas RS;2025-12-19;121.8;1;Nenhuma característica relevante;0.004659;0.00173
+47.154.849/0001-83;2025-12-31;1;GR_345A;R. Aurora, 1250 Canoas RS;2025-12-19;55;1;Nenhuma característica relevante;0.000458;0.00017
+47.154.849/0001-83;2025-12-31;1;GR_481A;R. Aurora, 1250 Canoas RS;2025-10-27;17.2;1;Nenhuma característica relevante;0.000458;0.00017
+47.154.849/0001-83;2025-12-31;1;GR_1012D;R. Aurora, 1250 Canoas RS;2025-10-27;96.7;1;Nenhuma característica relevante;0.00373;0.001385
+47.154.849/0001-83;2025-12-31;1;NO1_801;Av. Doutor José Machado de Souza, 220 - Aracaju, SE;2025-12-22;84.6;1;Nenhuma característica relevante;0.003402;0.001264
+47.154.849/0001-83;2025-12-31;1;Bus1_605;Av. Cerejeira, 280;2025-11-12;32.3;1;Nenhuma característica relevante;0.001304;0.000484
+47.154.849/0001-83;2025-12-31;1;GOGH2905;R. Bancário Francisco M Sobreira, 51;2025-11-25;153.4;1;Nenhuma característica relevante;0.006211;0.002307
 48.916.699/0001-60;2025-03-31;1;Condominio Faria Lima Plaza - FLP;Avenida Brigadeiro Faria Lima, 929, Sem Complemento, Pinheiros, Sao Paulo/SP, Brasil, 05426-100;2025-01-07;69342112;191;Direito de Propriedade;0.31196238502451;42.6442433138565
 48.978.859/0001-04;2025-09-30;1;CVRD Aguas Claras - Bloco IV;Avenida De Ligacao, 1809, Sem Complemento, , Nova Lima/MG, Brasil, 34006-200;2025-07-09;8932;1;Não possui caracteristicas que destoem dos demais;1;0.035
+50.479.122/0001-80;2025-12-31;1;LOG ARACAJU;Avenida Chesf, S/n, Sem Complemento, Parque Dos Faróis, Nossa Senhora Do Socorro/SE, Brasil, 49160-000;2025-11-29;29945;2;Direito de Propriedade;0.03643091873388;0.05316395699168
+50.479.122/0001-80;2025-12-31;1;LOG GOIANIA;Km 518, S/n, Br-153, Br-153, Hidrolandia/GO, Brasil, 75340-000;2025-11-29;47928;2;Direito de Propriedade;0.06727954094343;0.09478609948203
+50.479.122/0001-80;2025-12-31;1;LOG LONDRINA;Avenida Tiradentes, 7100, Sem Complemento, Jardim Rosicler, Londrina/PR, Brasil, 86072-000;2025-11-29;61651;3;Direito de Propriedade;0.07356187055371;0.09335656579568
+50.479.122/0001-80;2025-12-31;1;LOG RECIFE;Rodovia Br101 Sul, 2308, Sem Complemento, Distrito Industrial Santo Estevao, Cabo De Santo Agostinho/PE, Brasil, 54503-010;2025-11-29;60216;1;Direito de Propriedade;0.11753806084539;0.243408838396
+50.479.122/0001-80;2025-12-31;1;LOG FORTALEZA II;Rodovia 4o Anel Viario, 4343, Sem Complemento, Ancuri, Itaitinga/CE, Brasil, 61880-000;2025-11-29;75504;2;Direito de Propriedade;0.09539073221194;0.18441719361004
 50.569.855/0001-06;2025-09-30;1;HELBOR VILA OLIMPIA HOME & STA;Rua Funchal nº 65 - Vila Olimpia SP;2025-09-30;1276.5;35;Cartorio de Imoveis - 4º RGI/SP / Matricula Area Maior - 108.072;0;0
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 1802B;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;147.5;345;N/A;0.004878035162978;0.00496705785230114
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 2102B;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;147.5;345;N/A;0.004878035162978;0.00496705785230114
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 530C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.004878035162978;0.00496705785230114
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 328C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;26.11;345;N/A;0.004878035162978;0.00496705785230114
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 643C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 228C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;26.11;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 528C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;26.11;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 632C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 2201B;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;147.5;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 633C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 226C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;26.81;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 330C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.96;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 534C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 1902B;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;147.5;345;N/A;0.000867455762944187;0.000883286572338969
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 229C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;24.81;345;N/A;0.000870148075193826;0.000886028018485546
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 631C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.000840336451774899;0.000855672341815428
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 624C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.000840336451774899;0.000855672341815428
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 635C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.000940293071473655;0.000957453140062295
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 531C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.000915742322775715;0.000932454347510433
+50.750.438/0001-65;2025-12-31;1;Moma Moema - Unidade 530C;Av. Macuco, 715 - Moema, São Paulo;2025-10-24;23.95;345;N/A;0.000915742322775715;0.000932454347510433
+50.876.919/0001-11;2025-12-31;1;APTO 502 TORRE 2;AVENIDA NEREU RAMOS, 4770;;221.011;1;MATRICULA 49.359;;
 51.472.985/0001-99;2025-06-30;1;N/A;;;;;N/A;;
 51.870.412/0001-13;2025-03-31;1;Coral Gables - Vetter;Av. Antônio Joaquim Tavares, nº 824, Bairro Centro, Penha, Estado de Santa Catarina, CEP 88.838-000.;2025-01-17;132.13;1;N/A;0.1569;0.001951
 51.870.412/0001-13;2025-03-31;1;Alpha Houses I - Modena;Estrada Lula Chaves, 386 - Santana do Parnaíba;2025-01-24;514.44;2;N/A;0.2862;0.00294
@@ -545,8 +698,17 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 51.870.412/0001-13;2025-09-30;1;Residencial Vida Habitat;R. Paranaíba, 581 - St. Planalto, Jataí - GO, 75805-045;2025-09-22;78.84;1;N/A;0.1316;0.0007
 51.870.412/0001-13;2025-09-30;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-08-31;240.09;3;N/A;0.4286;0.0028
 51.870.412/0001-13;2025-09-30;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-09-30;160.06;2;N/A;0.5;0.0019
+51.870.412/0001-13;2025-12-31;1;Edifício Gibran;Rua Alberto Neder 424 - Campo Grande;2025-10-17;167.16;1;N/A;0.1;0.001464
+51.870.412/0001-13;2025-12-31;1;José Antonio Bortolotto - MGB;R. JOSÉ RUSSI ESQ.C/R.RAFAEL DE CARVALHO N° 11 -SANTO ANTONIO DE POSSE;2025-10-31;42.78;1;N/A;0.0169;0.000171
+51.870.412/0001-13;2025-12-31;1;José Antonio Bortolotto - MGB;R. JOSÉ RUSSI ESQ.C/R.RAFAEL DE CARVALHO N° 11 -SANTO ANTONIO DE POSSE;2025-12-26;85.56;2;N/A;0.034468;0.000343
+51.870.412/0001-13;2025-12-31;1;Coral Gables - Vetter;Av. Antônio Joaquim Tavares, nº 824, Bairro Centro, Penha, SC, CEP 88.838-000.;2025-12-19;346.75;2;N/A;0.626851;0.005497
+51.870.412/0001-13;2025-12-31;1;Habitat - Liberta;Rua Joaquim Caetano, 875, Lotes 05/08 - Qd 61-A - Jataí - GO;2025-12-19;118.98;1;N/A;0.154581;0.001272
+51.870.412/0001-13;2025-12-31;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-11-12;80.03;1;N/A;0.5;0.000988
+51.870.412/0001-13;2025-12-31;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-11-17;80.03;1;N/A;1;0.000985
 52.904.581/0001-90;2025-12-31;1;IMOVEL RJ;AV. EPITÁCIO PESSOA,Nº 4.180, BL. 02, APT.101;2025-12-03;2876777;1;IMOVEL RIO DE JANEIRO;1;0.1921
 55.793.516/0001-22;2025-03-31;1;P0076-ROOFT;Rua Santo André, nº 366, apartamento 51 e box de garagem G-9, Ed. Amarilis, CEP 09020-230 - Santo André/São Paulo;2025-03-28;164;1;n/a;0;0
+56.992.328/0001-96;2025-12-31;1;VGL;Porto Feliz;2025-12-23;175.55;1;VGL;0;0
+56.992.328/0001-96;2025-12-31;1;VGL;Porto Feliz;2025-12-15;328.53;1;VGL;0;0
 58.544.087/0001-48;2025-06-30;1;Nome;Endereço;;Área;;Outras características relevantes;;
 58.561.054/0001-06;2025-06-30;2;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;2025-06-06;206.8;1;Cj 31-A, subdivisão do cj 31, localizado no 3º andar, com área privativa de 206,80m², objeto da matrícula nº 52073 do 4° registro de imóveis.  Contrato de locação formalizado, com vigência a partir de maio/25.;0.157566;0.099652
 58.561.054/0001-06;2025-06-30;2;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;2025-06-06;198.08;1;Cj 32-A, subdivisão do cj 32, localizado no 3º andar, com área privativa de 198,08m², objeto da matrícula nº 52074 do 4° registro de imóveis.  Contrato de locação formalizado, com vigência a partir de maio/25.;0.114528;0.072432
@@ -558,3 +720,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 58.561.306/0001-05;2025-06-30;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;2025-06-03;384.81;1;Cj 82 - localizado no 8º andar, com área privativa de 384,81m², objeto da matrícula nº 52084 do 4° registro de imóveis.;0.34362;0.341951
 58.561.306/0001-05;2025-06-30;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;2025-06-03;140.1;6;Vagas de garagem nº 93 a 98, localizadas no 1º subsolo, sendo cada vaga objeto de matrícula distinta (nº respectivos 52.223 a 52.228), com área construída de 23,35m² cada. As 6 vagas somam 140,10m².;0.125104;0.124496
 58.561.306/0001-05;2025-06-30;1;ED. BRASÍLIO MACHADO NETO;Rua Dr. Cardoso de Mello, 1855;2025-06-03;46.7;2;Vagas de garagem nº 33 a 34, localizadas no 2º subsolo, sendo cada vaga objeto de matrícula distinta (nº respectivos 52.378 a 52.379), com área construída de 23,35m² cada. As 2 vagas somam 46,70m².;0.041701;0.041499
+58.564.382/0001-66;2025-12-31;1;Ed. Panambi;Rua Geraldo Flausino Gomes, 61;2025-11-27;237.96;1;Cj 102, localizado no 10º andar, com área privativa de 237,96m², objeto da matrícula nº 76.791 do 15° registro de imóveis.;0.178904;0.224835
+60.551.924/0001-08;2025-12-31;1;Pernambucanas - Araçatuba;Rua Marechal Deodoro, 45/47, Araçatuba, São Paulo;2025-10-01;1103;1;-;0.0167;0.0167
+60.551.924/0001-08;2025-12-31;1;Pernambucanas - Cubatão;Avenida Nove de Abril, 2.041, Cubatão, São Paulo;2025-12-12;1671;1;-;0.0253;0.0249
+62.502.267/0001-34;2025-12-31;1;Condominio WBC - Work Bela Cintra;Rua Bela Cintra, 755, Sem Complemento, Consolação, São Paulo/SP, Brasil, 01415-007;2025-12-15;4453.09;18;Direito de Propriedade;1;1.8882
+62.662.477/0001-90;2025-12-31;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2025-12-31;208;4;n-a;0.09946;0.031543
