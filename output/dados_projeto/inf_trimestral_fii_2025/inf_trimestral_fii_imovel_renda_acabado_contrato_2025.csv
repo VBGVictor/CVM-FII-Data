@@ -180,6 +180,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 05.562.312/0001-02;2025-03-31;1;Ed Almirante Barroso;Não possui caracteristicas que destoem dos demais
 05.562.312/0001-02;2025-06-30;1;Ed Almirante Barroso;Não possui caracteristicas que destoem dos demais
 05.562.312/0001-02;2025-09-30;1;Ed Almirante Barroso;Não possui caracteristicas que destoem dos demais
+05.562.312/0001-02;2025-12-31;1;Ed Almirante Barroso;Não possui caracteristicas que destoem dos demais
 06.175.262/0001-73;2025-03-31;1;Avenida Paulista, 1728, São Paulo/SP (1ª ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
 06.175.262/0001-73;2025-03-31;1;Avenida Paulista, 1728, São Paulo/SP (SL E 2ª ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
 06.175.262/0001-73;2025-03-31;1;Avenida Paulista, 1728, São Paulo/SP (3º ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
@@ -1529,6 +1530,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 17.374.696/0001-19;2025-06-30;1;Galpão  Industrial;3 módulos: A, B, C
 17.374.696/0001-19;2025-09-30;1;Edifício Domo Corporate;Salas Comerciais designadas como ESCRITÓRIO (TORRE B).
 17.374.696/0001-19;2025-09-30;1;Galpão  Industrial;3 módulos: A, B, C
+17.374.696/0001-19;2025-12-31;1;Edifício Domo Corporate;Salas Comerciais designadas como ESCRITÓRIO (TORRE A).
+17.374.696/0001-19;2025-12-31;1;Galpão  Industrial;3 módulos: A, B, C
 17.554.274/0001-25;2025-03-31;1;West Shopping;Conforme item 1.1.2.1.4 deste informe.
 17.554.274/0001-25;2025-03-31;1;Shopping Crystal;Conforme item 1.1.2.1.4 deste informe.
 17.554.274/0001-25;2025-03-31;1;Center Shopping Rio;Conforme item 1.1.2.1.4 deste informe.
@@ -1559,17 +1562,17 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 17.554.274/0001-25;2025-09-30;1;Shopping Tacaruna;Conforme item 1.1.2.1.4 deste informe.
 17.554.274/0001-25;2025-09-30;1;Shopping Iguatemi Fortaleza;Conforme item 1.1.2.1.4 deste informe.
 17.554.274/0001-25;2025-09-30;1;Minas Shopping;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;West Shopping;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;Shopping Crystal;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;Center Shopping Rio;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;Shopping Paralela;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;Ilha Plaza;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;Pátio Belém;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;Shopping Granja Vianna;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;Shopping Tacaruna;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;Shopping Iguatemi Fortaleza;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;Minas Shopping;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;1;TERRENOS MIDWAY MALL;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;West Shopping;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;Shopping Crystal;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;Center Shopping Rio;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;Shopping Paralela;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;Ilha Plaza;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;Pátio Belém;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;Shopping Granja Vianna;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;Shopping Tacaruna;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;Shopping Iguatemi Fortaleza;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;Minas Shopping;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;2;TERRENOS MIDWAY MALL;Conforme item 1.1.2.1.4 deste informe.
 17.568.605/0001-86;2025-03-31;1;Shopping Mais Largo 13;Não possui caracteristicas que destoem dos demais
 17.568.605/0001-86;2025-06-30;1;Shopping Mais Largo 13;Não possui caracteristicas que destoem dos demais
 17.568.605/0001-86;2025-09-30;1;Shopping Mais Largo 13;Não possui caracteristicas que destoem dos demais
@@ -3547,7 +3550,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 28.693.595/0001-27;2025-03-31;1;N/A;N/A
 28.693.595/0001-27;2025-06-30;1;N/A;N/A
 28.693.595/0001-27;2025-09-30;1;N/A;N/A
-28.693.595/0001-27;2025-12-31;1;N/A;N/A
+28.693.595/0001-27;2025-12-31;2;N/A;N/A
 28.737.771/0001-85;2025-03-31;1;Atento Del Castilho;Não possui caracteristicas que destoem dos demais
 28.737.771/0001-85;2025-03-31;1;BRF Bauru;Não possui caracteristicas que destoem dos demais
 28.737.771/0001-85;2025-03-31;1;BRF Guarulhos;Não possui caracteristicas que destoem dos demais
@@ -4218,7 +4221,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 34.081.637/0001-71;2025-03-31;1;informação não apresentada;informação não apresentada
 34.081.637/0001-71;2025-06-30;1;informação não apresentada;informação não apresentada
 34.081.637/0001-71;2025-09-30;1;Não possui informação apresentada;Não possui informação apresentada
-34.081.637/0001-71;2025-12-31;1;Não possui informação apresentada;Não possui informação apresentada
+34.081.637/0001-71;2025-12-31;2;Não possui informação apresentada;Não possui informação apresentada
 34.197.776/0001-65;2025-03-31;1;Hotel Viila Madalena;Não possui caracteristicas que destoem dos demais
 34.197.776/0001-65;2025-06-30;1;Hotel Vila Madalena;Não possui caracteristicas que destoem dos demais
 34.197.776/0001-65;2025-12-31;1;Hotel Vila Madalena;Não possui caracteristicas que destoem dos demais
@@ -6619,7 +6622,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 53.076.746/0001-45;2025-03-31;1;N/A;N/A
 53.076.746/0001-45;2025-06-30;1;N/A;N/A
 53.076.746/0001-45;2025-09-30;1;N/A;N/A
-53.076.746/0001-45;2025-12-31;1;N/A;N/A
+53.076.746/0001-45;2025-12-31;2;N/A;N/A
 53.123.631/0001-64;2025-03-31;1;.;.
 53.123.631/0001-64;2025-06-30;1;.;.
 53.123.631/0001-64;2025-09-30;1;.;.
@@ -6664,8 +6667,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 53.309.565/0001-11;2025-12-31;1;Imovel Sao Paulo - Hospital Paulistano;Não possui caracteristicas que destoem dos demais
 53.372.824/0001-59;2025-03-31;2;n/a;n/a
 53.372.824/0001-59;2025-06-30;2;n/a;n/a
-53.372.824/0001-59;2025-09-30;1;na;na
-53.372.824/0001-59;2025-12-31;1;na;na
+53.372.824/0001-59;2025-09-30;2;na;na
+53.372.824/0001-59;2025-12-31;2;na;na
 53.391.653/0001-05;2025-03-31;1;JHA Corporate Boutique;Não possui caracteristicas que destoem dos demais.
 53.391.653/0001-05;2025-06-30;1;JHA Corporate Boutique;Não possui caracteristicas que destoem dos demais.
 53.391.653/0001-05;2025-09-30;1;JHA Corporate Boutique;Não possui caracteristicas que destoem dos demais.
@@ -7549,6 +7552,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 63.240.822/0001-60;2025-12-31;1;CAMPINAS SHOPPING CENTER;Não possui caracteristicas que destoem dos demais
 63.240.822/0001-60;2025-12-31;1;Shopping Bela Vista;Não possui caracteristicas que destoem dos demais
 63.279.539/0001-41;2025-12-31;1;Imovel Enseada;Sem informações complementares
+63.286.011/0001-08;2025-12-31;1;LOPEI 11 PERÍMETRO;Não há
 63.327.294/0001-80;2025-12-31;1;Condomínio Basílio, 177 - Ramal;Até 31 de dezembro de 2026 não será devido o Valor Mínimo da Locação a título de carênciaconcedida pela Locadora à Locatária.
 63.574.240/0001-10;2025-12-31;2;NA;NA
 63.787.595/0001-97;2025-12-31;1;M WERN 621;contrato atípico de locação firmados, com prazo inicial de 15 (quinze) anos.
