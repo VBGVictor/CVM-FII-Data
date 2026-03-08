@@ -595,6 +595,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 09.150.967/0001-24;2025-12-31;1;Anhanguera Educacional;contrato corrigido pelo IPCA.
 09.276.964/0001-31;2025-03-31;1;Imóvel 1;Edifício Commercial Brascan Century Plaza
 09.276.964/0001-31;2025-06-30;1;Imóvel 1;Edifício Commercial Brascan Century Plaza
+09.276.964/0001-31;2025-12-31;1;Imóvel 1;Edifício Commercial Brascan Century Plaza
 09.326.861/0001-39;2025-03-31;1;-;-
 09.326.861/0001-39;2025-06-30;1;-;-
 09.326.861/0001-39;2025-09-30;1;-;-
@@ -3259,6 +3260,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 28.267.530/0001-10;2025-03-31;2;Edifício Maria Gabriella;Apartamento 81 - Matrícula nº 195.14
 28.267.530/0001-10;2025-06-30;1;Edifício Maria Gabriella;Apartamento 81 - Matrícula nº 195.14
 28.267.530/0001-10;2025-09-30;1;Edifício Maria Gabriella;Apartamento 81 - Matrícula nº 195.14
+28.267.530/0001-10;2025-12-31;1;Edifício Maria Gabriella;Apartamento 81 - Matrícula nº 195.14
 28.267.555/0001-13;2025-03-31;1;CONDOMINIO LED CORPORATE (70,81% da área de 56.085,85m2);Correção IPCA
 28.267.555/0001-13;2025-06-30;1;CONDOMINIO LED CORPORATE (70,81% da área de 56.085,85m2);Correção IPCA
 28.267.555/0001-13;2025-09-30;1;CONDOMINIO LED CORPORATE;Não possui informação apresentada.
@@ -5442,7 +5444,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 41.650.319/0001-40;2025-03-31;1;IMÓVEL 52.563;MATRICULA 52562
 41.650.319/0001-40;2025-06-30;1;IMÓVEL 52.563;MATRICULA 52562
 41.650.319/0001-40;2025-09-30;1;IMÓVEL 52.563;MATRICULA 52562
-41.650.319/0001-40;2025-12-31;1;na;na
+41.650.319/0001-40;2025-12-31;2;na;na
 41.650.365/0001-49;2025-06-30;1;Edifício IBM;matrículas nº 63.972, 63.973, 63.974, 63.975, 63.976, 63.977, 63.978, 63.979, 63.980, 63.981, 63.982, 63.983, 63.984, 63.985, 63.986, 63.987, 63.988, 63.989, 63.990, 63.991, 63.992, 63.993, 63.994, 63.995, 63.996, 63.997, 63.998, 63.999, 64.000, 64.001, 64.002, 64.003, 64.004, 64.005, 64.006, 64.007, 64.008, 64.009, 64.010, 64.011, 64.012, 64.013
 41.650.365/0001-49;2025-09-30;1;Edifício IBM;matrículas nº 63.972, 63.973, 63.974, 63.975, 63.976, 63.977, 63.978, 63.979, 63.980, 63.981, 63.982, 63.983, 63.984, 63.985, 63.986, 63.987, 63.988, 63.989, 63.990, 63.991, 63.992, 63.993, 63.994, 63.995, 63.996, 63.997, 63.998, 63.999, 64.000, 64.001, 64.002, 64.003, 64.004, 64.005, 64.006, 64.007, 64.008, 64.009, 64.010, 64.011, 64.012, 64.013
 41.776.296/0001-14;2025-03-31;1;1;matrícula 84383
@@ -5563,6 +5565,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 42.031.201/0001-04;2025-09-30;1;móvel Barueri  (POWER);MATRÍCULA 17.477
 42.031.201/0001-04;2025-09-30;1;Imóvel Barra da Tijuca;MATRÍCULA 195.530
 42.031.201/0001-04;2025-09-30;1;Imóvel Heitor Penteado;MATRÍCULA 154.735
+42.031.201/0001-04;2025-12-31;1;Terreno Butantã;MATRICULA 177.900 ( lotes 14, 15 e 16 da quadra 14)
+42.031.201/0001-04;2025-12-31;1;Imóvel Vila leopoldina;MATRICULA 38.035
+42.031.201/0001-04;2025-12-31;1;Imóvel Barueri;MATRICULA 51.564
+42.031.201/0001-04;2025-12-31;1;móvel Barueri  (POWER);MATRÍCULA 17.477
+42.031.201/0001-04;2025-12-31;1;Imóvel Barra da Tijuca;MATRÍCULA 195.530
+42.031.201/0001-04;2025-12-31;1;Imóvel Heitor Penteado;MATRÍCULA 154.735
 42.273.290/0001-97;2025-03-31;1;DONA DELFINA;Avenida Macaranã, nº 1273, Freguesia do Engenho Velho - Rio de Janeiro - RJ
 42.273.290/0001-97;2025-06-30;1;DONA DELFINA;Avenida Macaranã, nº 1273, Freguesia do Engenho Velho - Rio de Janeiro - RJ
 42.273.290/0001-97;2025-09-30;1;DONA DELFINA;Avenida Macaranã, nº 1273, Freguesia do Engenho Velho - Rio de Janeiro - RJ
