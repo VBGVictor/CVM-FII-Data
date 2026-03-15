@@ -1189,6 +1189,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 13.920.018/0001-53;2025-03-31;1;Imóvel 1;Referente à matrícula nº 83.672  Área do Terreno : 96.482,55 m2
 13.920.018/0001-53;2025-06-30;1;Imóvel 1;Referente à matrícula nº 83.672  Área do Terreno : 96.482,55 m2
 13.920.018/0001-53;2025-09-30;1;Imóvel 1;Referente à matrícula nº 83.672  Área do Terreno : 96.482,55 m2
+13.920.018/0001-53;2025-12-31;1;Imóvel 1;Referente à matrícula nº 83.672  Área do Terreno : 96.482,55 m2
 13.974.819/0001-00;2025-03-31;1;N/A;N/A
 13.974.819/0001-00;2025-06-30;1;N/A;N/A
 13.974.819/0001-00;2025-09-30;1;N/A;N/A
@@ -1199,6 +1200,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 14.088.246/0001-71;2025-12-31;1;-;-
 14.149.745/0001-21;2025-03-31;1;ARENA CORINTHIANS;Terreno de 197.095,14 m²
 14.149.745/0001-21;2025-06-30;1;ARENA CORINTHIANS;Terreno de 197.095,14 m²
+14.149.745/0001-21;2025-12-31;1;ARENA CORINTHIANS;Terreno de 197.095,14 m²
 14.217.108/0001-45;2025-03-31;1;Rua Dona Francisca, 8.300 - Distrito Industrial Joinville - SC;Garantia contratual - Seguro fiança
 14.217.108/0001-45;2025-06-30;1;Rua Dona Francisca, 8.300 - Distrito Industrial Joinville - SC;Garantia contratual - Seguro fiança
 14.217.108/0001-45;2025-09-30;1;Rua Dona Francisca, 8.300 - Distrito Industrial Joinville - SC;Garantia contratual - Seguro fiança
@@ -1371,6 +1373,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 15.798.220/0001-80;2025-03-31;1;Frigorífico Monte Verde;Planta Frigorífica - Matrícula 1345
 15.798.220/0001-80;2025-06-30;1;Frigorífico Monte Verde;Planta Frigorífica - Matrícula 1345
 15.798.220/0001-80;2025-09-30;1;Frigorífico Monte Verde;Planta Frigorífica - Matrícula 1345
+15.798.220/0001-80;2025-12-31;1;Frigorífico Monte Verde;Planta Frigorífica - Matrícula 1345
 15.799.397/0001-09;2025-03-31;1;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
 15.799.397/0001-09;2025-06-30;1;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
 15.799.397/0001-09;2025-09-30;1;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
@@ -2444,6 +2447,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 22.503.991/0001-68;2025-03-31;1;Imóvel Brás;Possui 20% do imóvel
 22.503.991/0001-68;2025-06-30;1;Imóvel Brás;Possui 20% do imóvel
 22.503.991/0001-68;2025-09-30;1;Imóvel Brás;Possui 20% do imóvel
+22.503.991/0001-68;2025-12-31;1;Imóvel Brás;Possui 20% do imóvel
 22.646.161/0001-90;2025-06-30;1;Hotel Fasano - Boulevard;Não se aplica
 22.646.161/0001-90;2025-09-30;1;Hotel Fasano - Boulevard;Não se aplica
 22.646.161/0001-90;2025-12-31;1;Hotel Fasano - Boulevard;Não se aplica
@@ -4229,6 +4233,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 34.197.776/0001-65;2025-12-31;1;Hotel Vila Madalena;Não possui caracteristicas que destoem dos demais
 34.509.007/0001-55;2025-03-31;1;Bela cintra;Registro das Matrículas: Cartório - 27º Tabelionato de Notas da Capital - SP Matrículas: 9.017, 9.018, 9.019, 9.020, 39.460, 39.461, 39.462, 39.463, 39.464, 39.465, 39.467, 39.468, 39.469, 39.470, 39.471, 39.472, 39.473, 39.474, 39.475, 39.476, 39.477, 39.478, 39.479, 39.480, 39.481, 39.482, 39.483, 39.484, 39.485, 39.486, 39.487, 39.488, 39.489, 39.490, 39.491, 39.492, 39.493, 39.494, 39.495, 39.496, 39.497, 39.498, 39.499, 39.500, 39.501, 39.502, 39.503, 39.504, 39.505, 39.506, 39.507, 39.508, 39.509, 39.510, 39.511, 39.512, 39.513, 39.514, 39.515, 39.516, 39.517, 39.518, 39.519, 39.520, 39.521, 39.522, 39.523, 39.524, 39.525, 39.526, 39.527 e 39.528
 34.509.007/0001-55;2025-06-30;1;Bela cintra;Registro das Matrículas: Cartório - 27º Tabelionato de Notas da Capital - SP Matrículas: 9.017, 9.018, 9.019, 9.020, 39.460, 39.461, 39.462, 39.463, 39.464, 39.465, 39.467, 39.468, 39.469, 39.470, 39.471, 39.472, 39.473, 39.474, 39.475, 39.476, 39.477, 39.478, 39.479, 39.480, 39.481, 39.482, 39.483, 39.484, 39.485, 39.486, 39.487, 39.488, 39.489, 39.490, 39.491, 39.492, 39.493, 39.494, 39.495, 39.496, 39.497, 39.498, 39.499, 39.500, 39.501, 39.502, 39.503, 39.504, 39.505, 39.506, 39.507, 39.508, 39.509, 39.510, 39.511, 39.512, 39.513, 39.514, 39.515, 39.516, 39.517, 39.518, 39.519, 39.520, 39.521, 39.522, 39.523, 39.524, 39.525, 39.526, 39.527 e 39.528
+34.509.007/0001-55;2025-12-31;1;Bela cintra;Registro das Matrículas: Cartório - 27º Tabelionato de Notas da Capital - SP Matrículas: 9.017, 9.018, 9.019, 9.020, 39.460, 39.461, 39.462, 39.463, 39.464, 39.465, 39.467, 39.468, 39.469, 39.470, 39.471, 39.472, 39.473, 39.474, 39.475, 39.476, 39.477, 39.478, 39.479, 39.480, 39.481, 39.482, 39.483, 39.484, 39.485, 39.486, 39.487, 39.488, 39.489, 39.490, 39.491, 39.492, 39.493, 39.494, 39.495, 39.496, 39.497, 39.498, 39.499, 39.500, 39.501, 39.502, 39.503, 39.504, 39.505, 39.506, 39.507, 39.508, 39.509, 39.510, 39.511, 39.512, 39.513, 39.514, 39.515, 39.516, 39.517, 39.518, 39.519, 39.520, 39.521, 39.522, 39.523, 39.524, 39.525, 39.526, 39.527 e 39.528
 34.547.078/0001-42;2025-03-31;1;BUTANTA;MATRÍCULA 256485, 256486, 256487
 34.547.078/0001-42;2025-03-31;1;SANTO AMARO;MATRÍCULA 162.095
 34.547.078/0001-42;2025-03-31;1;SANTO AMARO;MATRÍCULA 55.259, 162.095, 55260,162.248)
@@ -4944,6 +4949,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 36.969.658/0001-53;2025-06-30;2;Empreendimento Serrano;Matrícula nº 27.889
 36.969.658/0001-53;2025-09-30;1;Empreendimento Atlântico;Matrícula nº 27.891
 36.969.658/0001-53;2025-09-30;1;Empreendimento Serrano;Matrícula nº 27.889
+36.969.658/0001-53;2025-12-31;1;Empreendimento Atlântico;Matrícula nº 27.891
+36.969.658/0001-53;2025-12-31;1;Empreendimento Serrano;Matrícula nº 27.889
 37.112.770/0001-36;2025-03-31;1;New Space - Cotia;Item acima.
 37.112.770/0001-36;2025-03-31;1;Forma Bens Extrema;Item acima.
 37.295.919/0001-60;2025-03-31;1;CACHOERIN;não há
@@ -5447,6 +5454,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 41.650.319/0001-40;2025-12-31;2;na;na
 41.650.365/0001-49;2025-06-30;1;Edifício IBM;matrículas nº 63.972, 63.973, 63.974, 63.975, 63.976, 63.977, 63.978, 63.979, 63.980, 63.981, 63.982, 63.983, 63.984, 63.985, 63.986, 63.987, 63.988, 63.989, 63.990, 63.991, 63.992, 63.993, 63.994, 63.995, 63.996, 63.997, 63.998, 63.999, 64.000, 64.001, 64.002, 64.003, 64.004, 64.005, 64.006, 64.007, 64.008, 64.009, 64.010, 64.011, 64.012, 64.013
 41.650.365/0001-49;2025-09-30;1;Edifício IBM;matrículas nº 63.972, 63.973, 63.974, 63.975, 63.976, 63.977, 63.978, 63.979, 63.980, 63.981, 63.982, 63.983, 63.984, 63.985, 63.986, 63.987, 63.988, 63.989, 63.990, 63.991, 63.992, 63.993, 63.994, 63.995, 63.996, 63.997, 63.998, 63.999, 64.000, 64.001, 64.002, 64.003, 64.004, 64.005, 64.006, 64.007, 64.008, 64.009, 64.010, 64.011, 64.012, 64.013
+41.650.365/0001-49;2025-12-31;1;Edifício IBM;matrículas nº 63.972, 63.973, 63.974, 63.975, 63.976, 63.977, 63.978, 63.979, 63.980, 63.981, 63.982, 63.983, 63.984, 63.985, 63.986, 63.987, 63.988, 63.989, 63.990, 63.991, 63.992, 63.993, 63.994, 63.995, 63.996, 63.997, 63.998, 63.999, 64.000, 64.001, 64.002, 64.003, 64.004, 64.005, 64.006, 64.007, 64.008, 64.009, 64.010, 64.011, 64.012, 64.013
 41.776.296/0001-14;2025-03-31;1;1;matrícula 84383
 41.776.296/0001-14;2025-03-31;1;2;matrícula 182367
 41.776.296/0001-14;2025-03-31;1;3;matrícula 182363
@@ -6076,6 +6084,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 46.879.122/0001-09;2025-12-31;1;Não se aplica;Não se aplica
 46.965.606/0001-62;2025-03-31;1;IMÓVEL TUPYNAMBÁS;Matrícula 051908
 46.965.606/0001-62;2025-06-30;1;IMÓVEL TUPYNAMBÁS;Matrícula 051908
+46.965.606/0001-62;2025-12-31;1;IMÓVEL TUPYNAMBÁS;Matrícula 051908
 47.085.640/0001-05;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 47.085.640/0001-05;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 47.154.849/0001-83;2025-03-31;1;SKY_1409;Não possui características relevantes individualizadas.
@@ -6346,6 +6355,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 50.375.550/0001-63;2025-09-30;1;EDIFICIO BARÃO CAFÉ 81;Matrícula nº 70.150
 50.375.550/0001-63;2025-09-30;1;APTO ALTO DE PIRACICABA;MatrÍculas nº 105.680 e 105.691
 50.375.550/0001-63;2025-09-30;1;YOU PINHEIROS;Matrícula  nº 101.430
+50.375.550/0001-63;2025-12-31;1;APT 111 DUPLEX;Matrícula nº 152.414
+50.375.550/0001-63;2025-12-31;1;APTO PRAIA GRANDE;Matriculado  nº 169.199
+50.375.550/0001-63;2025-12-31;1;APTO CAFÉ 11;Matrícula nº 70.173
+50.375.550/0001-63;2025-12-31;1;EDIFICIO BARÃO CAFÉ 81;Matrícula nº 70.150
+50.375.550/0001-63;2025-12-31;1;APTO ALTO DE PIRACICABA;MatrÍculas nº 105.680 e 105.691
 50.479.122/0001-80;2025-03-31;1;LOG RECIFE;Não possui caracteristicas que destoem dos demais
 50.479.122/0001-80;2025-03-31;1;LOG GOIANIA;Não possui caracteristicas que destoem dos demais
 50.479.122/0001-80;2025-03-31;1;LOG FORTALEZA II;Não possui caracteristicas que destoem dos demais
@@ -6707,6 +6721,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 54.045.925/0001-88;2025-03-31;1;Prédio Avenida Rangel Pestana;Avenida Rangel Pestana, nº 2.128 e 2.132, Brás
 54.045.925/0001-88;2025-06-30;1;Prédio Avenida Rangel Pestana;Avenida Rangel Pestana, nº 2.128 e 2.132, Brás
 54.045.925/0001-88;2025-09-30;1;Prédio Avenida Rangel Pestana;Avenida Rangel Pestana, nº 2.128 e 2.132, Brás
+54.045.925/0001-88;2025-12-31;1;Prédio Avenida Rangel Pestana;Avenida Rangel Pestana, nº 2.128 e 2.132, Brás
 54.064.962/0001-33;2025-03-31;1;.;.
 54.064.962/0001-33;2025-06-30;1;.;.
 54.064.962/0001-33;2025-09-30;1;.;.
@@ -6830,6 +6845,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 54.675.539/0001-70;2025-09-30;1;FÁBRICA E ESCRITÓRIO;Rodovia do Açúcar SP-308
 54.675.539/0001-70;2025-09-30;1;PRÉDIO INDUSTRIAL - 2B;Rodovia SP-308, KM 146, SP 308
 54.675.539/0001-70;2025-09-30;1;PRÉDIO INDUSTRIAL - 2A;Rodovia SP-308, KM 146, SP308
+54.675.539/0001-70;2025-12-31;1;FÁBRICA E ESCRITÓRIO;Rodovia do Açúcar SP-308
+54.675.539/0001-70;2025-12-31;1;PRÉDIO INDUSTRIAL - 2B;Rodovia SP-308, KM 146, SP 308
+54.675.539/0001-70;2025-12-31;1;PRÉDIO INDUSTRIAL - 2A;Rodovia SP-308, KM 146, SP308
 55.034.258/0001-09;2025-03-31;1;PAJOPINHA;Contrato de locação típico, com necessidadede aviso prévio de 12 para rescisão contratual pelo locatário, multa rescisória proporcionais, índice de reajuste pelo IPCA.
 55.034.258/0001-09;2025-03-31;1;BRASILINTERP;Contrato de locação típico, com necessidadede aviso prévio de 12 para rescisão contratual pelo locatário, multa rescisória proporcionais, índice de reajuste pelo IPCA.
 55.034.258/0001-09;2025-03-31;1;MARCHIONI;Contrato de locação típico, com necessidadede aviso prévio de 12 para rescisão contratual pelo locatário, multa rescisória proporcionais, índice de reajuste pelo IPCA.
@@ -6889,10 +6907,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 55.346.193/0001-29;2025-12-31;1;.;.
 55.768.096/0001-24;2025-06-30;1;HOSPITAL UNIMED VALE DO AÇO;HOSPITAL UNIMED VALE DO AÇO
 55.768.096/0001-24;2025-09-30;1;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
+55.768.096/0001-24;2025-12-31;1;Hospital Unimed Sul Capixaba;Imóvel locado para a Unimed, com contrato do tipo BTS
 55.793.516/0001-22;2025-12-31;1;Não possui informação apresentada;Não possui informação apresentada
 55.948.693/0001-30;2025-03-31;1;Firmenich Cotia/SP;Rodovia Raposo Tavares, nº 28.250
 55.948.693/0001-30;2025-06-30;1;Firmenich Cotia/SP;Rodovia Raposo Tavares, nº 28.250
 55.948.693/0001-30;2025-09-30;1;Firmenich Cotia/SP;Rodovia Raposo Tavares, nº 28.250
+55.948.693/0001-30;2025-12-31;1;Firmenich Cotia/SP;Rodovia Raposo Tavares, nº 28.250
 55.969.466/0001-91;2025-03-31;1;-;-
 55.969.466/0001-91;2025-06-30;2;-;-
 55.969.466/0001-91;2025-09-30;1;-;-
@@ -6918,6 +6938,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 56.028.598/0001-81;2025-03-31;1;SHOPPING ALEGRIA;Avenida Duque de Caxias 2225, Várzea Paulista/SP
 56.028.598/0001-81;2025-06-30;1;SHOPPING ALEGRIA;Avenida Duque de Caxias 2225, Várzea Paulista/SP
 56.028.598/0001-81;2025-09-30;1;SHOPPING ALEGRIA;Avenida Duque de Caxias 2225, Várzea Paulista/SP
+56.028.598/0001-81;2025-12-31;1;SHOPPING ALEGRIA;Avenida Duque de Caxias 2225, Várzea Paulista/SP
 56.073.063/0001-22;2025-03-31;1;.;.
 56.073.063/0001-22;2025-06-30;1;.;.
 56.073.063/0001-22;2025-09-30;1;.;.
@@ -7200,6 +7221,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 58.197.921/0001-76;2025-03-31;1;Shopping Alegria;CEP-13223-025
 58.197.921/0001-76;2025-06-30;1;Shopping Alegria;CEP-13223-025
 58.197.921/0001-76;2025-09-30;1;Shopping Alegria;CEP-13223-025
+58.197.921/0001-76;2025-12-31;1;Shopping Alegria;CEP-13223-025
 58.316.418/0001-92;2025-03-31;1;Fazenda Taquaral;Não possui caracteristicas que destoem dos demais
 58.316.418/0001-92;2025-03-31;1;Sitio Flamenga - Projeto Paraipaba;Não possui caracteristicas que destoem dos demais
 58.316.418/0001-92;2025-06-30;1;Sitio Flamenga - Projeto Paraipaba;Não possui caracteristicas que destoem dos demais
@@ -7225,6 +7247,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 58.523.596/0001-94;2025-03-31;1;CASA MORUMBI;BAIRRO DO MORUMBI - SÃO PAULO/SP
 58.523.596/0001-94;2025-06-30;1;Edifício The Spot One;Balneário Camboriú - SC
 58.523.596/0001-94;2025-09-30;2;Edifício The Spot One;Balneário Camboriú - SC
+58.523.596/0001-94;2025-12-31;1;Edifício The Spot One;Balneário Camboriú - SC
 58.544.087/0001-48;2025-03-31;1;Rua Voluntarios da Patria, 86, Botafogo - RJ;.
 58.544.087/0001-48;2025-03-31;1;Rua Visconde de Piraja, 228, Ipanema - RJ;.
 58.544.087/0001-48;2025-03-31;1;Rua do Catete, 287, Gloria - RJ;.
