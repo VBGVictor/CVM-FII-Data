@@ -182,8 +182,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2023-06-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
@@ -344,8 +344,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 35.705.463/0001-33;2023-06-30;1;Imóveis para renda em construção;GALPÃO WTLOG RBR;n/a;n/a
 35.705.463/0001-33;2023-09-29;1;Imóveis para renda em construção;GALPÃO WTLOG RBR;n/a;n/a
 35.705.463/0001-33;2023-12-29;1;Imóveis para renda em construção;GALPÃO WTLOG RBR;n/a;n/a
-35.725.659/0001-90;2023-03-31;1;Imóveis para renda em construção;COND COM QUINTINO BOCAIUVA;A obra não iniciou, está em fase de aprovação de projeto na prefeitura protocolado em fev/2021.;Não se aplica.
 35.725.659/0001-90;2023-03-31;1;Imóveis para renda em construção;COND RES TEENA;Os desvios aconteceram foram ocasionados devido aos decretos/paralizações ocorridas no ano de 2020 e 2021 em decorrência da pandemia, acrescido da baixa de oferta de alguns materiais da construção civil.;Não se aplica.
+35.725.659/0001-90;2023-03-31;1;Imóveis para renda em construção;COND COM QUINTINO BOCAIUVA;A obra não iniciou, está em fase de aprovação de projeto na prefeitura protocolado em fev/2021.;Não se aplica.
 35.725.659/0001-90;2023-06-30;1;Imóveis para renda em construção;COND COM QUINTINO BOCAIUVA;A obra não iniciou, está em fase de aprovação de projeto na prefeitura protocolado em fev/2021.;Não se aplica.
 35.725.659/0001-90;2023-06-30;1;Imóveis para renda em construção;COND RES TEENA;Os desvios aconteceram foram ocasionados devido aos decretos/paralizações ocorridas no ano de 2020 e 2021 em decorrência da pandemia, acrescido da baixa de oferta de alguns materiais da construção civil.;Não se aplica.
 35.725.659/0001-90;2023-09-30;1;Imóveis para renda em construção;COND RES TEENA;Os desvios aconteceram foram ocasionados devido aos decretos/paralizações ocorridas no ano de 2020 e 2021 em decorrência da pandemia, acrescido da baixa de oferta de alguns materiais da construção civil.;Não se aplica.
@@ -426,8 +426,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 42.273.290/0001-97;2023-06-30;1;Imóveis para venda em construção;Vista Ipanema;n/a;n/a
 42.273.290/0001-97;2023-06-30;1;Imóveis para venda em construção;Dona Delfina;n/a;n/a
 42.273.290/0001-97;2023-06-30;1;Imóveis para venda em construção;Alma Ipanema;n/a;n/a
-42.273.290/0001-97;2023-09-30;1;Imóveis para venda em construção;Vista Ipanema;n/a;n/a
 42.273.290/0001-97;2023-09-30;1;Imóveis para venda em construção;Dona Delfina;n/a;n/a
+42.273.290/0001-97;2023-09-30;1;Imóveis para venda em construção;Vista Ipanema;n/a;n/a
 42.273.290/0001-97;2023-09-30;1;Imóveis para venda em construção;Alma Ipanema;n/a;n/a
 42.273.290/0001-97;2023-12-29;1;Imóveis para venda em construção;Alma Ipanema;n/a;n/a
 42.273.290/0001-97;2023-12-29;1;Imóveis para venda em construção;Dona Delfina;n/a;n/a
