@@ -2,6 +2,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 00.868.235/0001-08;2026-03-31;1;Hotel;Contrato de arrendamento com a Accor
 00.868.235/0001-08;2026-03-31;1;ABS;Contratos majoritariamente corrigidos pelo IGP-M e com prazo de 5 anos
 01.201.140/0001-90;2026-03-31;1;Grand Plaza Shopping;Contratos típicos, sendo boa parte com o prazo de 5 anos, ajustados anualmente pelos índices IGP-DI, IGP-M, IPC-FIPE e IPCA, com garantia de fiadores.
+04.644.612/0001-78;2026-03-31;1;NA;NA
+05.562.312/0001-02;2026-03-31;1;Ed Almirante Barroso;Não possui caracteristicas que destoem dos demais
 08.417.532/0001-30;2026-03-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 08.417.532/0001-30;2026-03-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 08.417.532/0001-30;2026-03-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
@@ -13,11 +15,63 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 08.417.532/0001-30;2026-03-31;1;Base de distribuição;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 08.417.532/0001-30;2026-03-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 10.456.799/0001-89;2026-03-31;1;Nenhuma;Nenhuma
+10.991.914/0001-15;2026-03-31;1;Edifício Nova CEDAE;O contrato é reajustado anualmente pela variação do IPCA. O contrato está garantido por Seguro Fiança e conta com cláusula de multa em caso de rescisão antecipada do aluguel.
+11.827.568/0001-05;2026-03-31;1;NA;NA
+13.125.823/0001-95;2026-03-31;1;Gleba G.;Contrato de locação comercial.
+13.555.918/0001-49;2026-03-31;1;NA;NA
+14.631.148/0001-39;2026-03-31;1;NA;NA
+14.721.889/0001-00;2026-03-31;1;n/a;n/a
+14.721.889/0001-00;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+19.267.845/0001-76;2026-03-31;1;ALAMEDA SANTOS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;ALAMEDA SANTOS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;ALAMEDA SANTOS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;ANGELINA MAFFEI VITA - APARTAMENTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;IRAÍ - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;NAÇÕES UNIDAS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;BRIGADEIRO FARIA LIMA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;BRIGADEIRO FARIA LIMA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;BRIGADEIRO FARIA LIMA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;GOMES DE CARVALHO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;NEBRASKA 2;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;CAPITAL JOÃO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;CAMPOS BICUDO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;ROCCIO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;FIDENCIO RAMOS - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;ITAPEVA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;ITAPEVA - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;JESUINO PASCOAL - LOJA;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;JESUINO PASCOAL - APARTAMENTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;TABAPUÃ - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;VERBO DIVINO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;VERBO DIVINO - CONJUNTO;Correção dos aluguéis pelo IGPM
+19.267.845/0001-76;2026-03-31;1;13;
+20.118.470/0001-61;2026-03-31;1;NA;NA
+27.773.327/0001-52;2026-03-31;1;NA;NA
+36.312.025/0001-78;2026-03-31;1;na;na
+36.501.210/0001-00;2026-03-31;1;Península Open Mall;Todos os contratos são semelhantes, apenas com pequenas variações em suas durações. Sendo as ancoras e antenas, que possuem um prazo de 120 meses Lojas com prazo 60 meses Salas podendo ter prazos de 36/48 meses Quiosques e depósitos com variações entre 12 a 60 meses ou prazo indeterminado
+36.501.210/0001-00;2026-03-31;1;Rio 2 Shopping;NA
+36.885.948/0001-19;2026-03-31;1;NA;NA
+36.885.989/0001-05;2026-03-31;1;NA;NA
 40.346.049/0001-15;2026-03-31;1;Rodovia Don Gabriel Paulino Couto , km 83 - Cidade Cabreuva - São Paulo;Clausula de reajuste: O Fundo possui apenas contratos de locação firmados. Indexadores: Os alugueis são ajustados pelo IPCA, sempre com base anual Clausula de rescisão: Pode-se requerer a rescisão se multa, desde que em até 180 dias antes do término do prazo locatício Garantias: não há garantias oferecidas em sede dos contratos de locação Outras info relevantes: Todos os contratos possuem seguros, arcados pelos Locatários, variando conforme o contrato. Exemplo de alguns seguros são: de riscos de engenharia, de responsabilidade civil geral, e responsabilidade civil geral - operações e seguro empresaria
+40.886.521/0001-02;2026-03-31;1;Condominio Parque Jockey;Conforme contrato.
+41.219.454/0001-35;2026-03-31;1;NA;NA
+41.650.310/0001-39;2026-03-31;1;NA;NA
+41.969.521/0001-39;2026-03-31;1;NA;NA
+42.273.325/0001-98;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 44.584.965/0001-44;2026-03-31;1;N/A;N/A
 44.585.121/0001-18;2026-03-31;1;3.918 PRÉDIO INDL;N/A
+44.680.449/0001-13;2026-03-31;1;N/A;N/A
+45.254.732/0001-46;2026-03-31;1;IMOVEL I FAZENDA N. SR SOCORRO;Contrato de compra e venda
+45.254.732/0001-46;2026-03-31;1;IMOVEL II;Imóvel adquirido em leilão
 47.669.336/0001-05;2026-03-31;1;N/A;N/A
 51.303.221/0001-70;2026-03-31;1;N/A;N/A
+52.356.865/0001-99;2026-03-31;1;IMÓVEL JARAGUÁ DO SUL;Imovel adquirido via arrematação por venda direta
+52.366.833/0001-74;2026-03-31;1;NA;NA
+54.417.489/0001-20;2026-03-31;1;na;na
+54.419.040/0001-00;2026-03-31;1;n/a;n/a
 59.139.645/0001-52;2026-03-31;1;NA;NA
 59.269.477/0001-10;2026-03-31;1;NA;NA
 62.385.601/0001-17;2026-03-31;1;na;na
+63.249.022/0001-00;2026-03-31;1;N/A;N/A
+63.574.240/0001-10;2026-03-31;1;NA;NA
+64.156.203/0001-54;2026-03-31;1;na;na
