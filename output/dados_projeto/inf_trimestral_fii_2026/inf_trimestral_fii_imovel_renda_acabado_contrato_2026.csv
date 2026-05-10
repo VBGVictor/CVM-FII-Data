@@ -2,6 +2,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 00.868.235/0001-08;2026-03-31;1;Hotel;Contrato de arrendamento com a Accor
 00.868.235/0001-08;2026-03-31;1;ABS;Contratos majoritariamente corrigidos pelo IGP-M e com prazo de 5 anos
 01.201.140/0001-90;2026-03-31;1;Grand Plaza Shopping;Contratos típicos, sendo boa parte com o prazo de 5 anos, ajustados anualmente pelos índices IGP-DI, IGP-M, IPC-FIPE e IPCA, com garantia de fiadores.
+01.497.954/0001-14;2026-03-31;1;Nenhuma;Nenhuma
 04.644.612/0001-78;2026-03-31;1;NA;NA
 05.562.312/0001-02;2026-03-31;1;Ed Almirante Barroso;Não possui caracteristicas que destoem dos demais
 08.417.532/0001-30;2026-03-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
@@ -14,14 +15,32 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 08.417.532/0001-30;2026-03-31;1;Base de distribuição;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 08.417.532/0001-30;2026-03-31;1;Base de distribuição;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
 08.417.532/0001-30;2026-03-31;1;Posto de Combustível;Contratos de locação tipico com prazo indeterminado, multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário, correção anual do valor da locação pelo IPCA
+09.276.964/0001-31;2026-03-31;1;Imóvel 1;Edifício Commercial Brascan Century Plaza
 10.456.799/0001-89;2026-03-31;1;Nenhuma;Nenhuma
 10.991.914/0001-15;2026-03-31;1;Edifício Nova CEDAE;O contrato é reajustado anualmente pela variação do IPCA. O contrato está garantido por Seguro Fiança e conta com cláusula de multa em caso de rescisão antecipada do aluguel.
 11.827.568/0001-05;2026-03-31;1;NA;NA
 13.125.823/0001-95;2026-03-31;1;Gleba G.;Contrato de locação comercial.
+13.500.306/0001-59;2026-03-31;1;Edifício Vicente de Araújo;Os contratos de locação dos imóveis do Fundo preveem multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário e correção anual do valor da locação pelo IPCA.
+13.500.306/0001-59;2026-03-31;1;Loja - Edifício Manhattan Tower;Os contratos de locação dos imóveis do Fundo preveem multa rescisória, necessidade de aviso prévio para rescisão contratual pelo o locatário e correção anual do valor da locação pelo IPCA.
 13.555.918/0001-49;2026-03-31;1;NA;NA
+13.920.018/0001-53;2026-03-31;1;POWER CENTER CICA;Referente à matrícula nº 83.672  Área do Terreno : 96.482,55 m2
+13.974.819/0001-00;2026-03-31;1;N/A;N/A
+14.217.108/0001-45;2026-03-31;1;Rua Dona Francisca, 8.300 - Distrito Industrial Joinville - SC;Garantia Contratual - Seguro Fiança
 14.631.148/0001-39;2026-03-31;1;NA;NA
 14.721.889/0001-00;2026-03-31;1;n/a;n/a
 14.721.889/0001-00;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+15.006.286/0001-90;2026-03-31;1;Edificio Rio Negro;Os contratos são típicos, majoritariamente reajustados pelo IGPM e IPCA e com prazo médio de 5 anos.
+15.348.117/0001-38;2026-03-31;1;Duque de Caxias - 514;Condomínio Centro Empresarial Washington Luiz  Área Privativa : 45,62 m2
+15.348.117/0001-38;2026-03-31;1;Duque de Caxias - 513;Condomínio Centro Empresarial Washington Luiz  Área Privativa : 29,70 m2
+15.348.117/0001-38;2026-03-31;1;Atibaia;Área do Terreno 7.338 m2 Área Construida : 869,53 m2
+15.348.117/0001-38;2026-03-31;1;Betim;Área do Terreno : 68.448,04 m2 Área Construída : 15.924,26 m2
+15.348.117/0001-38;2026-03-31;1;Cariacica;Área do Terreno : 6.048,30 m2  Área Construída : 748,35
+15.348.117/0001-38;2026-03-31;1;Duque de Caxias;Área do Terreno : 1.659,00 m2 Área Construida : 539,48 m2
+15.348.117/0001-38;2026-03-31;1;Parauapebas;Área do Terreno : 145.200,00 m2 Área Construida 1.842,00 m2
+15.348.117/0001-38;2026-03-31;1;Pindamonhangaba;Área do Terreno:  600 m2  Área Construída : 134,75 m2
+15.348.117/0001-38;2026-03-31;1;São Luiz;Área do Terreno 97.166,858 m2,  Área Construida : 1.304,00 m2
+17.374.696/0001-19;2026-03-31;1;Edifício Domo Corporate;Salas Comerciais designadas como ESCRITÓRIO (TORRE A).
+17.374.696/0001-19;2026-03-31;1;Galpão  Industrial;3 módulos: A, B, C
 19.267.845/0001-76;2026-03-31;1;ALAMEDA SANTOS - CONJUNTO;Correção dos aluguéis pelo IGPM
 19.267.845/0001-76;2026-03-31;1;ALAMEDA SANTOS - CONJUNTO;Correção dos aluguéis pelo IGPM
 19.267.845/0001-76;2026-03-31;1;ALAMEDA SANTOS - CONJUNTO;Correção dos aluguéis pelo IGPM
@@ -46,32 +65,106 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 19.267.845/0001-76;2026-03-31;1;VERBO DIVINO - CONJUNTO;Correção dos aluguéis pelo IGPM
 19.267.845/0001-76;2026-03-31;1;13;
 20.118.470/0001-61;2026-03-31;1;NA;NA
+20.717.355/0001-03;2026-03-31;1;Praça Rio Grande Shopping;Sem informações complementares
+22.503.991/0001-68;2026-03-31;1;Imóvel Brás;Possui 20% do imóvel
 27.773.327/0001-52;2026-03-31;1;NA;NA
+28.267.530/0001-10;2026-03-31;1;Edifício Maria Gabriella;Apartamento 81 - Matrícula nº 195.14
+28.267.530/0001-10;2026-03-31;1;Imóvel Brás;Possui 80% do imóvel - Escritura n° 140.722
+28.693.595/0001-27;2026-03-31;1;N/A;N/A
+30.871.698/0001-81;2026-03-31;1;The Cittyplex Osasco;item acima
+30.871.698/0001-81;2026-03-31;1;Condomínio Helbor Trilogy Home & Offices;item acima
+30.871.698/0001-81;2026-03-31;1;Neolink Office, Mal & Stay;item acima
+30.871.698/0001-81;2026-03-31;1;One Eleven;item acima
+30.871.698/0001-81;2026-03-31;1;Barra Private;item acima
+31.547.782/0001-07;2026-03-31;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
+31.772.231/0001-47;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+32.274.197/0001-43;2026-03-31;1;N/A;N/A
+32.274.553/0001-29;2026-03-31;1;N/A;N/A
+34.847.042/0001-84;2026-03-31;1;TORRE V - ED. ARAUCARIA;N/A
+34.847.042/0001-84;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+35.689.733/0001-60;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+36.258.924/0001-30;2026-03-31;1;IMÓVEL URBANO LBV;Sem informações complementares
+36.258.924/0001-30;2026-03-31;1;IMÓVEL URBANO LBV;Sem informações complementares
+36.258.924/0001-30;2026-03-31;1;URBANO LBV 4;Sem informações complementares
 36.312.025/0001-78;2026-03-31;1;na;na
+36.445.551/0001-06;2026-03-31;1;ACARAÚ 62;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 31;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 36;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 38;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 41;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 44;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 52;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 62;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 81;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 82;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 85;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 92;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+36.445.551/0001-06;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 36.501.210/0001-00;2026-03-31;1;Península Open Mall;Todos os contratos são semelhantes, apenas com pequenas variações em suas durações. Sendo as ancoras e antenas, que possuem um prazo de 120 meses Lojas com prazo 60 meses Salas podendo ter prazos de 36/48 meses Quiosques e depósitos com variações entre 12 a 60 meses ou prazo indeterminado
 36.501.210/0001-00;2026-03-31;1;Rio 2 Shopping;NA
 36.885.948/0001-19;2026-03-31;1;NA;NA
 36.885.989/0001-05;2026-03-31;1;NA;NA
+39.347.413/0001-82;2026-03-31;1;Não se aplica;Não se aplica
 40.346.049/0001-15;2026-03-31;1;Rodovia Don Gabriel Paulino Couto , km 83 - Cidade Cabreuva - São Paulo;Clausula de reajuste: O Fundo possui apenas contratos de locação firmados. Indexadores: Os alugueis são ajustados pelo IPCA, sempre com base anual Clausula de rescisão: Pode-se requerer a rescisão se multa, desde que em até 180 dias antes do término do prazo locatício Garantias: não há garantias oferecidas em sede dos contratos de locação Outras info relevantes: Todos os contratos possuem seguros, arcados pelos Locatários, variando conforme o contrato. Exemplo de alguns seguros são: de riscos de engenharia, de responsabilidade civil geral, e responsabilidade civil geral - operações e seguro empresaria
+40.837.664/0001-24;2026-03-31;1;Galpão logístico / industrial;Matrículas 37.427, 98.519 e 98.714. Área do Terreno de 41.926,46 m²
 40.886.521/0001-02;2026-03-31;1;Condominio Parque Jockey;Conforme contrato.
 41.219.454/0001-35;2026-03-31;1;NA;NA
 41.650.310/0001-39;2026-03-31;1;NA;NA
 41.969.521/0001-39;2026-03-31;1;NA;NA
 42.273.325/0001-98;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+42.432.327/0001-82;2026-03-31;1;Imovel Dialogo;Conforme contrato.
+42.432.327/0001-82;2026-03-31;1;Imóvel Clarion;Conforme contrato.
+42.432.327/0001-82;2026-03-31;1;Imóvel IT Home;Conforme contrato.
+42.432.327/0001-82;2026-03-31;1;Edição Jardins;Conforme contrato.
+42.432.327/0001-82;2026-03-31;1;Edição Jardins;Conforme contrato.
+42.432.327/0001-82;2026-03-31;1;Edição Jardins;Conforme contrato.
+43.101.312/0001-02;2026-03-31;1;EDÍFICIO MANSÃO RONCALLI;APT 201, APT 202, APT 204, APT 101, APT 102, APT 103, APT 12
+43.617.702/0001-21;2026-03-31;1;REGENTSPARK  - CONJUNTO 131;Matricula 12.302 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2026-03-31;1;REGENTSPARK  - CONJUNTO 82;Matrícula 1.520
+43.617.702/0001-21;2026-03-31;1;REGENTSPARK  - CONJUNTO 92;Matrícula 1.522
+43.617.702/0001-21;2026-03-31;1;REGENTSPARK  - CONJUNTO 121;Matricula 27.029 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2026-03-31;1;REGENTSPARK  - CONJUNTO 132;Matricula 27.463 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2026-03-31;1;REGENTSPARK  - CONJUNTO 11;Matricula 30.348 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2026-03-31;1;REGENTSPARK  - CONJUNTO 51;Matricula 46.608 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2026-03-31;1;EDIFICIO COMERCIAL MARIA SANTOS 51;Matricula 97.545 - 1º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2026-03-31;1;EDIFICIO COMERCIAL MARIA SANTOS 52;Matricula 97.546 - 1º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2026-03-31;1;REGENTSPARK  - CONJUNTO 41;Matricula 56.922 - 13º Registro de Imoveis de São Paulo
+43.617.702/0001-21;2026-03-31;1;REGENTSPARK  - CONJUNTO 42;Matricula18.678 - 13º Registro de Imoveis de São Paulo
 44.584.965/0001-44;2026-03-31;1;N/A;N/A
 44.585.121/0001-18;2026-03-31;1;3.918 PRÉDIO INDL;N/A
 44.680.449/0001-13;2026-03-31;1;N/A;N/A
 45.254.732/0001-46;2026-03-31;1;IMOVEL I FAZENDA N. SR SOCORRO;Contrato de compra e venda
 45.254.732/0001-46;2026-03-31;1;IMOVEL II;Imóvel adquirido em leilão
+46.965.606/0001-62;2026-03-31;1;IMÓVEL TUPYNAMBÁS;Matrícula 051908
 47.669.336/0001-05;2026-03-31;1;N/A;N/A
+48.373.413/0001-48;2026-03-31;1;NA;NA
+50.375.550/0001-63;2026-03-31;1;APT 111 DUPLEX;Matrícula nº 152.414
+50.375.550/0001-63;2026-03-31;1;APTO PRAIA GRANDE;Matriculado  nº 169.199
+50.375.550/0001-63;2026-03-31;1;APTO CAFÉ 11;Matrícula nº 70.173
+50.375.550/0001-63;2026-03-31;1;EDIFICIO BARÃO CAFÉ 81;Matrícula nº 70.150
+50.375.550/0001-63;2026-03-31;1;APTO ALTO DE PIRACICABA;MatrÍculas nº 105.680 e 105.691
+50.957.247/0001-79;2026-03-31;1;N/A;N/A
 51.303.221/0001-70;2026-03-31;1;N/A;N/A
+51.889.479/0001-08;2026-03-31;1;CANOAS Finkler - mat. 23.955 (;Sem informações complementares
+51.889.479/0001-08;2026-03-31;1;CANOAS Klopsh- mat. 39.823;Sem informações complementares
+51.889.479/0001-08;2026-03-31;1;VENANCIO AIRES - mat. 55.026;Sem informações complementares
+51.889.479/0001-08;2026-03-31;1;ERECHIM - Mat. 10.897;Sem informações complementares
+51.889.479/0001-08;2026-03-31;1;ERECHIM - Mat.10.898;Sem informações complementares
 52.356.865/0001-99;2026-03-31;1;IMÓVEL JARAGUÁ DO SUL;Imovel adquirido via arrematação por venda direta
 52.366.833/0001-74;2026-03-31;1;NA;NA
 54.417.489/0001-20;2026-03-31;1;na;na
 54.419.040/0001-00;2026-03-31;1;n/a;n/a
+54.675.539/0001-70;2026-03-31;1;FÁBRICA E ESCRITÓRIO;Matrícula 120.012
+54.675.539/0001-70;2026-03-31;1;PRÉDIO INDUSTRIAL - 2B;Matrícula 120.275
+54.675.539/0001-70;2026-03-31;1;PRÉDIO INDUSTRIAL - 2A;Matrícula 120.274
+54.675.539/0001-70;2026-03-31;1;GLEBA DE TERRAS;Matrícula 148.888
+56.524.816/0001-79;2026-03-31;1;GALPÃO;ficará sujeita à incidência de correção monetária (calculada com base no índice acumulado do IGP-M), juros de 1% (um por cento) ao mês, calculado "pro rata die", multa de 3,00% (três por cento)
+57.231.494/0001-32;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 59.139.645/0001-52;2026-03-31;1;NA;NA
 59.269.477/0001-10;2026-03-31;1;NA;NA
 62.385.601/0001-17;2026-03-31;1;na;na
 63.249.022/0001-00;2026-03-31;1;N/A;N/A
 63.574.240/0001-10;2026-03-31;1;NA;NA
+63.779.981/0001-37;2026-03-31;1;FAZENDA;COMPRA PARA RENDA SEM PERSPECTIVA DE VENDA FUTURA
 64.156.203/0001-54;2026-03-31;1;na;na

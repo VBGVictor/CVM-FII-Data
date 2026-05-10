@@ -698,13 +698,13 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 51.870.412/0001-13;2025-09-30;1;Residencial Vida Habitat;R. Paranaíba, 581 - St. Planalto, Jataí - GO, 75805-045;2025-09-22;78.84;1;N/A;0.1316;0.0007
 51.870.412/0001-13;2025-09-30;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-08-31;240.09;3;N/A;0.4286;0.0028
 51.870.412/0001-13;2025-09-30;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-09-30;160.06;2;N/A;0.5;0.0019
-51.870.412/0001-13;2025-12-31;1;Edifício Gibran;Rua Alberto Neder 424 - Campo Grande;2025-10-17;167.16;1;N/A;0.1;0.001464
-51.870.412/0001-13;2025-12-31;1;José Antonio Bortolotto - MGB;R. JOSÉ RUSSI ESQ.C/R.RAFAEL DE CARVALHO N° 11 -SANTO ANTONIO DE POSSE;2025-10-31;42.78;1;N/A;0.0169;0.000171
-51.870.412/0001-13;2025-12-31;1;José Antonio Bortolotto - MGB;R. JOSÉ RUSSI ESQ.C/R.RAFAEL DE CARVALHO N° 11 -SANTO ANTONIO DE POSSE;2025-12-26;85.56;2;N/A;0.034468;0.000343
-51.870.412/0001-13;2025-12-31;1;Coral Gables - Vetter;Av. Antônio Joaquim Tavares, nº 824, Bairro Centro, Penha, SC, CEP 88.838-000.;2025-12-19;346.75;2;N/A;0.626851;0.005497
-51.870.412/0001-13;2025-12-31;1;Habitat - Liberta;Rua Joaquim Caetano, 875, Lotes 05/08 - Qd 61-A - Jataí - GO;2025-12-19;118.98;1;N/A;0.154581;0.001272
-51.870.412/0001-13;2025-12-31;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-11-12;80.03;1;N/A;0.5;0.000988
-51.870.412/0001-13;2025-12-31;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-11-17;80.03;1;N/A;1;0.000985
+51.870.412/0001-13;2025-12-31;2;Edifício Gibran;Rua Alberto Neder 424 - Campo Grande;2025-10-17;167.16;1;N/A;0.1;0.001464
+51.870.412/0001-13;2025-12-31;2;José Antonio Bortolotto - MGB;R. JOSÉ RUSSI ESQ.C/R.RAFAEL DE CARVALHO N° 11 -SANTO ANTONIO DE POSSE;2025-10-31;42.78;1;N/A;0.0169;0.000171
+51.870.412/0001-13;2025-12-31;2;José Antonio Bortolotto - MGB;R. JOSÉ RUSSI ESQ.C/R.RAFAEL DE CARVALHO N° 11 -SANTO ANTONIO DE POSSE;2025-12-26;85.56;2;N/A;0.034468;0.000343
+51.870.412/0001-13;2025-12-31;2;Coral Gables - Vetter;Av. Antônio Joaquim Tavares, nº 824, Bairro Centro, Penha, SC, CEP 88.838-000.;2025-12-19;346.75;2;N/A;0.626851;0.005497
+51.870.412/0001-13;2025-12-31;2;Habitat - Liberta;Rua Joaquim Caetano, 875, Lotes 05/08 - Qd 61-A - Jataí - GO;2025-12-19;118.98;1;N/A;0.154581;0.001272
+51.870.412/0001-13;2025-12-31;2;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-11-12;80.03;1;N/A;0.5;0.000988
+51.870.412/0001-13;2025-12-31;2;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;2025-11-17;80.03;1;N/A;1;0.000985
 52.904.581/0001-90;2025-12-31;1;IMOVEL RJ;AV. EPITÁCIO PESSOA,Nº 4.180, BL. 02, APT.101;2025-12-03;2876777;1;IMOVEL RIO DE JANEIRO;1;0.1921
 55.793.516/0001-22;2025-03-31;1;P0076-ROOFT;Rua Santo André, nº 366, apartamento 51 e box de garagem G-9, Ed. Amarilis, CEP 09020-230 - Santo André/São Paulo;2025-03-28;164;1;n/a;0;0
 56.992.328/0001-96;2025-12-31;1;VGL;Porto Feliz;2025-12-23;175.55;1;VGL;0;0

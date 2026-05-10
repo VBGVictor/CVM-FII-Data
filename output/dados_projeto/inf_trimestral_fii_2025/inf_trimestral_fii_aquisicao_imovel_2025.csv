@@ -677,15 +677,15 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 51.870.412/0001-13;2025-06-30;1;Patriani Mirai Atibaia;Av. Dona Gertrudes, 181, Atibaia, São Paulo;880.3;11;N/A;0.64;Venda
 51.870.412/0001-13;2025-09-30;1;Habitat - Casa Laguna;Alameda Paulo Roberto Cunha, 113 - Rio Verde - GO;1104.37;8;N/A;0.0273;Venda
 51.870.412/0001-13;2025-09-30;1;Daxo - Res. Rhodes;Rua Otto lehmann, SN - Balneário Piçarras - SC, 88380-000;1313.79;8;N/A;0.0514;Venda
-51.870.412/0001-13;2025-12-31;1;Habitat - Liberta;Rua Joaquim Caetano, 875, Lotes 05/08 - Qd 61-A - Jataí - GO;729.02;6;N/A;0.0139;Venda
-51.870.412/0001-13;2025-12-31;1;Longitude - Vibe Itaim;Rua Salvador Balbino de Matos, 280 - Vila Itaim - SP;36812;45;N/A;0.0069;Venda
-51.870.412/0001-13;2025-12-31;1;CK - Artefacto;Av. Osvaldo Reis, 3334 - Praia Brava - Itajaí;1427.4;8;N/A;0.0283;Venda
+51.870.412/0001-13;2025-12-31;2;Habitat - Liberta;Rua Joaquim Caetano, 875, Lotes 05/08 - Qd 61-A - Jataí - GO;729.02;6;N/A;0.0139;Venda
+51.870.412/0001-13;2025-12-31;2;Longitude - Vibe Itaim;Rua Salvador Balbino de Matos, 280 - Vila Itaim - SP;36812;45;N/A;0.0069;Venda
+51.870.412/0001-13;2025-12-31;2;CK - Artefacto;Av. Osvaldo Reis, 3334 - Praia Brava - Itajaí;1427.4;8;N/A;0.0283;Venda
 51.889.479/0001-08;2025-03-31;1;CANOAS Finkler - mat. 23.955;Rua Roberto Francisco Behrens;1015.57;1;CANOAS Finkler - mat. 23.955;0.0164;Renda
 51.889.479/0001-08;2025-03-31;1;CANOAS Klopsh- mat. 39.823;Rua Roberto Francisco Behrens;19964.08;1;CANOAS Klopsh- mat. 39.823;0.1283;Renda
 51.889.479/0001-08;2025-03-31;1;VENANCIO AIRES - mat. 55.026;Av. Imperatriz Dona Leopoldina, 4785 - Leopoldina - Venâncio Aires - RS;31282.50;1;VENANCIO AIRES - mat. 55.026;0.0317;Renda
 51.889.479/0001-08;2025-03-31;1;ERECHIM - Mat. 10.897;Rua Luiz Cavagni - Bela Vista, Erechim - RS;16381.75;1;ERECHIM - Mat. 10.897;0.0715;Renda
 51.889.479/0001-08;2025-03-31;1;ERECHIM - Mat.10.898;Rua Luiz Cavagni - Bela Vista, Erechim - RS;16381.75;1;ERECHIM - Mat.10.898;0.0186;Renda
-52.371.756/0001-40;2025-12-31;1;80198_52371;RUA MIRACEMA , S/Nº BATISTINI, 09843-750, São bernardo do campo - SP;21669252;1;Matrícula 80198;0;Renda
+52.371.756/0001-40;2025-12-31;2;80198_52371;RUA MIRACEMA , S/Nº BATISTINI, 09843-750, São bernardo do campo - SP;21669252;1;Matrícula 80198;0;Renda
 52.904.581/0001-90;2025-03-31;1;IMOVEL RJ;Condomínio Grand Hyatt;238;1;IMOVEL RENDA FUTURA;0.95;Venda
 54.010.546/0001-52;2025-06-30;1;ROVIC 63 EMPREENDIMENTO IMOBILIÁRIO SPE LTDA;NA;0;17;NA;0.1134;Renda
 54.375.187/0001-37;2025-03-31;1;Shopping RioSul;Rua Lauro Müller, 116 - Botafogo, Rio de Janeiro - RJ, 22290-070;51966;308;O FII é proprietário de 33,27% do Shopping RioSul;0.3327;Renda
