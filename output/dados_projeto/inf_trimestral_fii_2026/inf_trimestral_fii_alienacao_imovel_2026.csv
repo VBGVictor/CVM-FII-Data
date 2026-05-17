@@ -1,2 +1,111 @@
 CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Area;Numero_Unidades;Outras_Caracteristicas_Relevantes;Percentual_Imovel_Total_Investido;Percentual_Imovel_PL
+08.431.747/0001-06;2026-03-31;1;Suzano Shopping;Rua Sete de Setembro, 555 - Suzano - SP;2026-01-06;25100;134;Fração ideal de 15% do imóvel;0.018846;0.019604
+08.706.065/0001-69;2026-03-31;2;Gran Estanplaza;Rua Doutor Nelson Libero, 1517, Sem Complemento, Cidade Moncoes, Sao Paulo/SP, Brasil, 04567-010;2026-01-10;30.45;2;Dirieto de propriedade.;0.00352652727364;0.035803089426
+08.706.065/0001-69;2026-03-31;2;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2026-01-14;28.06;2;Dirieto de propriedade.;0.00273531923147;0.0277703450035
+08.706.065/0001-69;2026-03-31;2;Ibis Sao Paulo Paulista;Avenida Paulista, 2355, Sem Complemento, Bela Vista, Sao Paulo/SP, Brasil, 01311-300;2026-01-26;17.7;1;Dirieto de propriedade.;0.00137444139896;0.0139540245968
+08.706.065/0001-69;2026-03-31;2;Ibis Sao Paulo Paulista;Avenida Paulista, 2355, Sem Complemento, Bela Vista, Sao Paulo/SP, Brasil, 01311-300;2026-01-26;17.7;1;Dirieto de propriedade.;0.00136765961574;0.01388517250175
+08.706.065/0001-69;2026-03-31;2;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2026-02-02;28.06;1;Dirieto de propriedade.;0.00137676934504;0.01412753373245
+08.706.065/0001-69;2026-03-31;2;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2026-02-02;28.06;1;Dirieto de propriedade.;0.00137676934504;0.01412753373245
+08.706.065/0001-69;2026-03-31;2;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2026-02-01;28.06;1;Dirieto de propriedade.;0.00138351821438;0.01419678634878
+08.706.065/0001-69;2026-03-31;2;Estanplaza International;Rua Fernandes Moreira, 1293, Sem Complemento, Chacara Santo Antonio Zona Sul, Sao Paulo/SP, Brasil, 04716-003;2026-02-04;26.6;1;Dirieto de propriedade.;0.00102357851633;0.01050331347756
+08.706.065/0001-69;2026-03-31;2;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2026-02-18;28.06;1;Dirieto de propriedade.;0.00138126859126;0.01417370214334
+08.706.065/0001-69;2026-03-31;2;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2026-02-22;28.06;1;Dirieto de propriedade.;0.00138351821438;0.01419678634878
+08.706.065/0001-69;2026-03-31;2;Ibis Sao Paulo Paulista;Avenida Paulista, 2355, Sem Complemento, Bela Vista, Sao Paulo/SP, Brasil, 01311-300;2026-03-03;17.7;1;Dirieto de propriedade.;0;0.0139540245968
+08.706.065/0001-69;2026-03-31;2;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2026-03-04;28.06;1;Dirieto de propriedade.;0;0.01412753373245
+08.706.065/0001-69;2026-03-31;2;Intercity Paulista;Rua Haddock Lobo, 294, Sem Complemento, Cerqueira Cesar, Sao Paulo/SP, Brasil, 01414-000;2026-03-09;28.06;1;Dirieto de propriedade.;0;0.01412753373245
+12.005.956/0001-65;2026-03-31;1;Jundiaí Industrial Park;Rodovia Vice Prefeito Hermenegildo Tonolli, km 2, Jundiaí - SP;2026-01-15;75975.6;2;Proprietário de 90% do ativo (Centro de distribuição);0.0555841641083268;0.0515970095446225
+13.371.132/0001-71;2026-03-31;1;Ed. Tower Bridge Corporate;Av. Jornalista Roberto Marinho, 85, Cidade Monções, Sao Paulo - SP;2026-03-04;13060.07725;13;.;0.230692018085723;0.116548315540738
+14.410.722/0001-29;2026-03-31;1;TOLEDO;RUA 7 DE SETEMBRO, 1209;2026-01-15;4696;1;Nenhuma característica relevante;-0.008418;-0.007837
+14.413.342/0001-48;2026-03-31;1;Imóvel Campo Grande;Rua Campo Grande, 120 , Lote 08 do PAL 47.371 - Campo Grande - Rio de Janeiro - RJ;2026-01-01;7212.14;1;Edifícil Comercial;0.0946324571068786;0.0831984071652881
+15.576.907/0001-70;2026-03-31;1;Anchieta;Via Anchieta, nº 1558;2026-03-16;1785;1;n-a;0.002154;0.001894
+15.576.907/0001-70;2026-03-31;1;SÃO GONÇALO - ALCÂNTARA;Rua João de Almeida, 72 - São Gonçalo - RJ;2026-02-19;1089;1;n-a;0.004871;0.004283
+19.249.989/0001-08;2026-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;2026-03-26;73.48;1;Unidade 702;0.08655;0.002307
+19.249.989/0001-08;2026-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;2026-03-26;73.48;1;Unidade 902;0.08655;0.002307
+22.646.161/0001-90;2026-03-31;1;Cond. Concept Living Boutique - Apto 1003;Rua Pinheiro Guimarães, 49 - Botafogo - Rio de Janeiro - RJ;2026-01-16;125.95;1;Bairro Botafogo;1;0.00573723887480264
+24.796.967/0001-90;2026-03-31;1;Edificio das Fontes;Rua Lisboa, 403, Sem Complemento, Cerqueira César, São Paulo/SP, Brasil, 05413-000;2026-02-09;150.87;2;Direito de propriedade;0.02240741811363;2.43787386344243
+24.796.967/0001-90;2026-03-31;1;Edificio Solar Principe Luiz;Rua Professor Abelardo Lobo, 74, Sem Complemento, Lagoa, Rio De Janeiro/RJ, Brasil, 22470-240;2026-03-24;112.8;1;Direito de propriedade;0.05497902601979;6.01730037558061
+28.893.734/0001-66;2026-03-31;1;SC_302_B;Rua Missionário Gunnar Vingren, 1904 - Saint Charbel Residencial Saint Charbel Unidade 302 B;2026-02-09;175.31;1;Nenhuma característica relevante;0.84047;0.456956
+28.893.734/0001-66;2026-03-31;1;SV_204B;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 204 B;2026-01-20;110.17;1;Nenhuma característica relevante;0.713607;0.387981
+28.893.734/0001-66;2026-03-31;1;GV1_701;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 701 1;2026-02-11;207.45;1;Nenhuma característica relevante;0.777039;0.422468
+31.161.410/0001-48;2026-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;2026-03-26;73.48;1;Unidade 702;0.08655;0.001673
+31.161.410/0001-48;2026-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;2026-03-26;73.48;1;Unidade 902;0.08655;0.001673
+32.754.734/0001-52;2026-03-31;1;Silo Bela Vista do Paraiso;Rodovia Pr 537, Km 0.3, Sem Complemento, , Bela Vista Do Paraiso/PR, Brasil, 86130-000;2026-01-24;12873.36;1;Direito de Propriedade;0.1024792270014;11.0409515459291
+32.754.734/0001-52;2026-03-31;1;Silo Cambe;Avenida Jose Bonifacio, 769, Sem Complemento, Vila Atalaia, Cambe/PR, Brasil, 86181-570;2026-01-24;14071.98;1;Direito de Propriedade;0.14983110643988;16.1425689350009
+32.754.734/0001-52;2026-03-31;1;Silo Sabaudia;Rodovia Pr 218, Km 12, Sem Complemento, Gleba Patr. Sabáudia, Sabaudia/PR, Brasil, 86720-000;2026-01-24;3051.51;1;Direito de Propriedade;0.05230706973554;5.63548183722906
+32.754.734/0001-52;2026-03-31;1;Silo Assai - Seccao Balsamo;Km 186, S/n, Sem Complemento, , Assai/PR, Brasil, 86220-000;2026-01-24;8927.91;1;Direito de Propriedade;0.07034245432388;7.57858594894625
+34.691.925/0001-48;2026-03-31;1;PANTHE_4;Rua Dr. Fernandes Coelho, 85 - Pinheiros, São Paulo - SP;2026-01-29;571.7;1;Nenhuma característica relevante;0.037013;0.041534
+34.691.925/0001-48;2026-03-31;1;PANTHE_5;Rua Dr. Fernandes Coelho, 85 - Pinheiros, São Paulo - SP;2026-01-29;571.7;1;Nenhuma característica relevante;0.037013;0.041534
+34.691.925/0001-48;2026-03-31;1;PANTHE_6;Rua Dr. Fernandes Coelho, 85 - Pinheiros, São Paulo - SP;2026-01-29;571.7;1;Nenhuma característica relevante;0.025282;0.02837
+34.691.925/0001-48;2026-03-31;1;NM_215_6;Av. A - Quadra F1, 4165 - Sala 215, Torre - 6, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-01-21;33.65;1;Nenhuma característica relevante;0.000597;0.00067
+34.691.925/0001-48;2026-03-31;1;NM_216_6;Av. A - Quadra F1, 4165 - Sala 216, Torre - 6, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-01-21;33.65;1;Nenhuma característica relevante;0.000597;0.00067
+34.691.925/0001-48;2026-03-31;1;NM_22_L;Av. A - Quadra F1, 4165 - Loja 22, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-03-27;39.33;1;Nenhuma característica relevante;0.000979;0.001098
+34.691.925/0001-48;2026-03-31;1;NM_317_5;Av. A - Quadra F1, 4165 - Sala 317, Torre - 5, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-03-16;33.65;1;Nenhuma característica relevante;0.000592;0.000665
+34.691.925/0001-48;2026-03-31;1;NM_324_3;Av. A - Quadra F1, 4165 - Sala 324, Torre - 3, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-02-20;42.11;1;Nenhuma característica relevante;0.000903;0.001014
+34.691.925/0001-48;2026-03-31;1;NM_616_3;Av. A - Quadra F1, 4165 - Sala 616, Torre - 3, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-01-13;33.65;1;Nenhuma característica relevante;0.000661;0.000742
+34.691.925/0001-48;2026-03-31;1;NM_618_3;Av. A - Quadra F1, 4165 - Sala 618, Torre - 3, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-01-13;33.65;1;Nenhuma característica relevante;0.000661;0.000742
+34.691.925/0001-48;2026-03-31;1;NM_805_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 805 - Av. A nº 4165;2026-01-21;96.46;1;Nenhuma característica relevante;0.00067;0.000752
+34.691.925/0001-48;2026-03-31;1;NM_806_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 806 - Av. A nº 4165;2026-01-22;96.46;1;Nenhuma característica relevante;0.00067;0.000752
+34.691.925/0001-48;2026-03-31;1;NM_204_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 204 - Av. A nº 4165;2026-01-13;96.46;1;Nenhuma característica relevante;0.000592;0.000665
+34.691.925/0001-48;2026-03-31;1;NM_205_5;Sala Comercial OR Empreendimentos Novo Mundo Unidade 205 - Av. A nº 4165;2026-01-21;96.46;1;Nenhuma característica relevante;0.000592;0.000665
+34.691.925/0001-48;2026-03-31;1;NM_214_6;Sala Comercial OR Empreendimentos Novo Mundo Unidade 214 - Av. A nº 4165;2026-01-21;96.46;1;Nenhuma característica relevante;0.000597;0.00067
+34.691.925/0001-48;2026-03-31;1;NM_306_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 306 - Av. A nº 4165;2026-02-18;96.46;1;Nenhuma característica relevante;0.000592;0.000665
+34.691.925/0001-48;2026-03-31;1;NM_513_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 513 - Av. A nº 4165;2026-01-14;109.18;1;Nenhuma característica relevante;0.000786;0.000882
+34.691.925/0001-48;2026-03-31;1;NM_617_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 617 - Av. A nº 4165;2026-01-13;96.46;1;Nenhuma característica relevante;0.000661;0.000742
+34.691.925/0001-48;2026-03-31;1;NM_713_6;Sala Comercial OR Empreendimentos Novo Mundo Unidade 713 - Av. A nº 4165;2026-02-02;109.18;1;Nenhuma característica relevante;0.000786;0.000882
+34.691.925/0001-48;2026-03-31;1;VER_B114;Loja Calçada Condomínio Vertice Unidade 114 B - Av. Miguel Antonio Frnandes, 1333;2026-02-11;181.13;1;Nenhuma característica relevante;0.003331;0.003738
+34.691.925/0001-48;2026-03-31;1;VER_B212;Loja Calçada Condomínio Vertice Unidade 212 B - Av. Miguel Antonio Frnandes, 1333;2026-02-10;71.78;1;Nenhuma característica relevante;0.00124;0.001391
 34.895.711/0001-93;2026-03-31;1;ALPHACASTELLO;Rua Paraná, Itu/SP;2025-12-17;0;2;São Paulo;0;0
+36.368.925/0001-37;2026-03-31;1;ASSAÍ - GOIANIA PQ. AMAZONIA;Avenida Padre Orlando de Morais, 2147, Parque Amazônia - Goiânia/GO;2025-11-24;42028.08;1;n/d;0;0
+40.054.838/0001-82;2026-03-31;1;Edificio Piazza Di Spagna;Rua Bartira, 62, Sem Complemento, Perdizes, São Paulo/SP, Brasil, 05009-000;2026-01-21;304.53;5;Direito de propriedade;0.11109832035886;11.2532596124598
+41.325.993/0001-59;2026-03-31;1;PLJK;Rua Minas de Prata, 30;2026-01-28;862.83;3;matrículas 169.024, 169.025, 169.026, 169.027, 169.028 - conjuntos 31, 41, 42;0.1995;0.1749
+43.951.851/0001-22;2026-03-31;1;Edifício Panamerica Green Park;Av. Guido Caloi 1000, São Paulo, SP, 05802-140;2025-04-15;4843.86;4;Foram emitidos Certificados de Recebíveis Imobiliários ("CRI"), Série 1ª, 2ª,3ª e 4ª  da 8ª ,13ª,14ª,39ª e 40ª Emissão da OPEA Securitizadora SA, adquiridos em sua totalidade Itaú. Em garantia dos pagamentos destes CRIs, foi outorgado alienação fiduciária sobre a totalidade das cotas de emissão, do imóvel do FII e a cessão de recebíbeis.;1;0.7878
+47.154.849/0001-83;2026-03-31;1;SKY_603;R. da Paz, 1601;2026-02-26;82.7;1;Nenhuma característica relevante;0.004401;0.00136
+47.154.849/0001-83;2026-03-31;1;SKY_808;R. da Paz, 1601;2026-01-23;75.5;1;Nenhuma característica relevante;0.003869;0.001195
+47.154.849/0001-83;2026-03-31;1;SKY_1218;R. da Paz, 1601;2026-02-18;76.9;1;Nenhuma característica relevante;0.004279;0.001322
+47.154.849/0001-83;2026-03-31;1;SKY_1409;R. da Paz, 1601;2026-02-24;76.9;1;Nenhuma característica relevante;0.004085;0.001262
+47.154.849/0001-83;2026-03-31;1;SKY_1503;R. da Paz, 1601;2026-03-09;82.7;1;Nenhuma característica relevante;0.004613;0.001425
+47.154.849/0001-83;2026-03-31;1;GA_203B;Av. Farroupilha, 5508;2026-03-23;123.2;1;Nenhuma característica relevante;0.005514;0.001703
+47.154.849/0001-83;2026-03-31;1;GA_84BV;Av. Farroupilha, 5508;2026-03-23;17.9;1;Nenhuma característica relevante;0.000543;0.000167
+47.154.849/0001-83;2026-03-31;1;GR_409A;R. Aurora, 1250;2026-02-24;96.7;1;Nenhuma característica relevante;0.004209;0.0013
+47.154.849/0001-83;2026-03-31;1;GR_1210A;R. Aurora, 1250;2026-02-09;121.8;1;Nenhuma característica relevante;0.005886;0.001819
+47.154.849/0001-83;2026-03-31;1;GR_344AV;R. Aurora, 1250;2026-02-09;55;1;Nenhuma característica relevante;0.000543;0.000167
+47.154.849/0001-83;2026-03-31;1;GR_320AV;R. Aurora, 1250;2026-02-24;27.5;1;Nenhuma característica relevante;0.000543;0.000167
+47.154.849/0001-83;2026-03-31;1;OFX_1007;R. Noronha Torrezão, 160 - Niterói, RJ;2026-02-12;31.1;1;Nenhuma característica relevante;0.001941;0.000599
+47.154.849/0001-83;2026-03-31;1;OFX_1006;R. Noronha Torrezão, 160 - Niterói, RJ;2026-02-12;30.1;1;Nenhuma característica relevante;0.001879;0.00058
+47.154.849/0001-83;2026-03-31;1;OFX_807;R. Noronha Torrezão, 160 - Niterói, RJ;2026-03-12;31.1;1;Nenhuma característica relevante;0.00191;0.00059
+47.154.849/0001-83;2026-03-31;1;MID_901;R. José de Alencar, 1281;2026-03-17;70.6;1;Nenhuma característica relevante;0.008729;0.002697
+47.154.849/0001-83;2026-03-31;1;MID_1005;R. José de Alencar, 1281;2026-03-13;60.98;1;Nenhuma característica relevante;0.007851;0.002426
+47.154.849/0001-83;2026-03-31;1;MID_1;R. José de Alencar, 1281;2026-03-17;10.6;1;Nenhuma característica relevante;0.000442;0.000136
+47.154.849/0001-83;2026-03-31;1;MID_2;R. José de Alencar, 1281;2026-03-17;10.6;1;Nenhuma característica relevante;0.000442;0.000136
+47.154.849/0001-83;2026-03-31;1;MID_48;R. José de Alencar, 1281;2026-03-13;10.6;1;Nenhuma característica relevante;0.000442;0.000136
+47.154.849/0001-83;2026-03-31;1;Bus2_605;Av. Cerejeira, 280;2026-03-25;32.3;1;Nenhuma característica relevante;0.001548;0.000478
+47.154.849/0001-83;2026-03-31;1;Bus2_606;Av. Cerejeira, 280;2026-03-25;31.4;1;Nenhuma característica relevante;0.001506;0.000465
+47.154.849/0001-83;2026-03-31;1;Bus2_607;Av. Cerejeira, 280;2026-03-25;31.4;1;Nenhuma característica relevante;0.001506;0.000465
+47.154.849/0001-83;2026-03-31;1;Bus2_608;Av. Cerejeira, 280;2026-03-25;31.4;1;Nenhuma característica relevante;0.001506;0.000465
+47.154.849/0001-83;2026-03-31;1;Bus2_609;Av. Cerejeira, 280;2026-03-25;31.4;1;Nenhuma característica relevante;0.001506;0.000465
+47.154.849/0001-83;2026-03-31;1;Bus2_610;Av. Cerejeira, 280;2026-03-25;31.4;1;Nenhuma característica relevante;0.001506;0.000465
+47.154.849/0001-83;2026-03-31;1;Bus2_611;Av. Cerejeira, 280;2026-03-25;31.4;1;Nenhuma característica relevante;0.001506;0.000465
+47.154.849/0001-83;2026-03-31;1;NE401;R. Attílio Bilibio, 251;2026-01-27;54.9;1;Nenhuma característica relevante;0.004861;0.001502
+47.154.849/0001-83;2026-03-31;1;NEB301;R. Attílio Bilibio, 251;2026-01-28;54.9;1;Nenhuma característica relevante;0.004854;0.0015
+47.154.849/0001-83;2026-03-31;1;NEW1301;R. Attílio Bilibio, 251;2026-03-17;54.9;1;Nenhuma característica relevante;0.005079;0.001569
+47.154.849/0001-83;2026-03-31;1;NEW401;R. Attílio Bilibio, 251;2026-03-24;54.9;1;Nenhuma característica relevante;0.00473;0.001461
+47.154.849/0001-83;2026-03-31;1;NEW803;R. Attílio Bilibio, 251;2026-03-05;75.3;1;Nenhuma característica relevante;0.006666;0.002059
+47.154.849/0001-83;2026-03-31;1;NEW903;R. Attílio Bilibio, 251;2026-03-24;75.3;1;Nenhuma característica relevante;0.006943;0.002145
+47.154.849/0001-83;2026-03-31;1;NEX2_ 21;Av Chácara das Nascentes, s/n;2026-03-24;99.1;1;Nenhuma característica relevante;0.007113;0.002198
+47.154.849/0001-83;2026-03-31;1;NEX2_ 27;Av Chácara das Nascentes, s/n;2026-02-09;99.1;1;Nenhuma característica relevante;0.007113;0.002198
+47.154.849/0001-83;2026-03-31;1;PAU1202;Av. Senador Area Leão, 2355;2026-03-17;180;1;Nenhuma característica relevante;0.026405;0.008159
+47.154.849/0001-83;2026-03-31;1;PAUL2202;Av. Senador Area Leão, 2355;2026-03-06;180;1;Nenhuma característica relevante;0.028735;0.008879
+51.870.412/0001-13;2026-03-31;1;Habitat - Vida;R. Paranaíba, 581 - St. Planalto, Jataí - GO, 75805-045;2026-01-19;189.15;3;N/A;0.363617138585043;0.0017
+51.870.412/0001-13;2026-03-31;1;Habitat - Vida;R. Paranaíba, 581 - St. Planalto, Jataí - GO, 75805-045;2026-02-13;63.05;1;N/A;0.190460366252145;0.00057
+51.870.412/0001-13;2026-03-31;1;Habitat - Vida;R. Paranaíba, 581 - St. Planalto, Jataí - GO, 75805-045;2026-03-13;63.05;1;N/A;0.235269971119743;0.00057
+51.870.412/0001-13;2026-03-31;1;Vista Madalena By You, Inc;Rua Paulistânia, 80 - Vila Madalena, São Paulo - SP, 05440-000;2026-02-23;599.28;7;N/A;0.498672768907766;0.0129388393551417
+51.870.412/0001-13;2026-03-31;1;Tumiaru 120;R. Tumiaru, 120 - Vila Mariana, São Paulo - SP, 04008-050;2026-02-05;185.27;1;N/A;0.3333;0.00774855444282923
+51.870.412/0001-13;2026-03-31;1;Edifício Gibran;Rua Alberto Neder 424 - Campo Grande;2026-02-27;168.67;1;N/A;0.111111111111111;0.00143347011438551
+51.870.412/0001-13;2026-03-31;1;Residencial Aquarela Habitat;Rua Antônio Brochado, nº 1.005, Nova Divinéia - Unaí / MG.;2026-02-23;70.39;1;N/A;0.0648092734621723;0.000548053807936496
+51.870.412/0001-13;2026-03-31;1;José Antonio Bortolotto - MGB;R. JOSÉ RUSSI ESQ.C/R.RAFAEL DE CARVALHO N° 11 -SANTO ANTONIO DE POSSE;2026-01-29;42.78;1;N/A;0.0178571428571428;0.000167546923966417
+51.870.412/0001-13;2026-03-31;1;José Antonio Bortolotto - MGB;R. JOSÉ RUSSI ESQ.C/R.RAFAEL DE CARVALHO N° 11 -SANTO ANTONIO DE POSSE;2026-03-31;42.78;1;N/A;0.0181818181818182;0.000167546923966417
+54.375.187/0001-37;2026-03-31;1;Shopping Pátio Higienópolis;Rua Dr. Veiga Filho, 133, Higienópolis, São Paulo - 01229-001;2026-03-13;3070.5;24;N/A;0.247990674739125;0.140939744497796
+56.992.328/0001-96;2026-03-31;1;VSS;Porto Feliz;2026-03-30;167.8;1;N/A;0;0
+57.495.006/0001-02;2026-03-31;1;Imóvel Angélica;Av. Angélica, nº 745, Santa Cecília - São Paulo;2026-03-02;10330;238;Houve reclassificação contábil, pois  o Fundo BRC-IV permanece com o direito sobre o potencial construtivo do imóvel, classificado como Direitos Aquisitivos;1;0.94829
+57.583.846/0001-19;2026-03-31;1;Helbor Patteo Vila Mariana;Rua Domingos De Morais, 930, Sem Complemento, Vila Mariana, São Paulo/SP, Brasil, 04010-100;2026-02-02;1032.09;1;Direito de Propriedade;0.00550106450712;0.55317765452554
+62.662.477/0001-90;2026-03-31;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2026-03-31;208;2;n-a;0.023403;0.007632

@@ -215,6 +215,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 07.224.019/0001-60;2025-03-31;1;Shopping Parque Dom Pedro - 59,41%;Não possui caracteristicas que destoem dos demais
 07.224.019/0001-60;2025-06-30;1;SHOPPING PARQUE DOM PEDRO II;Não possui caracteristicas que destoem dos demais
 07.224.019/0001-60;2025-09-30;2;-;-
+07.224.019/0001-60;2025-12-31;1;-;-
 07.583.627/0001-61;2025-03-31;1;n/A;n/A
 07.583.627/0001-61;2025-06-30;1;n/A;n/A
 07.583.627/0001-61;2025-06-30;1;28 Lojas Assai;
@@ -239,11 +240,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 07.789.135/0001-27;2025-09-30;1;CVS - CENTER VALE SHOPPING;N/A
 07.789.135/0001-27;2025-09-30;1;SNI - SHOPPING NOVA IGUACU;N/A
 07.789.135/0001-27;2025-09-30;1;MNS - MINAS SHOPPING;N/A
-07.789.135/0001-27;2025-12-31;1;BPS - BOTAFOGO PRAIA SHOPPING;N/A
-07.789.135/0001-27;2025-12-31;1;CNB - CONJUNTO NACIONAL BRASILIA;N/A
-07.789.135/0001-27;2025-12-31;1;CVS - CENTER VALE SHOPPING;N/A
-07.789.135/0001-27;2025-12-31;1;SNI - SHOPPING NOVA IGUACU;N/A
-07.789.135/0001-27;2025-12-31;1;MNS - MINAS SHOPPING;N/A
+07.789.135/0001-27;2025-12-31;2;BPS - BOTAFOGO PRAIA SHOPPING;N/A
+07.789.135/0001-27;2025-12-31;2;CNB - CONJUNTO NACIONAL BRASILIA;N/A
+07.789.135/0001-27;2025-12-31;2;CVS - CENTER VALE SHOPPING;N/A
+07.789.135/0001-27;2025-12-31;2;SNI - SHOPPING NOVA IGUACU;N/A
+07.789.135/0001-27;2025-12-31;2;MNS - MINAS SHOPPING;N/A
 08.014.513/0001-63;2025-03-31;1;Hospital e Maternidade Nossa Senhora de Lourdes;Não possui caracteristicas que destoem dos demais
 08.014.513/0001-63;2025-06-30;1;Hospital e Maternidade Nossa Senhora de Lourdes;Não possui caracteristicas que destoem dos demais
 08.014.513/0001-63;2025-09-30;1;Hospital e Maternidade Nossa Senhora de Lourdes;Não possui caracteristicas que destoem dos demais
@@ -1452,10 +1453,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 17.025.970/0001-44;2025-09-30;1;Hospital São Luiz - BLOCO B;N/A
 17.025.970/0001-44;2025-09-30;1;Hospital São Luiz - BLOCO C e E;N/A
 17.025.970/0001-44;2025-09-30;1;Hospital São Luiz - BLOCO D;N/A
-17.025.970/0001-44;2025-12-31;1;Hospital São Luiz - BLOCO A;N/A
-17.025.970/0001-44;2025-12-31;1;Hospital São Luiz - BLOCO B;N/A
-17.025.970/0001-44;2025-12-31;1;Hospital São Luiz - BLOCO C e E;N/A
-17.025.970/0001-44;2025-12-31;1;Hospital São Luiz - BLOCO D;N/A
+17.025.970/0001-44;2025-12-31;2;Hospital São Luiz - BLOCO A;N/A
+17.025.970/0001-44;2025-12-31;2;Hospital São Luiz - BLOCO B;N/A
+17.025.970/0001-44;2025-12-31;2;Hospital São Luiz - BLOCO C e E;N/A
+17.025.970/0001-44;2025-12-31;2;Hospital São Luiz - BLOCO D;N/A
 17.144.039/0001-85;2025-03-31;1;-;
 17.144.039/0001-85;2025-06-30;1;-;
 17.144.039/0001-85;2025-09-30;1;n/a;n/a
@@ -4019,17 +4020,17 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 31.962.875/0001-06;2025-09-30;2;PLD Castelo Branco KM41;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
 31.962.875/0001-06;2025-09-30;2;PLD Raposo 39;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
 31.962.875/0001-06;2025-09-30;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
-31.962.875/0001-06;2025-12-31;1;Prologis Cajamar II;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;Prologis Cajamar III;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;Prologis Castelo Branco KM46;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;Prologis Dutra SP;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;Prologis Caxias;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;Prologis Queimados;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;Prologis Dutra RJ;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;PLD Cajamar 31;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;PLD Castelo Branco KM41;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;PLD Raposo 39;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
-31.962.875/0001-06;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+31.962.875/0001-06;2025-12-31;2;Prologis Cajamar II;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;Prologis Cajamar III;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;Prologis Castelo Branco KM46;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;Prologis Dutra SP;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;Prologis Caxias;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;Prologis Queimados;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;Prologis Dutra RJ;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;PLD Cajamar 31;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;PLD Castelo Branco KM41;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;PLD Raposo 39;Não há características que destoem dos demais contratos, conforme acima 1.1.2.1.4
+31.962.875/0001-06;2025-12-31;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 32.222.912/0001-02;2025-03-31;1;.;.
 32.222.912/0001-02;2025-06-30;1;.;.
 32.222.912/0001-02;2025-09-30;1;.;.
@@ -5306,16 +5307,14 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 41.081.336/0001-03;2025-09-30;2;Galpão SP INFILL I;Conforme contrato.
 41.081.336/0001-03;2025-09-30;2;Shopping Fiesta;Conforme contrato.
 41.081.336/0001-03;2025-09-30;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
-41.081.336/0001-03;2025-12-31;1;Galpão Santo Amaro  (GRUPO SINAL);Conforme contrato.
-41.081.336/0001-03;2025-12-31;1;Galpão Diadema (GRUPO SINAL);Conforme contrato.
-41.081.336/0001-03;2025-12-31;1;Galpão Mooca (GRUPO SINAL);Conforme contrato.
-41.081.336/0001-03;2025-12-31;1;Galpão Radial Leste  (GRUPO SINAL);Conforme contrato.
-41.081.336/0001-03;2025-12-31;1;GALPÃO Bandeirantes (GRUPO SINAL);Conforme contrato.
-41.081.336/0001-03;2025-12-31;1;Galpão SP INFILL I;Conforme contrato.
-41.081.336/0001-03;2025-12-31;1;Shopping Fiesta;Conforme contrato.
-41.081.336/0001-03;2025-12-31;1;FORD;Conforme contrato.
-41.081.336/0001-03;2025-12-31;1;CAJAMAR 4 - ABDALLA;Conforme contrato.
-41.081.336/0001-03;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+41.081.336/0001-03;2025-12-31;2;Galpão Santo Amaro  (GRUPO SINAL);Conforme contrato.
+41.081.336/0001-03;2025-12-31;2;Galpão Diadema (GRUPO SINAL);Conforme contrato.
+41.081.336/0001-03;2025-12-31;2;Galpão Mooca (GRUPO SINAL);Conforme contrato.
+41.081.336/0001-03;2025-12-31;2;Galpão Radial Leste  (GRUPO SINAL);Conforme contrato.
+41.081.336/0001-03;2025-12-31;2;GALPÃO Bandeirantes (GRUPO SINAL);Conforme contrato.
+41.081.336/0001-03;2025-12-31;2;Galpão SP INFILL I;Conforme contrato.
+41.081.336/0001-03;2025-12-31;2;Shopping Fiesta;Conforme contrato.
+41.081.336/0001-03;2025-12-31;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 41.114.606/0001-35;2025-03-31;1;Não se aplica;Não se aplica
 41.114.606/0001-35;2025-06-30;1;Não se aplica;Não se aplica
 41.114.606/0001-35;2025-09-30;1;Não se aplica;Não se aplica
