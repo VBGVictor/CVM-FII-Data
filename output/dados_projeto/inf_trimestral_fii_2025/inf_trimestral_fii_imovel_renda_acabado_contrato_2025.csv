@@ -590,7 +590,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 09.072.017/0001-29;2025-03-31;1;-;
 09.072.017/0001-29;2025-06-30;1;-;
 09.072.017/0001-29;2025-09-30;1;-;
-09.072.017/0001-29;2025-12-31;1;-;
+09.072.017/0001-29;2025-12-31;2;-;
 09.150.967/0001-24;2025-03-31;1;Anhanguera Educacional;contrato corrigido pelo IPCA.
 09.150.967/0001-24;2025-06-30;1;Anhanguera Educacional;contrato corrigido pelo IPCA.
 09.150.967/0001-24;2025-12-31;2;Anhanguera Educacional;contrato corrigido pelo IPCA.
@@ -763,7 +763,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 11.728.688/0001-47;2025-03-31;1;-;-
 11.728.688/0001-47;2025-06-30;1;-;-
 11.728.688/0001-47;2025-09-30;1;-;-
-11.728.688/0001-47;2025-12-31;1;-;-
+11.728.688/0001-47;2025-12-31;2;-;-
 11.769.604/0001-13;2025-03-31;1;Outlet Premium São Paulo;Não possui caracteristicas que destoem dos demais
 11.769.604/0001-13;2025-03-31;1;Outlet Premium Brasília;Não possui caracteristicas que destoem dos demais
 11.769.604/0001-13;2025-03-31;1;Outlet Premium Rio de Janeiro;Não possui caracteristicas que destoem dos demais
@@ -1567,17 +1567,17 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 17.554.274/0001-25;2025-09-30;1;Shopping Tacaruna;Conforme item 1.1.2.1.4 deste informe.
 17.554.274/0001-25;2025-09-30;1;Shopping Iguatemi Fortaleza;Conforme item 1.1.2.1.4 deste informe.
 17.554.274/0001-25;2025-09-30;1;Minas Shopping;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;West Shopping;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;Shopping Crystal;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;Center Shopping Rio;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;Shopping Paralela;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;Ilha Plaza;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;Pátio Belém;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;Shopping Granja Vianna;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;Shopping Tacaruna;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;Shopping Iguatemi Fortaleza;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;Minas Shopping;Conforme item 1.1.2.1.4 deste informe.
-17.554.274/0001-25;2025-12-31;2;TERRENOS MIDWAY MALL;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;West Shopping;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;Shopping Crystal;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;Center Shopping Rio;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;Shopping Paralela;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;Ilha Plaza;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;Pátio Belém;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;Shopping Granja Vianna;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;Shopping Tacaruna;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;Shopping Iguatemi Fortaleza;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;Minas Shopping;Conforme item 1.1.2.1.4 deste informe.
+17.554.274/0001-25;2025-12-31;3;TERRENOS MIDWAY MALL;Conforme item 1.1.2.1.4 deste informe.
 17.568.605/0001-86;2025-03-31;1;Shopping Mais Largo 13;Não possui caracteristicas que destoem dos demais
 17.568.605/0001-86;2025-06-30;1;Shopping Mais Largo 13;Não possui caracteristicas que destoem dos demais
 17.568.605/0001-86;2025-09-30;1;Shopping Mais Largo 13;Não possui caracteristicas que destoem dos demais
@@ -3744,7 +3744,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 29.641.226/0001-53;2025-03-31;1;-;
 29.641.226/0001-53;2025-06-30;1;-;
 29.641.226/0001-53;2025-09-30;1;-;
-29.641.226/0001-53;2025-12-31;2;-;
+29.641.226/0001-53;2025-12-31;3;-;
 30.017.492/0001-99;2025-03-31;1;.;.
 30.017.492/0001-99;2025-06-30;1;.;.
 30.017.492/0001-99;2025-09-30;1;.;.

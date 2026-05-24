@@ -1,22 +1,22 @@
 CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevantes;Area;Percentual_Terreno_Total_Investido;Percentual_Terreno_PL
 00.868.235/0001-08;2026-03-31;1;Rua Primeiro de Janeiro, 100;Terreno;3950;1;0
-01.235.622/0001-61;2026-03-31;1;Av. Vereador Hermínio Moreira - Itaboraí, RJ;TERRENO ITABORAÍ;0;0.001453;0.003793
-01.235.622/0001-61;2026-03-31;1;Rodovia Darly Santos - Vila Velha - ES;GREEN VILLAGE;0;0.209678;0.547485
-01.235.622/0001-61;2026-03-31;1;Estrada Cabo Frio - Baía Formosa, Armação dos Búzios, RJ, CEP 28950-000;CUNHA BUENO - FASE 1;0;0.072364;0.188948
-01.235.622/0001-61;2026-03-31;1;Praia Rasa, Búzios - RJ;ARETÊ - TORIBA OESTE (TORIBA SUDESTE);0;0.019214;0.050168
-01.235.622/0001-61;2026-03-31;1;Ladeira do Russel, nº 65 - Glória - Rio de Janeiro;CASARAO - GLORIA;0;0.00086;0.002247
-01.235.622/0001-61;2026-03-31;1;Praia Rasa, Búzios - RJ;ARETÊ - YBIRÁ FASE I;0;0.068372;0.178523
-01.235.622/0001-61;2026-03-31;1;Praia Rasa, Búzios - RJ;ARETÊ - YBIRA FASE II;0;0.013638;0.03561
-01.235.622/0001-61;2026-03-31;1;Praia Rasa, Búzios - RJ;ARETÊ - YBIRÁ FASE III;0;0.015169;0.039606
-01.235.622/0001-61;2026-03-31;1;Praia Rasa, Búzios - RJ;ARETÊ - YBIRA FASE IV;0;0.021023;0.054891
-01.235.622/0001-61;2026-03-31;1;Praia Rasa, Búzios - RJ;ARETÊ - TORIBA SUL;0;0.011109;0.029007
-01.235.622/0001-61;2026-03-31;1;Rua Visconde de Pirajá, 484 e 486;VISCONDE DE PIRAJA 480/482/484/486 E GARCIA DAVILA 101/105;0;0.439462;1.14747023126989
-01.235.622/0001-61;2026-03-31;1;R. Nascimento Silva, 45 - Ipanema, Rio de Janeiro - RJ, 22421-020;NASCIMENTO SILVA 45;0;0.028125;0.073437
-01.235.622/0001-61;2026-03-31;1;Avenida Epitácio pessoa, 3744 e 3800;EPITÁCIO PESSOA 3744 e 3800;0;0.005244;0.013694
-01.235.622/0001-61;2026-03-31;1;Praia Rasa, Búzios - RJ;ARETÊ - VISTA YBIRÁ;0;0.046817;0.122243
-01.235.622/0001-61;2026-03-31;1;Rua 2A, nº 290, Golfe, CEP 28.958-120, Armação dos Búzios, RJ;LOTES GOLF GLEBA B;0;0.015532;0.040554
-01.235.622/0001-61;2026-03-31;1;R. Marquês de São Vicente, 1-13 - Gávea, Rio de Janeiro - RJ, 22451-040;MARQUES DE SAO VICENTE 1-13;0;0.029372;0.076692
-01.235.622/0001-61;2026-03-31;1;Rua Visconde de Pirajá, 433, Grupo 802 (parte, Ipanema, Rio de Janeiro - RJ;TORIBA NOVA DARSENA;0;0.002567;0.006703
+01.235.622/0001-61;2026-03-31;2;Av. Vereador Hermínio Moreira - Itaboraí, RJ;TERRENO ITABORAÍ;0;0.001453;0.003793
+01.235.622/0001-61;2026-03-31;2;Rodovia Darly Santos - Vila Velha - ES;GREEN VILLAGE;0;0.209678;0.547485
+01.235.622/0001-61;2026-03-31;2;Estrada Cabo Frio - Baía Formosa, Armação dos Búzios, RJ, CEP 28950-000;CUNHA BUENO - FASE 1;0;0.072364;0.188948
+01.235.622/0001-61;2026-03-31;2;Praia Rasa, Búzios - RJ;ARETÊ - TORIBA OESTE (TORIBA SUDESTE);0;0.019214;0.050168
+01.235.622/0001-61;2026-03-31;2;Ladeira do Russel, nº 65 - Glória - Rio de Janeiro;CASARAO - GLORIA;0;0.00086;0.002247
+01.235.622/0001-61;2026-03-31;2;Praia Rasa, Búzios - RJ;ARETÊ - YBIRÁ FASE I;0;0.068372;0.178523
+01.235.622/0001-61;2026-03-31;2;Praia Rasa, Búzios - RJ;ARETÊ - YBIRA FASE II;0;0.013638;0.03561
+01.235.622/0001-61;2026-03-31;2;Praia Rasa, Búzios - RJ;ARETÊ - YBIRÁ FASE III;0;0.015169;0.039606
+01.235.622/0001-61;2026-03-31;2;Praia Rasa, Búzios - RJ;ARETÊ - YBIRA FASE IV;0;0.021023;0.054891
+01.235.622/0001-61;2026-03-31;2;Praia Rasa, Búzios - RJ;ARETÊ - TORIBA SUL;0;0.011109;0.029007
+01.235.622/0001-61;2026-03-31;2;Rua Visconde de Pirajá, 484 e 486;VISCONDE DE PIRAJA 480/482/484/486 E GARCIA DAVILA 101/105;0;0.439462;0
+01.235.622/0001-61;2026-03-31;2;R. Nascimento Silva, 45 - Ipanema, Rio de Janeiro - RJ, 22421-020;NASCIMENTO SILVA 45;0;0.028125;0.073437
+01.235.622/0001-61;2026-03-31;2;Avenida Epitácio pessoa, 3744 e 3800;EPITÁCIO PESSOA 3744 e 3800;0;0.005244;0.013694
+01.235.622/0001-61;2026-03-31;2;Praia Rasa, Búzios - RJ;ARETÊ - VISTA YBIRÁ;0;0.046817;0.122243
+01.235.622/0001-61;2026-03-31;2;Rua 2A, nº 290, Golfe, CEP 28.958-120, Armação dos Búzios, RJ;LOTES GOLF GLEBA B;0;0.015532;0.040554
+01.235.622/0001-61;2026-03-31;2;R. Marquês de São Vicente, 1-13 - Gávea, Rio de Janeiro - RJ, 22451-040;MARQUES DE SAO VICENTE 1-13;0;0.029372;0.076692
+01.235.622/0001-61;2026-03-31;2;Rua Visconde de Pirajá, 433, Grupo 802 (parte, Ipanema, Rio de Janeiro - RJ;TORIBA NOVA DARSENA;0;0.002567;0.006703
 05.437.916/0001-27;2026-03-31;1;Rodovia Anhanguera, s/n km 17,5;Fundo legítmo proprietário do imóvel conforme matrícula e contrato de compra e venda. Os imóveis não possuem ônus reais bem como qualquer garantia e não foram adquiridos em regime de condomínio. Todas as construções estão concluídas.;61543.5;0.717347;0
 05.437.916/0001-27;2026-03-31;1;Rua Sargento Aquino, 136;Fundo legítmo proprietário do imóvel conforme matrícula e contrato de compra e venda. Os imóveis não possuem ônus reais bem como qualquer garantia e não foram adquiridos em regime de condomínio. Todas as construções estão concluídas.;6172.5;0.078725;0
 05.437.916/0001-27;2026-03-31;1;Rua Comandante Vergueiro da Cruz, 206;Fundo legítmo proprietário do imóvel conforme matrícula e contrato de compra e venda. Os imóveis não possuem ônus reais bem como qualquer garantia e não foram adquiridos em regime de condomínio. Todas as construções estão concluídas.;6172.5;0.095311;0
@@ -226,10 +226,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 34.547.078/0001-42;2026-03-31;1;TERRENO VILA NOVA - LOTE 3;.Matrícula nº 95.184;392.42;0;0
 34.547.078/0001-42;2026-03-31;1;TERRENO VILA NOVA - LOTE 5;Matrícula 162.095;209;0;0
 34.547.078/0001-42;2026-03-31;1;TERRENO VILA NOVA - LOTE 6;Matrícula nº 162.248, 55.260, 55.259 e 55.261;358.43;0;0
-35.360.651/0001-77;2026-03-31;1;R. Barão de Jaguaripe, 404 - Ipanema, Rio de Janeiro - RJ, 22421-000;BARAO DE JAGUARIPE 404;0;0.219177;0.241653
-35.360.651/0001-77;2026-03-31;1;R. Barão de Jaguaripe, 225 - Ipanema, Rio de Janeiro - RJ, 22421-000;BARAO DE JAGUARIPE, 225;0;0.284872;0.314085
-35.360.651/0001-77;2026-03-31;1;R. Paul Redfern, 41 - Ipanema, Rio de Janeiro - RJ, 22410-080 / R. Prudente de Morais, 1838 - Ipanema, Rio de Janeiro - RJ, 22420-042;PAUL REDFERN, 41 e PRUDENTE DE MORAIS 1838;0;0.2861;0.315439
-35.360.651/0001-77;2026-03-31;1;R. Redentor, 14 - Ipanema, Rio de Janeiro - RJ, 22421-030;REDENTOR, 14;0;0.20985;0.23137
+35.360.651/0001-77;2026-03-31;3;R. Barão de Jaguaripe, 404 - Ipanema, Rio de Janeiro - RJ, 22421-000;BARAO DE JAGUARIPE 404;0;0.219177;0.241653
+35.360.651/0001-77;2026-03-31;3;R. Barão de Jaguaripe, 225 - Ipanema, Rio de Janeiro - RJ, 22421-000;BARAO DE JAGUARIPE, 225;0;0.284872;0.314085
+35.360.651/0001-77;2026-03-31;3;R. Paul Redfern, 41 - Ipanema, Rio de Janeiro - RJ, 22410-080 / R. Prudente de Morais, 1838 - Ipanema, Rio de Janeiro - RJ, 22420-042;PAUL REDFERN, 41 e PRUDENTE DE MORAIS 1838;0;0.2861;0.315439
+35.360.651/0001-77;2026-03-31;3;R. Redentor, 14 - Ipanema, Rio de Janeiro - RJ, 22421-030;REDENTOR, 14;0;0.20985;0.23137
 35.725.659/0001-90;2026-03-31;1;SERVIDAO PMG 903;Matrícula 14.111;2451.35;1;0
 36.258.924/0001-30;2026-03-31;1;IMOVEL -TERRENO BELEM;TERRENO BELEM;1000;0.0856;1
 36.312.025/0001-78;2026-03-31;1;Rua Américo Lobo, Quadra E, Lote 28, município de Juiz de Fora, estado de Minas Gerais;Matrícula 4359;373.75;0;0
@@ -423,7 +423,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 57.965.466/0001-49;2026-03-31;1;Al. dos Maracatins, 857 - São Paulo, SP 04089-012;N/A;1665;0.7606;0
 57.965.466/0001-49;2026-03-31;1;Al. dos Maracatins, 847 - São Paulo, SP 04089-012;N/A;300;0.1733;0
 58.019.792/0001-26;2026-03-31;1;Av. José Pereira Liberato;MATRÍCULA 17835;49969.72;1;0.033491
-58.239.657/0001-96;2026-03-31;1;Rodovia Br-364, 2410, Km 548, Lote 12, Gleba 24, Alto Paraíso-ro, Eletronorte, Porto Velho/RO, Brasil, 76808-695;Direito de propriedade;290000;1;0
+58.239.657/0001-96;2026-03-31;2;Rodovia Br-364, 2410, Km 548, Lote 12, Gleba 24, Alto Paraíso-ro, Eletronorte, Porto Velho/RO, Brasil, 76808-695;Direito de propriedade;290000;1;0
 59.139.645/0001-52;2026-03-31;1;Rua Apôlonio Pereira Martins, 139, Casa Amarela, Betim - MG.;Parque Fabril - Betim (matrícula 91.936 e 106.956);21324;1;0
 59.693.395/0001-06;2026-03-31;1;Água Branca matricula 5.620;-;683100;0;0
 59.693.395/0001-06;2026-03-31;1;Água Branca matricula 5.622;-;741700;0;0
@@ -432,7 +432,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 59.890.241/0001-04;2026-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 59.891.323/0001-65;2026-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 59.891.409/0001-98;2026-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
-60.220.343/0001-93;2026-03-31;1;São José do Rio Preto/SP;N/A;36300;0;0
+60.220.343/0001-93;2026-03-31;2;São José do Rio Preto/SP;N/A;36300;0;0
 60.522.814/0001-18;2026-03-31;1;Lote nº 290-B/A - Gleba Keller, Mandaguari/PR;N/A;16478.54;1;0
 61.247.681/0001-81;2026-03-31;1;Rodovia Presidente Dutra, nº 4.300, área 3, na Cidade de São João de Meriti, Estado do Rio de Janeiro;matrícula nº 926-A;64462;1;0
 61.293.720/0001-87;2026-03-31;1;Avenida Bailarina Selma Parada, s/n - Jardim Nilópolis - Campinas / SP;N/A;1384.65;0.063;0

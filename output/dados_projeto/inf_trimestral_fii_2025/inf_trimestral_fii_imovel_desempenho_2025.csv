@@ -25,10 +25,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 01.235.622/0001-61;2025-09-30;1;Imóveis para venda em construção;Arete Toriba - Toriba Sudoeste;N.A.;N.A.
 01.235.622/0001-61;2025-12-31;1;Imóveis para venda em construção;HOMEM DE MELO - TIJUCA;n/a;n/a
 01.235.622/0001-61;2025-12-31;1;Imóveis para venda em construção;BARAO DA TORRE, 662;n/a;n/a
+01.235.622/0001-61;2025-12-31;1;Imóveis para renda em construção;ARETE - MIRÁ CENTER (INSTITUTO DOMINUS);n/a;n/a
 01.235.622/0001-61;2025-12-31;1;Imóveis para venda em construção;NASCIMENTO SILVA 387 E REDENTOR 150;n/a;n/a
 01.235.622/0001-61;2025-12-31;1;Imóveis para venda em construção;SIQUEIRA CAMPOS, 37;n/a;n/a
 01.235.622/0001-61;2025-12-31;1;Imóveis para venda em construção;SOROCABA 420, 422 E 436;n/a;n/a
-01.235.622/0001-61;2025-12-31;1;Imóveis para renda em construção;ARETE - MIRÁ CENTER (INSTITUTO DOMINUS);n/a;n/a
 01.235.622/0001-61;2025-12-31;1;Imóveis para venda em construção;GREEN PARK BARRA (Lt. 1 Fases - 1 e 2);n/a;n/a
 01.235.622/0001-61;2025-12-31;1;Imóveis para venda em construção;RUA TONELERO, 61;n/a;n/a
 01.235.622/0001-61;2025-12-31;1;Imóveis para venda em construção;FERNANDES GUIMARAES 75, 79, 81;n/a;n/a
@@ -117,8 +117,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 21.085.863/0001-89;2025-09-30;1;Imóveis para renda em construção;Eldorado;N/A;
 22.646.161/0001-90;2025-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;não aplicável;não aplicável
 22.646.161/0001-90;2025-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 3 - Village Acqua;não aplicável;não aplicável
-22.646.161/0001-90;2025-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;não aplicável;não aplicável
 22.646.161/0001-90;2025-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;não aplicável;não aplicável
+22.646.161/0001-90;2025-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;não aplicável;não aplicável
 22.646.161/0001-90;2025-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;não aplicável;não aplicável
 22.646.161/0001-90;2025-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 3 - Village Acqua;não aplicável;não aplicável
 22.646.161/0001-90;2025-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;não aplicável;não aplicável
@@ -144,13 +144,13 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 5 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 3 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2025-09-30;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2025-12-31;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
@@ -218,9 +218,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 33.842.871/0001-01;2025-09-30;1;Imóveis para renda em construção;JEQUIÉ;N/A;N/A
 33.842.871/0001-01;2025-09-30;1;Imóveis para renda em construção;BARREIRAS - BA;N/A;N/A
 33.842.871/0001-01;2025-09-30;1;Imóveis para renda em construção;NOSSA SENHORA DO SOCORRO;N/A;N/A
+33.842.871/0001-01;2025-12-31;1;Imóveis para renda em construção;JEQUIÉ;N/A;N/A
 33.842.871/0001-01;2025-12-31;1;Imóveis para renda em construção;NOSSA SENHORA DO SOCORRO;N/A;N/A
 33.842.871/0001-01;2025-12-31;1;Imóveis para renda em construção;BARREIRAS - BA;N/A;N/A
-33.842.871/0001-01;2025-12-31;1;Imóveis para renda em construção;JEQUIÉ;N/A;N/A
 33.884.197/0001-28;2025-03-31;1;Imóveis para renda em construção;.;.;.
 33.884.197/0001-28;2025-06-30;1;Imóveis para renda em construção;.;.;.
 33.884.197/0001-28;2025-09-30;1;Imóveis para renda em construção;.;.;.
@@ -310,8 +310,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 41.978.154/0001-30;2025-12-31;1;Imóveis para venda em construção;GRAND QUARTIER;N/A;N/A
 42.273.290/0001-97;2025-03-31;1;Imóveis para venda em construção;Dona Delfina;n/a;n/a
 42.273.290/0001-97;2025-03-31;1;Imóveis para venda em construção;Vista Ipanema;n/a;n/a
-42.273.290/0001-97;2025-03-31;1;Imóveis para venda em construção;Alma Ipanema;n/a;n/a
 42.273.290/0001-97;2025-03-31;1;Imóveis para venda em construção;PRUDENTE 786;n/a;n/a
+42.273.290/0001-97;2025-03-31;1;Imóveis para venda em construção;Alma Ipanema;n/a;n/a
 42.273.290/0001-97;2025-06-30;1;Imóveis para venda em construção;Dona Delfina;n/a;n/a
 42.273.290/0001-97;2025-06-30;1;Imóveis para venda em construção;Alma Ipanema;n/a;n/a
 42.273.290/0001-97;2025-06-30;1;Imóveis para venda em construção;PRUDENTE 786;n/a;n/a
@@ -351,11 +351,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 46.157.348/0001-98;2025-06-30;1;Imóveis para renda em construção;PATTEO KLABIN;n/a;n/a
 46.157.348/0001-98;2025-06-30;1;Imóveis para renda em construção;YOUR OSCAR FREIRE;n/a;n/a
 46.157.348/0001-98;2025-06-30;1;Imóveis para renda em construção;HELBOR VILA OLIMPIA HOME & STY;n/a;n/a
+46.157.348/0001-98;2025-09-30;2;Imóveis para renda em construção;YOUR OSCAR FREIRE;n/a;n/a
 46.157.348/0001-98;2025-09-30;2;Imóveis para renda em construção;PATTEO KLABIN;n/a;n/a
 46.157.348/0001-98;2025-09-30;2;Imóveis para renda em construção;HELBOR VILA OLIMPIA HOME & STY;n/a;n/a
-46.157.348/0001-98;2025-09-30;2;Imóveis para renda em construção;YOUR OSCAR FREIRE;n/a;n/a
-46.157.348/0001-98;2025-12-31;2;Imóveis para renda em construção;PATTEO KLABIN;n/a;n/a
 46.157.348/0001-98;2025-12-31;2;Imóveis para renda em construção;YOUR OSCAR FREIRE;n/a;n/a
+46.157.348/0001-98;2025-12-31;2;Imóveis para renda em construção;PATTEO KLABIN;n/a;n/a
 47.136.369/0001-90;2025-03-31;1;Imóveis para venda em construção;Basílio, 177;Até outubro/2023 foram realizados serviços preliminares de demolição e desmontagem interna, por se tratar de um retrofit. Tais serviços não foram contemplados no percentual de evolução física de obra. O início de obras ocorreu em novembro/2023, conforme previsto. Devido à compatibilização de determinadas etapas dos projetos executivos, foi necessário o replanejamento de alguns serviços, de forma que a evolução física ficou abaixo do previsto. O replanejamento contempla a compensação de tal defasagem nos meses subsequentes. O prazo de entrega da obra será mantido.;Não incorreram custos superiores ao previsto. A evolução fisica não inclui a demolição. Porém, por uma questão de planejamento e acompanhamento de fluxo de caixa, a evolução dos custos acima indicada inclui os custos de demolição
 47.136.369/0001-90;2025-06-30;1;Imóveis para venda em construção;Basílio, 177;Até outubro/23 foram realizados serviços preliminares de demolição e desmontagem interna, por se tratar de um retrofit. Tais serviços não foram contemplados no percentual de evolução física de obra. O início de obras ocorreu em novembro/23, conforme previsto. Devido à compatibilização de determinadas etapas dos projetos executivos, e devido a ajustes no efetivo de mão de obra entre o final de 2024 e início de 2025 (período de festas e férias) foi necessário o replanejamento de alguns serviços, de forma que a evolução física ficou abaixo do previsto. O replanejamento contempla a compensação de tal defasagem de forma que o prazo de entrega da obra será mantido. O Habite-se está previsto para agosto-setembro/25, sendo que há serviços gerais previstos para conclusão nos meses subsequentes ao habite-se.;Não incorreram custos superiores ao previsto. A evolução fisica não inclui a demolição. Porém, por uma questão de planejamento e acompanhamento de fluxo de caixa, a evolução dos custos acima indicada inclui os custos de demolição
 47.136.369/0001-90;2025-09-30;1;Imóveis para venda em construção;Basílio 177;Até outubro/23 foram realizados serviços preliminares de demolição e desmontagem interna, por se tratar de um retrofit. Tais serviços não foram contemplados no percentual de evolução física de obra. O início de obras ocorreu em novembro/23, conforme previsto. Devido à compatibilização de determinadas etapas dos projetos executivos, e devido a ajustes no efetivo de mão de obra entre o final de 2024 e início de 2025 (período de festas e férias) foi necessário o replanejamento de alguns serviços, de forma que a evolução física ficou abaixo do previsto. O replanejamento contempla a compensação de tal defasagem de forma que o prazo do habite-se ficou mantido. O Habite-se foi emitido em agosto-2025.Estão em fase de finalização as obras das áreas comuns e serviços de acabamento.;Não incorreram custos superiores ao previsto.
@@ -372,28 +372,28 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 50.750.438/0001-65;2025-03-31;1;Imóveis para venda em construção;You Oscar - Unidades 2801;N/A;N/A
 50.750.438/0001-65;2025-03-31;1;Imóveis para venda em construção;You Oscar - Unidades 2201;N/A;N/A
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 531C;n/a;n/a
-50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 1902B;n/a;n/a
-50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 228C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 631C;n/a;n/a
+50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 228C;n/a;n/a
+50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 1902B;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 643C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;You Oscar - Unidades 2801;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 530C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 330C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 530C;;
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 624C;n/a;n/a
-50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 2102B;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 633C;n/a;n/a
-50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 229C;n/a;n/a
+50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 2102B;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 632C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 635C;n/a;n/a
+50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 229C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 328C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 1802B;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 2201B;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;You Oscar - Unidades 2402;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 534C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 226C;n/a;n/a
-50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 528C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;You Oscar - Unidades 2201;n/a;n/a
+50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;Moma Moema - Unidade 528C;n/a;n/a
 50.750.438/0001-65;2025-09-30;1;Imóveis para venda em construção;You Oscar - Unidades 2601;n/a;n/a
 50.750.438/0001-65;2025-12-31;1;Imóveis para venda em construção;You Oscar - Unidades 2402;N/A;N/A
 50.750.438/0001-65;2025-12-31;1;Imóveis para venda em construção;You Oscar - Unidades 2801;N/A;N/A
@@ -411,18 +411,18 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 50.876.919/0001-11;2025-06-30;1;Imóveis para renda em construção;APTO 501 TORRE 4;evolucao conforme o previsto;custos conforme previsto
 50.876.919/0001-11;2025-06-30;1;Imóveis para renda em construção;APTO 501 TORRE 2;evolucao conforme o previsto;custos conforme previsto
 50.876.919/0001-11;2025-06-30;1;Imóveis para renda em construção;APTO  702 TIPO 2;evolucao conforme o previsto;custos conforme previsto
-50.876.919/0001-11;2025-06-30;1;Imóveis para renda em construção;APTO 1902 TORRE 3;evolucao conforme o previsto;custos conforme previsto
 50.876.919/0001-11;2025-06-30;1;Imóveis para renda em construção;APTO 1203 TORRE 2;evolucao conforme o previsto;custos conforme previsto
+50.876.919/0001-11;2025-06-30;1;Imóveis para renda em construção;APTO 1902 TORRE 3;evolucao conforme o previsto;custos conforme previsto
 50.876.919/0001-11;2025-06-30;1;Imóveis para renda em construção;APTO 502 TORRE 2;evolucao conforme o previsto;custos conforme previsto
 50.876.919/0001-11;2025-06-30;1;Imóveis para renda em construção;APTO 302 TORRE 2;evolucao conforme o previsto;custos conforme previsto
-50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 1201;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
 50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO  702 TIPO 2;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
+50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 1201;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
 50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 1203 TORRE 2;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
 50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 501 TORRE 2;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
 50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 502 TORRE 2;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
-50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 501 TORRE 4;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
-50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 1902 TORRE 3;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
 50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 302 TORRE 2;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
+50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 1902 TORRE 3;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
+50.876.919/0001-11;2025-09-30;1;Imóveis para renda em construção;APTO 501 TORRE 4;EVOLUÇÃO CONFORME PREVISTO;CUSTOS CONFORME PREVISTO
 50.957.247/0001-79;2025-03-31;1;Imóveis para renda em construção;AV PORTUGAL;N/A;N/A
 50.957.247/0001-79;2025-03-31;1;Imóveis para renda em construção;JOAO_LUIZ_M_COUTINHO;N/A;N/A
 50.957.247/0001-79;2025-03-31;1;Imóveis para renda em construção;XV NOVEMBRO - RIO NEGRO;N/A;N/A
@@ -434,41 +434,41 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 50.957.247/0001-79;2025-06-30;1;Imóveis para renda em construção;JOAO_LUIZ_M_COUTINHO;N/A;N/A
 50.957.247/0001-79;2025-06-30;1;Imóveis para renda em construção;ANITA GARIBALDI;N/A;N/A
 50.957.247/0001-79;2025-09-30;1;Imóveis para renda em construção;XV NOVEMBRO - RIO NEGRO;N/A;N/A
-50.957.247/0001-79;2025-09-30;1;Imóveis para renda em construção;JOAO_LUIZ_M_COUTINHO;N/A;N/A
 50.957.247/0001-79;2025-09-30;1;Imóveis para renda em construção;AV PORTUGAL;N/A;N/A
+50.957.247/0001-79;2025-09-30;1;Imóveis para renda em construção;JOAO_LUIZ_M_COUTINHO;N/A;N/A
 50.957.247/0001-79;2025-09-30;1;Imóveis para renda em construção;ANITA GARIBALDI;N/A;N/A
 50.957.247/0001-79;2025-09-30;1;Imóveis para renda em construção;ESTRADA DO GANCHINHO;N/A;N/A
 50.957.247/0001-79;2025-12-31;1;Imóveis para renda em construção;ANITA GARIBALDI;N/A;N/A
 50.957.247/0001-79;2025-12-31;1;Imóveis para renda em construção;AV PORTUGAL;N/A;N/A
-50.957.247/0001-79;2025-12-31;1;Imóveis para renda em construção;ESTRADA DO GANCHINHO;N/A;N/A
 50.957.247/0001-79;2025-12-31;1;Imóveis para renda em construção;XV NOVEMBRO - RIO NEGRO;N/A;N/A
+50.957.247/0001-79;2025-12-31;1;Imóveis para renda em construção;ESTRADA DO GANCHINHO;N/A;N/A
 50.957.247/0001-79;2025-12-31;1;Imóveis para renda em construção;JOAO_LUIZ_M_COUTINHO;N/A;N/A
 51.472.985/0001-99;2025-06-30;1;Imóveis para renda em construção;N/A;N/A;N/A
 51.472.985/0001-99;2025-06-30;1;Imóveis para venda em construção;N/A;N/A;N/A
 51.802.350/0001-02;2025-12-31;1;Imóveis para venda em construção;Não aplicável;Não aplicável;Não aplicável
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Seven Living - Maximo Aldana;Atraso em função de período chuvoso - obra em fase de fundação e escavação;N/A
+51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Edifício Gibran;Obra em finalização. Atraso ocorreu por lentidão em execução de concretagem que não foi recuperada ao longo da obra.;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Residencial Habitat Zoe;Atraso é reflexo do início tardio da obra (30 dias após o previsto), refletindo no andamento normal.;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Unlimited - Oscar Freire - Youi, Inc;N/A;Obra adiantada.
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Residencial Aldana Jardim - Maximo Aldana;N/A;N/A
-51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Edifício Gibran;Obra em finalização. Atraso ocorreu por lentidão em execução de concretagem que não foi recuperada ao longo da obra.;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Varandas Joy - Realiza;Pequeno atraso em relação ao cronograma, porém recuperável. Período chuvoso dificultou execução de terraplanagem e fundações.;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;José Antonio Bortolotto - MGB;O atraso da obra é devido ao longo período chuvoso na região, o que paralisou a concretagem, consequentemente desmontagem e montagem das formas das edificações seguintes.;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Icon Residenc Club - Longitude;N/A;N/A
-51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Derby Central - Max Plural;O atraso é reflexo de início tardio de execução das fundações, agravado pelo baixo desempenho em dezembro em função do calendário reduzido (festas de fim de ano).;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Residencial Aquarela Habitat;N/A;Obra adiantada.
+51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Derby Central - Max Plural;O atraso é reflexo de início tardio de execução das fundações, agravado pelo baixo desempenho em dezembro em função do calendário reduzido (festas de fim de ano).;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Coral Gables - Vetter;Obra replanejada;Obra adiantada
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Green View - Patrimônio;A construtora replanejou a obra, postergando a entrega final para 31/10/2025, dentro do prazo máximo de tolerância;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Vista Madalena By You, Inc;O atraso é devido à dificuldade de montagem e concretagem das grandes áreas de embasamento do emrpeendimento.;N/A
-51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Gafisa - Evolve Vila Mariana;Obra teve dificuldade de execução na estrutura, prejudicando avanço nas demais etapas.;N/A
-51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Duo Living Complex - Catamarã;Pequeno atraso em relação ao cronograma, mas recuperável nesse estágio da obra;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Sky Pinheiros - AAM;N/A;
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Haia Boa Vista - GRM;Em novembro, refletindo a partir de dezembro, a construtora replanejou o cronograma da obra com objetivo em manter o prazo de entrega.;N/A
+51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Gafisa - Evolve Vila Mariana;Obra teve dificuldade de execução na estrutura, prejudicando avanço nas demais etapas.;N/A
+51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Duo Living Complex - Catamarã;Pequeno atraso em relação ao cronograma, mas recuperável nesse estágio da obra;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Residencial Vida Habitat;N/A;Obra concluída
-51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Condomínio Wish 675 - EBM;Obra iniciada com atraso de 60 dias.;N/A
 51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Stillo Barra - AGER;A defasagem entre o total previsto e realizado é reflexo das dificuldades iniciais para remoção de desmonte de rochas no terreno, não recuperado ao longo da obra.;N/A
+51.870.412/0001-13;2025-03-31;1;Imóveis para venda em construção;Condomínio Wish 675 - EBM;Obra iniciada com atraso de 60 dias.;N/A
+51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Icon Residenc Club - Longitude;N/A;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Varandas Joy - Realiza;Pequeno atraso em relação ao cronograma, porém recuperável. Período chuvoso dificultou execução de terraplanagem e fundações.;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;José Antonio Bortolotto - MGB;O atraso da obra é devido ao longo período chuvoso na região, o que paralisou a concretagem, consequentemente desmontagem e montagem das formas das edificações seguintes.;N/A
-51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Icon Residenc Club - Longitude;N/A;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Vista Madalena By You, Inc;O atraso é devido à dificuldade de montagem e concretagem das grandes áreas de embasamento do emrpeendimento.;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Residencial Habitat Zoe;Atraso é reflexo do início tardio da obra (30 dias após o previsto), refletindo no andamento normal.;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Duo Living Complex - Catamarã;Pequeno atraso em relação ao cronograma, mas recuperável nesse estágio da obra;N/A
@@ -480,8 +480,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Edifício Gibran;Obra em finalização. Atraso ocorreu por lentidão em execução de concretagem que não foi recuperada ao longo da obra.;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Seven Living - Maximo Aldana;Atraso em função de período chuvoso - obra em fase de fundação e escavação;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Patriani Mirai Suzano;N/A;N/A
-51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Gafisa - Evolve Vila Mariana;Obra teve dificuldade de execução na estrutura, prejudicando avanço nas demais etapas.;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Unlimited - Oscar Freire - Youi, Inc;N/A;Obra adiantada.
+51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Gafisa - Evolve Vila Mariana;Obra teve dificuldade de execução na estrutura, prejudicando avanço nas demais etapas.;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Stillo Barra - AGER;A defasagem entre o total previsto e realizado é reflexo das dificuldades iniciais para remoção de desmonte de rochas no terreno, não recuperado ao longo da obra.;N/A
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Coral Gables - Vetter;Obra replanejada;Obra adiantada
 51.870.412/0001-13;2025-06-30;1;Imóveis para venda em construção;Residencial Aldana Jardim - Maximo Aldana;N/A;N/A
@@ -491,23 +491,23 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Sky Pinheiros - AAM;N/A;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Unlimited - Oscar Freire - Youi, Inc;N/A;Obra adiantada.
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Varandas Joy - Realiza;Pequeno atraso em relação ao cronograma, porém recuperável. Período chuvoso dificultou execução de terraplanagem e fundações.;N/A
-51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Vista Madalena By You, Inc;O atraso é devido à dificuldade de montagem e concretagem das grandes áreas de embasamento do emrpeendimento.;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Residencial Aldana Jardim - Maximo Aldana;N/A;N/A
+51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Vista Madalena By You, Inc;O atraso é devido à dificuldade de montagem e concretagem das grandes áreas de embasamento do emrpeendimento.;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Daxo - Res. Rhodes;N/A;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Coral Gables - Vetter;N/A;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Habitat - Casa Laguna;N/A;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Derby Central - Max Plural;O atraso é reflexo de início tardio de execução das fundações, agravado pelo baixo desempenho em dezembro em função do calendário reduzido (festas de fim de ano).;N/A
+51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Duo Living Complex - Catamarã;N/A;Obra adiantada.
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;José Antonio Bortolotto - MGB;O atraso da obra é devido ao longo período chuvoso na região, o que paralisou a concretagem, consequentemente desmontagem e montagem das formas das edificações seguintes.;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Residencial Habitat Zoe;Atraso é reflexo do início tardio da obra (30 dias após o previsto), refletindo no andamento normal.;N/A
-51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Duo Living Complex - Catamarã;N/A;Obra adiantada.
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Patriani Mirai Suzano;N/A;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Green View - Patrimônio;A construtora replanejou a obra, postergando a entrega final para 31/10/2025, dentro do prazo máximo de tolerância;N/A
-51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Icon Residenc Club - Longitude;N/A;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Haia Boa Vista - GRM;Em novembro, refletindo a partir de dezembro, a construtora replanejou o cronograma da obra com objetivo em manter o prazo de entrega.;N/A
 51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Gafisa - Evolve Vila Mariana;Obra teve dificuldade de execução na estrutura, prejudicando avanço nas demais etapas.;N/A
+51.870.412/0001-13;2025-09-30;1;Imóveis para venda em construção;Icon Residenc Club - Longitude;N/A;N/A
+51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Longitude - Vibe Itaim;N/A;N/A
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Duo Living Complex - Catamarã;N/A;Obra adiantada.
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;CK - Artefacto;N/A;N/A
-51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Longitude - Vibe Itaim;N/A;N/A
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Habitat - Liberta;N/A;N/A
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Condomínio Wish 675 - EBM;Obra iniciada com atraso de 60 dias.;N/A
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Daxo - Res. Rhodes;N/A;N/A
@@ -518,9 +518,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Residencial Aldana Jardim - Maximo Aldana;N/A;N/A
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Unlimited - Oscar Freire - Youi, Inc;N/A;Obra adiantada.
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Vista Madalena By You, Inc;O atraso é devido à dificuldade de montagem e concretagem das grandes áreas de embasamento do empreendimento.;N/A
+51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Icon Residenc Club - Longitude;N/A;N/A
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Seven Living - Maximo Aldana;N/A;N/A
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Haia Boa Vista - GRM;Em novembro, refletindo a partir de dezembro, a construtora replanejou o cronograma da obra com objetivo em manter o prazo de entrega.;N/A
-51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Icon Residenc Club - Longitude;N/A;N/A
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Habitat - Casa Laguna;N/A;N/A
 51.870.412/0001-13;2025-12-31;2;Imóveis para venda em construção;Varandas Joy - Realiza;Pequeno atraso em relação ao cronograma, porém recuperável.;N/A
 52.324.762/0001-47;2025-03-31;1;Imóveis para renda em construção;0;0;0
@@ -546,20 +546,20 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 54.422.883/0001-57;2025-12-31;1;Imóveis para renda em construção;SAINT BARTHELEMY;as unidades foram adquiridas sem acabamento, necessitando de obra que possam estar habitaveis;não há
 54.422.883/0001-57;2025-12-31;1;Imóveis para renda em construção;ARRAIAL CS13;Imóvel adquirido na planta a ser entregue pela incorporadora no 2o sem/26;não há
 54.422.883/0001-57;2025-12-31;1;Imóveis para venda em construção;BOA VISTA 0268;O imóvel foi adquirido em estagio de obra inacabada.;não se aplica
+54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO 1203 TORRE 2;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO 501 TORRE 2;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO 502 TORRE 2;evolucao conforme o previsto;custos conforme previsto
-54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO 1203 TORRE 2;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO  702 TIPO 2;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO 302 TORRE 2;evolucao conforme o previsto;custos conforme previsto
+54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO 1201;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO 501 TORRE 4;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO 1902 TORRE 3;evolucao conforme o previsto;custos conforme previsto
-54.485.027/0001-40;2025-06-30;1;Imóveis para renda em construção;APTO 1201;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-09-30;1;Imóveis para renda em construção;APTO 1902 TORRE 3;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-09-30;1;Imóveis para renda em construção;APTO 501 TORRE 4;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-09-30;1;Imóveis para renda em construção;APTO 1203 TORRE 2;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-09-30;1;Imóveis para renda em construção;APTO 501 TORRE 2;evolucao conforme o previsto;custos conforme previsto
-54.485.027/0001-40;2025-09-30;1;Imóveis para renda em construção;APTO 1201;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-09-30;1;Imóveis para renda em construção;APTO 302 TORRE 2;evolucao conforme o previsto;custos conforme previsto
+54.485.027/0001-40;2025-09-30;1;Imóveis para renda em construção;APTO 1201;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-09-30;1;Imóveis para renda em construção;APTO  702 TIPO 2;evolucao conforme o previsto;custos conforme previsto
 54.485.027/0001-40;2025-09-30;1;Imóveis para renda em construção;APTO 502 TORRE 2;evolucao conforme o previsto;custos conforme previsto
 55.089.373/0001-72;2025-03-31;1;Imóveis para renda em construção;Informação não apresentada;Informação não apresentada;Informação não apresentada
@@ -577,8 +577,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 56.992.328/0001-96;2025-12-31;1;Imóveis para venda em construção;VE;N/A;N/A
 56.992.328/0001-96;2025-12-31;1;Imóveis para venda em construção;VSS;N/A;N/A
 56.992.328/0001-96;2025-12-31;1;Imóveis para venda em construção;EL1;N/A;N/A
-56.992.328/0001-96;2025-12-31;1;Imóveis para venda em construção;RCJ;N/A;N/A
 56.992.328/0001-96;2025-12-31;1;Imóveis para venda em construção;VGL;N/A;N/A
+56.992.328/0001-96;2025-12-31;1;Imóveis para venda em construção;RCJ;N/A;N/A
 56.992.328/0001-96;2025-12-31;1;Imóveis para venda em construção;EE;N/A;N/A
 57.077.139/0001-50;2025-06-30;1;Imóveis para renda em construção;Empreendimento não residencial na cidade de Bonito - PE;Construção dentro do previsto.;Custos dentro do previsto.
 57.077.139/0001-50;2025-09-30;1;Imóveis para renda em construção;Empreendimento Betim;N/A;N/A
@@ -600,8 +600,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 57.882.804/0001-89;2025-09-30;1;Imóveis para renda em construção;Afonso Baccari 225;Não aplicável;Não aplicável
 57.882.804/0001-89;2025-09-30;1;Imóveis para renda em construção;Afonso Baccari 205;Não aplicável;Não aplicável
 57.882.804/0001-89;2025-12-31;1;Imóveis para renda em construção;Afonso Baccari 199;Não aplicável;Não aplicável
-57.882.804/0001-89;2025-12-31;1;Imóveis para renda em construção;Afonso Baccari 209;Não aplicável;Não aplicável
 57.882.804/0001-89;2025-12-31;1;Imóveis para renda em construção;Afonso Baccari 205;Não aplicável;Não aplicável
+57.882.804/0001-89;2025-12-31;1;Imóveis para renda em construção;Afonso Baccari 209;Não aplicável;Não aplicável
 57.882.804/0001-89;2025-12-31;1;Imóveis para renda em construção;Afonso Baccari 225;Não aplicável;Não aplicável
 57.882.804/0001-89;2025-12-31;1;Imóveis para renda em construção;Afonso Baccari 191;Não aplicável;Não aplicável
 57.882.804/0001-89;2025-12-31;1;Imóveis para renda em construção;Afonso Baccari 219 221;Não aplicável;Não aplicável
@@ -621,16 +621,16 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 62.173.916/0001-09;2025-12-31;1;Imóveis para renda em construção;Lotus Tower;Não se aplica;Não se aplica
 62.254.106/0001-79;2025-09-30;1;Imóveis para venda em construção;GAGO COUTINHO;n/a;n/a
 62.254.106/0001-79;2025-09-30;1;Imóveis para venda em construção;BARÃO DE ICARAÍ;n/a;n/a
-62.254.106/0001-79;2025-12-31;1;Imóveis para venda em construção;BARÃO DE ICARAÍ;n/a;n/a
 62.254.106/0001-79;2025-12-31;1;Imóveis para venda em construção;GAGO COUTINHO;n/a;n/a
+62.254.106/0001-79;2025-12-31;1;Imóveis para venda em construção;BARÃO DE ICARAÍ;n/a;n/a
 62.529.006/0001-08;2025-12-31;1;Imóveis para renda em construção;Não aplicável;Não aplicável;Não aplicável
 62.731.360/0001-10;2025-12-31;1;Imóveis para renda em construção;A Mata - Casa 06;N.A;N.A
 62.731.360/0001-10;2025-12-31;1;Imóveis para renda em construção;A Mata - Casa 09;N.A;N.A
 62.855.536/0001-46;2025-12-31;1;Imóveis para renda em construção;Lotus Tower;Não se aplica;Não se aplica
 63.566.516/0001-18;2025-12-31;1;Imóveis para venda em construção;GENERAL ARTIGAS;n/a;n/a
 63.574.892/0001-54;2025-12-31;1;Imóveis para venda em construção;GIO Jardins Unidade 2901;N/A;N/A
-63.574.892/0001-54;2025-12-31;1;Imóveis para venda em construção;GIO Jardins Unidade 1501;N/A;N/A
 63.574.892/0001-54;2025-12-31;1;Imóveis para venda em construção;GIO Jardins Unidade 1801;N/A;N/A
+63.574.892/0001-54;2025-12-31;1;Imóveis para venda em construção;GIO Jardins Unidade 1501;N/A;N/A
 63.574.892/0001-54;2025-12-31;1;Imóveis para venda em construção;HADDOCK 885 Unidade 1001;N/A;N/A
 63.574.892/0001-54;2025-12-31;1;Imóveis para venda em construção;GIO Jardins Unidade 3101;N/A;N/A
 63.574.892/0001-54;2025-12-31;1;Imóveis para venda em construção;GIO Jardins Unidade 2401;N/A;N/A
