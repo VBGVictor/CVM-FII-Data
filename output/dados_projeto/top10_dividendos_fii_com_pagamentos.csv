@@ -1,11 +1,11 @@
 codigo_fii;setor;liquidez_diaria;P/VP;dy_12m;Variação Preço;Patrimônio Líquido;Num. Cotistas;data_coleta;qtd_pagamentos_12m;primeira_data_pagamento_12m;primeiro_valor_pagamento_12m;ultima_data_pagamento_12m;ultimo_valor_pagamento_12m
-HGPO11;Lajes Corporativas;342660,23;099;48,22;5,05 %;272.902.467,47;8.203;2026-05-28;0;;;;
-BBFI11B;Lajes Corporativas;182918,19;041;47,51;4,22 %;111.645.834,19;6.989;2026-05-28;0;;;;
-PFIN11;Indefinido;3372878,05;;32,34;6,60 %;;0;2026-05-28;0;;;;
-PNPR11;Fundo de Desenvolvimento;5000064,0;124;25,23;0,00 %;34.873.201,95;15;2026-05-28;0;;;;
-KOPA11;Indefinido;210703,73;076;23,78;-9,69 %;183.982.866,65;3.500;2026-05-28;0;;;;
-ENDD11;Indefinido;557609,68;;4,99;9,27 %;;0;2026-05-28;0;;;;
-VIUR11;Misto;500351,45;073;4,48;-0,68 %;94.013.195,78;37.665;2026-05-28;0;;;;
-BDIV11;Indefinido;345498,0;;4,01;-0,05 %;;0;2026-05-28;0;;;;
-XPIE11;Indefinido;888234,17;;1,81;-0,27 %;;0;2026-05-28;0;;;;
-RZAT11;Imóveis Industriais e Logísticos;1053741,05;092;1,72;5,31 %;440.791.647,36;34.169;2026-05-28;0;;;;
+HGPO11;Lajes Corporativas;352918,71;099;48,22;5,05 %;272.902.467,47;8.203;2026-05-29;0;;;;
+PFIN11;Indefinido;3331994,68;;47,81;6,61 %;;0;2026-05-29;0;;;;
+BBFI11B;Lajes Corporativas;182918,19;041;47,51;4,22 %;111.645.834,19;6.989;2026-05-29;0;;;;
+KOPA11;Indefinido;202454,41;075;31,86;1,08 %;183.982.866,65;3.500;2026-05-29;0;;;;
+PNPR11;Fundo de Desenvolvimento;5000064,0;124;25,23;0,00 %;34.873.201,95;15;2026-05-29;0;;;;
+VIUR11;Misto;435754,09;073;12,89;-0,49 %;94.013.195,78;37.665;2026-05-29;0;;;;
+ENDD11;Indefinido;457482,14;;4,99;9,27 %;;0;2026-05-29;0;;;;
+BDIV11;Indefinido;328368,18;;4,18;-0,05 %;;0;2026-05-29;0;;;;
+XPIE11;Indefinido;862153,74;;1,85;1,56 %;;0;2026-05-29;0;;;;
+RZAT11;Imóveis Industriais e Logísticos;1009124,45;093;1,76;6,36 %;440.791.647,36;34.169;2026-05-29;0;;;;
