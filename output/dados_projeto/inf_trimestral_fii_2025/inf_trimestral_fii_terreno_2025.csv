@@ -750,8 +750,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 31.547.782/0001-07;2025-06-30;1;Avenida Itaoca, 786, Bonsucesso;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matrícula: 94.317;0;0;0
 31.547.782/0001-07;2025-09-30;1;FAZENDA CACHOEIRA;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matriculas: 13553 - 13772 - 17121 - 17315 - 18588 - 13553;17883600;0;0
 31.547.782/0001-07;2025-09-30;1;Avenida Itaoca, 786, Bonsucesso;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matrícula: 94.317;0;0;0
-31.547.782/0001-07;2025-12-31;1;FAZENDA CACHOEIRA;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matriculas: 13553 - 13772 - 17121 - 17315 - 18588 - 13553;17883600;0;0
-31.547.782/0001-07;2025-12-31;1;Avenida Itaoca, 786, Bonsucesso;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matrícula: 94.317;0;0;0
+31.547.782/0001-07;2025-12-31;2;FAZENDA CACHOEIRA;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matriculas: 13553 - 13772 - 17121 - 17315 - 18588 - 13553;17883600;0;0
+31.547.782/0001-07;2025-12-31;2;Avenida Itaoca, 786, Bonsucesso;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis. Matrícula: 94.317;0;0;0
 31.547.989/0001-81;2025-03-31;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
 31.547.989/0001-81;2025-06-30;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
 31.547.989/0001-81;2025-09-30;1;Rua João Zarpelon nº 800, na Cidade de São José dos Pinhais - PR, matrícula nº 63.392 do Registro de Imóveis 1ª Circunscrição - S. J. dos Pinhais.;A área compreendida do terreno é de 114.286 m2 e com área construída de 45.618,36 m2.;114286;0;0
@@ -832,8 +832,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 33.842.871/0001-01;2025-06-30;1;Rua Silveira Martins, 119/3500 Cabula- Salvador / BA;Matrícula 70.582 e 71.262 - 2º Ofício do Registro de Imóveis - Salvador/BA - CCVP CABULA;39676.14;0;0
 33.842.871/0001-01;2025-09-30;1;Avenida Clériston Andrade, nº 1897 -Parque Novo Horizonte -Barreira/BA;Matricula 25.779 - 1º Ofício do Registro de Imóveis e Hipotecas da Comarca de Barreiras / BA - TEIXEIRA DE FREITAS;18673.48;0;0
 33.842.871/0001-01;2025-09-30;1;Rua Silveira Martins, 119/3500 Cabula- Salvador / BA;Matrícula 70.582 e 71.262 - 2º Ofício do Registro de Imóveis - Salvador/BA - CCVP CABULA;39676.14;0;0
-33.842.871/0001-01;2025-12-31;1;Avenida Clériston Andrade, nº 1897 -Parque Novo Horizonte -Barreira/BA;Matricula 25.779 - 1º Ofício do Registro de Imóveis e Hipotecas da Comarca de Barreiras / BA - TEIXEIRA DE FREITAS;18673.48;0;0
-33.842.871/0001-01;2025-12-31;1;Rua Silveira Martins, 119/3500 Cabula- Salvador / BA;Matrícula 70.582 e 71.262 - 2º Ofício do Registro de Imóveis - Salvador/BA - CCVP CABULA;39676.14;0;0
+33.842.871/0001-01;2025-12-31;2;Avenida Clériston Andrade, nº 1897 -Parque Novo Horizonte -Barreira/BA;Matricula 25.779 - 1º Ofício do Registro de Imóveis e Hipotecas da Comarca de Barreiras / BA - TEIXEIRA DE FREITAS;18673.48;0;0
+33.842.871/0001-01;2025-12-31;2;Rua Silveira Martins, 119/3500 Cabula- Salvador / BA;Matrícula 70.582 e 71.262 - 2º Ofício do Registro de Imóveis - Salvador/BA - CCVP CABULA;39676.14;0;0
 33.884.197/0001-28;2025-03-31;1;Al 101 ( Sitio Marceneiro);matricula nº 897 do serviço notarial e registral da comarca de Passo de Camaragibe / AL.;22445;1;0.98761
 33.884.197/0001-28;2025-06-30;1;Al 101 ( Sitio Marceneiro);matricula nº 897 do serviço notarial e registral da comarca de Passo de Camaragibe / AL.;22445;1;0.98761
 33.884.197/0001-28;2025-09-30;1;Al 101 ( Sitio Marceneiro);matricula nº 897 do serviço notarial e registral da comarca de Passo de Camaragibe / AL.;22445;1;0.98761
@@ -1522,12 +1522,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 50.957.247/0001-79;2025-09-30;1;RUA BARBOSA;MATRICULA 26865;26865;0;0
 50.957.247/0001-79;2025-09-30;1;PREFEITO ALBARY;MAT. 70.857;51154.33;0;0
 50.957.247/0001-79;2025-09-30;1;RODOVIA DOS MINERIOS;MAT. 3723 E 3724;44930;0;0
-50.957.247/0001-79;2025-12-31;1;Linha Verde - Av. Santa Bernadethe - Fanny, Curitiba - PR, 81650-200;Matrículas: 55.467 / 55.468 / 55.469 / 55.470 / 55.471 / 55.472 / 55.710 / 55.711 /55.712 / 56.677 / 56.678 / 56.679 / 56.680 / 56.681 / 56.682;10637.25;0;0
-50.957.247/0001-79;2025-12-31;1;Estrada José Kalinoski - Contorno, Ponta Grossa - PR, 84060-160, lote 12/R2-1.;Matrícula: 80.552;14783.47;0;0
-50.957.247/0001-79;2025-12-31;1;RUA BARBOSA;MATRICULA 26865;26865;0;0
-50.957.247/0001-79;2025-12-31;1;PREFEITO ALBARY;MAT. 70.857;51154.33;0;0
-50.957.247/0001-79;2025-12-31;1;RODOVIA DOS MINERIOS;MAT. 3723 E 3724;44930;0;0
-50.957.247/0001-79;2025-12-31;1;UMBARÁ TERRENO;MAT. 123.587 E 123.588;12218.8;0;0
+50.957.247/0001-79;2025-12-31;2;Linha Verde - Av. Santa Bernadethe - Fanny, Curitiba - PR, 81650-200;Matrículas: 55.467 / 55.468 / 55.469 / 55.470 / 55.471 / 55.472 / 55.710 / 55.711 /55.712 / 56.677 / 56.678 / 56.679 / 56.680 / 56.681 / 56.682;10637.25;0;0
+50.957.247/0001-79;2025-12-31;2;Estrada José Kalinoski - Contorno, Ponta Grossa - PR, 84060-160, lote 12/R2-1.;Matrícula: 80.552;14783.47;0;0
+50.957.247/0001-79;2025-12-31;2;RUA BARBOSA;MATRICULA 26865;26865;0;0
+50.957.247/0001-79;2025-12-31;2;PREFEITO ALBARY;MAT. 70.857;51154.33;0;0
+50.957.247/0001-79;2025-12-31;2;RODOVIA DOS MINERIOS;MAT. 3723 E 3724;44930;0;0
+50.957.247/0001-79;2025-12-31;2;UMBARÁ TERRENO;MAT. 123.587 E 123.588;12218.8;0;0
 51.295.092/0001-15;2025-03-31;1;TERRENO LADO IMPAR -  Ribeirão Preto/SP 12.437;matricula 123.024 -;1250;0.0686487852352673;0
 51.295.092/0001-15;2025-03-31;1;Lote de Terreno -  Rua Borborema Jaguaribe, Campos do Jordão/SP;matrícula nº 12.665;2717;0.259792303668059;0
 51.295.092/0001-15;2025-03-31;1;Terreno - Fazenda Sao Pedro - Vitória da Conquista;matrícula nº 37.899;12387.47;0.0956837027321212;0

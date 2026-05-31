@@ -68,8 +68,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 03.683.056/0001-86;2026-03-31;1;CONTINENTAL SQUARE;Os contratos são majoritaramente reajustados anualmente pelo IPCA e pelo prazo de 5 anos.
 03.683.056/0001-86;2026-03-31;1;EDIFÍCIO GIRASSOL;Os contratos são majoritaramente reajustados anualmente pelo IPCA e pelo prazo de 5 anos.
 03.683.056/0001-86;2026-03-31;1;Bravo! Paulista;Os contratos são majoritaramente reajustados anualmente pelo IPCA e pelo prazo de 5 anos.
-04.066.582/0001-60;2026-03-31;2;Instituto de Especialidade Pediatricas de Sao Paulo - Hospital da Crianca;Não possui caracteristicas que destoem dos demais
-04.066.582/0001-60;2026-03-31;2;Acordo Rede Dor - Hospital da Crianca;Não possui caracteristicas que destoem dos demais
+04.066.582/0001-60;2026-03-31;3;Instituto de Especialidade Pediatricas de Sao Paulo - Hospital da Crianca;Não possui caracteristicas que destoem dos demais
+04.066.582/0001-60;2026-03-31;3;Acordo Rede Dor - Hospital da Crianca;Não possui caracteristicas que destoem dos demais
 04.141.645/0001-03;2026-03-31;1;Empreendimento Continental Square Faria Lima - conjuntos 22, 23 e 24;vigência de 90 meses multa atípica no caso de rescisão antecipada obrigação de aviso prévio de 120 dias em caso de rescisão antecipada.
 04.141.645/0001-03;2026-03-31;1;ED. CONTINENTAL SQUARE FARIA LIMA - cj 34;Inadimpência de 2 meses nesse trimestre, Valores cobertos pela caução resgatada em março.
 04.644.612/0001-78;2026-03-31;1;NA;NA
@@ -79,7 +79,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 05.562.312/0001-02;2026-03-31;1;Ed Almirante Barroso;Não possui caracteristicas que destoem dos demais
 06.175.262/0001-73;2026-03-31;1;Avenida Paulista, 1728, São Paulo/SP (1ª ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
 06.175.262/0001-73;2026-03-31;1;Avenida Paulista, 1728, São Paulo/SP (SL E 2ª ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
-07.122.725/0001-00;2026-03-31;2;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
+07.122.725/0001-00;2026-03-31;3;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
 07.224.019/0001-60;2026-03-31;1;-;-
 07.583.627/0001-61;2026-03-31;1;Loja 0009 - Jd Paulistano;Não possui caracteristicas que destoem dos demais
 07.583.627/0001-61;2026-03-31;1;Loja 0039 - Pacaembu;Não possui caracteristicas que destoem dos demais
@@ -149,8 +149,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 07.789.135/0001-27;2026-03-31;1;CVS - CENTER VALE SHOPPING;N/A
 07.789.135/0001-27;2026-03-31;1;SNI - SHOPPING NOVA IGUACU;N/A
 07.789.135/0001-27;2026-03-31;1;MNS - MINAS SHOPPING;N/A
-08.014.513/0001-63;2026-03-31;2;Hospital e Maternidade Nossa Senhora de Lourdes;Não possui caracteristicas que destoem dos demais
-08.014.513/0001-63;2026-03-31;2;Acordo Rede Dor - Hospital Nossa Senhora de Lourdes;Não possui caracteristicas que destoem dos demais
+08.014.513/0001-63;2026-03-31;3;Hospital e Maternidade Nossa Senhora de Lourdes;Não possui caracteristicas que destoem dos demais
+08.014.513/0001-63;2026-03-31;3;Acordo Rede Dor - Hospital Nossa Senhora de Lourdes;Não possui caracteristicas que destoem dos demais
 08.098.114/0001-28;2026-03-31;1;Loja - Shopping Pátio Belém;Não possui caracteristicas que destoem dos demais
 08.098.114/0001-28;2026-03-31;1;Loja - Centro BH;Não possui caracteristicas que destoem dos demais
 08.098.114/0001-28;2026-03-31;1;Loja - Del Rey BH;Não possui caracteristicas que destoem dos demais
@@ -280,37 +280,37 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 11.769.604/0001-13;2026-03-31;2;Outlet Premium Rio de Janeiro;Fração ideal do imóvel detida pelo Fundo está cedida em alienação fiduciária em favor dos detentores do CRI
 11.769.604/0001-13;2026-03-31;2;Outlet Premium Grande SP;Fração ideal do imóvel detida pelo Fundo está cedida em alienação fiduciária em favor dos detentores do CRI
 11.827.568/0001-05;2026-03-31;1;NA;NA
-11.839.593/0001-09;2026-03-31;1;BTLG - Navegantes;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Fortaleza;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Jundiai;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG -  Aracatuba;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG  - Ribeirao Preto;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Hortolandia;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Regis;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Maua;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Campinas;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;Loja Dengo;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Cotia;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Cabreuva;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Extrema;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG Cajamar I;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG Cajamar III;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG Campinas - Dom Pedro;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Itapevi II;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Louveira I;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Louveira II;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Louveira III;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Louveira IV;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Louveira V VI e VII;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Louveira VIII;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Louveira IX;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Queimados;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Suape II;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;BTLG - Caieiras;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;Galpao Santo Andre;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;Imovel Barueri;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;Urban Hub Maua I;Não possui caracteristicas que destoem dos demais
-11.839.593/0001-09;2026-03-31;1;Urban Hub Osasco;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Navegantes;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Fortaleza;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Jundiai;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG -  Aracatuba;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG  - Ribeirao Preto;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Hortolandia;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Regis;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Maua;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Campinas;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;Loja Dengo;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Cotia;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Cabreuva;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Extrema;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG Cajamar I;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG Cajamar III;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG Campinas - Dom Pedro;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Itapevi II;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Louveira I;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Louveira II;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Louveira III;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Louveira IV;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Louveira V VI e VII;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Louveira VIII;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Louveira IX;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Queimados;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Suape II;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;BTLG - Caieiras;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;Galpao Santo Andre;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;Imovel Barueri;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;Urban Hub Maua I;Não possui caracteristicas que destoem dos demais
+11.839.593/0001-09;2026-03-31;2;Urban Hub Osasco;Não possui caracteristicas que destoem dos demais
 12.005.956/0001-65;2026-03-31;1;N/A;N/A
 12.401.858/0001-47;2026-03-31;1;CONDOMINIO WT MORUMBI;Não possui caracteristicas que destoem dos demais
 12.516.185/0001-70;2026-03-31;1;BM336;Conforme item 1.1.2.1.4 deste informe.
@@ -422,7 +422,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 15.538.445/0001-05;2026-03-31;1;N/A;N/A
 15.570.431/0001-60;2026-03-31;1;Não aplicável;Não aplicável
 15.576.907/0001-70;2026-03-31;1;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro, Cogna, etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
-15.799.397/0001-09;2026-03-31;2;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
+15.799.397/0001-09;2026-03-31;3;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
 16.671.412/0001-93;2026-03-31;1;One Park;Os contratos são típicos de 5 anos, atualizados anualmente pela variação positiva do IGP-M.
 16.671.412/0001-93;2026-03-31;1;Galpão Guarulhos;Contratos típicos e atípicos (Correção IPCA).
 16.671.412/0001-93;2026-03-31;1;Galpão Contagem;Contrato atípico, corrigido por IPCA.
@@ -1067,7 +1067,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 30.871.716/0001-25;2026-03-31;1;Casa Cubatao 629;Não possui caracteristicas que destoem dos demais
 30.871.716/0001-25;2026-03-31;1;Edificio In Offices Paraiso;Não possui caracteristicas que destoem dos demais
 30.871.716/0001-25;2026-03-31;1;Predio Barao de Lucena;Não possui caracteristicas que destoem dos demais
-30.982.974/0001-89;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+30.982.974/0001-89;2026-03-31;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 31.145.875/0001-05;2026-03-31;1;Paulista;n/a
 31.152.015/0001-07;2026-03-31;1;Não possui informação apresentada;Não possui informação apresentada
 31.469.385/0001-64;2026-03-31;1;Unidade 102;não há
@@ -1303,7 +1303,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 37.295.919/0001-60;2026-03-31;1;CANOAS/RS;Sem informações apresentadas
 37.295.919/0001-60;2026-03-31;1;S J DOS CAMP;Sem informações apresentadas
 37.899.356/0001-19;2026-03-31;2;CENU - Torre Oeste;Não possui caracteristicas que destoem dos demais
-37.899.479/0001-50;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+37.899.479/0001-50;2026-03-31;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 37.931.298/0001-63;2026-03-31;1;-;-
 37.950.819/0001-20;2026-03-31;1;Complexo Industrial Eurofarma;Não possui caracteristicas que destoem dos demais
 38.293.862/0001-22;2026-03-31;1;SKY - Tambore;Não possui caracteristicas que destoem dos demais

@@ -2315,8 +2315,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 21.917.235/0001-12;2025-06-30;1;n/a;n/a
 21.917.235/0001-12;2025-09-30;1;n/a;n/a
 21.917.235/0001-12;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
-21.917.235/0001-12;2025-12-31;1;n/a;n/a
-21.917.235/0001-12;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+21.917.235/0001-12;2025-12-31;2;n/a;n/a
+21.917.235/0001-12;2025-12-31;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 22.003.469/0001-17;2025-03-31;1;Imoveis residenciais;Clausulas de reajustes anuais.
 22.003.469/0001-17;2025-06-30;1;Imoveis residenciais;Clausulas de reajustes anuais.
 22.003.469/0001-17;2025-09-30;1;Imoveis residenciais;Clausulas de reajustes anuais.
@@ -3923,7 +3923,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 30.982.974/0001-89;2025-03-31;1;.;.
 30.982.974/0001-89;2025-06-30;1;.;.
 30.982.974/0001-89;2025-09-30;1;.;.
-30.982.974/0001-89;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+30.982.974/0001-89;2025-12-31;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 31.145.875/0001-05;2025-03-31;1;Paulista;N/A
 31.145.875/0001-05;2025-06-30;1;Paulista;N/A
 31.145.875/0001-05;2025-09-30;1;Paulista;N/A
@@ -3977,7 +3977,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 31.547.782/0001-07;2025-03-31;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
 31.547.782/0001-07;2025-06-30;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
 31.547.782/0001-07;2025-09-30;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
-31.547.782/0001-07;2025-12-31;1;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
+31.547.782/0001-07;2025-12-31;2;Fazenda Cachoeira;Parceria agrícola, fazendo parte desta, os equipamentos e benfeitorias fixas existentes nos imóveis.
 31.547.989/0001-81;2025-12-31;1;NÃO HÁ;
 31.772.231/0001-47;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 31.772.231/0001-47;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
@@ -4219,9 +4219,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 33.842.871/0001-01;2025-09-30;1;Itapetinga;Item acima
 33.842.871/0001-01;2025-09-30;1;Terreno Baixa de Areia;Item acima
 33.842.871/0001-01;2025-09-30;1;SERRINHA 01 E 02;Item acima
-33.842.871/0001-01;2025-12-31;1;Itapetinga;Item acima
-33.842.871/0001-01;2025-12-31;1;Terreno Baixa de Areia;Item acima
-33.842.871/0001-01;2025-12-31;1;SERRINHA 01 E 02;Item acima
+33.842.871/0001-01;2025-12-31;2;Itapetinga;Item acima
+33.842.871/0001-01;2025-12-31;2;Terreno Baixa de Areia;Item acima
+33.842.871/0001-01;2025-12-31;2;SERRINHA 01 E 02;Item acima
 34.081.637/0001-71;2025-03-31;1;informação não apresentada;informação não apresentada
 34.081.637/0001-71;2025-06-30;1;informação não apresentada;informação não apresentada
 34.081.637/0001-71;2025-09-30;1;Não possui informação apresentada;Não possui informação apresentada
@@ -4453,7 +4453,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 35.704.849/0001-20;2025-03-31;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
 35.704.849/0001-20;2025-06-30;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
 35.704.849/0001-20;2025-09-30;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
-35.704.849/0001-20;2025-12-31;1;Edíficio Corporativo OI;Conforme descrito anteriormente.
+35.704.849/0001-20;2025-12-31;2;Edíficio Corporativo OI;Conforme descrito anteriormente.
 35.705.463/0001-33;2025-03-31;2;Galpão Hortolândia I;Item acima
 35.705.463/0001-33;2025-03-31;2;Galpão Hortolândia II;Item acima
 35.705.463/0001-33;2025-03-31;2;Galpão Extrema I;Item acima
@@ -5579,7 +5579,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 42.273.290/0001-97;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 42.273.290/0001-97;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 42.273.325/0001-98;2025-09-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
-42.273.325/0001-98;2025-12-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
+42.273.325/0001-98;2025-12-31;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 42.432.327/0001-82;2025-03-31;1;Imovel Dialogo;Conforme contrato.
 42.432.327/0001-82;2025-03-31;1;Imóvel Clarion;Conforme contrato.
 42.432.327/0001-82;2025-03-31;1;Imóvel IT Home;Conforme contrato.
@@ -6417,7 +6417,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 50.957.247/0001-79;2025-03-31;1;N/A;N/A
 50.957.247/0001-79;2025-06-30;1;N/A;N/A
 50.957.247/0001-79;2025-09-30;1;N/A;N/A
-50.957.247/0001-79;2025-12-31;1;N/A;N/A
+50.957.247/0001-79;2025-12-31;2;N/A;N/A
 51.067.062/0001-51;2025-03-31;1;.;.
 51.067.062/0001-51;2025-06-30;1;.;.
 51.067.062/0001-51;2025-09-30;1;.;.
@@ -7134,49 +7134,49 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 57.457.407/0001-60;2025-09-30;1;TORRES;Item acima.
 57.457.407/0001-60;2025-09-30;1;UVARANAS;Item acima.
 57.457.407/0001-60;2025-09-30;1;13;Item acima.
-57.457.407/0001-60;2025-12-31;1;ALM. TAMANDARÉ;Item acima.
-57.457.407/0001-60;2025-12-31;1;APURACANA;Item acima.
-57.457.407/0001-60;2025-12-31;1;ARAÚCARIA COSTEIRA;Item acima.
-57.457.407/0001-60;2025-12-31;1;AV. BRASÍLIA;Item acima.
-57.457.407/0001-60;2025-12-31;1;AV. JOINVILLE;Item acima.
-57.457.407/0001-60;2025-12-31;1;BETTEGA;Item acima.
-57.457.407/0001-60;2025-12-31;1;BOA VISTA COMASA;Item acima.
-57.457.407/0001-60;2025-12-31;1;BOA VISTA CTBA;Item acima.
-57.457.407/0001-60;2025-12-31;1;CAJURU;Item acima.
-57.457.407/0001-60;2025-12-31;1;CAMPO CUMPRIDO;Item acima.
-57.457.407/0001-60;2025-12-31;1;CAMPO LARGO;Item acima.
-57.457.407/0001-60;2025-12-31;1;CASTRO;Item acima.
-57.457.407/0001-60;2025-12-31;1;CENTRO DE DISTRIBUIÇÃO;Item acima.
-57.457.407/0001-60;2025-12-31;1;CHAMPAGNAT;Item acima.
-57.457.407/0001-60;2025-12-31;1;COLOMBO ESTRADA DA RIBEIRA;Item acima.
-57.457.407/0001-60;2025-12-31;1;DEROSSO;Item acima.
-57.457.407/0001-60;2025-12-31;1;FAZENDA RIO GRANDE;Item acima.
-57.457.407/0001-60;2025-12-31;1;GIGANTE COLOMBO;Item acima.
-57.457.407/0001-60;2025-12-31;1;JARAGUÁ DO SUL;Item acima.
-57.457.407/0001-60;2025-12-31;1;JD. CARVALHO;Item acima.
-57.457.407/0001-60;2025-12-31;1;JOINVILLE AMÉRICA;Item acima.
-57.457.407/0001-60;2025-12-31;1;JOINVILLE ITAUM;Item acima.
-57.457.407/0001-60;2025-12-31;1;LAPA;Item acima.
-57.457.407/0001-60;2025-12-31;1;LONDRINA;Item acima.
-57.457.407/0001-60;2025-12-31;1;MAFRA;Item acima.
-57.457.407/0001-60;2025-12-31;1;MARINGÁ AV. COLOMBO;Item acima.
-57.457.407/0001-60;2025-12-31;1;NILO PEÇANHA;Item acima.
-57.457.407/0001-60;2025-12-31;1;NOVO MUNDO PR;Item acima.
-57.457.407/0001-60;2025-12-31;1;OFICINAS;Item acima.
-57.457.407/0001-60;2025-12-31;1;PARANAGUÁ COSTEIRA;Item acima.
-57.457.407/0001-60;2025-12-31;1;PARANAGUÁ RAIA;Item acima.
-57.457.407/0001-60;2025-12-31;1;PILARZINHO;Item acima.
-57.457.407/0001-60;2025-12-31;1;PINHAIS IRAÍ;Item acima.
-57.457.407/0001-60;2025-12-31;1;PINHAIS JACOB;Item acima.
-57.457.407/0001-60;2025-12-31;1;PINHEIRINHO;Item acima.
-57.457.407/0001-60;2025-12-31;1;PIRAQUARA;Item acima.
-57.457.407/0001-60;2025-12-31;1;SANTA CÂNDIDA;Item acima.
-57.457.407/0001-60;2025-12-31;1;SANTA FELICIDADE;Item acima.
-57.457.407/0001-60;2025-12-31;1;SANTA QUITÉRIA;Item acima.
-57.457.407/0001-60;2025-12-31;1;SÃO JOSÉ DOS PINHAIS - CENTRO;Item acima.
-57.457.407/0001-60;2025-12-31;1;TORRES;Item acima.
-57.457.407/0001-60;2025-12-31;1;UVARANAS;Item acima.
-57.457.407/0001-60;2025-12-31;1;13;Item acima.
+57.457.407/0001-60;2025-12-31;2;ALM. TAMANDARÉ;Item acima.
+57.457.407/0001-60;2025-12-31;2;APURACANA;Item acima.
+57.457.407/0001-60;2025-12-31;2;ARAÚCARIA COSTEIRA;Item acima.
+57.457.407/0001-60;2025-12-31;2;AV. BRASÍLIA;Item acima.
+57.457.407/0001-60;2025-12-31;2;AV. JOINVILLE;Item acima.
+57.457.407/0001-60;2025-12-31;2;BETTEGA;Item acima.
+57.457.407/0001-60;2025-12-31;2;BOA VISTA COMASA;Item acima.
+57.457.407/0001-60;2025-12-31;2;BOA VISTA CTBA;Item acima.
+57.457.407/0001-60;2025-12-31;2;CAJURU;Item acima.
+57.457.407/0001-60;2025-12-31;2;CAMPO CUMPRIDO;Item acima.
+57.457.407/0001-60;2025-12-31;2;CAMPO LARGO;Item acima.
+57.457.407/0001-60;2025-12-31;2;CASTRO;Item acima.
+57.457.407/0001-60;2025-12-31;2;CENTRO DE DISTRIBUIÇÃO;Item acima.
+57.457.407/0001-60;2025-12-31;2;CHAMPAGNAT;Item acima.
+57.457.407/0001-60;2025-12-31;2;COLOMBO ESTRADA DA RIBEIRA;Item acima.
+57.457.407/0001-60;2025-12-31;2;DEROSSO;Item acima.
+57.457.407/0001-60;2025-12-31;2;FAZENDA RIO GRANDE;Item acima.
+57.457.407/0001-60;2025-12-31;2;GIGANTE COLOMBO;Item acima.
+57.457.407/0001-60;2025-12-31;2;JARAGUÁ DO SUL;Item acima.
+57.457.407/0001-60;2025-12-31;2;JD. CARVALHO;Item acima.
+57.457.407/0001-60;2025-12-31;2;JOINVILLE AMÉRICA;Item acima.
+57.457.407/0001-60;2025-12-31;2;JOINVILLE ITAUM;Item acima.
+57.457.407/0001-60;2025-12-31;2;LAPA;Item acima.
+57.457.407/0001-60;2025-12-31;2;LONDRINA;Item acima.
+57.457.407/0001-60;2025-12-31;2;MAFRA;Item acima.
+57.457.407/0001-60;2025-12-31;2;MARINGÁ AV. COLOMBO;Item acima.
+57.457.407/0001-60;2025-12-31;2;NILO PEÇANHA;Item acima.
+57.457.407/0001-60;2025-12-31;2;NOVO MUNDO PR;Item acima.
+57.457.407/0001-60;2025-12-31;2;OFICINAS;Item acima.
+57.457.407/0001-60;2025-12-31;2;PARANAGUÁ COSTEIRA;Item acima.
+57.457.407/0001-60;2025-12-31;2;PARANAGUÁ RAIA;Item acima.
+57.457.407/0001-60;2025-12-31;2;PILARZINHO;Item acima.
+57.457.407/0001-60;2025-12-31;2;PINHAIS IRAÍ;Item acima.
+57.457.407/0001-60;2025-12-31;2;PINHAIS JACOB;Item acima.
+57.457.407/0001-60;2025-12-31;2;PINHEIRINHO;Item acima.
+57.457.407/0001-60;2025-12-31;2;PIRAQUARA;Item acima.
+57.457.407/0001-60;2025-12-31;2;SANTA CÂNDIDA;Item acima.
+57.457.407/0001-60;2025-12-31;2;SANTA FELICIDADE;Item acima.
+57.457.407/0001-60;2025-12-31;2;SANTA QUITÉRIA;Item acima.
+57.457.407/0001-60;2025-12-31;2;SÃO JOSÉ DOS PINHAIS - CENTRO;Item acima.
+57.457.407/0001-60;2025-12-31;2;TORRES;Item acima.
+57.457.407/0001-60;2025-12-31;2;UVARANAS;Item acima.
+57.457.407/0001-60;2025-12-31;2;13;Item acima.
 57.466.934/0001-30;2025-03-31;1;Casas Bahia;Multa de 10% referente a falta de pagamento.
 57.466.934/0001-30;2025-06-30;1;Casas Bahia;Multa de 10% referente a falta de pagamento.
 57.466.934/0001-30;2025-09-30;1;Casas Bahia;Multa de 10% referente a falta de pagamento.
