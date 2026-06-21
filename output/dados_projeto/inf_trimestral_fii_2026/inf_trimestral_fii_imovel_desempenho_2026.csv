@@ -5,8 +5,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 01.235.622/0001-61;2026-03-31;2;Imóveis para venda em construção;BARAO DA TORRE, 662;n/a;n/a
 01.235.622/0001-61;2026-03-31;2;Imóveis para venda em construção;PRUDENTE DE MORAIS, 589;n/a;n/a
 01.235.622/0001-61;2026-03-31;2;Imóveis para renda em construção;PISCINA DE ONDAS;n/a;n/a
-01.235.622/0001-61;2026-03-31;2;Imóveis para venda em construção;NASCIMENTO SILVA 387 E REDENTOR 150;n/a;n/a
 01.235.622/0001-61;2026-03-31;2;Imóveis para venda em construção;RUA TONELERO, 61;n/a;n/a
+01.235.622/0001-61;2026-03-31;2;Imóveis para venda em construção;NASCIMENTO SILVA 387 E REDENTOR 150;n/a;n/a
 01.235.622/0001-61;2026-03-31;2;Imóveis para venda em construção;SIQUEIRA CAMPOS, 37;n/a;n/a
 01.235.622/0001-61;2026-03-31;2;Imóveis para venda em construção;MARIA QUITERIA 46 E PRUDENTE DE MORAIS 1050;n/a;n/a
 01.235.622/0001-61;2026-03-31;2;Imóveis para venda em construção;GREEN PARK BARRA (Lt. 1 Fases - 1 e 2);n/a;n/a
@@ -28,9 +28,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 1 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 5 - Village Acqua;n/a;n/a
+22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 202 - Bl 5 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 5 - Village Acqua;n/a;n/a
-22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 301 - Bl 4 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 102 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 101 - Bl 3 - Village Acqua;n/a;n/a
 22.646.161/0001-90;2026-03-31;1;Imóveis para venda em construção;Frad.E - Unid. 201 - Bl 5 - Village Acqua;n/a;n/a
@@ -84,13 +84,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 50.750.438/0001-65;2026-03-31;1;Imóveis para venda em construção;You Oscar - Unidades 2201;N/A;N/A
 50.750.438/0001-65;2026-03-31;1;Imóveis para venda em construção;You Oscar - Unidades 2402;N/A;N/A
 50.750.438/0001-65;2026-03-31;1;Imóveis para venda em construção;You Oscar - Unidades 2601;N/A;N/A
-50.957.247/0001-79;2026-03-31;1;Imóveis para renda em construção;ESTRADA DO GANCHINHO;N/A;N/A
 50.957.247/0001-79;2026-03-31;1;Imóveis para renda em construção;JOAO_LUIZ_M_COUTINHO;N/A;N/A
 50.957.247/0001-79;2026-03-31;1;Imóveis para renda em construção;XV NOVEMBRO - RIO NEGRO;N/A;N/A
 50.957.247/0001-79;2026-03-31;1;Imóveis para renda em construção;ANITA GARIBALDI;N/A;N/A
+50.957.247/0001-79;2026-03-31;1;Imóveis para renda em construção;ESTRADA DO GANCHINHO;N/A;N/A
 50.957.247/0001-79;2026-03-31;1;Imóveis para renda em construção;AV PORTUGAL;N/A;N/A
 51.802.350/0001-02;2026-03-31;1;Imóveis para venda em construção;Não Possui;Não Possui;Não Possui
-51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;Varandas Joy - Realiza;Pequeno atraso em relação ao cronograma, porém recuperável.;N/A
 51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;Icon Residenc Club - Longitude;Pequeno atraso em relação ao cronograma, porém recuperável.;N/A
 51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;Duo Living Complex - Catamarã;N/A;Obra adiantada.
 51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;Derby Central - Max Plural;O atraso é reflexo de início tardio de execução das fundações, agravado pelo baixo desempenho em dezembro em função do calendário reduzido (festas de fim de ano).;N/A
@@ -100,6 +99,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;José Antonio Bortolotto - MGB;N/A;N/A
 51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;CK - Artefacto;N/A;N/A
 51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;Unlimited - Oscar Freire - Youi, Inc;N/A;Obra adiantada.
+51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;Varandas Joy - Realiza;Pequeno atraso em relação ao cronograma, porém recuperável.;N/A
 51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;Habitat - Casa Laguna;Carência de mão de obra;N/A
 51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;Haia Boa Vista - GRM;Em novembro, refletindo a partir de dezembro, a construtora replanejou o cronograma da obra com objetivo em manter o prazo de entrega.;N/A
 51.870.412/0001-13;2026-03-31;1;Imóveis para venda em construção;Longitude - Vibe Itaim;N/A;Obra adiantada.
@@ -144,10 +144,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Classe;Nome_Endereco_Imovel;Justificati
 63.574.892/0001-54;2026-03-31;1;Imóveis para venda em construção;GIO Jardins Unidade 2401;N/A;N/A
 63.574.892/0001-54;2026-03-31;1;Imóveis para venda em construção;GIO Jardins Unidade 1801;N/A;N/A
 63.574.892/0001-54;2026-03-31;1;Imóveis para venda em construção;GIO Jardins Unidade 3101;N/A;N/A
-63.574.892/0001-54;2026-03-31;1;Imóveis para venda em construção;GIO Jardins Unidade 1501;N/A;N/A
-63.574.892/0001-54;2026-03-31;1;Imóveis para venda em construção;GIO Jardins Unidade 2901;N/A;N/A
 63.574.892/0001-54;2026-03-31;1;Imóveis para venda em construção;GIO Jardins Unidade 3301;N/A;N/A
+63.574.892/0001-54;2026-03-31;1;Imóveis para venda em construção;GIO Jardins Unidade 2901;N/A;N/A
+63.574.892/0001-54;2026-03-31;1;Imóveis para venda em construção;GIO Jardins Unidade 1501;N/A;N/A
 63.952.986/0001-10;2026-03-31;1;Imóveis para venda em construção;Empreendimento Cacau - Unidade N;Não se aplica, a obra ainda não teve início conforme cronograma contratual.;Não se aplica
-63.952.986/0001-10;2026-03-31;1;Imóveis para venda em construção;Empreendimento Cacau - Unidade F;Não se aplica, a obra ainda não teve início conforme cronograma contratual.;Não se aplica
 63.952.986/0001-10;2026-03-31;1;Imóveis para venda em construção;Empreendimento Cacau - Unidade I1;Não se aplica, a obra ainda não teve início conforme cronograma contratual.;Não se aplica
+63.952.986/0001-10;2026-03-31;1;Imóveis para venda em construção;Empreendimento Cacau - Unidade F;Não se aplica, a obra ainda não teve início conforme cronograma contratual.;Não se aplica
 63.952.986/0001-10;2026-03-31;1;Imóveis para venda em construção;Empreendimento Cacau - Unidade L;Não se aplica, a obra ainda não teve início conforme cronograma contratual.;Não se aplica
