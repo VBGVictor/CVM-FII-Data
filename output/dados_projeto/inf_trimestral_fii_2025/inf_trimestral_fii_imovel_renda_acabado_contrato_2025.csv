@@ -163,7 +163,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 04.141.645/0001-03;2025-06-30;1;Empreendimento Continental Square Faria Lima - conjuntos 22, 23 e 24;vigência de 90 meses multa atípica no caso de rescisão antecipada obrigação de aviso prévio de 120 dias em caso de rescisão antecipada.
 04.141.645/0001-03;2025-09-30;1;Empreendimento Continental Square Faria Lima - conjunto 32;Conjunto vago,  porém com contrato de locação assinado em 15/08/2025 para início da locação em 03/10/2025
 04.141.645/0001-03;2025-09-30;1;Empreendimento Continental Square Faria Lima - conjuntos 22, 23 e 24;vigência de 90 meses multa atípica no caso de rescisão antecipada obrigação de aviso prévio de 120 dias em caso de rescisão antecipada.
-04.141.645/0001-03;2025-12-31;1;Empreendimento Continental Square Faria Lima - conjuntos 22, 23 e 24;vigência de 90 meses multa atípica no caso de rescisão antecipada obrigação de aviso prévio de 120 dias em caso de rescisão antecipada.
+04.141.645/0001-03;2025-12-31;2;Empreendimento Continental Square Faria Lima - conjuntos 22, 23 e 24;vigência de 90 meses multa atípica no caso de rescisão antecipada obrigação de aviso prévio de 120 dias em caso de rescisão antecipada.
 04.644.612/0001-78;2025-03-31;1;NA;NA
 04.644.612/0001-78;2025-06-30;1;NA;NA
 04.644.612/0001-78;2025-09-30;1;NA;NA
@@ -1370,7 +1370,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 15.576.907/0001-70;2025-03-31;1;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
 15.576.907/0001-70;2025-06-30;1;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
 15.576.907/0001-70;2025-09-30;1;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro, Cogna, etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
-15.576.907/0001-70;2025-12-31;1;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro, Cogna, etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
+15.576.907/0001-70;2025-12-31;2;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro, Cogna, etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
 15.798.220/0001-80;2025-03-31;1;Frigorífico Monte Verde;Planta Frigorífica - Matrícula 1345
 15.798.220/0001-80;2025-06-30;1;Frigorífico Monte Verde;Planta Frigorífica - Matrícula 1345
 15.798.220/0001-80;2025-09-30;1;Frigorífico Monte Verde;Planta Frigorífica - Matrícula 1345
@@ -2483,7 +2483,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 23.570.871/0001-46;2025-09-30;1;Wtorre Morumbi;N/A
 23.570.871/0001-46;2025-12-31;1;CONDOMINIO WT MORUMBI;Não possui caracteristicas que destoem dos demais
 23.740.527/0001-58;2025-03-31;1;Não há;Não há
-23.740.527/0001-58;2025-12-31;1;Não há;Não há
+23.740.527/0001-58;2025-06-30;2;Não há;Não há
+23.740.527/0001-58;2025-12-31;2;Não há;Não há
 23.740.595/0001-17;2025-03-31;1;não há;não há
 23.740.595/0001-17;2025-06-30;1;não há;não há
 23.740.595/0001-17;2025-09-30;1;não há;não há
@@ -7565,6 +7566,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 62.082.124/0001-10;2025-12-31;1;-;-
 62.173.370/0001-88;2025-12-31;1;N/A;N/A
 62.173.916/0001-09;2025-09-30;1;Lotus Tower;Não possui caracteristicas que destoem dos demais
+62.203.816/0001-70;2025-12-31;1;Não possui informação apresentada.;Não possui informação apresentada.
 62.305.611/0001-03;2025-12-31;1;Imoveis Pesa;Não possui caracteristicas que destoem dos demais
 62.385.601/0001-17;2025-12-31;1;na;na
 62.455.533/0001-15;2025-09-30;1;N/A;N/A
