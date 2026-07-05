@@ -113,7 +113,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 28.267.696/0001-36;2025-12-31;1;Imovel Andorinha - Sao Paulo;Rua Professor Luciano Prata, 204, Sem Complemento, Vila Baruel, Sao Paulo/SP, Brasil, 02510-020;2025-11-27;4205.41;1;Não possui;0.03000627842132;3.28103242446107
 28.548.288/0001-52;2025-06-30;1;Pão De Açúcar  Sto And;Rua das Figueiras, nº 1.021 - Operário;2025-05-15;2450;1;Direito de propriedade;0;0
 28.548.288/0001-52;2025-06-30;1;Assaí Ipatinga;Avenida José Júlio da Costa, s/n - Ferroviários - MG;2025-05-21;15671.75;1;Direito de propriedade;0;0
-28.548.288/0001-52;2025-12-31;1;EXTRA NS SABARA;Av. Nossa Sra. do Sabará, 3015;2025-12-16;2334;1;Direito de propriedade;0;0
+28.548.288/0001-52;2025-12-31;2;EXTRA NS SABARA;Av. Nossa Sra. do Sabará, 3015;2025-12-16;2334;1;Direito de propriedade;0;0
 28.757.546/0001-00;2025-12-31;1;Grand Plaza Shopping;Avenida Industrial, 600, Sem Complemento, Campestre, Santo André/SP, Brasil, 09080-510;2025-12-02;72000;1;Não possui;0;0
 28.757.546/0001-00;2025-12-31;1;Tiete Plaza Shopping;Avenida Raimundo Pereira De Magalhaes, 1465, Sem Complemento, Jardim Íris, São Paulo/SP, Brasil, 05145-000;2025-12-02;36914;1;Não possui;0;0
 28.757.546/0001-00;2025-12-31;1;Santana Parque Shopping;Rua Conselheiro Moreira De Barros, 2780, , Lauzane Paulista, Sao Paulo/SP, Brasil, 02430-001;2025-12-02;26496;1;Não possui;0;0
@@ -290,33 +290,33 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 35.652.102/0001-76;2025-03-31;1;Vila Olimpia Corporate;Rua Fidencio Ramos, 302, Sem Complemento, Vila Olimpia, Sao Paulo/SP, Brasil, 04551-010;2025-01-31;756.32;2;Não possui características que destoe dos demais;0.0599;0.007045
 36.368.925/0001-37;2025-09-30;1;EXTRA - TERESINHA;Avenida Presidente Kennedy, 501, São Cristóvão - Teresina/PI;2025-08-20;30000;1;n/d;0;0
 36.368.925/0001-37;2025-12-31;1;ASSAÍ - GOIANIA PQ. AMAZONIA;Avenida Padre Orlando de Morais, 2147, Parque Amazônia - Goiânia/GO;2025-11-24;42028.08;1;n/d;0;0
-36.445.551/0001-06;2025-06-30;1;ATIBAIA 11;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;ATIBAIA 32;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;ATIBAIA 72;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;BARROS VIANNA 142;Av. Rebouças, 1480 - Pinheiros, SP;2025-05-23;134;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;COMODORO 52;Pc Amadeu Amaral, 84 - Bela Vista , SP;2025-05-23;144;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;COMODORO 53;Pc Amadeu Amaral, 84 - Bela Vista, SP;2025-05-23;144;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;COTE D´AZUR 123;Rua Guilherme Barbosa de Melo, 84,  Brooklin - SP;2025-05-23;93;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;ELIANE 72;Rua José do Patrocínio, 645,  Aclimação - SP;2025-05-23;99;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;FLÓRIDA 206;Rua Florida, 1350, Cidade Monções - SP;2025-05-23;88;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;FRANCA 102;Al. Franca - 270, Jardim Paulista - SP;2025-05-23;161;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;GABRIEL 11;Al. Gabriel Monteiro da Silva, Jardim América - SP;2025-05-23;153;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;ITAPOÃ 83;Rua Alvorada, 795, Vila Olímpia - SP;2025-05-23;104;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;MANCHESTER 121;Rua Bartolomeu Feio, 66, Brooklin - SP;2025-05-23;89;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;MANCHESTER 131;Rua Bartolomeu Feio, 66, Brooklin - SP;2025-05-23;89;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;MARIBRAS 44;Rua Treze de Maio, 1412,  Bela Vista - SP;2025-05-23;161;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;MERCURIO 71;Rua da Consolação, 2143 - Consolação - SP;2025-05-23;200;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;OLGA 201;Al Campos, 1126, Jardim Paulista - SP;2025-05-23;158;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;PAULA 22;Rua Lisboa, 104, Pinheiros - SP;2025-05-23;104;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;PINHEIROS 2;Rua Joaquim Antunes, 922, Pinheiros - SP;2025-05-23;129;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;RINCÃO 51;Rua Una, 56, Bela Vista - SP;2025-05-23;122;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;RIO D OURO 401;Rua Arruda Alvim, 36, Pinheiros - SP;2025-05-23;111;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;ROSALIA 12;Rua Navarro de Andrade, 320, Pinheiros - SP;2025-05-23;137;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;ROSE MARTE 12;Rua Treze de Maio, 1483, Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;SANTA ROSA 62;Av. Brigadeiro Luís Antonio, 1622, Paraíso - SP;2025-05-23;104;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;SANTOS DUMONT 121;Rua Dr. Plinio Barreto, 249, Bela Vista - SP;2025-05-23;108.3;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;TUITU 604;Av. Paulista, 347, Paraíso - SP;2025-05-23;114;1;Direito de propriedade;;
-36.445.551/0001-06;2025-06-30;1;TURANDOT 610;Rua Paula Ney, 475, Vila Mariana - SP;2025-05-23;101;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;ATIBAIA 11;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;ATIBAIA 32;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;ATIBAIA 72;Rua Dr. Fausto Ferraz, 115 , Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;BARROS VIANNA 142;Av. Rebouças, 1480 - Pinheiros, SP;2025-05-23;134;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;COMODORO 52;Pc Amadeu Amaral, 84 - Bela Vista , SP;2025-05-23;144;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;COMODORO 53;Pc Amadeu Amaral, 84 - Bela Vista, SP;2025-05-23;144;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;COTE D´AZUR 123;Rua Guilherme Barbosa de Melo, 84,  Brooklin - SP;2025-05-23;93;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;ELIANE 72;Rua José do Patrocínio, 645,  Aclimação - SP;2025-05-23;99;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;FLÓRIDA 206;Rua Florida, 1350, Cidade Monções - SP;2025-05-23;88;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;FRANCA 102;Al. Franca - 270, Jardim Paulista - SP;2025-05-23;161;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;GABRIEL 11;Al. Gabriel Monteiro da Silva, Jardim América - SP;2025-05-23;153;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;ITAPOÃ 83;Rua Alvorada, 795, Vila Olímpia - SP;2025-05-23;104;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;MANCHESTER 121;Rua Bartolomeu Feio, 66, Brooklin - SP;2025-05-23;89;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;MANCHESTER 131;Rua Bartolomeu Feio, 66, Brooklin - SP;2025-05-23;89;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;MARIBRAS 44;Rua Treze de Maio, 1412,  Bela Vista - SP;2025-05-23;161;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;MERCURIO 71;Rua da Consolação, 2143 - Consolação - SP;2025-05-23;200;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;OLGA 201;Al Campos, 1126, Jardim Paulista - SP;2025-05-23;158;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;PAULA 22;Rua Lisboa, 104, Pinheiros - SP;2025-05-23;104;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;PINHEIROS 2;Rua Joaquim Antunes, 922, Pinheiros - SP;2025-05-23;129;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;RINCÃO 51;Rua Una, 56, Bela Vista - SP;2025-05-23;122;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;RIO D OURO 401;Rua Arruda Alvim, 36, Pinheiros - SP;2025-05-23;111;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;ROSALIA 12;Rua Navarro de Andrade, 320, Pinheiros - SP;2025-05-23;137;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;ROSE MARTE 12;Rua Treze de Maio, 1483, Paraíso - SP;2025-05-23;141;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;SANTA ROSA 62;Av. Brigadeiro Luís Antonio, 1622, Paraíso - SP;2025-05-23;104;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;SANTOS DUMONT 121;Rua Dr. Plinio Barreto, 249, Bela Vista - SP;2025-05-23;108.3;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;TUITU 604;Av. Paulista, 347, Paraíso - SP;2025-05-23;114;1;Direito de propriedade;;
+36.445.551/0001-06;2025-06-30;2;TURANDOT 610;Rua Paula Ney, 475, Vila Mariana - SP;2025-05-23;101;1;Direito de propriedade;;
 36.501.181/0001-87;2025-12-31;1;Vhouse Faria Lima - unidade 2507;Av. Eusébio Matoso, 218 - Pinheiros, São Paulo - SP;2025-10-01;136.25;1;Matrículas 147.741 147.743 147.745;0.0193;0.0167
 36.501.181/0001-87;2025-12-31;1;VO699;Av. Dr. Cardoso de Melo, 699 - Vila Olímpia, São Paulo - SP;2025-10-01;545.55;131;Totalidade do % detido pelo FII;0.1001;0.0868
 36.517.660/0001-91;2025-03-31;1;Cyrela for you;Rua Apeninos, 973, Paraíso, São Paulo - SP;2025-03-31;553.5;17;n-a;0.169983;0.046446

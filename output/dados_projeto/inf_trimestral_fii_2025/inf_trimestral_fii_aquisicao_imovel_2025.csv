@@ -114,46 +114,46 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 28.548.288/0001-52;2025-09-30;1;GPA SANTANA - SÃO PAULO;Rua Augusto Tolle, 470 - Santana;2877.15;1;n/a;0;Renda
 28.548.288/0001-52;2025-09-30;1;GPA TITO;R. Tito, 639 - 705 - Vila Romana, São Paulo;3643.72;1;n/a;0;Renda
 28.548.288/0001-52;2025-09-30;1;MERCADO LIVRE - ARAUCÁRIA;Av. Cézar Hasselmann, 499-497 - Fazenda Velha, Araucária - PR;149452.44;1;n/a;0;Renda
-28.548.288/0001-52;2025-12-31;1;ALCÂNTARA - CEF;Dr. Alfredo Backer, 5;1688.88;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ANHANGUERA;R. Luiz Otávio, 1313 - Parque Taquara;22787.79;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ÂNIMA CANOAS;Rua Santos Dumont, 88;11664;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ÂNIMA POA;Rua Orfanotrófio, 555, Alto - Teresópolis;29592.24;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ASSAÍ SÃO BERNADO;Av. Piraporinha, 680,Planalto, São Bernardo do Campo;43950;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ATACADÃO - ARAPIRACA;AL-220, 359 - Itapoá;34842.89;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ATACADÃO - CAMARAGIBE;Av. Dr. Belmínio Correia, 4817;40216;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ATACADÃO - DUQUE DE CAXIAS;Rod. Washington Luiz, 121;31600.21;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ATACADÃO - MOSSORÓ;Av. João da Escóssia, 1724;87176;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ATACADÃO - RESENDE;Av. Francisco Fortes Filho,;47776.57;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ATACADÃO - SOBRAL;Av. Sen. Fernandes Távora, 605;33460;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ATACADÃO - TANGARÁ DA SERRA;Av. Domingos Parente de Sá Barreto, 303;51443.56;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;BARRA DA TIJUCA - CEF;Av. das Américas, 3959;1174.08;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;CÂNDIDO BENÍCIO - LOJA A;R. Cândido Benício, 1671;4920;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;CÂNDIDO BENÍCIO - LOJA B;MAT. 126.225;4920;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;CIDADELA - CEF;Av. Antônio Carlos Magalhães,;1219.44;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;CRUZEIRO DO SUL - GUARULHOS/SP;Av. Salgado Filho, 100 - Centro;3390.7;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;ESCOLA ELEVA - RJ;Av. José Silva de Azevedo Neto, 309 - Barra da Tijuca;17961.67;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;FONSECA - CEF;Alameda São Boaventura, 904;935.55;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;FRANCISO MATARAZO - CEF;Av. Francisco Matarazzo, 342;674.4;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;GRANDE CENTER;R. Oswaldo Cruz, 415;2572.58;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;JUNDIAÍ - CEF;Rua Rangel Pestana, 278;1150;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;LINK - CORPORATE GARDEN;Av. Brigadeiro Luís Antônio, 5083;2220.78;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;MATEUS - CAMETÁ/PA;Rodovia BR 422, KM 01, Cametá - PA;28000;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;MATEUS - CARPINA/PE;Av. Conselheiro João Alfredo, 262;18242.09;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;MATEUS - ESTRADA DO ARROZ IMPERATRIZ/MA;Av. Newton Bello, 22;29776.6;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;MATEUS - SALVADOR IGUATEMI/BA;Av. Antônio Carlos Magalhães, 3650;70050;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;MEDICAL CENTER - EINSTEIN;Marginal Pinheiros, 14.500;9185.27;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;PENHA - CEF;Av. Brás de Pina, 02;1134.67;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;RIACHUELO - CEF;R. Riachuelo, 61;1150;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;RIO SUL - CEF;Rua Lauro Müller, 116;1170.07;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;RUA DAS FLORES - CEF;Praça Gen. Osório, 319;1789.05;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;SÃO BENTO - CEF;R. São Bento, 397;1539.8;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;SÃO JOÃO DO MERITI - CEF;Av. Getúlio de Moura, 60;602.23;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;SHOPPING BARRA - CEF;R. Augusto Frederico Schmith, 139;829;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;SHOPPING BARREIRO;Av. Afonso Vaz de Melo, 640;59460;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;SHOPPING MARANHÃO;Av. Prof. Carlos Cunha, 100;55312.91;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;SHOPPING PAMPULHA;Av. Pres. Antônio Carlos, 8100 - Pampulha, Belo Horizonte - MG;23631.65;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;STRIP MALL BARRA - RJ;Av. José Silva de Azevedo Neto, 309 - Barra da Tijuca;2333.33;1;Direito de propriedade;0;Renda
-28.548.288/0001-52;2025-12-31;1;VILA MADALENA - CEF;R. Fradique Coutinho, 1339;800;;Direito de propriedade;;
+28.548.288/0001-52;2025-12-31;2;ALCÂNTARA - CEF;Dr. Alfredo Backer, 5;1688.88;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ANHANGUERA;R. Luiz Otávio, 1313 - Parque Taquara;22787.79;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ÂNIMA CANOAS;Rua Santos Dumont, 88;11664;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ÂNIMA POA;Rua Orfanotrófio, 555, Alto - Teresópolis;29592.24;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ASSAÍ SÃO BERNADO;Av. Piraporinha, 680,Planalto, São Bernardo do Campo;43950;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ATACADÃO - ARAPIRACA;AL-220, 359 - Itapoá;34842.89;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ATACADÃO - CAMARAGIBE;Av. Dr. Belmínio Correia, 4817;40216;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ATACADÃO - DUQUE DE CAXIAS;Rod. Washington Luiz, 121;31600.21;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ATACADÃO - MOSSORÓ;Av. João da Escóssia, 1724;87176;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ATACADÃO - RESENDE;Av. Francisco Fortes Filho,;47776.57;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ATACADÃO - SOBRAL;Av. Sen. Fernandes Távora, 605;33460;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ATACADÃO - TANGARÁ DA SERRA;Av. Domingos Parente de Sá Barreto, 303;51443.56;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;BARRA DA TIJUCA - CEF;Av. das Américas, 3959;1174.08;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;CÂNDIDO BENÍCIO - LOJA A;R. Cândido Benício, 1671;4920;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;CÂNDIDO BENÍCIO - LOJA B;MAT. 126.225;4920;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;CIDADELA - CEF;Av. Antônio Carlos Magalhães,;1219.44;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;CRUZEIRO DO SUL - GUARULHOS/SP;Av. Salgado Filho, 100 - Centro;3390.7;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;ESCOLA ELEVA - RJ;Av. José Silva de Azevedo Neto, 309 - Barra da Tijuca;17961.67;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;FONSECA - CEF;Alameda São Boaventura, 904;935.55;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;FRANCISO MATARAZO - CEF;Av. Francisco Matarazzo, 342;674.4;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;GRANDE CENTER;R. Oswaldo Cruz, 415;2572.58;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;JUNDIAÍ - CEF;Rua Rangel Pestana, 278;1150;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;LINK - CORPORATE GARDEN;Av. Brigadeiro Luís Antônio, 5083;2220.78;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;MATEUS - CAMETÁ/PA;Rodovia BR 422, KM 01, Cametá - PA;28000;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;MATEUS - CARPINA/PE;Av. Conselheiro João Alfredo, 262;18242.09;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;MATEUS - ESTRADA DO ARROZ IMPERATRIZ/MA;Av. Newton Bello, 22;29776.6;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;MATEUS - SALVADOR IGUATEMI/BA;Av. Antônio Carlos Magalhães, 3650;70050;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;MEDICAL CENTER - EINSTEIN;Marginal Pinheiros, 14.500;9185.27;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;PENHA - CEF;Av. Brás de Pina, 02;1134.67;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;RIACHUELO - CEF;R. Riachuelo, 61;1150;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;RIO SUL - CEF;Rua Lauro Müller, 116;1170.07;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;RUA DAS FLORES - CEF;Praça Gen. Osório, 319;1789.05;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;SÃO BENTO - CEF;R. São Bento, 397;1539.8;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;SÃO JOÃO DO MERITI - CEF;Av. Getúlio de Moura, 60;602.23;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;SHOPPING BARRA - CEF;R. Augusto Frederico Schmith, 139;829;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;SHOPPING BARREIRO;Av. Afonso Vaz de Melo, 640;59460;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;SHOPPING MARANHÃO;Av. Prof. Carlos Cunha, 100;55312.91;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;SHOPPING PAMPULHA;Av. Pres. Antônio Carlos, 8100 - Pampulha, Belo Horizonte - MG;23631.65;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;STRIP MALL BARRA - RJ;Av. José Silva de Azevedo Neto, 309 - Barra da Tijuca;2333.33;1;Direito de propriedade;0;Renda
+28.548.288/0001-52;2025-12-31;2;VILA MADALENA - CEF;R. Fradique Coutinho, 1339;800;;Direito de propriedade;;
 28.737.771/0001-85;2025-03-31;1;Assai - Bangu RJ;Avenida Brasil, 33809, Sem Complemento, Bangu, Rio De Janeiro/RJ, Brasil, 21852-002;34520;1;Direito de propriedade;0.04435068612234;Renda
 28.737.771/0001-85;2025-06-30;1;CD Mercado Livre;Rod. Anhanguera, 28, Sem Complemento, Cravinhos, Cravinhos/SP, Brasil, 14140-000;38383.26;1;Não possui informação apresentada.;0.07161211075159;Renda
 28.757.546/0001-00;2025-03-31;1;Carioca Shopping;Avenida Vicente De Carvalho, 909, Sem Complemento, Vila Da Penha, Rio De Janeiro/RJ, Brasil, 21210-623;0;1;Não possuem características que destoem dos demais;0.01833149785542;Renda

@@ -659,7 +659,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 28.548.288/0001-52;2025-03-31;1;Obramax Região Metropolitana do Rio de Janeiro;OBRAMAX_SAOGONÇALO;18657.83;0;0
 28.548.288/0001-52;2025-06-30;1;Obramax Região Metropolitana do Rio de Janeiro;OBRAMAX_SAOGONÇALO;18657.83;0;0
 28.548.288/0001-52;2025-09-30;1;Obramax Região Metropolitana do Rio de Janeiro;OBRAMAX_SAOGONÇALO;18657.83;0;0
-28.548.288/0001-52;2025-12-31;1;Obramax Região Metropolitana do Rio de Janeiro;OBRAMAX_SAOGONÇALO;18657.83;0;0
+28.548.288/0001-52;2025-12-31;2;Obramax Região Metropolitana do Rio de Janeiro;OBRAMAX_SAOGONÇALO;18657.83;0;0
 28.899.178/0001-35;2025-03-31;1;Av. Rebouças, 2.492, 2.516 e 2.538  e Rua taçainha, 61 - Pinheiros São Paulo-SP;Lote 3, 4, 5 e 64;2157;1;0
 29.018.899/0001-51;2025-03-31;1;Avenida Paulista, 1267, Sem Complemento, Bela Vista, Sao Paulo/SP, Brasil, 01311-200;Não possuem catacteristicas que destoem dos demais;1126;1;0
 29.018.899/0001-51;2025-06-30;1;Avenida Paulista, 1267, Sem Complemento, Bela Vista, Sao Paulo/SP, Brasil, 01311-200;Não possuem catacteristicas que destoem dos demais;1126;1;0
@@ -950,8 +950,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 36.930.464/0001-44;2025-09-30;1;Avenida Eugênio Coneglian, N.º 3.550, Distrito Industrial, Marília/SP, CEP: 17.521-460;Fração Ideal de 73,3227% do imóvel de matrícula N.º 38.516 do 2º Oficial de Registro de Imóveis da Comarca de Marília, Estado de São Paulo, sendo a FAZENDA MARIALVA DE CIMA - ÁREA REMANESCENTE "C4", situada em Marília-SP.;106800;0.754;0
 36.969.658/0001-53;2025-03-31;1;Macaé, Rio de Janeiro;22918;27891;1;0
 36.969.658/0001-53;2025-03-31;1;Macaé, Rio de Janeiro;20735;27889;1;0
-37.295.919/0001-60;2025-03-31;1;VITORIA SANT - Rodovia BR-324, 13750;MAT. 21484;35690;1;0
-37.295.919/0001-60;2025-06-30;1;VITORIA SANT - Rodovia BR-324, 13750;MAT. 21484;35690;1;0
+37.295.919/0001-60;2025-03-31;2;VITORIA SANT - Rodovia BR-324, 13750;MAT. 21484;35690;1;0
 38.456.598/0001-09;2025-03-31;1;Rua Comendador Mampei Funada, 406 - Terras de Imoplan - Presidente Prudente, SP 14305144;PP-TR-IMOPL1;99;1;1
 38.456.598/0001-09;2025-03-31;1;Sem Informação;PP-TR-REGIN3;99;1;1
 38.456.598/0001-09;2025-03-31;1;Rua Santo Casarotti, 2990 - Lote 16 - Jardim Santa fé - Presidente Prudente, SP 19060360;PP-TR-STAFE2;372.75;1;1
