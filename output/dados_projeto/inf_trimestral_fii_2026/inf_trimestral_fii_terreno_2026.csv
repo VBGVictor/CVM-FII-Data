@@ -311,7 +311,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 44.584.965/0001-44;2026-03-31;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracilia matricula 11.529;0;0.4984;0
 44.584.965/0001-44;2026-03-31;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 58.931;0;0.2508;0
 44.584.965/0001-44;2026-03-31;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 101.52;0;0.2508;0
+44.584.965/0001-44;2026-06-30;1;Cidade Aracília, do Distrito, Município, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo, Chácaras 03, 04, e 05;Aracília matricula 152.849 (MAT152.849);2165.3;0.802482529742906;0
+44.584.965/0001-44;2026-06-30;1;Rua Ministro Hipólito e Rua Francisco, Santos, consistente na chácara 02, CIDADE ARACÍLIA, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 11.529 (MAT11.529);1100;0.0661132596086025;0
+44.584.965/0001-44;2026-06-30;1;Rua Ministro Hipólito e Rua Francisco, Santos, consistente na chácara 02, CIDADE ARACÍLIA, Comarca e 1ª Circunscrição Imobiliária de Guarulhos, Estado de São Paulo;Aracília matricula 58.931 (ACROPOLES);1100;0.131404210648492;0
 44.585.121/0001-18;2026-03-31;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;FAMA;9259.26;1;0
+44.585.121/0001-18;2026-06-30;1;RUA DOMINGOS ZANIN Nº 0 TAMOIO (JD) ARARAQUARA SP CEP 14800-250;FAMA;9259.26;1;0
 44.669.674/0001-59;2026-03-31;1;JOAOFERRE_SP - SITIO MUTINGA, BARUERI/SP.;Matrícula 13.092;4000;0.0416;0
 44.669.674/0001-59;2026-03-31;1;Tatuape 78,  Rua Visconde de Itaboraí, 78, Tatuapé - São Paulo - SP, 3308050;Matrícula 88.648;352.87;0.025;0.0058
 44.669.674/0001-59;2026-03-31;1;FERNANDES_SP, Rua Mello Freire, S/N;Matrícula 21.135;0;0;0
@@ -320,6 +324,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 47.102.860/0001-08;2026-03-31;1;Rodovia Norte Sul, N 243 (Serra - ES);PROJETO HOSPITAL (Matricula 104.848) - Terreno destinado à construção da Unidade Avançada da Serra. Contrato de Construção pela modalidade de Empreitada Global com a Construtora Baggio e Gerenciamento pela PGMAK. Contrato de Built-to-Suit - BTS com prazo de 20 anos, renovável por igual período.;24831;1;
 47.669.336/0001-05;2026-03-31;1;FAZENDA BARRA DO RIBEIRO;MATRICULA 4837;2666.66;0.5;0
 47.669.336/0001-05;2026-03-31;1;60.375 ALPHAVILE PR;MATRICULA 60.375;754.85;0.5;0
+47.669.336/0001-05;2026-06-30;1;FAZENDA BARRA DO RIBEIRO;MATRICULA 4837;2666.66;1;0
 48.904.259/0001-93;2026-03-31;1;Rua José Sarraceni, 88;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.389;910;0.0726;0
 48.904.259/0001-93;2026-03-31;1;Rua José Sarraceni, 46;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.390;1232;0.0983;0
 48.904.259/0001-93;2026-03-31;1;Av. C.F. Endres, S/N;O terreno está situado na cidade de Guarulhos e é constituído por uma quadra. Matrícula 70.079;99.06;0.0079;0
@@ -351,6 +356,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 51.303.221/0001-70;2026-03-31;1;Rodovia Estadual MT-240, Zona Rural, Água Boa/MT, CEP: 78635-000;matrícula do RGI 7.060 do Ofício de Água Boa MT  - AGUA BOA;1120.4;0.42;0
 51.303.221/0001-70;2026-03-31;1;Av. Gisele, s/n, Lote 52 - Aleixo, Distrito II, Manaus/AM, CEP: 69075-793;matrícula do RGI 47.322 do 4º Ofício de Manaus/AM - MANAUS;5850;0.1858;0
 51.303.221/0001-70;2026-03-31;1;R. Green 05, S/N Lote 08, Quadra 06  - Green Park Condomínio Residencial, Rio Verde/GO, CEP: 75909-620;matrícula do RGI 80.249 do Ofício de Rio Verde/GO - RIO VERDE;482.7;0.1481;0
+51.303.221/0001-70;2026-06-30;1;Rodovia Estadual MT-240, Zona Rural, Água Boa/MT, CEP: 78635-000;matrícula do RGI 7.060 do Ofício de Água Boa MT  - AGUA BOA;1120.4;0.42;0
+51.303.221/0001-70;2026-06-30;1;Av. Gisele, s/n, Lote 52 - Aleixo, Distrito II, Manaus/AM, CEP: 69075-793;matrícula do RGI 47.322 do 4º Ofício de Manaus/AM - MANAUS;5850;0.1858;0
+51.303.221/0001-70;2026-06-30;1;R. Green 05, S/N Lote 08, Quadra 06  - Green Park Condomínio Residencial, Rio Verde/GO, CEP: 75909-620;matrícula do RGI 80.249 do Ofício de Rio Verde/GO - RIO VERDE;482.7;0.1481;0
 51.407.683/0001-37;2026-03-31;1;Area de terras situada em Ribeirão Preto, denominada (Área de Preservação Permanente APP -6);.;0;0.0644;0.064117
 51.407.683/0001-37;2026-03-31;1;Area de terras situada em Ribeirão Preto, com frente para Via José Luiz Galvão, lado par, distante 879,22 metros da cerca da Rodovia Alexandre Balbo no trevo do Km 329;.;0;0.90431;0.90111
 51.472.985/0001-99;2026-03-31;1;R. Sete de Setembro, n° 1213 , Centro - 89010-911, Blumenau - SC,;Neumarkt Shopping;30436.24;0.062;0.130325526610992
@@ -400,6 +408,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 54.275.309/0001-13;2026-03-31;1;Terreno composto dos lotes nº 01,02,03 e 04, da quadra nº 08, no loteamento Jardim Conceiçãozinha, situado no distrito de Vicente de Carvalho, município e comarca de Guarujá-SP;MATRÍCULA 71.186;1131;0.3243;0.32419
 54.275.309/0001-13;2026-03-31;1;PARTE A, do Lote 2 da Quadra A, situado no Parque Industrial-Catanduva;MATRÍCULA 26.103;1999.2;0.15269;0.15264
 54.419.040/0001-00;2026-03-31;1;BENTO ABREU;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;0;0.1009;0
+54.419.040/0001-00;2026-06-30;1;BENTO ABREU;Avenida Bento de Abreu, 1.115, Jardim Primavera, Araraquara - SP, CEP 14.802-396;0;0.1009;0
 54.505.336/0001-35;2026-03-31;1;Rodovia Armando Salles - SP 228, Estrada do Campestre, na Cidade de Itapecerica da Serra, Estado de São Paulo;Matrícula 125435;129801.08;0;0
 54.505.336/0001-35;2026-03-31;1;Rodovia Marechal Rondon, KM 300 + 269m Leste, São Manuel - SP;Matrícula 31037;25000;0;0
 55.034.258/0001-09;2026-03-31;1;SAO GABRIEL - MARCHIONI - Avenida São Gabriel, 201 - Cj 101 Ed. Garden T B Center - Cadastro do Imóvel 016.092.0527-8;LJ CORP;1609;0;0
@@ -443,6 +452,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 62.385.601/0001-17;2026-03-31;1;GUSTAVO_SCHLOSSER;situado no lado ímpar da Rua Gustavo Schlosser, esquina com a Rua Prefeito Germano Schaefer, nº 175, Centro II, Brusque/SC;3085.02;0.0652;0
 62.385.601/0001-17;2026-03-31;1;JVARGAS SUPERMERCADO;Cidade de São José, na rua Vereador Arthur Manoel Mariano, nº 1175, bairro Forquilhinha, objeto da matrícula nº 33.732;3728.26;0.0856;0
 62.385.601/0001-17;2026-03-31;1;PAES LEME;Cidade de Brusque, na Rua Paes Leme, nº 11, Centro I, objeto da matrícula nº 42.297;625.59;0.0282;0
+62.385.601/0001-17;2026-06-30;1;SANTOS DUMONT;Rua Santos Dumont, nº 684, Bairro Santa Terezinha;1965.76;0.0182;0
+62.385.601/0001-17;2026-06-30;1;EMBRAST;Cidade de Itajaí, rua Edmundo Leopoldo Merízio, Limoeiro, nº 320, Matrícula nº 80.970;40792.49;0.6538;0
+62.385.601/0001-17;2026-06-30;1;GUSTAVO_SCHLOSSER;situado no lado ímpar da Rua Gustavo Schlosser, esquina com a Rua Prefeito Germano Schaefer, nº 175, Centro II, Brusque/SC;3085;0.0652;0
+62.385.601/0001-17;2026-06-30;1;JVARGAS SUPERMERCADO;Cidade de São José, na rua Vereador Arthur Manoel Mariano, nº 1175, bairro Forquilhinha, objeto da matrícula nº 33.732;3728.26;0.0856;0
+62.385.601/0001-17;2026-06-30;1;PAES LEME;Cidade de Brusque, na Rua Paes Leme, nº 11, Centro I, objeto da matrícula nº 42.297;625.59;0.0282;0
 62.683.216/0001-56;2026-03-31;1;Gleba denominada Sítio da Mamãe, localizada no município de Cruz, Ceará, com limitações melhores descritas na matrícula 1.092.;NA;228457;0.081081;0
 62.683.216/0001-56;2026-03-31;1;Gleba denominada Fazenda Santo Estevão, situada na localidade de Caiçara, no município de Cruz, Ceará, com limitações melhores descritas na matrícula 1.127.;NA;2092303;0.565405;0
 62.683.216/0001-56;2026-03-31;1;Gleba denominada Fazenda Cajueirinho - Parte 01, situada na localidade de Cajueirinho, no município de Cruz, Ceará, com limitações melhores descritas na matrícula 1.749.;NA;280121.27;0.097297;0
