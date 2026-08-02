@@ -233,6 +233,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 35.725.659/0001-90;2026-03-31;1;SERVIDAO PMG 903;Matrícula 14.111;2451.35;1;0
 36.258.924/0001-30;2026-03-31;1;IMOVEL -TERRENO BELEM;TERRENO BELEM;1000;0.0856;1
 36.312.025/0001-78;2026-03-31;1;Rua Américo Lobo, Quadra E, Lote 28, município de Juiz de Fora, estado de Minas Gerais;Matrícula 4359;373.75;0;0
+36.312.025/0001-78;2026-06-30;1;Rua Américo Lobo, Quadra E, Lote 28, município de Juiz de Fora, estado de Minas Gerais;Matrícula 4359;373.75;0.0042;0
 36.885.948/0001-19;2026-03-31;1;Avenida Marginal Leste, Goiânia Lote de terreno urbano de número 09, da Quadra 04 (ZM-BD);na;330;0;0
 36.885.948/0001-19;2026-03-31;1;Avenida Marginal Leste, Goiânia Lote de terreno urbano de número 10, da Quadra 04 (ZM-BD);na;347.52;0;0
 36.885.948/0001-19;2026-03-31;1;Avenida Marginal Leste, Goiânia Lote de terreno urbano de número 11, da Quadra 04 (ZM-BD);na;319.57;0;0
@@ -258,6 +259,11 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 41.219.454/0001-35;2026-03-31;1;Lote de terreno, localizado na Rua Santa Teresa esquina com a Rua José Maria, no bairro Itanhangá Rua José Maria e Rua Santa Tereza, em Campo Grande/MS;resultante do remembramento dos lotes 25, 26, 27, 28, 29, 29A da quadra 1. Matrícula 288.961;1375.32;0.0636;0
 41.219.454/0001-35;2026-03-31;1;Rua Antônio Ferreira Lima - Terreno Lote 14 da Quadra 04 do Jardim Autonomista III Campo Grande/MS;MAT 193.977;567.28;0.0266;0
 41.219.454/0001-35;2026-03-31;1;Rua Manoel Santiago, 1160 Lote 45-Y Dourados/MS;MAT 147.089;3942.77;0.1093;0
+41.219.454/0001-35;2026-06-30;1;Lote de terreno, localizado na Rua Albino Torraca, 2290 - Lote 45-X2, no Município de Dourados/MS.;MAT 154.357;24509.334;0.7952;0
+41.219.454/0001-35;2026-06-30;1;Lote 06 da quadra 50 do Jardim Inápolis - Rua da Sé, esquina com Rua Rosa Vermelha, município de Campo Grande, MS.;MAT 1.943;1000;0.0052;0
+41.219.454/0001-35;2026-06-30;1;Lote de terreno, localizado na Rua Santa Teresa esquina com a Rua José Maria, no bairro Itanhangá Rua José Maria e Rua Santa Tereza, em Campo Grande/MS;resultante do remembramento dos lotes 25, 26, 27, 28, 29, 29A da quadra 1. Matrícula 288.961;1375.32;0.0636;0
+41.219.454/0001-35;2026-06-30;1;Rua Antônio Ferreira Lima - Terreno Lote 14 da Quadra 04 do Jardim Autonomista III Campo Grande/MS;MAT 193.977;567.28;0.0266;0
+41.219.454/0001-35;2026-06-30;1;Rua Manoel Santiago, 1160 Lote 45-Y Dourados/MS;MAT 147.089;3942.77;0.1093;0
 41.251.337/0001-59;2026-03-31;1;Av. Francisco Loup,1815 - São Sebastião - SP;Terreno e suas edificações localizado na Avenida Francisco Loup, 1815, Praia de Maresias, São Sebastião/SP, bem como o terreno de marinha, contíguo e alodial ao anterior, totalizando a área de 14.083,00m² e área construída de 1.924,34m², objeto da matrícula nº. 34.459;14083;1;0
 41.325.993/0001-59;2026-03-31;1;Avenida Europa, 310;matrícula 43.141;1315;1;0
 41.650.310/0001-39;2026-03-31;1;Avenida Capitão Júlio Bezerra, Lotes 42, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matricula 1025;1160;1;0.00718946689730996
@@ -272,6 +278,18 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 41.650.310/0001-39;2026-03-31;1;Avenida Capitão Júlio Bezerra, Lotes 62, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matrícula 2.396;630;1;
 41.650.310/0001-39;2026-03-31;1;Avenida Capitão Júlio Bezerra, Lotes 98, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matrícula 5.384;980;1;
 41.650.310/0001-39;2026-03-31;1;Ruas Dona Clô e Alvaro Maia, Lote 428,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;Matrícula 52.653;969.3;1;
+41.650.310/0001-39;2026-06-30;1;Avenida Capitão Júlio Bezerra, Lotes 42, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matricula 1025;1160;1;0.00718946689730996
+41.650.310/0001-39;2026-06-30;1;Avenida Nossa Senhora da Conceição, 938, Bairro Jorge Teixeira, Município de Manaus, Estado do Amazonas;Matrícula 12.360;3502.8;1;
+41.650.310/0001-39;2026-06-30;1;Rua Amparo do Itororó, bairro Alvorada - Manaus/AM;Matrícula 12.657;16550.4;1;0.0698135075028257
+41.650.310/0001-39;2026-06-30;1;Avenida Max Teixeira, Bairro Cidade Nova, Manaus, Amazonas;Matrícula 15240;3000;1;0.0212530731964338
+41.650.310/0001-39;2026-06-30;1;Avenida Desembargador João Machado, Lote 4, Bairro Campos Elíseos,Manaus, Amazonas;Matrícula 3574;800;1;0.00394159369370064
+41.650.310/0001-39;2026-06-30;1;Ruas Dona Clô e Alvaro Maia, Lote 490,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;Matrícula 2319;1078;1;
+41.650.310/0001-39;2026-06-30;1;Avenida Capitão Júlio Bezerra, Lotes 83, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matrícula 16408;984;1;0.00623087131100197
+41.650.310/0001-39;2026-06-30;1;Ruas Dona Clô e Alvaro Maia, Lote 370,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;Matrícula 6.232;947.75;1;0.00403934521730441
+41.650.310/0001-39;2026-06-30;1;Rua Moacir Baima, nº 407, Parque 10 de novembro, Manaus, Amazonas.;Matrícula 64.777;1000;1;0.00785165463785167
+41.650.310/0001-39;2026-06-30;1;Avenida Capitão Júlio Bezerra, Lotes 62, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matrícula 2.396;630;1;
+41.650.310/0001-39;2026-06-30;1;Avenida Capitão Júlio Bezerra, Lotes 98, Bairro Nossa Senhora Aparecida, Manaus,Amazonas.;Matrícula 5.384;980;1;
+41.650.310/0001-39;2026-06-30;1;Ruas Dona Clô e Alvaro Maia, Lote 428,Bairro Nossa Senhora Aparecida,Manaus, Amazonas,;Matrícula 52.653;969.3;1;
 41.833.876/0001-04;2026-03-31;1;Fazenda Uanalua, estrada Trancoso - Arraial D'Ajuda, s/n, Trancoso, Porto Seguro/BA;Direito de propriedade;326698.31;1;1
 41.833.876/0001-04;2026-03-31;1;Fazenda Ponta do Curral, Praia de Guaibim, Valença/BA;Direito de propriedade;796963.07;0;0
 41.969.537/0001-41;2026-03-31;1;Rua "D", da Quadra 01 do Loteamento denominado Praia da Ribeira;-;1092;0.0197534;0.0196884
@@ -346,13 +364,20 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 50.957.247/0001-79;2026-03-31;1;PREFEITO ALBARY;MAT. 70.857;51154.33;0;0
 50.957.247/0001-79;2026-03-31;1;RODOVIA DOS MINERIOS;MAT. 3723 E 3724;44930;0;0
 50.957.247/0001-79;2026-03-31;1;UMBARÁ TERRENO;MAT. 123.587 E 123.588;12218.8;0;0
-51.295.092/0001-15;2026-03-31;1;TERRENO LADO IMPAR -  Ribeirão Preto/SP 12.437;matricula 123.024 -;1250;0.0566;0
-51.295.092/0001-15;2026-03-31;1;Lote de Terreno -  Rua Borborema Jaguaribe, Campos do Jordão/SP;matrícula nº 12.665;2717;0.2141;0
-51.295.092/0001-15;2026-03-31;1;Terreno - Fazenda Sao Pedro - Vitória da Conquista;matrícula nº 37.899;12387.47;0.0788;0
-51.295.092/0001-15;2026-03-31;1;Terreno - Dr. Joao Batista de Souza Soares - Avenida Dr. João Batista de Souza Soares;matrícula nº 94.206;9897.12;0.2343;0
-51.295.092/0001-15;2026-03-31;1;Terreno - Águia de Haia  - venida Águia de Haia;matrícula nº 55.327;5880;0.0786;0
-51.295.092/0001-15;2026-03-31;1;Terreno - Avenida Fortaleza - Lauro de Freitas/BA;matrícula nº 11.374;5573.03;0.0638;0
-51.295.092/0001-15;2026-03-31;1;Terreno - Rua Joao Penteado - Ribeirão Preto - SP;matrícula nº 90274;2375;0.034;0
+51.295.092/0001-15;2026-03-31;2;Lote de Terreno -  Rua Borborema Jaguaribe, Campos do Jordão/SP.;matrícula nº 12.665;2717;0;0
+51.295.092/0001-15;2026-03-31;2;Terreno situado na Rua João Godoy, onde encontra-se edificado o prédio nº 551, Ribeirão Preto - SP.;matricula 123.024;1250;0;0
+51.295.092/0001-15;2026-03-31;2;Terreno - Dr. Joao Batista de Souza Soares - Avenida Dr. João Batista de Souza Soares.;matrícula nº 94.206;9897.12;0;0
+51.295.092/0001-15;2026-03-31;2;Frente com a Av. Brumado, lado direito com a Av. Central do Brasil, lado esquerdo com terrno conhecido como Bairro Sobradinho, Vitória da Conquista - BA.;matrícula nº 37.899;12387.47;0;0
+51.295.092/0001-15;2026-03-31;2;Terreno - Avenida Fortaleza, 156 e 204 - Lauro de Freitas/BA.;matrícula  11.374 e 6.530;10354.03;0;0
+51.295.092/0001-15;2026-03-31;2;avenida Água de Haia, 3431 - São Paulo/SP;matrícula nº 55.327;5880;0;0
+51.295.092/0001-15;2026-03-31;2;Rua João Penteado, Rua João Godoy e Rua Professor Mariano Siqueira.;matrícula nº 90274;2375;0;0
+51.295.092/0001-15;2026-06-30;1;Lote de Terreno -  Rua Borborema Jaguaribe, Campos do Jordão/SP.;matrícula nº 12.665;2717;0;0
+51.295.092/0001-15;2026-06-30;1;Terreno situado na Rua João Godoy, onde encontra-se edificado o prédio nº 551, Ribeirão Preto - SP.;matricula 123.024;1250;0;0
+51.295.092/0001-15;2026-06-30;1;Terreno - Dr. Joao Batista de Souza Soares - Avenida Dr. João Batista de Souza Soares.;matrícula nº 94.206;9897.12;0;0
+51.295.092/0001-15;2026-06-30;1;Frente com a Av. Brumado, lado direito com a Av. Central do Brasil, lado esquerdo com terrno conhecido como Bairro Sobradinho, Vitória da Conquista - BA.;matrícula nº 37.899;12387.47;0;0
+51.295.092/0001-15;2026-06-30;1;Terreno - Avenida Fortaleza, 156 e 204 - Lauro de Freitas/BA.;matrícula  11.374 e 6.530;10354.03;0;0
+51.295.092/0001-15;2026-06-30;1;avenida Água de Haia, 3431 - São Paulo/SP;matrícula nº 55.327;5880;0;0
+51.295.092/0001-15;2026-06-30;1;Rua João Penteado, Rua João Godoy e Rua Professor Mariano Siqueira.;matrícula nº 90274;2375;0;0
 51.303.221/0001-70;2026-03-31;1;Rodovia Estadual MT-240, Zona Rural, Água Boa/MT, CEP: 78635-000;matrícula do RGI 7.060 do Ofício de Água Boa MT  - AGUA BOA;1120.4;0.42;0
 51.303.221/0001-70;2026-03-31;1;Av. Gisele, s/n, Lote 52 - Aleixo, Distrito II, Manaus/AM, CEP: 69075-793;matrícula do RGI 47.322 do 4º Ofício de Manaus/AM - MANAUS;5850;0.1858;0
 51.303.221/0001-70;2026-03-31;1;R. Green 05, S/N Lote 08, Quadra 06  - Green Park Condomínio Residencial, Rio Verde/GO, CEP: 75909-620;matrícula do RGI 80.249 do Ofício de Rio Verde/GO - RIO VERDE;482.7;0.1481;0
@@ -434,6 +459,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 58.019.792/0001-26;2026-03-31;1;Av. José Pereira Liberato;MATRÍCULA 17835;49969.72;1;0.033491
 58.239.657/0001-96;2026-03-31;2;Rodovia Br-364, 2410, Km 548, Lote 12, Gleba 24, Alto Paraíso-ro, Eletronorte, Porto Velho/RO, Brasil, 76808-695;Direito de propriedade;290000;1;0
 59.139.645/0001-52;2026-03-31;1;Rua Apôlonio Pereira Martins, 139, Casa Amarela, Betim - MG.;Parque Fabril - Betim (matrícula 91.936 e 106.956);21324;1;0
+59.139.645/0001-52;2026-06-30;1;Rua Apôlonio Pereira Martins, 139, Casa Amarela, Betim - MG.;Parque Fabril - Betim (matrícula 91.936 e 106.956);21324;1;0
 59.693.395/0001-06;2026-03-31;1;Água Branca matricula 5.620;-;683100;0;0
 59.693.395/0001-06;2026-03-31;1;Água Branca matricula 5.622;-;741700;0;0
 59.693.395/0001-06;2026-03-31;1;Água Branca matricula 5.625;-;2044000;0;0
@@ -443,10 +469,13 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 59.891.409/0001-98;2026-03-31;1;Estrada Municipal Arraial D'Ajuda/Trancoso, Km 18, Distrito de Vale Verde;Matrícula nº.22.775 do Oficial de Registro de Imóveis de Porto Seguro-BA;525575.29;;1
 60.220.343/0001-93;2026-03-31;2;São José do Rio Preto/SP;N/A;36300;0;0
 60.522.814/0001-18;2026-03-31;1;Lote nº 290-B/A - Gleba Keller, Mandaguari/PR;N/A;16478.54;1;0
+60.522.814/0001-18;2026-06-30;1;Lote nº 290-B/A - Gleba Keller, Mandaguari/PR;N/A;16478.54;0.6201;0
+60.522.814/0001-18;2026-06-30;1;matriculado sob o nº 2.656 perante o Registro de Imóveis da Comarca de Mandaguari/PR;imóvel matriculado sob o nº 2.656;5500;0.3799;0
 61.247.681/0001-81;2026-03-31;1;Rodovia Presidente Dutra, nº 4.300, área 3, na Cidade de São João de Meriti, Estado do Rio de Janeiro;matrícula nº 926-A;64462;1;0
 61.293.720/0001-87;2026-03-31;1;Avenida Bailarina Selma Parada, s/n - Jardim Nilópolis - Campinas / SP;N/A;1384.65;0.063;0
 61.293.720/0001-87;2026-03-31;1;Av. Dr. Chucri Zaidan, 902 - Vila Cordeiro - São Paulo / SP;N/A;11500;0.015;0
 62.296.221/0001-06;2026-03-31;1;RuaValmirZanete,ÁreaA-Centro,Camboriu/Santa Catarina;matricula 35086;21154.6;1;0
+62.296.221/0001-06;2026-06-30;1;RuaValmirZanete,ÁreaA-Centro,Camboriu/Santa Catarina;matricula 35086;21154.6;1;0
 62.385.601/0001-17;2026-03-31;1;SANTOS DUMONT;Rua Santos Dumont, nº 684, Bairro Santa Terezinha;1965.76;0.0182;0
 62.385.601/0001-17;2026-03-31;1;EMBRAST;Cidade de Itajaí, rua Edmundo Leopoldo Merízio, Limoeiro, nº 320, Matrícula nº 80.970;40792.49;0.6538;0
 62.385.601/0001-17;2026-03-31;1;GUSTAVO_SCHLOSSER;situado no lado ímpar da Rua Gustavo Schlosser, esquina com a Rua Prefeito Germano Schaefer, nº 175, Centro II, Brusque/SC;3085.02;0.0652;0

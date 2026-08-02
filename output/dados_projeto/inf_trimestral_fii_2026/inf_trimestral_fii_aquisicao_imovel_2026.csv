@@ -56,6 +56,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 30.567.216/0001-02;2026-03-31;1;Ed. Arco do Triunfo;Av. Angélica, 745;4145;53;Loja A e cjs de 11 a 134. Matrículas 82749 a 82801, do 2º RGI de São Paulo.;0.048389;Renda
 31.547.782/0001-07;2026-03-31;1;FAZENDA ARAGÃO CAMPINHOS;Situado na BR 365 KM 402 A Esquerda, Patos de Minas/MG;213.63;1;nº 9.129 (dividida) e nº 9.130 (dividida) do 2º Ofício de Registro de Imóveis de Patos de Minas e pelas matrículas nº R-2/8.294 (dividida), nº R-1/8.357 (dividida) e nº R-4/17.139 do 1º Ofício de Registro de Imóveis de Patos de Minas.;0;Renda
 36.312.025/0001-78;2026-03-31;1;REI ALBERTO;Rua Rei Alberto nº 55, apartamento 1201  bairro Centro, Juiz de Fora - MG;396.43;1;NA;0.0188;Renda
+36.312.025/0001-78;2026-06-30;1;REI ALBERTO;Rua Rei Alberto nº 55, apartamento 1201  bairro Centro, Juiz de Fora - MG;396.43;1;NA;0.0188;Renda
 39.714.024/0001-48;2026-03-31;1;Padre Machado;Rua Padre Machado nº 1040/1100 - Vila Mariana - São Paulo/SP;8583.91;1;Matrícula 118.684  do 14º Cartório de Registro de Imóveis de São Paulo.;0.218968;Renda
 39.714.024/0001-48;2026-03-31;1;Marselhesa;Rua Marselhesa, 500, Vila Mariana, São Paulo - SP;6408.56;10;Conjuntos 61, 71, 81, 91, 101, 111, 121, 131, 141 e 151, com matrículas: 242368 a 242.377 respectivamente, ambas do 14º Cartório de Registro de Imóveis de São Paulo.;0.201334;Renda
 39.714.024/0001-48;2026-03-31;1;Napoleão Barros;Rua Loefgreen e Rua Napoleão de Barros, Lotes 301 e 301-A - Vila Mariana - São Paulo/SP;1668.07;1;Matrícula 164.589  do 14º Cartório de Registro de Imóveis de São Paulo.;0.043217;Renda
@@ -64,6 +65,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 42.537.540/0001-59;2026-03-31;1;Jardim Botanico;Rua Jardim Botanico, 187, Sem Complemento, Jardim Botânico, Rio De Janeiro/RJ, Brasil, 22470-050;335;1;Direito de propriedade;0.05325154267694;Renda
 44.669.674/0001-59;2026-03-31;1;408_44669;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
 44.669.674/0001-59;2026-03-31;1;8601_44669;Não possui informação apresentada;0;1;Não possui informação apresentada;0;Renda
+44.728.452/0001-60;2026-03-31;2;OFICINA 39.946;Av Henry Ford 377, Mooca;115;1;Matricula 39946;0.6573;Renda
+44.728.452/0001-60;2026-03-31;2;ARMAZEM 39.945;Av Henry Ford 401, Mooca;1200;1;Matricula 39945;0.3427;Renda
 47.154.849/0001-83;2026-03-31;1;PAUL301;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0206715184107243;Venda
 47.154.849/0001-83;2026-03-31;1;PAUL302;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0210641702483742;Venda
 47.154.849/0001-83;2026-03-31;1;PAUL401;Av. Senador Area Leão, 2355;180;1;Nenhuma característica relevante;0.0210641702483742;Venda
@@ -107,6 +110,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 58.548.730/0001-01;2026-03-31;1;169714_58548;Rua Manoel Couto, n° 510,Apto 700,  Bairro Cidade Jardim, Belo Horizonte/MG;510;1;Não possui informação apresentada;0;Renda
 61.090.977/0001-31;2026-03-31;1;Fazenda Paulista;Zona Rural, Cristalina/Go;6520000;;Matrícula 26.546, do Cartório de Registro de Imóveis de Cristalina/GO;;Renda
 61.090.977/0001-31;2026-03-31;1;Fazenda Dadivosa;Zona Rural, Cristalina/Go;6900000;;Matrícula 11.030, do Cartório de Registro de Imóveis de Cristalina/GO;;Renda
+61.090.977/0001-31;2026-06-30;1;Fazenda Paulista;Zona Rural, Cristalina/Go;6520000;;Matrícula 26.546, do Cartório de Registro de Imóveis de Cristalina/GO;;Renda
+61.090.977/0001-31;2026-06-30;1;Fazenda Dadivosa;Zona Rural, Cristalina/Go;6900000;;Matrícula 11.030, do Cartório de Registro de Imóveis de Cristalina/GO;;Renda
 61.762.309/0001-03;2026-03-31;1;LAJE CORPORTATIVA;RUA HENRI DUNANT, Nº 792 - CHÁCARA SANTO ANTONIO , SÃO PAULO - SP;17103.947;7;N/A;0.875;Venda
 61.848.349/0001-72;2026-03-31;1;Helbor Vila Mariana III;Rua Domingos de Morais nºs 930, 944, 954, 964 e 976 e Rua França Pinto nºs 64 e 70;755.29;6;N/A;0.079410494581582;Venda
 61.848.349/0001-72;2026-03-31;1;Helbor Alegria III;Avenida Doutor Benedicto Laporte Vieira da Motta, Área 7, sob nº 183 no Distrito, Município e Comarca;601.97;6;N/A;0.040254876412883;Venda
@@ -145,6 +150,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Area;Numero_Unidad
 64.581.643/0001-59;2026-03-31;1;125052_64581;Av. Pres. Vargas, 1610 - São Cristovao, Passo Fundo - RS, 99064-000;74348.26;1;Shopping Passo Fundo;0;Renda
 64.634.907/0001-95;2026-03-31;1;CD Novo Mundo;Alameda Dos Flamboyants, S/n, Número 01/17-19, Da Quadra Qc-03, Jardim Florença, Goiânia/GO, Brasil, 74351-015;44824.34;2;Direito de Propriedade;0.31903969068079;Renda
 64.768.430/0001-30;2026-03-31;1;Propriedade rural Nova Odessa - SP;Zona de Produção Industrial - ZPI-7, no "BAIRRO PALMEIRAS", perímetro urbano, na cidade e Comarca de Nova Odessa, do Estado de São Paulo;41000.37;0;matrícula nº. 442, Oficial de Registro de Imóveis de Nova Odessa-SP;1;Renda
+64.768.430/0001-30;2026-06-30;1;Propriedade rural Nova Odessa - SP;Zona de Produção Industrial - ZPI-7, no "BAIRRO PALMEIRAS", perímetro urbano, na cidade e Comarca de Nova Odessa, do Estado de São Paulo;41000.37;0;matrícula nº. 442, Oficial de Registro de Imóveis de Nova Odessa-SP;1;Renda
 65.055.239/0001-04;2026-03-31;1;Helbor Jardins por Artefacto;Alameda Lorena, 1717, Rua Haddock Lobo, 1430 - Jardins, São Paulo - SP, 01424-007;1093.12;3;As unidades e as áreas comuns do empreendimento serão entregues rigorosamente nos termos do projeto aprovado.;0.317622;Venda
 65.055.239/0001-04;2026-03-31;1;Helbor Vila Olímpia Home & Stay;R. Funchal, 65 - Vila Olímpia - São Paulo - SP, 04551-060;1738.45;22;As unidades e as áreas comuns do empreendimento serão entregues rigorosamente nos termos do projeto aprovado.;0.46168;Venda
 65.055.239/0001-04;2026-03-31;1;Condomínio Helbor Signature;R. Otto Boehm, 222 - América, Joinville - SC, 89201-700;373.44;2;As unidades e as áreas comuns do empreendimento serão entregues rigorosamente nos termos do projeto aprovado.;0.019835;Venda
