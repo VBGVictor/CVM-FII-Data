@@ -16,7 +16,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 12.005.956/0001-65;2026-03-31;1;Jundiaí Industrial Park;Rodovia Vice Prefeito Hermenegildo Tonolli, km 2, Jundiaí - SP;2026-01-15;75975.6;2;Proprietário de 90% do ativo (Centro de distribuição);0.0555841641083268;0.0515970095446225
 13.371.132/0001-71;2026-03-31;1;Ed. Tower Bridge Corporate;Av. Jornalista Roberto Marinho, 85, Cidade Monções, Sao Paulo - SP;2026-03-04;13060.07725;13;.;0.230692018085723;0.116548315540738
 14.410.722/0001-29;2026-03-31;1;TOLEDO;RUA 7 DE SETEMBRO, 1209;2026-01-15;4696;1;Nenhuma característica relevante;-0.008418;-0.007837
+14.410.722/0001-29;2026-06-30;1;FLORIPA;PRACA XV DE NOVEMBRO, 321;2026-06-17;6788.73;1;Nenhuma característica relevante;-0.025959;-0.023632
 14.413.342/0001-48;2026-03-31;1;Imóvel Campo Grande;Rua Campo Grande, 120 , Lote 08 do PAL 47.371 - Campo Grande - Rio de Janeiro - RJ;2026-01-01;7212.14;1;Edifícil Comercial;0.0946324571068786;0.0831984071652881
+15.461.076/0001-91;2026-06-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2026-04-16;62.79;1;UNIDADE 1007;0.0044;0.0042
+15.461.076/0001-91;2026-06-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2026-05-04;62.74;1;UNIDADE 1507;0.0044;0.0042
+15.461.076/0001-91;2026-06-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2026-05-19;78;1;UNIDADE 2101;0.0052;0.0049
+15.461.076/0001-91;2026-06-30;1;THE ONE OFFICE;Av. Itália esquina com a Rua Jurandir Martins - Taubaté SP;2026-06-01;77;1;UNIDADE 2105;0.0049;0.0047
 15.576.907/0001-70;2026-03-31;1;Anchieta;Via Anchieta, nº 1558;2026-03-16;1785;1;n-a;0.002154;0.001894
 15.576.907/0001-70;2026-03-31;1;SÃO GONÇALO - ALCÂNTARA;Rua João de Almeida, 72 - São Gonçalo - RJ;2026-02-19;1089;1;n-a;0.004871;0.004283
 19.249.989/0001-08;2026-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;2026-03-26;73.48;1;Unidade 702;0.08655;0.002307
@@ -28,6 +33,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 28.893.734/0001-66;2026-03-31;1;SC_302_B;Rua Missionário Gunnar Vingren, 1904 - Saint Charbel Residencial Saint Charbel Unidade 302 B;2026-02-09;175.31;1;Nenhuma característica relevante;0.84047;0.456956
 28.893.734/0001-66;2026-03-31;1;SV_204B;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 204 B;2026-01-20;110.17;1;Nenhuma característica relevante;0.713607;0.387981
 28.893.734/0001-66;2026-03-31;1;GV1_701;Rua Ituverava, 562 - SPE Ituverava Empreendimentos Imobiliários Condomínio Grand Village Freguesia Unidade 701 1;2026-02-11;207.45;1;Nenhuma característica relevante;0.777039;0.422468
+28.893.734/0001-66;2026-06-30;1;SV_304B;Rua Coronel Veiga,  585 - Coronel Veiga Residencial San Vicenzo Unidade 304 B;2026-04-14;110.17;1;Nenhuma característica relevante;1;1
 31.161.410/0001-48;2026-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;2026-03-26;73.48;1;Unidade 702;0.08655;0.001673
 31.161.410/0001-48;2026-03-31;1;Vista Park;R. Dra. Neyde Apparecida Sollitto, 252/306 - Vila Clementino;2026-03-26;73.48;1;Unidade 902;0.08655;0.001673
 32.754.734/0001-52;2026-03-31;1;Silo Bela Vista do Paraiso;Rodovia Pr 537, Km 0.3, Sem Complemento, , Bela Vista Do Paraiso/PR, Brasil, 86130-000;2026-01-24;12873.36;1;Direito de Propriedade;0.1024792270014;11.0409515459291
@@ -55,6 +61,30 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 34.691.925/0001-48;2026-03-31;1;NM_713_6;Sala Comercial OR Empreendimentos Novo Mundo Unidade 713 - Av. A nº 4165;2026-02-02;109.18;1;Nenhuma característica relevante;0.000786;0.000882
 34.691.925/0001-48;2026-03-31;1;VER_B114;Loja Calçada Condomínio Vertice Unidade 114 B - Av. Miguel Antonio Frnandes, 1333;2026-02-11;181.13;1;Nenhuma característica relevante;0.003331;0.003738
 34.691.925/0001-48;2026-03-31;1;VER_B212;Loja Calçada Condomínio Vertice Unidade 212 B - Av. Miguel Antonio Frnandes, 1333;2026-02-10;71.78;1;Nenhuma característica relevante;0.00124;0.001391
+34.691.925/0001-48;2026-06-30;1;NM_38_L;Av. A - Quadra F1, 4165 - Loja 38, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-01-29;340.23;1;Nenhuma característica relevante;0.038228;0.041499
+34.691.925/0001-48;2026-06-30;1;NM_402_2;Av. A - Quadra F1, 4165 - Sala 402, Torre - 2, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-06-24;33.65;1;Nenhuma característica relevante;0.0084;0.009119
+34.691.925/0001-48;2026-06-30;1;NM_403_2;Av. A - Quadra F1, 4165 - Sala 403, Torre - 2, Praia do Paiva - Cabo de Santo Agostinho-PE;2026-04-16;33.65;1;Nenhuma característica relevante;0.000652;0.000708
+34.691.925/0001-48;2026-06-30;1;NM_101_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 101 - Av. A nº 4165;2026-05-04;123.54;1;Nenhuma característica relevante;0.000647;0.000703
+34.691.925/0001-48;2026-06-30;1;NM_102_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 102 - Av. A nº 4165;2026-06-30;92.67;1;Nenhuma característica relevante;0.001114;0.001209
+34.691.925/0001-48;2026-06-30;1;NM_216_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 216 - Av. A nº 4165;2026-04-02;96.46;1;Nenhuma característica relevante;0.000836;0.000907
+34.691.925/0001-48;2026-06-30;1;NM_306_5;Sala Comercial OR Empreendimentos Novo Mundo Unidade 306 - Av. A nº 4165;2026-05-20;96.46;1;Nenhuma característica relevante;0.000612;0.000664
+34.691.925/0001-48;2026-06-30;1;NM_307_5;Sala Comercial OR Empreendimentos Novo Mundo Unidade 307 - Av. A nº 4165;2026-06-05;96.46;1;Nenhuma característica relevante;0.000647;0.000703
+34.691.925/0001-48;2026-06-30;1;NM_511_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 511 - Av. A nº 4165;2026-06-05;143.69;1;Nenhuma característica relevante;0.000647;0.000703
+34.691.925/0001-48;2026-06-30;1;NM_512_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 512 - Av. A nº 4165;2026-06-23;120.62;1;Nenhuma característica relevante;0.000953;0.001035
+34.691.925/0001-48;2026-06-30;1;NM_513_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 513 - Av. A nº 4165;2026-06-23;109.18;1;Nenhuma característica relevante;0.0008;0.000868
+34.691.925/0001-48;2026-06-30;1;NM_514_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 514 - Av. A nº 4165;2026-06-23;96.46;1;Nenhuma característica relevante;0.000724;0.000786
+34.691.925/0001-48;2026-06-30;1;NM_515_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 515 - Av. A nº 4165;2026-06-23;96.46;1;Nenhuma característica relevante;0.000639;0.000694
+34.691.925/0001-48;2026-06-30;1;NM_516_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 516 - Av. A nº 4165;2026-06-23;96.46;1;Nenhuma característica relevante;0.000639;0.000694
+34.691.925/0001-48;2026-06-30;1;NM_517_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 517 - Av. A nº 4165;2026-06-23;96.46;1;Nenhuma característica relevante;0.000639;0.000694
+34.691.925/0001-48;2026-06-30;1;NM_518_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 518 - Av. A nº 4165;2026-06-23;96.46;1;Nenhuma característica relevante;0.000639;0.000694
+34.691.925/0001-48;2026-06-30;1;NM_519_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 519 - Av. A nº 4165;2026-06-23;96.46;1;Nenhuma característica relevante;0.000639;0.000694
+34.691.925/0001-48;2026-06-30;1;NM_520_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 520 - Av. A nº 4165;2026-06-23;137.62;1;Nenhuma característica relevante;0.000639;0.000694
+34.691.925/0001-48;2026-06-30;1;NM_521_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 521 - Av. A nº 4165;2026-06-23;119.73;1;Nenhuma característica relevante;0.000913;0.000991
+34.691.925/0001-48;2026-06-30;1;NM_522_3;Sala Comercial OR Empreendimentos Novo Mundo Unidade 522 - Av. A nº 4165;2026-06-23;116.06;1;Nenhuma característica relevante;0.000794;0.000862
+34.691.925/0001-48;2026-06-30;1;NM_604_2;Sala Comercial OR Empreendimentos Novo Mundo Unidade 604 - Av. A nº 4165;2026-06-23;96.46;1;Nenhuma característica relevante;0.00077;0.000835
+34.691.925/0001-48;2026-06-30;1;VER_A215;Loja Calçada Condomínio Vertice Unidade 215 A - Av. Miguel Antonio Frnandes, 1333;2026-05-04;91.06;1;Nenhuma característica relevante;0.000683;0.000742
+34.691.925/0001-48;2026-06-30;1;VER_B614;Sala Comercial Calçada Condomínio Vertice Unidade 614 B - Av. Miguel Antonio Frnandes, 1333;2026-04-17;44.89;1;Nenhuma característica relevante;0.001666;0.001809
+34.691.925/0001-48;2026-06-30;1;VER_A621;Sala Comercial Calçada Condomínio Vertice Unidade 621 A - Av. Miguel Antonio Frnandes, 1333;2026-06-05;34.96;1;Nenhuma característica relevante;0.000514;0.000558
 34.895.711/0001-93;2026-03-31;1;ALPHACASTELLO;Rua Paraná, Itu/SP;2025-12-17;0;2;São Paulo;0;0
 36.368.925/0001-37;2026-03-31;1;ASSAÍ - GOIANIA PQ. AMAZONIA;Avenida Padre Orlando de Morais, 2147, Parque Amazônia - Goiânia/GO;2025-11-24;42028.08;1;n/d;0;0
 40.054.838/0001-82;2026-03-31;1;Edificio Piazza Di Spagna;Rua Bartira, 62, Sem Complemento, Perdizes, São Paulo/SP, Brasil, 05009-000;2026-01-21;304.53;5;Direito de propriedade;0.11109832035886;11.2532596124598
@@ -96,6 +126,33 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Imovel;Endereco;Data_Alienacao;Are
 47.154.849/0001-83;2026-03-31;1;NEX2_ 27;Av Chácara das Nascentes, s/n;2026-02-09;99.1;1;Nenhuma característica relevante;0.007113;0.002198
 47.154.849/0001-83;2026-03-31;1;PAU1202;Av. Senador Area Leão, 2355;2026-03-17;180;1;Nenhuma característica relevante;0.026405;0.008159
 47.154.849/0001-83;2026-03-31;1;PAUL2202;Av. Senador Area Leão, 2355;2026-03-06;180;1;Nenhuma característica relevante;0.028735;0.008879
+47.154.849/0001-83;2026-06-30;1;NR1_29;;2026-04-10;;;Nenhuma característica relevante;0.008953;0.002175
+47.154.849/0001-83;2026-06-30;1;SKY_516;;2026-04-24;;;Nenhuma característica relevante;0.005583;0.001356
+47.154.849/0001-83;2026-06-30;1;GR_203D;;2026-04-29;;;Nenhuma característica relevante;0.006954;0.00169
+47.154.849/0001-83;2026-06-30;1;GR_98AV;;2026-04-29;;;Nenhuma característica relevante;0.000685;0.000166
+47.154.849/0001-83;2026-06-30;1;OFX_507;;2026-05-26;;;Nenhuma característica relevante;0.00235;0.000571
+47.154.849/0001-83;2026-06-30;1;SKY_212;;2026-06-25;;;Nenhuma característica relevante;0.005798;0.001409
+47.154.849/0001-83;2026-06-30;1;Bus2_601;;2026-04-02;;;Nenhuma característica relevante;0.001953;0.000474
+47.154.849/0001-83;2026-06-30;1;Uniq_505;;2026-04-08;;;Nenhuma característica relevante;0.003663;0.00089
+47.154.849/0001-83;2026-06-30;1;NEX2_ 34;;2026-04-10;;;Nenhuma característica relevante;0.006856;0.001666
+47.154.849/0001-83;2026-06-30;1;NEX2_ 25;;2026-04-16;;;Nenhuma característica relevante;0.006896;0.001675
+47.154.849/0001-83;2026-06-30;1;NEX2_ 44;;2026-04-17;;;Nenhuma característica relevante;0.00862;0.002094
+47.154.849/0001-83;2026-06-30;1;Bus2_502;;2026-04-17;;;Nenhuma característica relevante;0.001919;0.000466
+47.154.849/0001-83;2026-06-30;1;Bus2_503;;2026-04-17;;;Nenhuma característica relevante;0.001919;0.000466
+47.154.849/0001-83;2026-06-30;1;PAUL1301;;2026-04-30;;;Nenhuma característica relevante;0.035263;0.00857
+47.154.849/0001-83;2026-06-30;1;Bus2_301;;2026-05-07;;;Nenhuma característica relevante;0.001953;0.000474
+47.154.849/0001-83;2026-06-30;1;Bus2_302;;2026-05-07;;;Nenhuma característica relevante;0.001919;0.000466
+47.154.849/0001-83;2026-06-30;1;NEW904;;2026-05-08;;;Nenhuma característica relevante;0.00632;0.001536
+47.154.849/0001-83;2026-06-30;1;NEW1504;;2026-05-15;;;Nenhuma característica relevante;0.008919;0.002167
+47.154.849/0001-83;2026-06-30;1;NEX2_ 04;;2026-05-18;;;Nenhuma característica relevante;0.006073;0.001475
+47.154.849/0001-83;2026-06-30;1;NEW503;;2026-05-19;;;Nenhuma característica relevante;0.006202;0.001507
+47.154.849/0001-83;2026-06-30;1;NEW1604;;2026-05-22;;;Nenhuma característica relevante;0.006536;0.001588
+47.154.849/0001-83;2026-06-30;1;NEX2_ 24;;2026-05-25;;;Nenhuma característica relevante;0.007033;0.001709
+47.154.849/0001-83;2026-06-30;1;PAU1401;;2026-05-27;;;Nenhuma característica relevante;0.033696;0.008189
+47.154.849/0001-83;2026-06-30;1;PAUL402;;2026-06-05;;;Nenhuma característica relevante;0.031933;0.00776
+47.154.849/0001-83;2026-06-30;1;PAUL1201;;2026-06-10;;;Nenhuma característica relevante;0.034284;0.008332
+47.154.849/0001-83;2026-06-30;1;NEX2_ 05;;2026-06-10;;;Nenhuma característica relevante;0.008815;0.002142
+47.154.849/0001-83;2026-06-30;1;NEX2_ 23;;2026-06-23;;;Nenhuma característica relevante;0.006954;0.00169
 47.669.336/0001-05;2026-06-30;1;Vila Cora;Edifício Residencial VILLA CORA de Balneário Camboriú-SC;2026-05-22;217.23;1;Matrícula nº 27.153;0.139244251823229;0.203991415784195
 51.870.412/0001-13;2026-03-31;1;Habitat - Vida;R. Paranaíba, 581 - St. Planalto, Jataí - GO, 75805-045;2026-01-19;189.15;3;N/A;0.363617138585043;0.0017
 51.870.412/0001-13;2026-03-31;1;Habitat - Vida;R. Paranaíba, 581 - St. Planalto, Jataí - GO, 75805-045;2026-02-13;63.05;1;N/A;0.190460366252145;0.00057
