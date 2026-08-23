@@ -159,10 +159,10 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 06.175.262/0001-73;2026-06-30;1;Avenida Paulista, 1728, São Paulo/SP (1ª ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
 06.175.262/0001-73;2026-06-30;1;Avenida Paulista, 1728, São Paulo/SP (SL E 2ª ANDAR);Reajuste anual por indexador vinculado à inflação (IGP-M ou IPCA). Todos contratos típicos de locação, multa em caso de rescisão antecipada equivalente a 3 meses do valor do aluguel à época, calculados de maneira proporcional ao decurso do prazo do contrato.
 07.122.725/0001-00;2026-03-31;3;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
-07.122.725/0001-00;2026-06-30;1;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
+07.122.725/0001-00;2026-06-30;2;Edificio Torre Almirante;Não possui caracteristicas que destoem dos demais
 07.224.019/0001-60;2026-03-31;1;-;-
-07.224.019/0001-60;2026-06-30;1;Shopping Parque Dom Pedro - Bloco 1B (EUC A-013);Não possui caracteristicas que destoem dos demais
-07.224.019/0001-60;2026-06-30;1;SHOPPING PARQUE DOM PEDRO II;Não possui caracteristicas que destoem dos demais
+07.224.019/0001-60;2026-06-30;2;Shopping Parque Dom Pedro - Bloco 1B (EUC A-013);Não possui caracteristicas que destoem dos demais
+07.224.019/0001-60;2026-06-30;2;SHOPPING PARQUE DOM PEDRO II;Não possui caracteristicas que destoem dos demais
 07.583.627/0001-61;2026-03-31;1;Loja 0009 - Jd Paulistano;Não possui caracteristicas que destoem dos demais
 07.583.627/0001-61;2026-03-31;1;Loja 0039 - Pacaembu;Não possui caracteristicas que destoem dos demais
 07.583.627/0001-61;2026-03-31;1;Loja 0122 - Aracatuba;Não possui caracteristicas que destoem dos demais
@@ -1605,6 +1605,76 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 26.545.627/0001-11;2026-03-31;1;TER VITÓRIA SANTO ANTÃO;Item acima
 26.545.627/0001-11;2026-03-31;1;ED_ARARAS;Item acima
 26.545.627/0001-11;2026-03-31;1;13;
+26.545.627/0001-11;2026-06-30;1;CA20111;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20112;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20114;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20115;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20116;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20117;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20118;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20119;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20120;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20121;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20122;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20123;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20124;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20125;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20126;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20127;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20128;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20129;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20130;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20131;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20132;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20133;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20134;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20135;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20136;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20137;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20138;Item acima
+26.545.627/0001-11;2026-06-30;1;CI59118;Item acima
+26.545.627/0001-11;2026-06-30;1;CA12831;Item acima
+26.545.627/0001-11;2026-06-30;1;CA12832;Item acima
+26.545.627/0001-11;2026-06-30;1;CA12833;Item acima
+26.545.627/0001-11;2026-06-30;1;CA12834;Item acima
+26.545.627/0001-11;2026-06-30;1;CA19493;Item acima
+26.545.627/0001-11;2026-06-30;1;CA19496;Item acima
+26.545.627/0001-11;2026-06-30;1;CA194962;Item acima
+26.545.627/0001-11;2026-06-30;1;CA19794;Item acima
+26.545.627/0001-11;2026-06-30;1;CA20113;Item acima
+26.545.627/0001-11;2026-06-30;1;CA2970;Item acima
+26.545.627/0001-11;2026-06-30;1;CA2971;Item acima
+26.545.627/0001-11;2026-06-30;1;CA2972;Item acima
+26.545.627/0001-11;2026-06-30;1;CA2973;Item acima
+26.545.627/0001-11;2026-06-30;1;CA2974;Item acima
+26.545.627/0001-11;2026-06-30;1;CA2975;Item acima
+26.545.627/0001-11;2026-06-30;1;CA2976;Item acima
+26.545.627/0001-11;2026-06-30;1;CA2977;Item acima
+26.545.627/0001-11;2026-06-30;1;CA2978;Item acima
+26.545.627/0001-11;2026-06-30;1;CA3612;Item acima
+26.545.627/0001-11;2026-06-30;1;CA3613;Item acima
+26.545.627/0001-11;2026-06-30;1;CA3614;Item acima
+26.545.627/0001-11;2026-06-30;1;CA3615;Item acima
+26.545.627/0001-11;2026-06-30;1;CA3616;Item acima
+26.545.627/0001-11;2026-06-30;1;CA3617;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41474;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41475;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41476;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41477;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41478;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41479;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41480;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41481;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41482;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41483;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41484;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41485;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41486;Item acima
+26.545.627/0001-11;2026-06-30;1;CA41487;Item acima
+26.545.627/0001-11;2026-06-30;1;Ter Ribeirão Preto;Item acima
+26.545.627/0001-11;2026-06-30;1;TER VITÓRIA SANTO ANTÃO;Item acima
+26.545.627/0001-11;2026-06-30;1;ED_ARARAS;Item acima
+26.545.627/0001-11;2026-06-30;1;13;
 26.614.291/0001-00;2026-03-31;1;Informação não apresentada;Informação não apresentada
 26.614.291/0001-00;2026-06-30;1;Informação não apresentada;Informação não apresentada
 26.642.727/0001-66;2026-03-31;1;Shopping Estacao Curitiba;Não possui caracteristicas que destoem dos demais
@@ -1680,7 +1750,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 28.267.696/0001-36;2026-06-30;1;Garagem Oeste;Não possui caracteristicas que destoem dos demais
 28.267.696/0001-36;2026-06-30;1;Imovel Visolux - Parque Industrial - Maringa - PR;Não possui caracteristicas que destoem dos demais
 28.516.325/0001-40;2026-03-31;1;Não possui informação apresentada;Não possui informação apresentada
-28.516.325/0001-40;2026-06-30;1;Não possui informação apresentada;Não possui informação apresentada
+28.516.325/0001-40;2026-06-30;2;Não possui informação apresentada;Não possui informação apresentada
 28.548.288/0001-52;2026-03-31;1;Assaí Cidade Alta;ÁTIPICO
 28.548.288/0001-52;2026-03-31;1;Extra  Peruíbe;ÁTIPICO
 28.548.288/0001-52;2026-03-31;1;Extra  Praia Grande;ÁTIPICO
@@ -1890,29 +1960,29 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 28.737.771/0001-85;2026-03-31;2;CDB - Morumbi;Não possui caracteristicas que destoem dos demais
 28.737.771/0001-85;2026-03-31;2;Assai - Bangu RJ;Não possui caracteristicas que destoem dos demais
 28.737.771/0001-85;2026-03-31;2;CD Mercado Livre;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Atento Del Castilho;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;BRF Bauru;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;BRF Guarulhos;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Imovel Comercial Momentum Jd Guedala - Arapore;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;APTIV Espirito Santo do Pinhal;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Editora Moderna Santillana - Belenzinho;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Air Liquide - Galpao Vila Carioca;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Decathlon - Morumbi;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Imovel Globo - Jardim Botanico;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Dasa - Sumare;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Dasa - Ascendino Reis;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Imovel Clariant - Nacoes Unidas;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Bauducco - Guarulhos;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Galpao Femsa;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Emprendimento Pueri Domus;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;OBA Hortifruti - SBC;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;OBA Hortifruti - SJRP;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;CDB - Ana Rosa;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;CDB - Morumbi;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Assai - Bangu RJ;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;CD Mercado Livre;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;Imovel Estancia Bela Vista;Não possui caracteristicas que destoem dos demais
-28.737.771/0001-85;2026-06-30;1;OBA Hortifruti - CD Sumare;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Atento Del Castilho;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;BRF Bauru;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;BRF Guarulhos;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Imovel Comercial Momentum Jd Guedala - Arapore;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;APTIV Espirito Santo do Pinhal;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Editora Moderna Santillana - Belenzinho;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Air Liquide - Galpao Vila Carioca;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Decathlon - Morumbi;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Imovel Globo - Jardim Botanico;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Dasa - Sumare;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Dasa - Ascendino Reis;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Imovel Clariant - Nacoes Unidas;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Bauducco - Guarulhos;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Galpao Femsa;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Emprendimento Pueri Domus;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;OBA Hortifruti - SBC;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;OBA Hortifruti - SJRP;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;CDB - Ana Rosa;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;CDB - Morumbi;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Assai - Bangu RJ;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;CD Mercado Livre;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;Imovel Estancia Bela Vista;Não possui caracteristicas que destoem dos demais
+28.737.771/0001-85;2026-06-30;2;OBA Hortifruti - CD Sumare;Não possui caracteristicas que destoem dos demais
 28.757.546/0001-00;2026-03-31;1;Caxias Shopping;Não possui caracteristicas que destoem dos demais
 28.757.546/0001-00;2026-03-31;1;Shopping Cidade Jardim;Não possui caracteristicas que destoem dos demais
 28.757.546/0001-00;2026-03-31;1;Catarina Fashion Outlet;Não possui caracteristicas que destoem dos demais
@@ -1965,7 +2035,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 30.048.651/0001-12;2026-06-30;1;Edifício RM Square;Nenhuma característica contratual que destoe sensivelmente dos demais
 30.048.651/0001-12;2026-06-30;1;Edifício Sky Corporate;Nenhuma característica contratual que destoe sensivelmente dos demais
 30.091.506/0001-14;2026-03-31;1;Shopping Nova Iguacu;Não possui caracteristicas que destoem dos demais
-30.091.506/0001-14;2026-06-30;1;Shopping Nova Iguacu;Não possui caracteristicas que destoem dos demais
+30.091.506/0001-14;2026-06-30;2;Shopping Nova Iguacu;Não possui caracteristicas que destoem dos demais
 30.178.506/0001-56;2026-03-31;1;Não possui informação apresentada.;Não possui informação apresentada.
 30.178.506/0001-56;2026-06-30;1;Não possui informação apresentada.;Não possui informação apresentada.
 30.248.158/0001-46;2026-03-31;1;Boulevard Shopping Campos;Não possui caracteristicas que destoem dos demais
@@ -2514,6 +2584,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 36.930.464/0001-44;2026-06-30;1;Condomínio Logístico Marília 01;N/A
 36.969.658/0001-53;2026-03-31;1;Empreendimento Atlântico;Matrícula nº 27.891
 36.969.658/0001-53;2026-03-31;1;Empreendimento Serrano;Matrícula nº 27.889
+36.969.658/0001-53;2026-06-30;1;Empreendimento Atlântico;Matrícula nº 27.891
+36.969.658/0001-53;2026-06-30;1;Empreendimento Serrano;Matrícula nº 27.889
 37.295.919/0001-60;2026-03-31;1;CACHOERIN;Sem informações apresentadas
 37.295.919/0001-60;2026-03-31;1;CANOAS/RS;Sem informações apresentadas
 37.295.919/0001-60;2026-03-31;1;S J DOS CAMP;Sem informações apresentadas
@@ -2521,11 +2593,12 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 37.295.919/0001-60;2026-06-30;1;CANOAS/RS;Sem informações apresentadas
 37.295.919/0001-60;2026-06-30;1;S J DOS CAMP;Sem informações apresentadas
 37.433.832/0001-01;2026-03-31;1;Imóvel Vênus FII;Não possui informação apresentada.
+37.433.832/0001-01;2026-06-30;1;Não possui informação apresentada.;Não possui informação apresentada.
 37.899.356/0001-19;2026-03-31;2;CENU - Torre Oeste;Não possui caracteristicas que destoem dos demais
 37.899.356/0001-19;2026-06-30;1;CENU - Torre Oeste;Não possui caracteristicas que destoem dos demais
 37.899.479/0001-50;2026-03-31;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 37.899.479/0001-50;2026-06-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
-37.931.298/0001-63;2026-03-31;1;-;-
+37.931.298/0001-63;2026-03-31;2;-;-
 37.931.298/0001-63;2026-06-30;1;-;-
 37.950.819/0001-20;2026-03-31;1;Complexo Industrial Eurofarma;Não possui caracteristicas que destoem dos demais
 37.950.819/0001-20;2026-06-30;1;Complexo Industrial Eurofarma;Não possui caracteristicas que destoem dos demais
@@ -2657,8 +2730,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 41.076.748/0001-55;2026-06-30;1;BLCA - Edificio Patio Victor Malzoni;Não possui caracteristicas que destoem dos demais
 41.076.823/0001-88;2026-03-31;2;UrbanHub Guarulhos;Não possui caracteristicas que destoem dos demais
 41.076.823/0001-88;2026-03-31;2;UrbanHub Maua;Não possui caracteristicas que destoem dos demais
-41.076.823/0001-88;2026-06-30;1;UrbanHub Guarulhos;Não possui caracteristicas que destoem dos demais
-41.076.823/0001-88;2026-06-30;1;UrbanHub Maua;Não possui caracteristicas que destoem dos demais
+41.076.823/0001-88;2026-06-30;2;UrbanHub Guarulhos;Não possui caracteristicas que destoem dos demais
+41.076.823/0001-88;2026-06-30;2;UrbanHub Maua;Não possui caracteristicas que destoem dos demais
 41.081.336/0001-03;2026-03-31;1;Galpão Santo Amaro  (GRUPO SINAL);Conforme contrato.
 41.081.336/0001-03;2026-03-31;1;Galpão Diadema (GRUPO SINAL);Conforme contrato.
 41.081.336/0001-03;2026-03-31;1;Galpão Mooca (GRUPO SINAL);Conforme contrato.
@@ -2831,6 +2904,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 42.869.892/0001-01;2026-03-31;1;FONSECA RODRIGUES- 50.218 - 10º RI;N/A
 42.869.892/0001-01;2026-06-30;1;FONSECA RODRIGUES- 50.218 - 10º RI;N/A
 42.922.127/0001-08;2026-03-31;1;Galpão Itapevi;Rescisão: aviso prévio 12 meses + multa de 13 alugueis proporcionais
+42.922.127/0001-08;2026-06-30;1;Galpão Itapevi;Rescisão: aviso prévio 12 meses + multa de 13 alugueis proporcionais
 43.009.610/0001-69;2026-03-31;1;Shopping Plaza Sul;Não possui caracteristicas que destoem dos demais
 43.009.610/0001-69;2026-06-30;1;Shopping Plaza Sul;Não possui caracteristicas que destoem dos demais
 43.009.610/0001-69;2026-06-30;1;Shopping Patio Higienopolis;Não possui caracteristicas que destoem dos demais
@@ -2916,19 +2990,19 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 44.728.520/0001-90;2026-03-31;1;Imóvel Rua Cuba;Matrícula 77.677
 44.728.520/0001-90;2026-06-30;1;Condomínio Artur Ramos;Matrícula 96.309
 44.728.520/0001-90;2026-06-30;1;Edíficio Saint Paul;Matrícula 102.138
-45.063.985/0001-32;2026-03-31;1;ABILIO SOARE;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;ALMANARA;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;ANGELICA;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;ANTARES;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;BUZIOS;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;CAJAZEIRAS;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;CAMP PROENCA;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;GOIANIA FLAM;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;ITABUNA/BA;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;L02 NORTE;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;MACEIO;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;N SRA SABARA;ATÍPICO
-45.063.985/0001-32;2026-03-31;1;STOANDRE;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;ABILIO SOARE;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;ALMANARA;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;ANGELICA;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;ANTARES;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;BUZIOS;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;CAJAZEIRAS;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;CAMP PROENCA;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;GOIANIA FLAM;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;ITABUNA/BA;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;L02 NORTE;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;MACEIO;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;N SRA SABARA;ATÍPICO
+45.063.985/0001-32;2026-03-31;2;STOANDRE;ATÍPICO
 45.063.985/0001-32;2026-06-30;1;ABILIO SOARE;ATÍPICO
 45.063.985/0001-32;2026-06-30;1;ALMANARA;ATÍPICO
 45.063.985/0001-32;2026-06-30;1;ANGELICA;ATÍPICO
@@ -3218,8 +3292,22 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 52.321.885/0001-24;2026-03-31;1;IMOVEL 12;Estada Fazenda Tabocas, s/N
 52.321.885/0001-24;2026-03-31;1;IMOVEL 13;VESPA ÁREA 802 - 494
 52.321.885/0001-24;2026-03-31;1;IMOVEL 14;Vespasiano - 640
+52.321.885/0001-24;2026-06-30;1;IMÓVEL 1;FAZENDA DA CACHOEIRINHA - ESMERALDAS/MG
+52.321.885/0001-24;2026-06-30;1;IMÓVEL 2;FAZENDA COROA GRANDE - PARÁ DE MINAS/MG
+52.321.885/0001-24;2026-06-30;1;IMOVEL 3;AV. OLYNTHO ALMADA, SN - ASTOLFO DUTRA/MG
+52.321.885/0001-24;2026-06-30;1;IMÓVEL 4;PRAÇA ATÍLIO BONFANTE, N117 - ASTOLFO DUTRA/MG
+52.321.885/0001-24;2026-06-30;1;IMÓVEL 5;FAZENDA DAS TABOCAS - AREA REMANESCENTE
+52.321.885/0001-24;2026-06-30;1;IMOVEL 6;AVENIDA PREFEITO TELÉSFORO CANDIDO DE REZENDE, 142 - AVENIDA TOWER CENTER
+52.321.885/0001-24;2026-06-30;1;IMÓVEL 7;AVENIDA PREFEITO TELÉSFORO CANDIDO DE REZENDE, 142 - AVENIDA TOWER CENTER
+52.321.885/0001-24;2026-06-30;1;IMÓVEL 8;AVENIDA COMENDADOR JACINTO SOARES DE SOUZA LIMA
+52.321.885/0001-24;2026-06-30;1;IMOVEL 9;RUA ANTONIO CIMINI, 84
+52.321.885/0001-24;2026-06-30;1;IMÓVEL 10;SÍTIO BOA VISTA - GUARANI/MG
+52.321.885/0001-24;2026-06-30;1;IMÓVEL 11;BRASILIA 664, 802, 306
+52.321.885/0001-24;2026-06-30;1;IMOVEL 12;Estada Fazenda Tabocas, s/N
+52.321.885/0001-24;2026-06-30;1;IMOVEL 13;VESPA ÁREA 802 - 494
+52.321.885/0001-24;2026-06-30;1;IMOVEL 14;Vespasiano - 640
 52.353.292/0001-40;2026-03-31;1;Shopping Patio Maceio;Não possui caracteristicas que destoem dos demais
-52.353.292/0001-40;2026-06-30;1;Shopping Pátio Maceió;Reajuste anual por indexador de inflação (IGP-M ou IPC-A), aviso prévio e multa proporcional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
+52.353.292/0001-40;2026-06-30;2;Shopping Pátio Maceió;Reajuste anual por indexador de inflação (IGP-M ou IPC-A), aviso prévio e multa proporcional ao período de cumprimento do contrato, direito de preferência e multa caso haja descumprimento do contrato.
 52.355.865/0001-74;2026-06-30;1;Não se aplica;
 52.356.865/0001-99;2026-03-31;1;IMÓVEL JARAGUÁ DO SUL;Imovel adquirido via arrematação por venda direta
 52.356.865/0001-99;2026-06-30;1;IMÓVEL JARAGUÁ DO SUL;Imovel adquirido via arrematação por venda direta
@@ -3434,6 +3522,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 55.969.466/0001-91;2026-06-30;1;-;-
 55.985.307/0001-80;2026-03-31;1;sem informação apresentada;sem informação apresentada
 55.985.307/0001-80;2026-06-30;1;sem informação apresentada;sem informação apresentada
+56.028.598/0001-81;2026-06-30;1;SHOPPING ALEGRIA;Avenida Duque de Caxias 2225, Várzea Paulista/SP
 56.073.063/0001-22;2026-03-31;2;-;-
 56.073.063/0001-22;2026-06-30;1;.;.
 56.303.820/0001-07;2026-03-31;1;ILHEUS;Sem informação apresentada
@@ -3482,21 +3571,21 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 57.216.258/0001-47;2026-06-30;1;Edifício Adalmiro Dellape Baptista B32;N/A
 57.231.494/0001-32;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 57.231.494/0001-32;2026-06-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
-57.300.503/0001-08;2026-03-31;1;ATC ANALOPIS;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC ARARAQUA;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC ATIBAIA;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC BARRETOS;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC BOA VSTA;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC CARAG;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC CP GRAND;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC CUIABA;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC FORT;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC GARCAS;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC MARINGA;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC PRES PRD;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC RIO VERD;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC STA BARB;Sem informação apresentada
-57.300.503/0001-08;2026-03-31;1;ATC TRES LAG;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC ANALOPIS;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC ARARAQUA;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC ATIBAIA;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC BARRETOS;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC BOA VSTA;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC CARAG;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC CP GRAND;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC CUIABA;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC FORT;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC GARCAS;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC MARINGA;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC PRES PRD;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC RIO VERD;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC STA BARB;Sem informação apresentada
+57.300.503/0001-08;2026-03-31;2;ATC TRES LAG;Sem informação apresentada
 57.300.503/0001-08;2026-06-30;1;ATC ANALOPIS;Sem informação apresentada
 57.300.503/0001-08;2026-06-30;1;ATC ARARAQUA;Sem informação apresentada
 57.300.503/0001-08;2026-06-30;1;ATC ATIBAIA;Sem informação apresentada
@@ -3831,6 +3920,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 62.173.370/0001-88;2026-03-31;1;N/A;N/A
 62.173.370/0001-88;2026-06-30;1;N/A;N/A
 62.203.816/0001-70;2026-03-31;1;Não possui informação apresentada.;Não possui informação apresentada.
+62.203.816/0001-70;2026-06-30;1;Não possui informação apresentada.;Não possui informação apresentada.
 62.293.353/0001-84;2026-03-31;1;Informação não apresentada;Informação não apresentada
 62.293.353/0001-84;2026-06-30;1;Informação não apresentada;Informação não apresentada
 62.305.611/0001-03;2026-03-31;1;Imoveis Pesa;Não possui caracteristicas que destoem dos demais
@@ -3901,7 +3991,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 63.700.460/0001-42;2026-06-30;1;Tanhaçu I;Não possui caracteristicas que destoem dos demais
 63.759.978/0001-51;2026-06-30;1;Informação não apresentada.;
 63.779.981/0001-37;2026-03-31;1;FAZENDA;COMPRA PARA RENDA SEM PERSPECTIVA DE VENDA FUTURA
-63.787.107/0001-41;2026-06-30;1;na;na
+63.787.107/0001-41;2026-06-30;2;na;na
 63.787.595/0001-97;2026-03-31;1;M WERN 621;contrato atípico de locação firmados, com prazo inicial de 15 (quinze) anos.
 63.787.595/0001-97;2026-06-30;1;M WERN 621;contrato atípico de locação firmados, com prazo inicial de 15 (quinze) anos.
 63.787.833/0001-64;2026-03-31;1;nda;nda
@@ -3928,9 +4018,9 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 63.933.215/0001-85;2026-06-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 63.941.672/0001-11;2026-06-30;1;Edifício Cidade Jardim;N/A
 64.144.327/0001-10;2026-03-31;1;ND;
-64.144.327/0001-10;2026-06-30;1;ND;ND
+64.144.327/0001-10;2026-06-30;2;ND;ND
 64.145.714/0001-70;2026-03-31;1;ND;ND
-64.145.714/0001-70;2026-06-30;1;ND;ND
+64.145.714/0001-70;2026-06-30;2;ND;ND
 64.145.927/0001-00;2026-06-30;1;Centro Logistico Rio Claro;Não possui caracteristicas que destoem dos demais
 64.156.203/0001-54;2026-03-31;1;na;na
 64.156.203/0001-54;2026-06-30;1;na;na
