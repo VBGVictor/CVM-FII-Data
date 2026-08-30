@@ -2598,8 +2598,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 37.899.356/0001-19;2026-06-30;1;CENU - Torre Oeste;Não possui caracteristicas que destoem dos demais
 37.899.479/0001-50;2026-03-31;2;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 37.899.479/0001-50;2026-06-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
-37.931.298/0001-63;2026-03-31;2;-;-
-37.931.298/0001-63;2026-06-30;1;-;-
+37.931.298/0001-63;2026-03-31;3;-;-
+37.931.298/0001-63;2026-06-30;2;-;-
 37.950.819/0001-20;2026-03-31;1;Complexo Industrial Eurofarma;Não possui caracteristicas que destoem dos demais
 37.950.819/0001-20;2026-06-30;1;Complexo Industrial Eurofarma;Não possui caracteristicas que destoem dos demais
 38.293.862/0001-22;2026-03-31;1;SKY - Tambore;Não possui caracteristicas que destoem dos demais
@@ -3446,66 +3446,66 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 54.675.539/0001-70;2026-06-30;1;FÁBRICA E ESCRITÓRIO;Rodovia do Açúcar SP-308,  Matrícula 120.012
 54.675.539/0001-70;2026-06-30;1;PRÉDIO INDUSTRIAL - 2B;Rodovia SP-308, KM 146, SP 308,  Matrícula 120.275
 54.675.539/0001-70;2026-06-30;1;PRÉDIO INDUSTRIAL - 2A;Rodovia SP-308, KM 146, SP308,  Matrícula 120.274
-55.034.258/0001-09;2026-03-31;1;A.FRANCA 102;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;ATIBAIA 11;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;ATIBAIA 32;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;ATIBAIA 72;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;B. VIANA 142;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;BRASILINTER;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;BRASILINTERP;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;C. DAZUR 123;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;COMODORO 52;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;COMODORO 53;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;ELIANE 72;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;FLORIDA 206;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;G. SILVA 11;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;ITAPOA 83;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;MACHESTE 121;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;MACHESTE 131;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;MARIBRAS 44;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;MERCURIO 71;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;OLGA 201;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;PAULA 22;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;PINHEIROS 2;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;R. DOURO 401;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;R. MARIE 12;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;RINCAO 51;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;ROSALIA 12;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;S. ROSA 62;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;S.DUMONT 121;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;SAO GABRIEL;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;TUIUTI 604;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-03-31;1;TURANDOT 610;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;A.FRANCA 102;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;ATIBAIA 11;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;ATIBAIA 32;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;ATIBAIA 72;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;B. VIANA 142;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;BRASILINTER;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;BRASILINTERP;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;C. DAZUR 123;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;COMODORO 52;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;COMODORO 53;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;ELIANE 72;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;FLORIDA 206;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;G. SILVA 11;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;ITAPOA 83;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;MACHESTE 121;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;MACHESTE 131;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;MARIBRAS 44;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;MERCURIO 71;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;OLGA 201;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;PAULA 22;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;PINHEIROS 2;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;R. DOURO 401;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;R. MARIE 12;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;RINCAO 51;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;ROSALIA 12;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;S. ROSA 62;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;S.DUMONT 121;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;SAO GABRIEL;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;TUIUTI 604;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
-55.034.258/0001-09;2026-06-30;1;TURANDOT 610;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;A.FRANCA 102;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;ATIBAIA 11;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;ATIBAIA 32;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;ATIBAIA 72;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;B. VIANA 142;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;BRASILINTER;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;BRASILINTERP;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;C. DAZUR 123;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;COMODORO 52;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;COMODORO 53;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;ELIANE 72;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;FLORIDA 206;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;G. SILVA 11;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;ITAPOA 83;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;MACHESTE 121;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;MACHESTE 131;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;MARIBRAS 44;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;MERCURIO 71;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;OLGA 201;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;PAULA 22;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;PINHEIROS 2;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;R. DOURO 401;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;R. MARIE 12;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;RINCAO 51;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;ROSALIA 12;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;S. ROSA 62;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;S.DUMONT 121;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;SAO GABRIEL;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;TUIUTI 604;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-03-31;2;TURANDOT 610;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;A.FRANCA 102;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;ATIBAIA 11;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;ATIBAIA 32;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;ATIBAIA 72;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;B. VIANA 142;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;BRASILINTER;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;BRASILINTERP;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;C. DAZUR 123;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;COMODORO 52;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;COMODORO 53;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;ELIANE 72;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;FLORIDA 206;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;G. SILVA 11;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;ITAPOA 83;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;MACHESTE 121;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;MACHESTE 131;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;MARIBRAS 44;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;MERCURIO 71;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;OLGA 201;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;PAULA 22;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;PINHEIROS 2;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;R. DOURO 401;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;R. MARIE 12;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;RINCAO 51;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;ROSALIA 12;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;S. ROSA 62;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;S.DUMONT 121;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;SAO GABRIEL;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;TUIUTI 604;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
+55.034.258/0001-09;2026-06-30;2;TURANDOT 610;Os contratos seguem padrão previamente estabelecido, conhecido pelo locador e pelo locatário.
 55.177.440/0001-00;2026-03-31;1;Não se aplica;Não se aplica
 55.177.440/0001-00;2026-06-30;1;Não se aplica;Não se aplica
 55.314.271/0001-03;2026-03-31;1;Imovel Santo Andre - Hospital Next;Não possui caracteristicas que destoem dos demais
@@ -3744,7 +3744,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 58.410.974/0001-23;2026-06-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 58.495.684/0001-20;2026-03-31;1;-;-
 58.496.557/0001-45;2026-03-31;1;Não se aplica;
-58.496.557/0001-45;2026-06-30;1;Não se aplica;
+58.496.557/0001-45;2026-06-30;2;Não se aplica;
 58.523.596/0001-94;2026-06-30;1;Edifício The Spot One;Balneário Camboriú - SC
 58.548.730/0001-01;2026-03-31;1;Não possui informação apresentada;Não possui informação apresentada
 58.548.730/0001-01;2026-06-30;1;Não possui informação apresentada;Não possui informação apresentada
@@ -3966,7 +3966,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 63.279.539/0001-41;2026-03-31;1;-;-
 63.279.539/0001-41;2026-06-30;1;-;-
 63.286.011/0001-08;2026-03-31;1;LOPEI 11 PERÍMETRO;Não há
-63.286.011/0001-08;2026-06-30;1;LOPEI 11 PERÍMETRO;Não há
+63.286.011/0001-08;2026-06-30;2;LOPEI 11 PERÍMETRO;Não há
 63.327.294/0001-80;2026-03-31;1;Condomínio Basílio, 177 - Ramal;Até 31 de dezembro de 2026 não será devido o Valor Mínimo da Locação a título de carência concedida pela Locadora à Locatária.
 63.327.294/0001-80;2026-06-30;1;nda;nda
 63.360.692/0001-07;2026-03-30;1;-;-
