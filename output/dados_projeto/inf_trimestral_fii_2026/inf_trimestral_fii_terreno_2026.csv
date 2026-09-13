@@ -465,7 +465,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 35.360.651/0001-77;2026-06-30;1;R. Paul Redfern, 41 - Ipanema, Rio de Janeiro - RJ, 22410-080 / R. Prudente de Morais, 1838 - Ipanema, Rio de Janeiro - RJ, 22420-042;PAUL REDFERN, 41 e PRUDENTE DE MORAIS 1838;0;0.2861;0.315439
 35.360.651/0001-77;2026-06-30;1;R. Redentor, 14 - Ipanema, Rio de Janeiro - RJ, 22421-030;REDENTOR, 14;0;0.20985;0.23137
 35.725.659/0001-90;2026-03-31;1;SERVIDAO PMG 903;Matrícula 14.111;2451.35;1;0
-35.725.659/0001-90;2026-06-30;1;SERVIDAO PMG 903;Matrícula 14.111;2451.35;1;0
+35.725.659/0001-90;2026-06-30;2;SERVIDAO PMG 903;Matrícula 14.111;2451.35;1;0
 36.258.924/0001-30;2026-03-31;1;IMOVEL -TERRENO BELEM;TERRENO BELEM;1000;0.0856;1
 36.312.025/0001-78;2026-03-31;1;Rua Américo Lobo, Quadra E, Lote 28, município de Juiz de Fora, estado de Minas Gerais;Matrícula 4359;373.75;0;0
 36.312.025/0001-78;2026-06-30;1;Rua Américo Lobo, Quadra E, Lote 28, município de Juiz de Fora, estado de Minas Gerais;Matrícula 4359;373.75;0.0042;0
@@ -924,7 +924,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 62.935.643/0001-84;2026-06-30;1;Av. Rebouças, 2.366 e 2.360 - São Paulo;Matrículas 91.780 e 98.876;1458.1;0.144361411808006;0
 63.105.082/0001-59;2026-03-31;1;Rua das Acácias, N.º 381, Bairro Vale do Sereno, Nova Lima, Minas Gerais, CEP: 34006-003.;Fração Ideal de 65,547% do imóvel objeto da matrícula N.º 47.231, do Registro de Imóveis da Comarca de Nova Lima, Estado de Minas Gerais.;11580;1;0
 63.105.082/0001-59;2026-06-30;1;Rua das Acácias, N.º 381, Bairro Vale do Sereno, Nova Lima, Minas Gerais, CEP: 34006-003.;Fração Ideal de 65,547% do imóvel objeto da matrícula N.º 47.231, do Registro de Imóveis da Comarca de Nova Lima, Estado de Minas Gerais.;11580;1;0
-63.168.672/0001-20;2026-03-31;1;Rua Albertina Moreira Rocha, n° 321;Quadra Q, Lote 08-U Jardim Residencial Helvetia Park I;49823.226;1;0.9
+63.168.672/0001-20;2026-03-31;2;Rua Albertina Moreira Rocha, n° 321;Quadra Q, Lote 08-U Jardim Residencial Helvetia Park I;49823.226;1;0.9
 63.375.304/0001-53;2026-03-31;1;Rua Tocantins, área 4, bairro BoaVista, na cidade de São Gonçalo, estado do Rio de Janeiro;Imóvel Adjacente  A do Shopping São Gonçalo;922.3;0.0015;0
 63.375.304/0001-53;2026-03-31;1;Rua Tocantins, área 5, bairro Boa Vista, na cidade de São Gonçalo, estado do Rio de Janeiro;Imóvel Adjacente  B do Shopping São Gonçalo;3820.3;0.0062;0
 63.375.304/0001-53;2026-03-31;1;Avenida Frederico Marques, bairro Boa Vista, na cidade de São Gonçalo, estado do Rio de Janeiro, CEP: 24446-240;Imóvel Adjacente C do Shopping São Gonçalo;2210.25;0.0163;0
