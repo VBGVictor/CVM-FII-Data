@@ -316,8 +316,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 26.269.251/0001-60;2026-06-30;1;Av. José Biscio n° 53, Guariba - SP;Loteamento Industrial denominado "Parque Industrial Gov. Mario Covas", Formato irregular, Lotes n° 86,87,88,89,90 e 91.;8742.37;1;1
 26.452.053/0001-37;2026-03-31;1;Avenida Inocêncio Seráfico, 3444, Vila Dirce, Município de Carapicuíba, Estado de São Paulo.;Terreno;2220;0;0
 26.452.053/0001-37;2026-03-31;1;rua Vilaça, 186, Centro, São josé dos Campos, SP;Terreno;800;0;0
-26.614.291/0001-00;2026-03-31;1;CONDOMÍNIO CABREÚVA Jacaré, Cabreúva Avenida Adolpho Joao Traldi, Jacaré, Cabreúva;TER CABREUVA;0;0;0
-26.614.291/0001-00;2026-06-30;1;CONDOMÍNIO CABREÚVA Jacaré, Cabreúva Avenida Adolpho Joao Traldi, Jacaré, Cabreúva;TER CABREUVA;0;0;0
+26.614.291/0001-00;2026-03-31;2;CONDOMÍNIO CABREÚVA Jacaré, Cabreúva Avenida Adolpho Joao Traldi, Jacaré, Cabreúva;TER CABREUVA;0;0;0
+26.614.291/0001-00;2026-06-30;2;CONDOMÍNIO CABREÚVA Jacaré, Cabreúva Avenida Adolpho Joao Traldi, Jacaré, Cabreúva;TER CABREUVA;0;0;0
 27.368.617/0001-10;2026-03-31;1;Coordenadas UTM N=7.803.827,02 - E=598.794,65, localizado junto à margem esquerda da Av. das Comtendas, CEP 32184-010 - Contagem-MG;Matrícula nº 155.707. Fazendo Boa Vista. Fundo é proprietário de 100% do terreno, sem ônus.;210442.43;0.995217;0
 27.368.617/0001-10;2026-03-31;1;Parque Nacional da Serra do Gandarela - Reserva Ambiental. N/A, CEP 35450-000 - Itabirito - MG.;Matrícula nº 30.803;31059;0.004783;0
 27.368.617/0001-10;2026-06-30;1;Coordenadas UTM N=7.803.827,02 - E=598.794,65, localizado junto à margem esquerda da Av. das Comtendas, CEP 32184-010 - Contagem-MG;Matrícula nº 155.707. Fazendo Boa Vista. Fundo é proprietário de 100% do terreno, sem ônus.;210442.43;0.995217;0
@@ -381,6 +381,35 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Endereco;Outras_Caracteristicas_Relevan
 30.492.505/0001-81;2026-06-30;1;Avenida Venezuela Nº 53;Avenida Venezuela, Nº 53, objeto da matrícula 192.202 do 4º Ofício de Registro de Imóveis do Rio de Janeiro.;1032.32;0.003644;0
 30.629.603/0001-18;2026-03-31;1;Estrada Do Rio Pequeno, S/n, Sem Complemento, Loteamento Fazenda Rio Pequeno, Santo Andre/SP, Brasil, 09161-100;Direito de propriedade;16150;1;1
 30.629.603/0001-18;2026-06-30;1;Estrada Do Rio Pequeno, S/n, Sem Complemento, Loteamento Fazenda Rio Pequeno, Santo Andre/SP, Brasil, 09161-100;Direito de Propriedade;16150;1;0
+30.642.032/0001-51;2026-03-31;1;Anel Viário Sto. Oeste - Taiaman, Uberlândia - MG;FAZENDA BOM JARDIM - Matrícula 143.795;967900;0.29024;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 01, Quadra 32;Matrícula 33.598;365.04;0.002323;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 02, Quadra 32;Matrícula 33.599;361.27;0.002299;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 03, Quadra 32;Matrícula 33.600;375.16;0.002387;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 04, Quadra 32;Matrícula 33.601;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 05, Quadra 32;Matrícula 33.602;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 06, Quadra 32;Matrícula 33.603;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 07, Quadra 32;Matrícula 33.604;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 08, Quadra 32;Matrícula 33.605;503.47;0.003204;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 09, Quadra 32;Matrícula 33.606;347.93;0.002214;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 10, Quadra 32;Matrícula 33.607;361.56;0.002301;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 11, Quadra 32;Matrícula 33.608;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 12, Quadra 32;Matrícula 33.609;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 13, Quadra 32;Matrícula 33.610;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 14, Quadra 32;Matrícula 33.611;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 15, Quadra 32;Matrícula 33.612;387.58;0.002467;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 17, Quadra 32;Matrícula 33.614;436.94;0.002781;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 01, Quadra 33;Matrícula 33.615;363.86;0.002316;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 02, Quadra 33;Matrícula 33.616;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 03, Quadra 33;Matrícula 33.617;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 04, Quadra 33;Matrícula 33.618;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 05, Quadra 33;Matrícula 33.619;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 06, Quadra 33;Matrícula 33.620;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 11, Quadra 33;Matrícula 33.625;470.23;0.002993;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 12, Quadra 33;Matrícula 33.626;385.44;0.002453;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 13, Quadra 33;Matrícula 33.627;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 15, Quadra 33;Matrícula 33.629;360;0.002291;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 17, Quadra 33;Matrícula 33.531;362.16;0.002305;
+30.642.032/0001-51;2026-03-31;1;Av. Advogado Expedito Gabrich, Novo Centro, Santa Luzia - MG, Lote 18, Quadra 33;Matrícula 33.532;362.24;0.002305;
 30.846.692/0001-54;2026-03-31;1;AV JOSÉ BENTO RIBEIRO DANTAS,LT.3;N/A;390;0.096;0
 30.846.692/0001-54;2026-03-31;1;AV JOSÉ BENTO RIBEIRO DANTAS,LT.4;N/A;390;0.0043;0
 30.846.692/0001-54;2026-03-31;1;AV. MARECHAL HENRIQUE LOTT - BARRA DA TIJUCA - RJ;N/A;2762.71;0.0075;0

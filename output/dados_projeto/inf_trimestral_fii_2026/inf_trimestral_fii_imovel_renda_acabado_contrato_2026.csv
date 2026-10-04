@@ -857,8 +857,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 15.576.907/0001-70;2026-03-31;1;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro, Cogna, etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
 15.576.907/0001-70;2026-06-30;1;Os imóveis são locados para diversos locatários, incluindo a Caixa Econômica Federal, Banco Santander, Centauro, Cogna, etc, por meio de contratos de locação tipicos e atípicos.;Contratos tipicos e atipicos com prazos variáveis e multa rescisória equivalente ao decorrer do contrato. Demais cláusulas são confidenciais.
 15.798.220/0001-80;2026-06-30;1;Frigorífico Monte Verde;Planta Frigorífica - Matrícula 1345
-15.799.397/0001-09;2026-03-31;3;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
-15.799.397/0001-09;2026-06-30;1;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
+15.799.397/0001-09;2026-03-31;4;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
+15.799.397/0001-09;2026-06-30;2;CEO Corporate Executive Offices;Não possui caracteristicas que destoem dos demais
 16.671.412/0001-93;2026-03-31;1;One Park;Os contratos são típicos de 5 anos, atualizados anualmente pela variação positiva do IGP-M.
 16.671.412/0001-93;2026-03-31;1;Galpão Guarulhos;Contratos típicos e atípicos (Correção IPCA).
 16.671.412/0001-93;2026-03-31;1;Galpão Contagem;Contrato atípico, corrigido por IPCA.
@@ -1675,8 +1675,8 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 26.545.627/0001-11;2026-06-30;1;TER VITÓRIA SANTO ANTÃO;Item acima
 26.545.627/0001-11;2026-06-30;1;ED_ARARAS;Item acima
 26.545.627/0001-11;2026-06-30;1;13;
-26.614.291/0001-00;2026-03-31;1;Informação não apresentada;Informação não apresentada
-26.614.291/0001-00;2026-06-30;1;Informação não apresentada;Informação não apresentada
+26.614.291/0001-00;2026-03-31;2;Informação não apresentada;Informação não apresentada
+26.614.291/0001-00;2026-06-30;2;Informação não apresentada;Informação não apresentada
 26.642.727/0001-66;2026-03-31;1;Shopping Estacao Curitiba;Não possui caracteristicas que destoem dos demais
 26.642.727/0001-66;2026-03-31;1;Shopping Ventura;Não possui caracteristicas que destoem dos demais
 26.642.727/0001-66;2026-06-30;1;Shopping Estacao Curitiba;Não possui caracteristicas que destoem dos demais
@@ -2081,6 +2081,7 @@ CNPJ_Fundo_Classe;Data_Referencia;Versao;Nome_Endereco_Imovel;Caracteristicas_Co
 30.629.603/0001-18;2026-06-30;1;Galpao Betim;Não possui caracteristicas que destoem dos demais
 30.629.603/0001-18;2026-06-30;1;Galpao 300 - Cajamar;Não possui caracteristicas que destoem dos demais
 30.629.603/0001-18;2026-06-30;1;VBI Log Extrema - Galpao G20A;Não possui caracteristicas que destoem dos demais
+30.642.032/0001-51;2026-03-31;1;Não possui informação apresentada.;Não possui informação apresentada.
 30.642.032/0001-51;2026-06-30;1;Não possui informação apresentada.;Não possui informação apresentada.
 30.647.758/0001-87;2026-03-31;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
 30.647.758/0001-87;2026-06-30;1;VM CONNECTION - 94;Não possui caracteristicas que destoem dos demais
